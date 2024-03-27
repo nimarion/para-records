@@ -52,7 +52,17 @@ if __name__ == '__main__':
     split_rows = []
     for index, row in df.iterrows():
         class_value = row['Class']
-        if '/' in class_value:
+        if '-' in class_value:
+            classes = class_value.split('-')
+            type = class_value[0]
+            classes = ["".join(filter(str.isdigit, c)) for c in classes]
+            start = int(classes[0])
+            end = int(classes[1])
+            for i in range(start, end + 1):
+                new_row = row.copy()
+                new_row['Class'] = type + str(i)
+                split_rows.append(new_row)
+        elif '/' in class_value:
             type = class_value[0]
             classes = class_value.split('/')
             for new_class in classes:
@@ -98,6 +108,9 @@ if __name__ == '__main__':
         mapping.columns = ["NPC", "AreaId"]
         df = pd.merge(df, mapping, on="NPC", how="left")
         df = df.rename(columns={"AreaId": "Typ"})
+        # NPC RPA  -> Neutral Paralympic Athlete,Russia Paralympic Committee
+        df["Typ"] = df["Typ"].fillna(0)
+    
 
     df["Umgebung"] = "Outdoor"
 
@@ -110,6 +123,8 @@ if __name__ == '__main__':
     columns_to_drop = set(df.columns) - set(desired_order)
     df = df.drop(columns=columns_to_drop, errors="ignore")
     df = df.reindex(columns=desired_order)
+
+    df = df.drop_duplicates()
 
     df.to_csv(args.output, index=False, sep=";")
 
