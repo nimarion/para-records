@@ -93,7 +93,7 @@ if __name__ == '__main__':
     df = df.drop(columns=["Country"], errors="ignore")
     df = df.rename(columns={"countryCode": "RNAT"})
 
-    if args.code and args.code == "AL":
+    if args.code and (args.code == "AL" or args.code == "AR"):
         mapping = areaMapping[["Country", "AreaId"]]
         mapping.columns = ["NPC", "AreaId"]
         df = pd.merge(df, mapping, on="NPC", how="left")
