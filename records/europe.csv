@@ -1,0 +1,459 @@
+Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Geschlecht;Umgebung
+EUR;;MT11;100;0:10.82;1.2;Ghavelas;Athanasios;GRE;1999;JPN;Tokyo;2021-09-02;Male;Outdoor
+EUR;;MT12;100;0:10.43;0.2;Kashafali;Salum Ageze;NOR;1993;JPN;Tokyo;2021-08-29;Male;Outdoor
+EUR;;MT13;100;0:10.37;0.8;Kashafali;Salum Ageze;NOR;1993;NOR;Oslo;2023-06-15;Male;Outdoor
+EUR;;MT32;100;0:23.25;0.0;Mcdonagh;Martin;IRL;1976;GBR;Nottingham;1999-08-13;Male;Outdoor
+EUR;;MT33;100;0:16.98;1.6;Small;Andrew;GBR;1993;SUI;Arbon;2019-06-01;Male;Outdoor
+EUR;;MT34;100;0:15.25;0.7;Boardman;Craig;GBR;1999;SUI;Nottwil;2017-08-05;Male;Outdoor
+EUR;;MT35;100;0:11.39;0.0;Safronov;Dmitrii;RPC;1995;JPN;Tokyo;2021-08-30;Male;Outdoor
+EUR;;MT36;100;0:11.90;-0.5;Shvetsov;Evgenii;RUS;1988;FRA;Lyon;2013-07-22;Male;Outdoor
+EUR;;MT37;100;0:11.18;0.3;Vdovin;Andrei;RPC;1994;JPN;Tokyo;2021-08-27;Male;Outdoor
+EUR;;MT38;100;0:10.94;0.0;Young;Thomas;GBR;2000;JPN;Tokyo;2021-08-28;Male;Outdoor
+EUR;;MT42;100;0:12.04;-0.5;Prokhorov;Anton;RPC;1992;JPN;Tokyo;2021-08-30;Male;Outdoor
+EUR;;MT44;100;0:11.85;0.6;Malutedi;Tom;GER;1996;GER;Leverkusen;2019-06-21;Male;Outdoor
+EUR;;MT45;100;0:11.46;0.7;Powell;Kyle;GBR;1996;GBR;Aylesbury;2014-08-07;Male;Outdoor
+EUR;;MT46;100;0:10.61;0.3;Derus;Michal;POL;1990;JPN;Tokyo;2021-08-27;Male;Outdoor
+EUR;;MT47;100;0:10.61;0.3;Derus;Michal;POL;1990;JPN;Tokyo;2021-08-27;Male;Outdoor
+EUR;;MT51;100;0:19.32;1.2;Habsch;Roger;BEL;1979;SUI;Arbon;2023-05-18;Male;Outdoor
+EUR;;MT52;100;0:16.53;1.9;Carabin;Maxime;BEL;2000;BEL;Gentbrugge;2022-06-26;Male;Outdoor
+EUR;;MT53;100;0:14.47;0.5;Bushell;Mickey;GBR;1990;SUI;Arbon;2010-06-24;Male;Outdoor
+EUR;;MT54;100;0:13.63;1.0;Tahti;Leo-Pekka;FIN;1983;GBR;London;2012-09-01;Male;Outdoor
+EUR;;MT61;100;0:12.73;0.9;Lacin;Ali;GER;1988;GER;Berlin;2020-07-03;Male;Outdoor
+EUR;;MT62;100;0:10.54;1.6;Floors;Johannes;GER;1995;UAE;Dubai;2019-11-10;Male;Outdoor
+EUR;;MT63;100;0:12.03;0.6;de Jong;Joel;NED;2002;SUI;Nottwil;2023-05-26;Male;Outdoor
+EUR;;MT64;100;0:10.64;-0.2;Manu;Maxcel Amo;ITA;1992;FRA;Paris;2023-07-11;Male;Outdoor
+EUR;;MT71;100;0:28.79;0.5;Hayer;Muninder;GBR;1995;GBR;Warwickshire;2023-04-15;Male;Outdoor
+EUR;;MT72;100;0:16.66;1.5;Drysdale;Gavin;GBR;2000;FRA;Paris;2023-07-09;Male;Outdoor
+EUR;;MT11;200;0:22.79;-0.7;Ghavelas;Athanasios;GRE;1999;GRE;Heraklion Crete;2022-05-22;Male;Outdoor
+EUR;;MT11;200;0:22.79;-0.7;Ghavelas;Athanasios;GRE;1999;GRE;Heraklion Crete;2022-05-22;Male;Outdoor
+EUR;;MT12;200;0:21.56;1.0;Michalski;Mateusz;POL;1987;GBR;London;2012-09-08;Male;Outdoor
+EUR;;MT13;200;0:21.05;1.7;Smyth;Jason;IRL;1987;FRA;Lyon;2013-07-21;Male;Outdoor
+EUR;;MT32;200;0:46.81;0.0;Mcdonagh;Martin;IRL;1976;GBR;Nottingham;2001-07-28;Male;Outdoor
+EUR;;MT33;200;0:30.27;0.2;Gold;Toby;GBR;1994;SUI;Arbon;2017-05-25;Male;Outdoor
+EUR;;MT34;200;0:27.16;0.8;Manni;Henry;FIN;1992;SUI;Arbon;2015-06-07;Male;Outdoor
+EUR;;MT35;200;0:23.00;0.3;Safronov;Dmitrii;RPC;1995;JPN;Tokyo;2021-09-04;Male;Outdoor
+EUR;;MT36;200;0:24.29;0.6;Shvetsov;Evgenii;RUS;1988;QAT;Doha;2015-10-31;Male;Outdoor
+EUR;;MT37;200;0:22.24;1.0;Vdovin;Andrei;RPC;1994;JPN;Tokyo;2021-09-04;Male;Outdoor
+EUR;;MT38;200;0:22.86;1.1;Jozwicki;Dimitri;FRA;1997;BEL;Ninove;2023-07-22;Male;Outdoor
+EUR;;MT43;200;0:39.51;1.0;Stamatiadis;Achileas;GRE;1992;GRE;Thessaloniki;2021-07-10;Male;Outdoor
+EUR;;MT43;200;0:39.51;1.0;Stamatiadis;Achileas;GRE;1992;GRE;Thessaloniki;2021-07-10;Male;Outdoor
+EUR;;MT45;200;0:23.58;-0.6;Powell;Kyle;GBR;1996;GBR;Aylesbury;2014-08-05;Male;Outdoor
+EUR;;MT46;200;0:21.95;0.2;Derus;Michal;POL;1990;FRA;Lyon;2013-07-22;Male;Outdoor
+EUR;;MT47;200;0:21.95;0.2;Derus;Michal;POL;1990;FRA;Lyon;2013-07-22;Male;Outdoor
+EUR;;MT51;200;0:36.35;0.7;Piispanen;Toni;FIN;1976;FIN;Jyväskylä;2021-08-08;Male;Outdoor
+EUR;;MT52;200;0:29.88;1.3;Carabin;Maxime;BEL;2000;BEL;Ninove;2022-07-16;Male;Outdoor
+EUR;;MT53;200;0:25.84;0.0;Fairbank;Pierre;FRA;1971;SUI;Arbon;2017-05-28;Male;Outdoor
+EUR;;MT54;200;0:24.22;0.1;van Weeghel;Kenny;NED;1980;SUI;Nottwil;2014-05-21;Male;Outdoor
+EUR;;MT62;200;0:20.69;-0.6;Floors;Johannes;GER;1995;GER;Regensburg;2022-06-19;Male;Outdoor
+EUR;;MT63;200;0:26.27;1.4;Schaefer;Leon;GER;1997;SUI;Nottwil;2023-05-25;Male;Outdoor
+EUR;;MT64;200;0:21.36;-0.3;Manu;Maxcel Amo;ITA;1992;FRA;Paris;2023-07-17;Male;Outdoor
+EUR;;MT11;400;0:50.22;;Descarrega Puigdevall;Gerard;ESP;1994;BRA;Rio de Janeiro;2016-09-17;Male;Outdoor
+EUR;;MT12;400;0:48.62;;Potra;Gabriel;POR;1980;FRA;Villeneuve d'Ascq;2002-07-25;Male;Outdoor
+EUR;;MT13;400;0:48.37;;Sharov;Egor;RUS;1988;ITA;Grosseto;2016-06-16;Male;Outdoor
+EUR;;MT20;400;0:47.59;;Kouakou;Charles-Antoine;FRA;1998;FRA;Paris;2023-07-15;Male;Outdoor
+EUR;;MT32;400;1:30.82;;Mcdonagh;Martin;IRL;1976;GBR;Nottingham;1999-08-14;Male;Outdoor
+EUR;;MT33;400;1:00.81;;Small;Andrew;GBR;1993;SUI;Arbon;2023-05-20;Male;Outdoor
+EUR;;MT34;400;0:51.38;;Manni;Henry;FIN;1992;SUI;Arbon;2019-06-01;Male;Outdoor
+EUR;;MT35;400;0:56.61;;Safronov;Dmitrii;RUS;1995;SUI;Nottwil;2014-05-18;Male;Outdoor
+EUR;;MT36;400;0:53.18;;Shvetsov;Evgenii;RUS;1988;UAE;Dubai;2019-11-14;Male;Outdoor
+EUR;;MT37;400;0:49.34;;Vdovin;Andrei;RPC;1994;JPN;Tokyo;2021-09-01;Male;Outdoor
+EUR;;MT38;400;0:51.37;;Payton;Stephen;GBR;1977;AUS;Sydney;2000-10-27;Male;Outdoor
+EUR;;MT43;400;1:26.01;;Stamatiadis;Achileas;GRE;1992;GRE;Thessaloniki;2022-07-10;Male;Outdoor
+EUR;;MT43;400;1:26.01;;Stamatiadis;Achileas;GRE;1992;GRE;Thessaloniki;2022-07-10;Male;Outdoor
+EUR;;MT44;400;0:56.56;;di Marino;Emanuele;ITA;;POL;Bydgoszcz;2021-06-05;Male;Outdoor
+EUR;;MT45;400;0:54.79;;Huseni;Timor;GER;1995;GER;Berlin;2015-06-20;Male;Outdoor
+EUR;;MT46;400;0:48.45;;Matzinger;Gunther;AUT;1987;GBR;London;2012-09-04;Male;Outdoor
+EUR;;MT47;400;0:48.45;;Matzinger;Gunther;AUT;1987;GBR;London;2012-09-04;Male;Outdoor
+EUR;;MT51;400;1:17.21;;Genyn;Peter;BEL;1976;SUI;Nottwil;2018-05-27;Male;Outdoor
+EUR;;MT52;400;0:54.19;;Carabin;Maxime;BEL;2000;FRA;Paris;2023-07-13;Male;Outdoor
+EUR;;MT53;400;0:48.53;;Fairbank;Pierre;FRA;1971;FRA;Paris;2023-07-11;Male;Outdoor
+EUR;;MT54;400;0:44.39;;Chiassaro;Richard;GBR;1981;SUI;Nottwil;2018-05-31;Male;Outdoor
+EUR;;MT62;400;0:45.78;;Floors;Johannes;GER;1995;UAE;Dubai;2019-11-15;Male;Outdoor
+EUR;;MT63;400;1:10.67;;Marcantognini;Lorenzo;ITA;2002;ITA;Jesolo;2020-09-12;Male;Outdoor
+EUR;;MT64;400;0:49.66;;Seitis;Michail;GRE;1987;BRA;Rio de Janeiro;2016-09-15;Male;Outdoor
+EUR;;MT72;400;1:26.80;;Lutken;Odd Markus;NOR;1964;GBR;Warwickshire;2023-04-15;Male;Outdoor
+EUR;;MT11;800;1:59.99;;Matthews;Rob;GBR;1961;GER;Unknown;1986-01-01;Male;Outdoor
+EUR;;MT12;800;1:50.02;;Sharov;Egor;RUS;1988;FRA;Lyon;2013-07-22;Male;Outdoor
+EUR;;MT13;800;1:53.16;;Sharov;Egor;RUS;1988;QAT;Doha;2015-10-23;Male;Outdoor
+EUR;;MT20;800;1:49.03;;Dieng;Ndiaga;ITA;1999;ITA;Grosseto;2022-05-22;Male;Outdoor
+EUR;;MT33;800;2:05.51;;Freeman;James;GBR;1996;SUI;Arbon;2023-05-21;Male;Outdoor
+EUR;;MT34;800;1:39.12;;Rowlings;Ben;GBR;1996;SUI;Arbon;2017-05-25;Male;Outdoor
+EUR;;MT35;800;2:29.47;;Sands;James;GBR;;GER;Berlin;1994-07-31;Male;Outdoor
+EUR;;MT36;800;2:05.05;;Shvetsov;Evgenii;RUS;1988;NED;Stadskanaal;2012-06-26;Male;Outdoor
+EUR;;MT37;800;1:57.17;;McKillop;Michael;IRL;1990;FRA;Lyon;2013-07-21;Male;Outdoor
+EUR;;MT38;800;2:01.76;;Malone;Derek;IRL;1980;GRE;Athens;2004-09-20;Male;Outdoor
+EUR;;MT38;800;2:01.76;;Malone;Derek;IRL;1980;GRE;Athens;2004-09-20;Male;Outdoor
+EUR;;MT46;800;1:51.82;;Matzinger;Gunther;AUT;1987;GBR;London;2012-09-08;Male;Outdoor
+EUR;;MT51;800;2:30.98;;Mestre;Helder;POR;1967;UAE;Sharjah;2018-03-18;Male;Outdoor
+EUR;;MT52;800;1:56.26;;Geierspichler;Thomas;AUT;1976;CHN;Beijing;2008-09-16;Male;Outdoor
+EUR;;MT53;800;1:32.36;;Fairbank;Pierre;FRA;1971;SUI;Arbon;2017-05-28;Male;Outdoor
+EUR;;MT54;800;1:27.76;;Hug;Marcel;SUI;1986;SUI;Arbon;2023-05-21;Male;Outdoor
+EUR;;MT64;800;2:14.09;;Stoll;Patrick;SUI;1972;AUS;Sydney;2000-10-26;Male;Outdoor
+EUR;;MT71;800;4:17.85;;Hayer;Muninder;GBR;1995;GBR;Warwickshire;2023-04-16;Male;Outdoor
+EUR;;MT11;1K5;4:05.11;;Matthews;Rob;GBR;1961;GER;Unknown;1989-01-01;Male;Outdoor
+EUR;;MT12;1K5;3:46.97;;Kuliatin;Anton;RUS;1991;POL;Bydgoszcz;2021-06-04;Male;Outdoor
+EUR;;MT13;1K5;3:49.72;;Sharov;Egor;RUS;1988;POL;Bydgoszcz;2021-06-04;Male;Outdoor
+EUR;;MT20;1K5;3:52.42;;Sandilands;Ben;GBR;2003;FRA;Paris;2023-07-17;Male;Outdoor
+EUR;;MT33;1K5;4:36.43;;Schmitz;Denis;GER;1991;SUI;Arbon;2019-06-01;Male;Outdoor
+EUR;;MT34;1K5;3:13.00;;Rowlings;Ben;GBR;1996;SUI;Arbon;2017-05-27;Male;Outdoor
+EUR;;MT35;1K5;4:58.65;;Sands;James;GBR;;GER;Berlin;1994-07-26;Male;Outdoor
+EUR;;MT36;1K5;4:32.89;;Arefyev;Artem;RUS;1984;FRA;Lyon;2013-07-24;Male;Outdoor
+EUR;;MT37;1K5;3:59.54;;McKillop;Michael;IRL;1990;GBR;London;2012-05-08;Male;Outdoor
+EUR;;MT38;1K5;4:01.52;;Hennouni-Bouzidi;Redouane;FRA;1989;UAE;Dubai;2022-03-24;Male;Outdoor
+EUR;;MT44;1K5;8:12.17;;Christodoulis;Nikolaos;GRE;1969;GRE;Athens;2020-08-02;Male;Outdoor
+EUR;;MT44;1K5;8:12.17;;Christodoulis;Nikolaos;GRE;1969;GRE;Athens;2020-08-02;Male;Outdoor
+EUR;;MT45;1K5;4:42.20;;Savinov;Evgeny;RUS;1985;GER;Berlin;2014-06-22;Male;Outdoor
+EUR;;MT46;1K5;3:50.87;;Stoyanov;Hristiyan;BUL;1998;UAE;Dubai;2019-11-07;Male;Outdoor
+EUR;;MT51;1K5;4:53.50;;Mestre;Helder;POR;1967;UAE;Sharjah;2018-03-20;Male;Outdoor
+EUR;;MT52;1K5;3:36.04;;Sanz;Santiago;ESP;1980;USA;Atlanta;2007-06-30;Male;Outdoor
+EUR;;MT53;1K5;2:43.37;;Hug;Marcel;SUI;1986;UAE;Dubai;2023-02-27;Male;Outdoor
+EUR;;MT54;1K5;2:43.37;;Hug;Marcel;SUI;1986;UAE;Dubai;2023-02-27;Male;Outdoor
+EUR;;MT64;1K5;4:39.51;;Mayer;Robert;AUT;1980;AUT;Innsbruck;2003-05-24;Male;Outdoor
+EUR;;MT11;5K0;15:13.10;;Rudakov;Fedor;RUS;1994;RUS;Cheboksary;2023-08-15;Male;Outdoor
+EUR;;MT12;5K0;14:22.93;;Nieves;Gustavo;ESP;1982;GBR;London;2012-09-03;Male;Outdoor
+EUR;;MT13;5K0;14:34.13;;Ouhdadi El Ataby;Yassine;ESP;1994;JPN;Tokyo;2021-08-28;Male;Outdoor
+EUR;;MT20;5K0;14:29.80;;Pereira;Cristiano;POR;1996;GBR;London;2017-07-23;Male;Outdoor
+EUR;;MT34;5K0;12:02.00;;Rowlings;Ben;GBR;1996;SUI;Nottwil;2017-06-05;Male;Outdoor
+EUR;;MT35;5K0;17:42.42;;Sands;James;GBR;;ESP;Barcelona;1992-09-12;Male;Outdoor
+EUR;;MT36;5K0;18:41.28;;Gonzalez;Margaride;ESP;;GBR;Birmingham;1998-08-13;Male;Outdoor
+EUR;;MT37;5K0;16:08.67;;Vienberg;Christoffer;DEN;1994;DEN;Odense;2019-08-30;Male;Outdoor
+EUR;;MT38;5K0;16:27.86;;Hompanera Alvarez;Ivan;ESP;1969;ESP;Basauri;2007-06-24;Male;Outdoor
+EUR;;MT44;5K0;31:23.05;;Christodoulis;Nikolaos;GRE;1969;GRE;Thessaloniki;2021-07-11;Male;Outdoor
+EUR;;MT44;5K0;31:23.05;;Christodoulis;Nikolaos;GRE;1969;GRE;Thessaloniki;2021-07-11;Male;Outdoor
+EUR;;MT46;5K0;14:41.01;;Conde;Jose Javier;ESP;1964;GER;Berlin;1994-07-31;Male;Outdoor
+EUR;;MT51;5K0;18:14.83;;Mestre;Helder;POR;1967;POR;Vila Real de St Antonio;2017-12-05;Male;Outdoor
+EUR;;MT52;5K0;12:37.07;;Sanz;Santiago;ESP;1980;CAN;London;2006-06-06;Male;Outdoor
+EUR;;MT53;5K0;9:15.26;;Hug;Marcel;SUI;1986;SUI;Nottwil;2023-05-26;Male;Outdoor
+EUR;;MT54;5K0;9:15.26;;Hug;Marcel;SUI;1986;SUI;Nottwil;2023-05-26;Male;Outdoor
+EUR;;MT11;10K;33:17.30;;Ferreira;Carlos;POR;1969;GRE;Athens;2004-09-19;Male;Outdoor
+EUR;;MT11;10K;33:17.30;;Ferreira;Carlos;POR;1969;GRE;Athens;2004-09-19;Male;Outdoor
+EUR;;MT12;10K;30:24.88;;Nieves;Gustavo;ESP;1982;ESP;Caceres;2010-07-01;Male;Outdoor
+EUR;;MT13;10K;32:05.17;;Bartkenas;Kestutis;LTU;1967;GRE;Athens;2004-09-20;Male;Outdoor
+EUR;;MT13;10K;32:05.17;;Bartkenas;Kestutis;LTU;1967;GRE;Athens;2004-09-20;Male;Outdoor
+EUR;;MT37;10K;32:49.50;;Vienberg;Christoffer;DEN;1994;DEN;Aalborg;2019-06-22;Male;Outdoor
+EUR;;MT44;10K;1:04:21.86;;Christodoulis;Nikolaos;GRE;1969;GRE;Athens;2020-07-31;Male;Outdoor
+EUR;;MT44;10K;1:04:21.86;;Christodoulis;Nikolaos;GRE;1969;GRE;Athens;2020-07-31;Male;Outdoor
+EUR;;MT46;10K;30:15.35;;Conde;Jose Javier;ESP;1964;ESP;Barcelona;1992-09-07;Male;Outdoor
+EUR;;MT51;10K;35:25.30;;Strobel;Stefan;GER;1977;SUI;Arbon;2019-06-01;Male;Outdoor
+EUR;;MT52;10K;25:59.13;;Geierspichler;Thomas;AUT;1976;SUI;Arbon;2005-06-04;Male;Outdoor
+EUR;;MT53;10K;19:45.05;;Hug;Marcel;SUI;1986;SUI;Arbon;2017-05-27;Male;Outdoor
+EUR;;MT54;10K;19:45.05;;Hug;Marcel;SUI;1986;SUI;Arbon;2017-05-27;Male;Outdoor
+EUR;;MT11;HOC;1.59;;Sacchetto;Italo;ITA;;KOR;Seoul;1988-10-19;Male;Outdoor
+EUR;;MT12;HOC;2.02;;Sivitski;Ruslan;BLR;1973;AUS;Sydney;2000-10-20;Male;Outdoor
+EUR;;MT13;HOC;2.03;;Fartunau;Ihar;BLR;1973;NED;Assen;2003-06-17;Male;Outdoor
+EUR;;MT44;HOC;2.19;;Lepiato;Maciej;POL;1988;BRA;Rio de Janeiro;2016-09-12;Male;Outdoor
+EUR;;MT45;HOC;1.73;;Huseni;Timor;GER;1995;GER;Leverkusen;2016-07-08;Male;Outdoor
+EUR;;MT46;HOC;1.97;;Boetzel;Reinhold;GER;1975;FRA;Villeneuve d'Ascq;2002-07-26;Male;Outdoor
+EUR;;MT47;HOC;1.97;;Boetzel;Reinhold;GER;1975;FRA;Villeneuve d'Ascq;2002-07-26;Male;Outdoor
+EUR;;MT63;HOC;1.82;;Mamczarz;Lukasz;POL;1988;GER;Berlin;2012-06-16;Male;Outdoor
+EUR;;MT64;HOC;1.87;;Buyrukoglu;Tarik Taha;TUR;1998;UAE;Dubai;2021-02-13;Male;Outdoor
+EUR;;MT11;WEI;6.67;-1.3;Rodriguez;Jose;ESP;1966;USA;Atlanta;1996-08-18;Male;Outdoor
+EUR;;MT12;WEI;7.47;0.1;Schroeder;Matthias;GER;1982;GER;Berlin;2009-07-12;Male;Outdoor
+EUR;;MT13;WEI;7.36;1.0;Aslanov;Orkhan;AZE;1995;JPN;Tokyo;2021-09-04;Male;Outdoor
+EUR;;MT20;WEI;7.39;0.9;Oberoi;Ranki;NED;1993;UAE;Dubai;2019-11-13;Male;Outdoor
+EUR;;MT35;WEI;4.32;1.5;Noll;Szilveszter;HUN;2002;ITA;Jesolo;2021-04-16;Male;Outdoor
+EUR;;MT36;WEI;5.97;1.6;Torsunov;Evgenii;RUS;1990;RUS;Cheboksary;2023-08-13;Male;Outdoor
+EUR;;MT37;WEI;6.59;0.5;Zahrebelnyi;Vladyslav;UKR;1991;JPN;Tokyo;2021-09-02;Male;Outdoor
+EUR;;MT38;WEI;6.69;1.4;Khinchagov;Khetag;RUS;1997;RUS;Cheboksary;2023-08-13;Male;Outdoor
+EUR;;MT45;WEI;6;-1.3;Hristov;Mihail;BUL;1991;UAE;Dubai;2014-02-24;Male;Outdoor
+EUR;;MT46;WEI;7.58;0.6;Assoumani;Arnaud;FRA;1985;NZL;Christchurch;2011-01-22;Male;Outdoor
+EUR;;MT47;WEI;7.58;0.6;Assoumani;Arnaud;FRA;1985;NZL;Christchurch;2011-01-22;Male;Outdoor
+EUR;;MT61;WEI;6.7;0.4;Lacin;Ali;GER;1988;JPN;Tokyo;2021-08-28;Male;Outdoor
+EUR;;MT62;WEI;7.23;0.6;Malakopoulos;Stylianos;GRE;1996;GER;Bremen;2023-05-18;Male;Outdoor
+EUR;;MT63;WEI;7.25;-0.1;Schaefer;Leon;GER;1997;FRA;Paris;2023-07-10;Male;Outdoor
+EUR;;MT64;WEI;8.72;1.6;Rehm;Markus;GER;1988;GER;Rhede;2023-06-25;Male;Outdoor
+EUR;;MT11;DRE;13.47;0.4;Rodriguez;Jose;ESP;1966;ESP;Madrid;1998-07-24;Male;Outdoor
+EUR;;MT12;DRE;15.09;0.8;Panyutin;Oleg;AZE;1983;NZL;Christchurch;2011-01-26;Male;Outdoor
+EUR;;MT13;DRE;14.4;-1.1;Fartunau;Ihar;BLR;1973;NED;Assen;2003-06-18;Male;Outdoor
+EUR;;MT20;DRE;14.5;0.4;Prudnikov;Dmytro;UKR;1989;GBR;London;2017-07-18;Male;Outdoor
+EUR;;MT45;DRE;12;0.0;Szlezak;J;POL;;USA;Stoke Mandeville, New York;1984-06-27;Male;Outdoor
+EUR;;MT46;DRE;14.52;1.8;Kostakis;Georgios;GRE;1987;GRE;Thessaloniki;2015-07-08;Male;Outdoor
+EUR;;MT46;DRE;14.52;1.8;Kostakis;Georgios;GRE;1987;GRE;Thessaloniki;2015-07-08;Male;Outdoor
+EUR;;MT47;DRE;14.52;1.8;Kostakis;Georgios;GRE;1987;GRE;Thessaloniki;2015-07-08;Male;Outdoor
+EUR;;MT47;DRE;14.52;1.8;Kostakis;Georgios;GRE;1987;GRE;Thessaloniki;2015-07-08;Male;Outdoor
+EUR;;MF11;KUG;15.26;;Casinos Sierra;David;ESP;1972;AUS;Sydney;2000-10-20;Male;Outdoor
+EUR;;MF12;KUG;17.04;;Lopez Gonzalez;Kim;ESP;1989;JPN;Tokyo;2021-08-28;Male;Outdoor
+EUR;;MF13;KUG;15.87;;Iasynovyi;Oleksandr;UKR;1966;GRE;Athens;2004-09-21;Male;Outdoor
+EUR;;MF13;KUG;15.87;;Iasynovyi;Oleksandr;UKR;1966;GRE;Athens;2004-09-21;Male;Outdoor
+EUR;;MF20;KUG;17.57;;Koval;Maksym;UKR;1996;FRA;Paris;2023-07-13;Male;Outdoor
+EUR;;MF32;KUG;11.65;;Churkin;Aleksei;RUS;1998;RUS;Cheboksary;2023-08-15;Male;Outdoor
+EUR;;MF33;KUG;12.36;;Malykh;Evgenii;RUS;1988;QAT;Doha;2015-10-25;Male;Outdoor
+EUR;;MF34;KUG;11.11;;Paulinski;Tomasz;POL;1989;UAE;Dubai;2019-11-10;Male;Outdoor
+EUR;;MF35;KUG;14.7;;Bergs;Edgars;LAT;1984;JPN;Tokyo;2021-09-02;Male;Outdoor
+EUR;;MF36;KUG;16.79;;Sviridov;Vladimir;RUS;1990;RUS;Cheboksary;2023-08-12;Male;Outdoor
+EUR;;MF37;KUG;16.8;;Bilius;Mindaugas;LTU;1982;BRA;Rio de Janeiro;2016-09-14;Male;Outdoor
+EUR;;MF38;KUG;15.27;;Doroshenko;Oleksandr;UKR;1981;UAE;Dubai;2019-11-11;Male;Outdoor
+EUR;;MF40;KUG;11.6;;Monteiro;Miguel;POR;2000;POR;Pombal;2022-02-27;Male;Outdoor
+EUR;;MF41;KUG;14.99;;Kappel;Niko;GER;1995;SUI;Nottwil;2022-05-28;Male;Outdoor
+EUR;;MF42;KUG;17.52;;Davies;Aled;GBR;1991;GBR;London;2017-07-22;Male;Outdoor
+EUR;;MF44;KUG;15.73;;Walsh;Harrison;GBR;1996;ITA;Grosseto;2019-06-09;Male;Outdoor
+EUR;;MF46;KUG;16.29;;Prokhorov;Nikita;RPC;1991;JPN;Tokyo;2021-09-01;Male;Outdoor
+EUR;;MF52;KUG;10.23;;Apinis;Aigars;LAT;1973;FRA;Lyon;2013-07-23;Male;Outdoor
+EUR;;MF53;KUG;8.77;;Astanov;Elvin;AZE;1979;JPN;Tokyo;2021-08-29;Male;Outdoor
+EUR;;MF54;KUG;12.06;;Sokulskii;Sergei;RPC;1985;JPN;Tokyo;2021-08-27;Male;Outdoor
+EUR;;MF55;KUG;12.68;;Ruzhdi;Ruzhdi;BUL;1991;FRA;Paris;2023-07-09;Male;Outdoor
+EUR;;MF56;KUG;13.49;;Musayev;Olokhan;AZE;1979;CHN;Beijing;2008-09-15;Male;Outdoor
+EUR;;MF57;KUG;14.92;;Rokicki;Janusz;POL;1974;QAT;Doha;2015-10-27;Male;Outdoor
+EUR;;MF62;KUG;7.87;;Marchetti;Moreno;ITA;1978;ITA;Jesolo;2022-05-07;Male;Outdoor
+EUR;;MF63;KUG;15.1;;Habscheid;Tom;LUX;1986;UAE;Dubai;2019-11-10;Male;Outdoor
+EUR;;MF64;KUG;18.38;;Christiansen;Jackie;DEN;1977;CZE;Olomouc;2011-08-21;Male;Outdoor
+EUR;;MF11;DIS;46.07;;Tapia;Oney;ITA;1976;GER;Berlin;2018-08-22;Male;Outdoor
+EUR;;MF12;DIS;49.52;;Iasynovyi;Oleksandr;UKR;1966;CHN;Beijing;2008-09-13;Male;Outdoor
+EUR;;MF13;DIS;53.61;;Iasynovyi;Oleksandr;UKR;1966;AUS;Sydney;2000-10-23;Male;Outdoor
+EUR;;MF32;DIS;24.25;;Konstantinidis;Athanasios;GRE;1970;GRE;Thessaloniki;2022-07-10;Male;Outdoor
+EUR;;MF32;DIS;24.25;;Konstantinidis;Athanasios;GRE;1970;GRE;Thessaloniki;2022-07-10;Male;Outdoor
+EUR;;MF33;DIS;30.16;;Glab;Michal;POL;1992;POL;Bydgoszcz;2021-05-14;Male;Outdoor
+EUR;;MF34;DIS;31.47;;Paulinski;Tomasz;POL;1989;POL;Bydgoszcz;2019-07-19;Male;Outdoor
+EUR;;MF35;DIS;49.35;;Bergs;Edgars;LAT;1984;NED;Assen;2006-09-09;Male;Outdoor
+EUR;;MF36;DIS;42.8;;Dietz;Sebastian;GER;1985;UAE;Dubai;2018-03-13;Male;Outdoor
+EUR;;MF37;DIS;55.71;;Zhabnyak;Mykola;UKR;1979;FRA;Lyon;2013-07-21;Male;Outdoor
+EUR;;MF38;DIS;52.02;;Jenkins;Michael;GBR;2004;GBR;Warwickshire;2023-04-15;Male;Outdoor
+EUR;;MF40;DIS;27.87;;Sloup;Matija;CRO;1996;SRB;Krusevac;2019-09-15;Male;Outdoor
+EUR;;MF41;DIS;44.36;;Tyszkowski;Bartosz;POL;1994;GER;Berlin;2015-06-20;Male;Outdoor
+EUR;;MF42;DIS;54.14;;Davies;Aled;GBR;1991;ITA;Grosseto;2016-06-14;Male;Outdoor
+EUR;;MF43;DIS;38.88;;Tynan;Roan;IRL;;KOR;Seoul;1988-10-22;Male;Outdoor
+EUR;;MF44;DIS;63.01;;Greaves;Dan;GBR;1982;GBR;Manchester;2018-07-28;Male;Outdoor
+EUR;;MF46;DIS;51.99;;Kaurin;Erik Fabian;CRO;2000;CRO;PULA;2023-04-22;Male;Outdoor
+EUR;;MF51;DIS;12.47;;Hryb;Uladzislau;BLR;1997;RUS;Cheboksary;2023-08-13;Male;Outdoor
+EUR;;MF52;DIS;21.95;;Apinis;Aigars;LAT;1973;GBR;London;2017-07-18;Male;Outdoor
+EUR;;MF53;DIS;26.62;;Jachimowicz;Robert;POL;1967;NED;Assen;2006-09-05;Male;Outdoor
+EUR;;MF54;DIS;33.68;;Mitrovic;Drazenko;SRB;1979;GBR;Swansea;2014-08-20;Male;Outdoor
+EUR;;MF55;DIS;39.84;;Duric;Nebojsa;SRB;1987;GER;Berlin;2018-08-20;Male;Outdoor
+EUR;;MF56;DIS;42.86;;Tzounis;Konstantinos;GRE;1991;JPN;Tokyo;2021-08-30;Male;Outdoor
+EUR;;MF57;DIS;46.67;;Nabiyev;Samir;AZE;1986;UAE;Dubai;2017-03-23;Male;Outdoor
+EUR;;MF62;DIS;29.79;;Sevdikalis;Ioannis;GRE;1991;GRE;Schimatari - Athens;2023-05-25;Male;Outdoor
+EUR;;MF62;DIS;29.79;;Sevdikalis;Ioannis;GRE;1991;GRE;Schimatari - Athens;2023-05-25;Male;Outdoor
+EUR;;MF64;DIS;62.13;;Katanusic;Ivan;CRO;1991;CRO;Split;2019-05-19;Male;Outdoor
+EUR;;MF11;SPE;53.99;;Marinkovic;Bil;AUT;1973;GER;Leverkusen;2010-06-09;Male;Outdoor
+EUR;;MF12;SPE;64.89;;Cabrera Llacer;Hector;ESP;1994;UAE;Dubai;2019-11-13;Male;Outdoor
+EUR;;MF13;SPE;70.5;;Pembroke;Daniel;GBR;1991;FRA;Paris;2023-07-15;Male;Outdoor
+EUR;;MF33;SPE;26.96;;Scheil;Daniel;GER;1973;GER;Berlin;2015-06-19;Male;Outdoor
+EUR;;MF34;SPE;31.69;;Kaedi;Muhsin;TUR;1987;POL;Bydgoszcz;2021-06-04;Male;Outdoor
+EUR;;MF35;SPE;43.25;;Cibone;Thierry;FRA;1973;AUS;Sydney;2000-10-23;Male;Outdoor
+EUR;;MF36;SPE;43.86;;Piotrowski;Pawel;POL;1985;GBR;Manchester;2011-05-27;Male;Outdoor
+EUR;;MF37;SPE;55.89;;Silovs;Dmitrijs;LAT;1989;GBR;London;2017-07-19;Male;Outdoor
+EUR;;MF38;SPE;55.34;;Bilyi;Vladyslav;UKR;1997;JPN;Tokyo;2021-08-27;Male;Outdoor
+EUR;;MF40;SPE;35.09;;Zonneveld;Take;NED;1997;SUI;Nottwil;2019-05-26;Male;Outdoor
+EUR;;MF41;SPE;40.54;;Mester;Mathias;GER;1986;GBR;London;2017-07-17;Male;Outdoor
+EUR;;MF44;SPE;58.42;;Novak;Roman;UKR;1988;FRA;Paris;2023-07-13;Male;Outdoor
+EUR;;MF46;SPE;53.58;;Schiedeck;Jorg;GER;;USA;Atlanta;1996-08-24;Male;Outdoor
+EUR;;MF52;SPE;17.23;;Plank;Henrik;SLO;1974;NZL;Christchurch;2011-01-29;Male;Outdoor
+EUR;;MF53;SPE;19.14;;Kisy;Ales;CZE;1980;NZL;Christchurch;2011-01-29;Male;Outdoor
+EUR;;MF54;SPE;31.19;;Kuznetsov;Aleksei;RPC;1981;JPN;Tokyo;2021-09-03;Male;Outdoor
+EUR;;MF55;SPE;32.38;;Bradal;Thomas;DEN;1972;CZE;Nove Mesto;2000-08-19;Male;Outdoor
+EUR;;MF56;SPE;42.27;;Gruijters;Pieter;NED;1967;CHN;Beijing;2008-09-09;Male;Outdoor
+EUR;;MF57;SPE;51.42;;Heidari;Hamed;AZE;1991;JPN;Tokyo;2021-08-28;Male;Outdoor
+EUR;;MF63;SPE;59.77;;Sveinsson;Helgi;ISL;1979;ITA;Rieti;2017-05-06;Male;Outdoor
+EUR;;MF64;SPE;42.52;;Stoll;Patrick;SUI;1972;SUI;Nottwil;2021-05-16;Male;Outdoor
+EUR;;MF31;KEU;32.88;;Demin;Evgenii;RUS;1989;RUS;Cheboksary;2023-08-12;Male;Outdoor
+EUR;;MF32;KEU;40.12;;Churkin;Aleksei;RUS;1998;RUS;Cheboksary;2023-08-12;Male;Outdoor
+EUR;;MF51;KEU;36.22;;Taimazov;Musa;RUS;1984;RUS;Cheboksary;2023-08-12;Male;Outdoor
+EUR;;MP11;5-K;2,627;;Sevostianov;Sergey;RUS;1960;AUS;Sydney;2000-10-24;Male;Outdoor
+EUR;;MP12;5-K;3,372;;Pych;Miroslaw;POL;1972;GER;Berlin;1994-07-25;Male;Outdoor
+EUR;;MP13;5-K;3,155;;Kalmykov;Vadim;UKR;1964;RUS;Moscow;1987-09-15;Male;Outdoor
+EUR;;MP38;5-K;1,764;;Vratil;Petr;CZE;1983;USA;New London;2005-07-06;Male;Outdoor
+EUR;;MP42;5-K;5,377;;Mathiasen;Jakob;DEN;1971;AUS;Sydney;2000-10-22;Male;Outdoor
+EUR;;MP44;5-K;4,447;;Kolly;Urs;SUI;1968;GRE;Athens;2004-09-22;Male;Outdoor
+EUR;;MP44;5-K;4,447;;Kolly;Urs;SUI;1968;GRE;Athens;2004-09-22;Male;Outdoor
+EUR;;MP51;5-K;4,330;;Schabel;Richard;GBR;1958;SUI;Delemont;2000-08-20;Male;Outdoor
+EUR;;MP52;5-K;3,998;;D'Agostini;Paolo;ITA;1951;AUS;Sydney;2000-10-27;Male;Outdoor
+EUR;;MP53;5-K;3,998;;D'Agostini;Paolo;ITA;1951;AUS;Sydney;2000-10-27;Male;Outdoor
+EUR;;MP54-58;5-K;5,679;;Gruijters;Pieter;NED;1967;NED;Assen;2006-09-08;Male;Outdoor
+EUR;;WT11;100;0:11.91;0.7;Clegg;Libby;GBR;1990;BRA;Rio de Janeiro;2016-09-09;Female;Outdoor
+EUR;;WT12;100;0:11.79;0.2;Chebanu;Elena;AZE;1981;SUI;Nottwil;2016-05-26;Female;Outdoor
+EUR;;WT13;100;0:11.79;0.5;Adzhametova;Leilia;UKR;1994;BRA;Rio de Janeiro;2016-09-11;Female;Outdoor
+EUR;;WT32;100;0:37.67;0.0;Wright;Lindsay;GBR;;GBR;Nottingham;1997-07-25;Female;Outdoor
+EUR;;WT33;100;0:19.89;0.3;Watson;Shelby;GBR;1998;SUI;Nottwil;2016-05-26;Female;Outdoor
+EUR;;WT34;100;0:16.31;1.1;Cockroft;Hannah;GBR;1992;SUI;Nottwil;2023-05-27;Female;Outdoor
+EUR;;WT35;100;0:13.92;2.0;Lyle;Maria;GBR;2000;QAT;Doha;2015-10-29;Female;Outdoor
+EUR;;WT36;100;0:14.13;0.0;Ivanova;Elena;RUS;1988;QAT;Doha;2015-10-27;Female;Outdoor
+EUR;;WT37;100;0:13.10;1.3;Francois-Elie;Mandy;FRA;1989;SUI;Nottwil;2019-05-24;Female;Outdoor
+EUR;;WT38;100;0:12.38;0.4;Hahn;Sophie;GBR;1997;JPN;Tokyo;2021-08-28;Female;Outdoor
+EUR;;WT44;100;0:12.72;1.8;Bensusan;Irmgard;GER;1991;GER;Leverkusen;2019-06-21;Female;Outdoor
+EUR;;WT46;100;0:12.19;0.7;Jeromin;Alicja;POL;1985;JPN;Tokyo;2021-08-31;Female;Outdoor
+EUR;;WT47;100;0:12.19;0.7;Jeromin;Alicja;POL;1985;JPN;Tokyo;2021-08-31;Female;Outdoor
+EUR;;WT51;100;0:30.31;1.0;Tapola;Aino;FIN;1997;SUI;Nottwil;2017-06-03;Female;Outdoor
+EUR;;WT52;100;0:18.33;1.3;Henseler;Tanja;SUI;1997;SUI;Nottwil;2023-05-27;Female;Outdoor
+EUR;;WT53;100;0:15.25;1.2;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2023-05-27;Female;Outdoor
+EUR;;WT54;100;0:15.36;1.2;Kotaja;Amanda;FIN;1995;SUI;Nottwil;2023-05-27;Female;Outdoor
+EUR;;WT62;100;0:12.40;2.0;Jong;Fleur;NED;1995;SUI;Nottwil;2023-05-27;Female;Outdoor
+EUR;;WT63;100;0:13.98;0.6;Sabatini;Ambra;ITA;2002;FRA;Paris;2023-07-13;Female;Outdoor
+EUR;;WT64;100;0:12.66;0.5;van Gansewinkel;Marlene;NED;1995;SUI;Nottwil;2019-05-24;Female;Outdoor
+EUR;;WT71;100;0:43.11;0.8;Aasvang;Marte;NOR;1994;GBR;Warwickshire;2023-04-16;Female;Outdoor
+EUR;;WT72;100;0:18.20;0.5;Andruszkiewicz;Magdalena;POL;1989;FRA;Paris;2023-07-09;Female;Outdoor
+EUR;;WT11;200;0:24.44;-0.4;Clegg;Libby;GBR;1990;GBR;London;2016-07-23;Female;Outdoor
+EUR;;WT12;200;0:23.65;0.1;Boturchuk;Oksana;UKR;1984;BRA;Rio de Janeiro;2016-09-12;Female;Outdoor
+EUR;;WT13;200;0:24.40;-0.3;Iglesias Forneiro;Adiaratou;ESP;1999;ESP;Leganes;2022-06-17;Female;Outdoor
+EUR;;WT32;200;1:22.57;0.0;Wright;Lindsay;GBR;;GBR;Nottingham;1999-08-15;Female;Outdoor
+EUR;;WT33;200;0:35.04;0.3;Watson;Shelby;GBR;1998;SUI;Nottwil;2016-05-27;Female;Outdoor
+EUR;;WT34;200;0:28.90;-0.1;Cockroft;Hannah;GBR;1992;SUI;Arbon;2023-05-20;Female;Outdoor
+EUR;;WT35;200;0:29.32;1.5;Lyle;Maria;GBR;2000;QAT;Doha;2015-10-24;Female;Outdoor
+EUR;;WT36;200;0:29.67;1.5;Ivanova;Elena;RUS;1988;QAT;Doha;2015-10-25;Female;Outdoor
+EUR;;WT37;200;0:27.21;1.1;Hermitage;Georgina;GBR;1989;ITA;Grosseto;2016-06-14;Female;Outdoor
+EUR;;WT38;200;0:25.78;-0.3;Ekler;Luca;HUN;1998;FRA;Paris;2023-07-14;Female;Outdoor
+EUR;;WT44;200;0:26.15;0.6;Bensusan;Irmgard;GER;1991;GER;Leverkusen;2019-06-21;Female;Outdoor
+EUR;;WT46;200;0:25.05;-0.3;Jeromin;Alicja;POL;1985;JPN;Tokyo;2021-09-04;Female;Outdoor
+EUR;;WT47;200;0:25.05;-0.3;Jeromin;Alicja;POL;1985;JPN;Tokyo;2021-09-04;Female;Outdoor
+EUR;;WT52;200;0:33.45;-0.1;Henseler;Tanja;SUI;1997;GER;Singen/Hohentwiel;2023-06-25;Female;Outdoor
+EUR;;WT53;200;0:27.47;0.0;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2022-05-26;Female;Outdoor
+EUR;;WT54;200;0:27.93;-1.0;Kotaja;Amanda;FIN;1995;SUI;Arbon;2023-05-20;Female;Outdoor
+EUR;;WT62;200;0:28.30;-0.7;Andres Barrio;Sara;ESP;1986;ESP;L'Hospitalet;2021-04-10;Female;Outdoor
+EUR;;WT63;200;0:29.87;-0.6;Sabatini;Ambra;ITA;2002;ITA;Jesolo;2022-05-08;Female;Outdoor
+EUR;;WT11;400;0:56.83;;Santamarta-Bravo;Purificacion;ESP;1962;AUS;Sydney;2000-10-25;Female;Outdoor
+EUR;;WT12;400;0:53.14;;Boturchuk;Oksana;UKR;1984;BRA;Rio de Janeiro;2016-09-17;Female;Outdoor
+EUR;;WT13;400;0:55.00;;Valiyeva;Lamiya;AZE;2002;JPN;Tokyo;2021-09-04;Female;Outdoor
+EUR;;WT20;400;0:56.18;;Shuliar;Yuliia;UKR;1997;JPN;Tokyo;2021-08-31;Female;Outdoor
+EUR;;WT32;400;2:49.35;;Wright;Lindsay;GBR;;GBR;Nottingham;1997-07-26;Female;Outdoor
+EUR;;WT33;400;1:10.15;;Watson;Shelby;GBR;1998;SUI;Nottwil;2016-05-26;Female;Outdoor
+EUR;;WT34;400;0:52.80;;Cockroft;Hannah;GBR;1992;UAE;Sharjah;2023-02-22;Female;Outdoor
+EUR;;WT35;400;1:14.69;;Corso;Oxana;ITA;1995;ITA;Rieti;2016-05-07;Female;Outdoor
+EUR;;WT36;400;1:16.65;;Innes;Caroline;GBR;;AUS;Sydney;2000-10-23;Female;Outdoor
+EUR;;WT37;400;1:00.29;;Hermitage;Georgina;GBR;1989;GBR;London;2017-07-20;Female;Outdoor
+EUR;;WT38;400;0:59.74;;Ekler;Luca;HUN;1998;FRA;Paris;2023-07-17;Female;Outdoor
+EUR;;WT46;400;0:56.11;;Vassilieva;Lioubov;RUS;1971;FRA;Villeneuve d'Ascq;2002-07-27;Female;Outdoor
+EUR;;WT47;400;0:56.11;;Vassilieva;Lioubov;RUS;1971;FRA;Villeneuve d'Ascq;2002-07-27;Female;Outdoor
+EUR;;WT52;400;1:04.87;;Vervoort;Marieke;BEL;1979;BEL;Kortrijk;2013-07-14;Female;Outdoor
+EUR;;WT53;400;0:49.85;;Debrunner;Catherine;SUI;1995;SUI;Arbon;2023-05-20;Female;Outdoor
+EUR;;WT54;400;0:52.05;;Schaer;Manuela;SUI;1984;SUI;Arbon;2023-05-20;Female;Outdoor
+EUR;;WT63;400;1:24.12;;Haenen;Gitte;BEL;1986;SUI;Nottwil;2018-05-27;Female;Outdoor
+EUR;;WT64;400;0:59.27;;Le Fur;Marie-Amelie;FRA;1988;BRA;Rio de Janeiro;2016-09-12;Female;Outdoor
+EUR;;WT72;400;1:23.66;;Andruszkiewicz;Magdalena;POL;1989;GBR;Warwickshire;2023-04-15;Female;Outdoor
+EUR;;WT11;800;2:17.66;;Hinton;Tracey;GBR;1970;CAN;Quebec;2003-08-11;Female;Outdoor
+EUR;;WT12;800;2:04.96;;El Hannouni;Assia;FRA;1981;CHN;Beijing;2008-09-09;Female;Outdoor
+EUR;;WT13;800;2:29.26;;Adali;Asli;TUR;1998;UAE;Dubai;2018-03-13;Female;Outdoor
+EUR;;WT20;800;2:15.79;;Bieganowska-Zajac;Barbara;POL;1981;GER;Berlin;2018-08-23;Female;Outdoor
+EUR;;WT33;800;2:22.85;;Watson;Shelby;GBR;1998;SUI;Nottwil;2016-05-27;Female;Outdoor
+EUR;;WT34;800;1:44.43;;Cockroft;Hannah;GBR;1992;UAE;Sharjah;2023-02-20;Female;Outdoor
+EUR;;WT36;800;3:14.00;;Prokhnytska;Hanna;UKR;;UKR;Mykolaiv;2002-06-06;Female;Outdoor
+EUR;;WT37;800;2:46.76;;Verstengen;Siw;NOR;;GER;Berlin;1994-07-31;Female;Outdoor
+EUR;;WT38;800;2:35.90;;Fernandes;Maria;POR;1969;GBR;Nottingham;2001-07-28;Female;Outdoor
+EUR;;WT46;800;2:12.42;;Vassilieva;Lioubov;RUS;1971;FRA;Villeneuve d'Ascq;2002-07-24;Female;Outdoor
+EUR;;WT52;800;2:06.76;;Vervoort;Marieke;BEL;1979;BEL;Oordegem;2015-05-30;Female;Outdoor
+EUR;;WT53;800;1:38.78;;Debrunner;Catherine;SUI;1995;SUI;Arbon;2023-05-21;Female;Outdoor
+EUR;;WT54;800;1:41.47;;Schaer;Manuela;SUI;1984;SUI;Nottwil;2019-08-18;Female;Outdoor
+EUR;;WT64;800;2:38.32;;Le Fur;Marie-Amelie;FRA;1988;GBR;Stoke Mandeville;2005-07-07;Female;Outdoor
+EUR;;WT11;1K5;4:48.74;;Mazur;Joanna;POL;1990;JPN;Tokyo;2021-08-30;Female;Outdoor
+EUR;;WT12;1K5;4:19.20;;El Hannouni;Assia;FRA;1981;CHN;Beijing;2008-09-14;Female;Outdoor
+EUR;;WT13;1K5;4:33.27;;Streimikyte;Greta;IRL;1995;FRA;Paris;2023-07-10;Female;Outdoor
+EUR;;WT20;1K5;4:23.37;;Bieganowska-Zajac;Barbara;POL;1981;NED;Stadskanaal;2012-06-28;Female;Outdoor
+EUR;;WT33;1K5;4:55.85;;Watson;Shelby;GBR;1998;GBR;Nottingham;2015-08-15;Female;Outdoor
+EUR;;WT34;1K5;3:21.06;;Cockroft;Hannah;GBR;1992;UAE;Sharjah;2023-02-21;Female;Outdoor
+EUR;;WT36;1K5;6:30.50;;Prokhnytska;Hanna;UKR;;UKR;Mykolaiv;2002-06-06;Female;Outdoor
+EUR;;WT37;1K5;5:40.12;;Verstengen;Siw;NOR;;GER;Berlin;1994-07-28;Female;Outdoor
+EUR;;WT38;1K5;5:28.51;;Fernandes;Maria;POR;1969;GBR;Nottingham;2001-07-26;Female;Outdoor
+EUR;;WT46;1K5;6:09.43;;Brockskothen;Britta;GER;;BEL;Hasselt;1987-05-31;Female;Outdoor
+EUR;;WT52;1K5;4:10.77;;Henseler;Tanja;SUI;1997;UAE;Sharjah;2023-02-21;Female;Outdoor
+EUR;;WT53;1K5;3:09.47;;Debrunner;Catherine;SUI;1995;UAE;Sharjah;2023-02-21;Female;Outdoor
+EUR;;WT54;1K5;3:09.47;;Debrunner;Catherine;SUI;1995;UAE;Sharjah;2023-02-21;Female;Outdoor
+EUR;;WT11;5K0;19:39.41;;Rodriguez Gacio;Susana;ESP;1988;ESP;SEGOVIA;2019-09-08;Female;Outdoor
+EUR;;WT12;5K0;17:50.45;;Pautova;Elena;RUS;1986;CAN;Quebec;2003-08-04;Female;Outdoor
+EUR;;WT13;5K0;19:57.26;;Fiuza;Maria;POR;1972;ESP;Barcelona;2004-06-05;Female;Outdoor
+EUR;;WT20;5K0;17:17.30;;Taunton;Hannah;GBR;1991;GBR;Manchester;2020-09-04;Female;Outdoor
+EUR;;WT52;5K0;14:47.55;;Vervoort;Marieke;BEL;1979;SUI;Nottwil;2014-05-18;Female;Outdoor
+EUR;;WT53;5K0;10:43.01;;Debrunner;Catherine;SUI;1995;SUI;Arbon;2023-05-21;Female;Outdoor
+EUR;;WT54;5K0;10:43.01;;Debrunner;Catherine;SUI;1995;SUI;Arbon;2023-05-21;Female;Outdoor
+EUR;;WT11;HOC;1.45;;Rijswijk;Joke;NED;1954;KOR;Seoul;1988-10-19;Female;Outdoor
+EUR;;WT12;HOC;1.57;;Kannus-Silm;Helena;EST;1967;POL;Bialystok;2001-08-07;Female;Outdoor
+EUR;;WT13;HOC;1.58;;Chevelova;Olga;RUS;1970;GER;Berlin;1994-07-29;Female;Outdoor
+EUR;;WT42;HOC;1.25;;Martinkova;Hana;CZE;;NED;Assen;2001-06-16;Female;Outdoor
+EUR;;WT46;HOC;1.67;;Bader-Bille;Catherine;GER;1965;GER;Weinstadt;2000-06-17;Female;Outdoor
+EUR;;WT47;HOC;1.67;;Bader-Bille;Catherine;GER;1965;GER;Weinstadt;2000-06-17;Female;Outdoor
+EUR;;WT64;HOC;1.52;;Daamen;Michaela;GER;1969;NED;Assen;2001-06-16;Female;Outdoor
+EUR;;WT11;WEI;5.21;0.0;Ortiz;Purificacion;ESP;1972;ESP;Burgos;1997-01-01;Female;Outdoor
+EUR;;WT12;WEI;6.6;-0.9;Zubkovska;Oksana;UKR;1981;GBR;London;2012-09-07;Female;Outdoor
+EUR;;WT13;WEI;5.66;1.1;Zinkevich;Volha;BLR;1975;GRE;Athens;2004-09-23;Female;Outdoor
+EUR;;WT13;WEI;5.66;1.1;Zinkevich;Volha;BLR;1975;GRE;Athens;2004-09-23;Female;Outdoor
+EUR;;WT20;WEI;6.21;-0.9;Kucharczyk;Karolina;POL;1991;UAE;Dubai;2019-11-14;Female;Outdoor
+EUR;;WT35;WEI;3.07;-2.1;Westling;Ellen;SWE;2007;POR;Vila Real de Santo Anto;2022-11-28;Female;Outdoor
+EUR;;WT36;WEI;4.11;-0.3;Nicoleitzik;Claudia;GER;1989;UAE;Dubai;2016-03-18;Female;Outdoor
+EUR;;WT37;WEI;4.89;-0.1;Fekolina;Zhanna;RUS;1989;ITA;Grosseto;2016-06-12;Female;Outdoor
+EUR;;WT38;WEI;5.82;-0.5;Ekler;Luca;HUN;1998;FRA;Paris;2022-06-10;Female;Outdoor
+EUR;;WT46;WEI;5.92;-0.1;Rodomakina;Nikol;RUS;1993;FRA;Lyon;2013-07-23;Female;Outdoor
+EUR;;WT47;WEI;5.92;-0.1;Rodomakina;Nikol;RUS;1993;FRA;Lyon;2013-07-23;Female;Outdoor
+EUR;;WT62;WEI;6.74;0.2;Jong;Fleur;NED;1995;BEL;Brussels;2023-09-08;Female;Outdoor
+EUR;;WT63;WEI;5.46;0.9;Caironi;Martina;ITA;1989;FRA;Paris;2022-06-10;Female;Outdoor
+EUR;;WT64;WEI;6.14;0.1;Le Fur;Marie-Amelie;FRA;1988;UAE;Dubai;2021-02-11;Female;Outdoor
+EUR;;WT12;DRE;12.11;0.0;Ivekovic Mestrovic;Marija;CRO;1981;BRA;Sao Paulo;2007-08-06;Female;Outdoor
+EUR;;WT20;DRE;11.93;0.0;Ruchkina;Aleksandra;RUS;1997;AUS;Brisbane;2019-10-14;Female;Outdoor
+EUR;;WT46;DRE;10.35;0.6;Smaragdi;Styliani;GRE;1995;GRE;Thessaloniki;2022-07-10;Female;Outdoor
+EUR;;WT46;DRE;10.35;0.6;Smaragdi;Styliani;GRE;1995;GRE;Thessaloniki;2022-07-10;Female;Outdoor
+EUR;;WT47;DRE;10.35;0.6;Smaragdi;Styliani;GRE;1995;GRE;Thessaloniki;2022-07-10;Female;Outdoor
+EUR;;WT47;DRE;10.35;0.6;Smaragdi;Styliani;GRE;1995;GRE;Thessaloniki;2022-07-10;Female;Outdoor
+EUR;;WF11;KUG;17.32;;Legnante;Assunta;ITA;1978;ITA;Padova;2014-07-06;Female;Outdoor
+EUR;;WF12;KUG;13.68;;Oksem;Sofia;RUS;1994;ITA;Grosseto;2016-06-11;Female;Outdoor
+EUR;;WF13;KUG;13.05;;Sivakova;Tamara;BLR;1965;ESP;Madrid;1998-07-25;Female;Outdoor
+EUR;;WF20;KUG;14.16;;Mysnyk;Anastasiia;UKR;1991;JPN;Tokyo;2021-08-29;Female;Outdoor
+EUR;;WF32;KUG;7.83;;Galaktionova;Evgeniia;RUS;2000;RUS;Cheboksary;2023-08-13;Female;Outdoor
+EUR;;WF33;KUG;7.81;;Kornobys;Lucyna;POL;1978;UAE;Dubai;2019-11-15;Female;Outdoor
+EUR;;WF34;KUG;8.78;;Kornobys;Lucyna;POL;1978;POL;Bydgoszcz;2021-06-03;Female;Outdoor
+EUR;;WF35;KUG;13.59;;Pomazan;Mariia;UKR;1988;BRA;Rio de Janeiro;2016-09-15;Female;Outdoor
+EUR;;WF36;KUG;11.79;;Kober;Birgit;GER;1971;GER;Berlin;2018-08-24;Female;Outdoor
+EUR;;WF37;KUG;13.96;;Liebhardt;Franziska;GER;1982;BRA;Rio de Janeiro;2016-09-13;Female;Outdoor
+EUR;;WF38;KUG;12.58;;Grigaliuniene;Aldona;LTU;1955;CHN;Beijing;2008-09-11;Female;Outdoor
+EUR;;WF40;KUG;9.21;;Sliwinska;Renata;POL;1996;FRA;Paris;2023-07-17;Female;Outdoor
+EUR;;WF41;KUG;8.37;;Gradecak;Ana;CRO;1990;FRA;Paris;2022-06-10;Female;Outdoor
+EUR;;WF42;KUG;9.18;;Schmidt;Jana;GER;1972;GER;Singen am Hohentwiel;2011-07-23;Female;Outdoor
+EUR;;WF44;KUG;12.58;;Floeth;Michaela;GER;1969;CHN;Beijing;2008-09-09;Female;Outdoor
+EUR;;WF46;KUG;11.93;;Jaenicke;Britta;GER;;AUS;Sydney;2000-10-28;Female;Outdoor
+EUR;;WF52;KUG;5.82;;Balek;Antonia;CRO;1968;NED;Stadskanaal;2009-06-07;Female;Outdoor
+EUR;;WF53;KUG;5.62;;Lebiedieva;Iana;UKR;1984;POL;Bydgoszcz;2021-06-02;Female;Outdoor
+EUR;;WF54;KUG;7.83;;Bogacheva;Mariia;RUS;1977;CZE;Olomouc;2014-07-04;Female;Outdoor
+EUR;;WF55;KUG;9.06;;Buggenhagen;Marianne;GER;1953;GRE;Athens;2004-09-19;Female;Outdoor
+EUR;;WF55;KUG;9.06;;Buggenhagen;Marianne;GER;1953;GRE;Athens;2004-09-19;Female;Outdoor
+EUR;;WF56;KUG;9.03;;Willing;Martina;GER;1959;FRA;Lyon;2013-07-21;Female;Outdoor
+EUR;;WF57;KUG;10.95;;Wyludda;Ilke;GER;1969;QAT;Doha;2015-10-23;Female;Outdoor
+EUR;;WF63;KUG;8.89;;Nouchet;Alexandra;FRA;1998;FRA;Paris;2023-07-15;Female;Outdoor
+EUR;;WF64;KUG;10.53;;Kotlowska;Faustyna;POL;2001;FRA;Paris;2023-07-15;Female;Outdoor
+EUR;;WF11;DIS;40.25;;Legnante;Assunta;ITA;1978;JPN;Tokyo;2021-08-31;Female;Outdoor
+EUR;;WF12;DIS;47.4;;Oksem;Sofia;RUS;1994;ITA;Grosseto;2016-06-15;Female;Outdoor
+EUR;;WF13;DIS;24.6;;Dabravolskaya;Lizaveta;BLR;2002;TUN;Tunis;2021-03-18;Female;Outdoor
+EUR;;WF32;DIS;9.44;;Wichmann;Hanna Laura Magdalena;GER;1996;UAE;Dubai;2018-03-16;Female;Outdoor
+EUR;;WF33;DIS;20.7;;Kornobys;Lucyna;POL;1978;POL;Sieradz;2019-09-19;Female;Outdoor
+EUR;;WF34;DIS;22.21;;Kornobys;Lucyna;POL;1978;POL;Bydgoszcz;2021-05-15;Female;Outdoor
+EUR;;WF35;DIS;31.42;;Pomazan;Mariia;UKR;1988;FRA;Lyon;2013-07-25;Female;Outdoor
+EUR;;WF36;DIS;23.57;;Lipatnikova;Galina;RUS;1984;UAE;Dubai;2016-03-20;Female;Outdoor
+EUR;;WF37;DIS;31.99;;Jones;Beverley;GBR;1974;IRL;Dublin;2011-07-02;Female;Outdoor
+EUR;;WF38;DIS;32.95;;Lenihan;Noelle;IRL;1999;GER;Berlin;2018-08-22;Female;Outdoor
+EUR;;WF40;DIS;24.77;;Sliwinska;Renata;POL;1996;POL;Bydgoszcz;2021-06-05;Female;Outdoor
+EUR;;WF41;DIS;32.67;;Mc Carthy;Niamh;IRL;1994;FRA;Paris;2018-06-14;Female;Outdoor
+EUR;;WF42;DIS;28.34;;Biene;Claudia;GER;1973;GER;Willemshaven;2004-07-18;Female;Outdoor
+EUR;;WF44;DIS;40.08;;Floeth;Michaela;GER;1969;GER;Duisburg;2008-06-06;Female;Outdoor
+EUR;;WF46;DIS;35.53;;Jaenicke;Britta;GER;;AUS;Sydney;2000-10-22;Female;Outdoor
+EUR;;WF51;DIS;14.37;;Ovsii;Zoia;UKR;1994;JPN;Tokyo;2021-08-30;Female;Outdoor
+EUR;;WF52;DIS;13.99;;Kniezkova;Martina;CZE;1975;NED;Assen;2006-09-05;Female;Outdoor
+EUR;;WF53;DIS;16.26;;Lebiedieva;Iana;UKR;1984;UAE;Dubai;2019-11-14;Female;Outdoor
+EUR;;WF54;DIS;19.96;;Fesslova;Jana;CZE;1976;CZE;Frydek-Mistek;2004-08-29;Female;Outdoor
+EUR;;WF55;DIS;27.8;;Buggenhagen;Marianne;GER;1953;CHN;Beijing;2008-09-09;Female;Outdoor
+EUR;;WF56;DIS;24.23;;Willing;Martina;GER;1959;FRA;Lyon;2013-07-23;Female;Outdoor
+EUR;;WF63;DIS;20.57;;Rogers;Julie;GBR;1998;GBR;Birmingham;2022-08-04;Female;Outdoor
+EUR;;WF64;DIS;39.26;;Kotlowska;Faustyna;POL;2001;POR;Vila Real de Santo Anto;2022-11-28;Female;Outdoor
+EUR;;WF11;SPE;38.62;;Willing;Martina;GER;1959;ESP;Barcelona;1992-09-06;Female;Outdoor
+EUR;;WF12;SPE;42.66;;Kulinich-Sorokina;Anna;RUS;1992;QAT;Doha;2015-10-27;Female;Outdoor
+EUR;;WF13;SPE;38.99;;Dabravolskaya;Lizaveta;BLR;2002;JPN;Tokyo;2021-08-28;Female;Outdoor
+EUR;;WF33;SPE;16.99;;Kornobys;Lucyna;POL;1978;UAE;Dubai;2019-11-10;Female;Outdoor
+EUR;;WF34;SPE;19.58;;Heikkinen;Marjaana;FIN;1967;FIN;Lapinlahti;2018-07-28;Female;Outdoor
+EUR;;WF35;SPE;25.59;;Chilewska;Renata;POL;1966;CHN;Beijing;2008-09-10;Female;Outdoor
+EUR;;WF36;SPE;18.83;;Arefeva;Iuliia;RUS;1982;CHN;Beijing;2008-09-10;Female;Outdoor
+EUR;;WF37;SPE;28.58;;Kober;Birgit;GER;1971;UAE;Dubai;2015-02-25;Female;Outdoor
+EUR;;WF38;SPE;32.87;;Adomaitiene;Ramune;LTU;1968;GER;Bottrop;2010-06-13;Female;Outdoor
+EUR;;WF40;SPE;23.37;;Sliwinska;Renata;POL;1996;POL;Cracow;2020-08-23;Female;Outdoor
+EUR;;WF41;SPE;16.63;;Keon;Sinead;IRL;1997;IRL;Athlone;2018-07-03;Female;Outdoor
+EUR;;WF42;SPE;31.51;;Biene;Claudia;GER;1973;TPE;Taipei;2008-09-16;Female;Outdoor
+EUR;;WF43;SPE;27.97;;Deouwi;Madeleine;FRA;;THA;Bangkok;1999-01-01;Female;Outdoor
+EUR;;WF44;SPE;35.74;;Nesse;Ida;NOR;1992;UAE;Sharjah;2019-02-18;Female;Outdoor
+EUR;;WF46;SPE;44.73;;Arnold;Hollie;GBR;1994;UAE;Dubai;2019-11-11;Female;Outdoor
+EUR;;WF52;SPE;13.46;;Balek;Antonia;CRO;1968;GER;Wedau, Duisburg;2009-06-03;Female;Outdoor
+EUR;;WF53;SPE;11.89;;Lebiedieva;Iana;UKR;1984;JPN;Tokyo;2021-09-04;Female;Outdoor
+EUR;;WF54;SPE;15.79;;Bogacheva;Mariia;RUS;1977;TUN;Tunis;2019-06-29;Female;Outdoor
+EUR;;WF55;SPE;27.07;;Krumina;Diana;LAT;1986;GBR;London;2017-07-17;Female;Outdoor
+EUR;;WF56;SPE;24.03;;Willing;Martina;GER;1959;GER;Berlin;2008-06-13;Female;Outdoor
+EUR;;WF57;SPE;18.53;;Keramyda;Soultana;GRE;1989;GRE;Thessaloniki;2023-05-11;Female;Outdoor
+EUR;;WF57;SPE;18.53;;Keramyda;Soultana;GRE;1989;GRE;Thessaloniki;2023-05-11;Female;Outdoor
+EUR;;WF64;SPE;26.61;;Kotlowska;Faustyna;POL;2001;POL;Cracow;2020-08-23;Female;Outdoor
+EUR;;WF32;KEU;28.74;;Kozakowska;Roza;POL;1989;JPN;Tokyo;2021-08-27;Female;Outdoor
+EUR;;WF51;KEU;25.23;;Ovsii;Zoia;UKR;1994;UAE;Dubai;2019-11-11;Female;Outdoor
+EUR;;WP11;5-K;2,182;;Willing;Martina;GER;1959;ESP;Barcelona;1992-09-11;Female;Outdoor
+EUR;;WP12;5-K;2,877;;Ivekovic Mestrovic;Marija;CRO;1981;FIN;Espoo;2005-08-23;Female;Outdoor
+EUR;;WP13;5-K;2,830;;Tchourkina;Olga;RUS;1973;USA;Atlanta;1996-08-22;Female;Outdoor
+EUR;;WP44;5-K;4,653;;Scherney;Andrea;AUT;1966;NED;Assen;2003-06-20;Female;Outdoor
+EUR;;WP54-58;5-K;5,707;;Buggenhagen;Marianne;GER;1953;GER;Berlin;1994-07-27;Female;Outdoor
