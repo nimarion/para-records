@@ -1,7 +1,6 @@
 Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Geschlecht;Umgebung
 AR;4;MT11;100;0:11.11;-0.5;Shikongo;Ananias;NAM;1986;FRA;Paris;2023-07-15;Male;Outdoor
 AR;4;MT12;100;0:10.75;0.7;Adesoji;Adekunle;NGR;1981;GRE;Athens;2004-09-22;Male;Outdoor
-AR;4;MT12;100;0:10.75;0.7;Adesoji;Adekunle;NGR;1981;GRE;Athens;2004-09-22;Male;Outdoor
 AR;4;MT13;100;0:10.54;0.0;Athmani;Skander Djamil;ALG;1992;JPN;Tokyo;2021-08-29;Male;Outdoor
 AR;4;MT33;100;0:16.24;0.0;Stephen;John;TAN;;TAN;Dar es Salaam;2003-06-13;Male;Outdoor
 AR;4;MT34;100;0:14.46;0.6;Ktila;Walid;TUN;1985;SUI;Arbon;2019-06-01;Male;Outdoor
@@ -22,7 +21,6 @@ AR;4;MT63;100;0:12.64;-0.1;Mabote;Puseletso Michael;RSA;2005;JPN;Tokyo;2021-08-2
 AR;4;MT64;100;0:10.93;1.4;Fourie;Arnu;RSA;1985;QAT;Doha;2015-10-29;Male;Outdoor
 AR;4;MT11;200;0:20.39;0.0;Thaphuko;Joseph;RSA;;RSA;Germiston;2003-03-22;Male;Outdoor
 AR;4;MT12;200;0:21.77;0.0;Adesoji;Adekunle;NGR;1981;GRE;Athens;2004-09-24;Male;Outdoor
-AR;4;MT12;200;0:21.77;0.0;Adesoji;Adekunle;NGR;1981;GRE;Athens;2004-09-24;Male;Outdoor
 AR;4;MT13;200;0:21.74;1.5;Nambala;Johannes;NAM;1991;QAT;Doha;2015-10-26;Male;Outdoor
 AR;4;MT33;200;0:33.27;0.0;Stephen;John;TAN;;TAN;Dar es Salaam;2003-06-13;Male;Outdoor
 AR;4;MT34;200;0:25.91;0.5;Ktila;Walid;TUN;1985;SUI;Arbon;2019-06-01;Male;Outdoor
@@ -41,7 +39,6 @@ AR;4;MT54;200;0:24.35;0.7;Gharbi;Yassine;TUN;1990;SUI;Nottwil;2018-05-25;Male;Ou
 AR;4;MT61;200;0:23.03;0.6;Mahlangu;Ntando;RSA;;SUI;Nottwil;2019-08-01;Male;Outdoor
 AR;4;MT64;200;0:22.26;0.7;Fourie;Arnu;RSA;1985;FRA;Paris;2017-05-31;Male;Outdoor
 AR;4;MT11;400;0:50.03;;Armando;Jose Sayovo;ANG;1973;GRE;Athens;2004-09-25;Male;Outdoor
-AR;4;MT11;400;0:50.03;;Armando;Jose Sayovo;ANG;1973;GRE;Athens;2004-09-25;Male;Outdoor
 AR;4;MT12;400;0:47.59;;Hili;Abdeslam;MAR;1996;JPN;Tokyo;2021-09-02;Male;Outdoor
 AR;4;MT13;400;0:46.70;;Athmani;Skander Djamil;ALG;1992;JPN;Tokyo;2021-09-02;Male;Outdoor
 AR;4;MT20;400;0:47.48;;Philippe;Yovanni;MRI;2002;FRA;Paris;2023-07-15;Male;Outdoor
@@ -56,7 +53,6 @@ AR;4;MT46;400;0:46.78;;Sadni;Ayoub;MAR;1999;FRA;Paris;2023-07-14;Male;Outdoor
 AR;4;MT47;400;0:46.78;;Sadni;Ayoub;MAR;1999;FRA;Paris;2023-07-14;Male;Outdoor
 AR;4;MT51;400;1:19.30;;Berrahal;Mohamed;ALG;1979;UAE;Dubai;2017-03-21;Male;Outdoor
 AR;4;MT52;400;1:01.93;;Ez-Zine;Abdellah;MAR;1967;GRE;Athens;2004-09-22;Male;Outdoor
-AR;4;MT52;400;1:01.93;;Ez-Zine;Abdellah;MAR;1967;GRE;Athens;2004-09-22;Male;Outdoor
 AR;4;MT53;400;0:51.57;;Ktila;Walid;TUN;1985;UAE;Sharjah;2011-04-04;Male;Outdoor
 AR;4;MT54;400;0:43.46;;Gharbi;Yassine;TUN;1990;UAE;Sharjah;2018-03-19;Male;Outdoor
 AR;4;MT62;400;0:50.09;;Mofokeng;Tebogo;RSA;2000;JPN;Tokyo;2021-09-03;Male;Outdoor
@@ -68,10 +64,8 @@ AR;4;MT34;800;1:36.78;;Ktila;Walid;TUN;1985;SUI;Arbon;2021-05-24;Male;Outdoor
 AR;4;MT36;800;2:13.90;;Bouzourine;Sid Ali;ALG;1992;UAE;Dubai;2016-03-20;Male;Outdoor
 AR;4;MT37;800;2:01.45;;Charmi;Mohamed;TUN;1981;GBR;London;2012-09-01;Male;Outdoor
 AR;4;MT38;800;1:58.87;;Pringle;Malcolm;RSA;1978;GRE;Athens;2004-09-20;Male;Outdoor
-AR;4;MT38;800;1:58.87;;Pringle;Malcolm;RSA;1978;GRE;Athens;2004-09-20;Male;Outdoor
 AR;4;MT44;800;2:32.43;;Lesenyeho;Tshokolo Julius;RSA;1980;RSA;Johannesburg;2015-04-02;Male;Outdoor
 AR;4;MT46;800;1:52.33;;Nouioua;Samir;ALG;1985;GBR;London;2012-09-08;Male;Outdoor
-AR;4;MT52;800;1:58.68;;Ez-Zine;Abdellah;MAR;1967;GRE;Athens;2004-09-25;Male;Outdoor
 AR;4;MT52;800;1:58.68;;Ez-Zine;Abdellah;MAR;1967;GRE;Athens;2004-09-25;Male;Outdoor
 AR;4;MT53;800;1:44.68;;Ktila;Walid;TUN;1985;UAE;Sharjah;2011-04-05;Male;Outdoor
 AR;4;MT54;800;1:31.24;;Gharbi;Yassine;TUN;1990;UAE;Sharjah;2018-03-18;Male;Outdoor
@@ -88,7 +82,6 @@ AR;4;MT51;1K5;5:20.64;;Du Preez;Pieter;RSA;;SUI;Arbon;2023-05-20;Male;Outdoor
 AR;4;MT53;1K5;2:54.18;;Gharbi;Yassine;TUN;1990;SUI;Arbon;2019-06-01;Male;Outdoor
 AR;4;MT54;1K5;2:54.18;;Gharbi;Yassine;TUN;1990;SUI;Arbon;2019-06-01;Male;Outdoor
 AR;4;MT11;5K0;15:11.07;;Wanyoike;Henry;KEN;1974;GRE;Athens;2004-09-24;Male;Outdoor
-AR;4;MT11;5K0;15:11.07;;Wanyoike;Henry;KEN;1974;GRE;Athens;2004-09-24;Male;Outdoor
 AR;4;MT12;5K0;13:53.76;;Chentouf;El Amin;MAR;1981;GBR;London;2012-09-03;Male;Outdoor
 AR;4;MT13;5K0;14:20.69;;Benibrahim;Youssef;MAR;1983;GBR;London;2017-07-16;Male;Outdoor
 AR;4;MT37;5K0;17:04.98;;Bellel;Fawzi;ALG;;GBR;Birmingham;1998-08-13;Male;Outdoor
@@ -98,7 +91,6 @@ AR;4;MT51;5K0;17:50.06;;Du Preez;Pieter;RSA;;SUI;Arbon;2017-05-25;Male;Outdoor
 AR;4;MT52;5K0;15:47.01;;Ez-Zine;Abdellah;MAR;1967;NED;Assen;2006-09-03;Male;Outdoor
 AR;4;MT53;5K0;9:58.63;;Schabort;Krige;RSA;1963;USA;Atlanta;2004-05-07;Male;Outdoor
 AR;4;MT54;5K0;9:58.63;;Schabort;Krige;RSA;1963;USA;Atlanta;2004-05-07;Male;Outdoor
-AR;4;MT11;10K;31:37.25;;Wanyoike;Henry;KEN;1974;GRE;Athens;2004-09-19;Male;Outdoor
 AR;4;MT11;10K;31:37.25;;Wanyoike;Henry;KEN;1974;GRE;Athens;2004-09-19;Male;Outdoor
 AR;4;MT12;10K;29:38.85;;Chentouf;El Amin;MAR;1981;FRA;Lyon;2013-07-23;Male;Outdoor
 AR;4;MT13;10K;32:40.00;;Kimutai;Peter;KEN;;KEN;Nairobi;2003-07-25;Male;Outdoor
@@ -112,7 +104,6 @@ AR;4;MT47;HOC;1.92;;Roos;David;RSA;1982;GBR;Manchester;2005-05-14;Male;Outdoor
 AR;4;MT11;WEI;6.11;1.5;Bentria;Firas;ALG;1986;FRA;Lyon;2013-07-27;Male;Outdoor
 AR;4;MT12;WEI;7.43;-0.1;Langenhoven;Hilton;RSA;1983;RSA;Johannesburg;2007-04-05;Male;Outdoor
 AR;4;MT13;WEI;6.15;-1.1;Ntutu;Ndodomzi;RSA;1986;GRE;Athens;2004-09-21;Male;Outdoor
-AR;4;MT13;WEI;6.15;-1.1;Ntutu;Ndodomzi;RSA;1986;GRE;Athens;2004-09-21;Male;Outdoor
 AR;4;MT20;WEI;6.8;1.3;Capdor;Eddy;MRI;1999;UAE;Sharjah;2023-02-22;Male;Outdoor
 AR;4;MT35;WEI;4.13;0.0;Mokgalagadi;Teboho;RSA;1983;RSA;Durban;2005-03-15;Male;Outdoor
 AR;4;MT36;WEI;5.56;0.0;Didane;Mokhtar;ALG;1989;FRA;Paris;2023-07-12;Male;Outdoor
@@ -121,8 +112,6 @@ AR;4;MT38;WEI;6.58;-0.3;Buis;Dyan;RSA;1990;BRA;Rio de Janeiro;2016-09-15;Male;Ou
 AR;4;MT42;WEI;4.3;0.4;Batifi Loumou;Yves Noe;CMR;2002;UAE;Dubai;2023-02-28;Male;Outdoor
 AR;4;MT44;WEI;7.07;-1.3;Mhlongo;Mpumelelo;RSA;1994;UAE;Dubai;2019-11-13;Male;Outdoor
 AR;4;MT46;WEI;7.07;-0.1;Dif;Mohammed;MAR;1981;GRE;Athens;2004-09-22;Male;Outdoor
-AR;4;MT46;WEI;7.07;-0.1;Dif;Mohammed;MAR;1981;GRE;Athens;2004-09-22;Male;Outdoor
-AR;4;MT47;WEI;7.07;-0.1;Dif;Mohammed;MAR;1981;GRE;Athens;2004-09-22;Male;Outdoor
 AR;4;MT47;WEI;7.07;-0.1;Dif;Mohammed;MAR;1981;GRE;Athens;2004-09-22;Male;Outdoor
 AR;4;MT61;WEI;7.17;-0.4;Mahlangu;Ntando;RSA;;JPN;Tokyo;2021-08-28;Male;Outdoor
 AR;4;MT63;WEI;5.18;0.2;Mabote;Puseletso Michael;RSA;;JPN;Tokyo;2021-08-28;Male;Outdoor
@@ -149,7 +138,6 @@ AR;4;MF52;KUG;5.22;;Pieters;Jacobus H;RSA;;RSA;Durban;2004-03-24;Male;Outdoor
 AR;4;MF53;KUG;7.67;;Gani;Abdelillah;MAR;1987;FRA;Paris;2023-07-11;Male;Outdoor
 AR;4;MF54;KUG;8.01;;Du-Preez;Ivan;RSA;;RSA;Germiston;2003-03-22;Male;Outdoor
 AR;4;MF55;KUG;11.46;;Bachir;Mourad;ALG;1983;TUN;Tunis;2019-06-28;Male;Outdoor
-AR;4;MF56;KUG;10.93;;Beshta;Mohamed Roshdy;EGY;1978;GRE;Athens;2004-09-25;Male;Outdoor
 AR;4;MF56;KUG;10.93;;Beshta;Mohamed Roshdy;EGY;1978;GRE;Athens;2004-09-25;Male;Outdoor
 AR;4;MF57;KUG;13.06;;Diop;Talla;SEN;1997;FRA;Paris;2023-07-16;Male;Outdoor
 AR;4;MF63;KUG;13.36;;Pillay;Tyrone;RSA;1980;UAE;Dubai;2019-11-10;Male;Outdoor
@@ -182,7 +170,6 @@ AR;4;MF13;SPE;57.64;;Belhouchat;Samir;ALG;1974;NZL;Christchurch;2011-01-29;Male;
 AR;4;MF33;SPE;21.64;;Kardjena;Kamel;ALG;1981;UAE;Dubai;2015-02-25;Male;Outdoor
 AR;4;MF34;SPE;34.26;;Rzig;Faouzi;TUN;1982;TUN;Tunis;2019-06-29;Male;Outdoor
 AR;4;MF35;SPE;42.22;;Michaels;Fabian;RSA;1984;GRE;Athens;2004-09-25;Male;Outdoor
-AR;4;MF35;SPE;42.22;;Michaels;Fabian;RSA;1984;GRE;Athens;2004-09-25;Male;Outdoor
 AR;4;MF36;SPE;42.48;;Newman;Nicholas;RSA;1981;CHN;Beijing;2008-09-08;Male;Outdoor
 AR;4;MF37;SPE;48.35;;El Saber;El Sayed Abdelmoneim;EGY;1984;GBR;London;2017-07-19;Male;Outdoor
 AR;4;MF38;SPE;54.63;;Hamman;Reinhardt;RSA;1990;UAE;Dubai;2019-11-09;Male;Outdoor
@@ -202,7 +189,11 @@ AR;4;MF32;KEU;40.95;;Ferhah;Walid;ALG;1992;UAE;Dubai;2023-02-26;Male;Outdoor
 AR;4;MF51;KEU;26.24;;Rezouani;Walid;ALG;1989;TUN;Tunis;2017-04-13;Male;Outdoor
 AR;4;MP12;5-K;3,403;;Langenhoven;Hilton;RSA;1983;CHN;Beijing;2008-09-12;Male;Outdoor
 AR;4;MP42;5-K;5,792;;Lombaard;Fanie;RSA;1969;AUS;Sydney;2000-10-22;Male;Outdoor
-AR;4;MP54-58;5-K;5,023;;Ghribi;Ali;TUN;1974;NED;Assen;2006-09-08;Male;Outdoor
+AR;4;MP54;5-K;5,023;;Ghribi;Ali;TUN;1974;NED;Assen;2006-09-08;Male;Outdoor
+AR;4;MP55;5-K;5,023;;Ghribi;Ali;TUN;1974;NED;Assen;2006-09-08;Male;Outdoor
+AR;4;MP56;5-K;5,023;;Ghribi;Ali;TUN;1974;NED;Assen;2006-09-08;Male;Outdoor
+AR;4;MP57;5-K;5,023;;Ghribi;Ali;TUN;1974;NED;Assen;2006-09-08;Male;Outdoor
+AR;4;MP58;5-K;5,023;;Ghribi;Ali;TUN;1974;NED;Assen;2006-09-08;Male;Outdoor
 AR;4;WT11;100;0:12.40;0.7;Ishitile;Lahja;NAM;1997;SUI;Nottwil;2023-05-27;Female;Outdoor
 AR;4;WT12;100;0:12.35;0.3;Governo;Edmilsa;MOZ;1998;BRA;Rio de Janeiro;2016-09-09;Female;Outdoor
 AR;4;WT13;100;0:11.89;1.2;Hayes;Ilse;RSA;1985;BRA;Sao Paulo;2015-04-23;Female;Outdoor
@@ -242,10 +233,8 @@ AR;4;WT38;400;1:03.96;;Mansour;Sonia;TUN;1988;UAE;Dubai;2019-11-11;Female;Outdoo
 AR;4;WT46;400;0:55.60;;Weyers;Anrune;RSA;1992;BEL;Huizingen;2019-08-24;Female;Outdoor
 AR;4;WT47;400;0:55.60;;Weyers;Anrune;RSA;1992;BEL;Huizingen;2019-08-24;Female;Outdoor
 AR;4;WT53;400;1:02.85;;Wafula;Anne;KEN;1969;GRE;Athens;2004-09-25;Female;Outdoor
-AR;4;WT53;400;1:02.85;;Wafula;Anne;KEN;1969;GRE;Athens;2004-09-25;Female;Outdoor
 AR;4;WT54;400;0:53.52;;Alphonse;Noemi;MRI;1995;FRA;Paris;2023-07-15;Female;Outdoor
 AR;4;WT11;800;2:25.87;;Coetzee;Louzanne;RSA;1993;GER;Berlin;2018-06-30;Female;Outdoor
-AR;4;WT12;800;2:24.22;;Longorkaye;Julia;KEN;1989;GRE;Athens;2004-09-20;Female;Outdoor
 AR;4;WT12;800;2:24.22;;Longorkaye;Julia;KEN;1989;GRE;Athens;2004-09-20;Female;Outdoor
 AR;4;WT13;800;2:03.21;;Bousaid;Somaya;TUN;1980;CHN;Beijing;2008-09-09;Female;Outdoor
 AR;4;WT37;800;2:41.71;;Gouws;Liezel;RSA;1998;RSA;Bloemfontein;2018-04-01;Female;Outdoor
@@ -313,7 +302,6 @@ AR;4;WF63;DIS;25.43;;Lawrence;Esther;NGR;1990;TUN;Tunis;2015-03-25;Female;Outdoo
 AR;4;WF64;DIS;27.09;;Combrink;Maria;RSA;1977;RSA;Stellenbosch;2019-03-20;Female;Outdoor
 AR;4;WF33;SPE;15.24;;El Kassioui;Fouzia;MAR;1992;FRA;Paris;2023-07-11;Female;Outdoor
 AR;4;WF34;SPE;17.41;;Ben Jemaa;Yousra;TUN;1986;TUN;Tunis;2021-03-20;Female;Outdoor
-AR;4;WF35;SPE;21.94;;Mashinini;Beverly Siphiwe;RSA;1981;GRE;Athens;2004-09-21;Female;Outdoor
 AR;4;WF35;SPE;21.94;;Mashinini;Beverly Siphiwe;RSA;1981;GRE;Athens;2004-09-21;Female;Outdoor
 AR;4;WF36;SPE;16.04;;Guizani;Amani;TUN;1988;TUN;Rades - Tunis;2010-06-29;Female;Outdoor
 AR;4;WF37;SPE;36.37;;Sidhom;Aida;TUN;1982;TUN;Tunis;2008-06-17;Female;Outdoor
