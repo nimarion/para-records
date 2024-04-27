@@ -1,5 +1,5 @@
 Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Geschlecht;Umgebung
-AR;1;MT11;100;0:10.82;1.2;Ghavelas;Athanasios;GRE;1999;JPN;Tokyo;2021-09-02;Male;Outdoor
+AR;1;MT11;100;0:10.82;1.2;Ghavelas;Nasos;GRE;1999;JPN;Tokyo;2021-09-02;Male;Outdoor
 AR;1;MT12;100;0:10.43;0.2;Kashafali;Salum Ageze;NOR;1993;JPN;Tokyo;2021-08-29;Male;Outdoor
 AR;1;MT13;100;0:10.37;0.8;Kashafali;Salum Ageze;NOR;1993;NOR;Oslo;2023-06-15;Male;Outdoor
 AR;1;MT32;100;0:23.25;0.0;Mcdonagh;Martin;IRL;1976;GBR;Nottingham;1999-08-13;Male;Outdoor
@@ -24,7 +24,7 @@ AR;1;MT63;100;0:12.03;0.6;de Jong;Joel;NED;2002;SUI;Nottwil;2023-05-26;Male;Outd
 AR;1;MT64;100;0:10.64;-0.2;Manu;Maxcel Amo;ITA;1992;FRA;Paris;2023-07-11;Male;Outdoor
 AR;1;MT71;100;0:28.79;0.5;Hayer;Muninder;GBR;1995;GBR;Warwickshire;2023-04-15;Male;Outdoor
 AR;1;MT72;100;0:16.66;1.5;Drysdale;Gavin;GBR;2000;FRA;Paris;2023-07-09;Male;Outdoor
-AR;1;MT11;200;0:22.79;-0.7;Ghavelas;Athanasios;GRE;1999;GRE;Heraklion Crete;2022-05-22;Male;Outdoor
+AR;1;MT11;200;0:22.79;-0.7;Ghavelas;Nasos;GRE;1999;GRE;Heraklion Crete;2022-05-22;Male;Outdoor
 AR;1;MT12;200;0:21.56;1.0;Michalski;Mateusz;POL;1987;GBR;London;2012-09-08;Male;Outdoor
 AR;1;MT13;200;0:21.05;1.7;Smyth;Jason;IRL;1987;FRA;Lyon;2013-07-21;Male;Outdoor
 AR;1;MT32;200;0:46.81;0.0;Mcdonagh;Martin;IRL;1976;GBR;Nottingham;2001-07-28;Male;Outdoor
