@@ -41,6 +41,7 @@ AL;6;MT54;1K5;2:50.84;;Rizzo;Samuel;AUS;2000;UAE;Dubai;2024-02-13;Male;Outdoor
 AL;6;MT13;5K0;15:59.99;;Whittaker;Michael;NZL;1990;UAE;Dubai;2024-02-13;Male;Outdoor
 AL;6;MT38;5K0;15:11.13;;Langdon;Reece;AUS;1996;AUS;Melbourne;2024-02-03;Male;Outdoor
 AL;6;MT54;5K0;9:53.70;;Rizzo;Samuel;AUS;2000;UAE;Sharjah;2024-02-06;Male;Outdoor
+AL;6;MT54;MAR;1:29:25;;Lappin;Jake;AUS;1992;USA;Boston;2024-04-15;Male;Outdoor
 AL;6;MT20;WEI;6.91;-0.5;Hum;Nicholas;AUS;1993;AUS;Adelaide;2024-04-11;Male;Outdoor
 AL;6;MT35;WEI;4.56;0.2;Netting;Jack;AUS;2001;AUS;Adelaide;2024-04-11;Male;Outdoor
 AL;6;MT36;WEI;5.47;1.8;Stedman;William;NZL;1999;NZL;Christchurch;2024-02-24;Male;Outdoor
@@ -112,6 +113,8 @@ AL;6;WT53;1K5;3:50.09;;Ballard;Angela;AUS;1982;AUS;Canberra;2024-01-21;Female;Ou
 AL;6;WT54;1K5;3:55.02;;Dawes;Christie;AUS;1980;AUS;Canberra;2024-01-20;Female;Outdoor
 AL;6;WT53;5K0;13:02.75;;Ballard;Angela;AUS;1982;AUS;Canberra;2024-01-22;Female;Outdoor
 AL;6;WT54;5K0;13:11.00;;Dawes;Christie;AUS;1980;USA;Boston;2024-04-13;Female;Outdoor
+AL;6;WT53;MAR;1:39:20;;de Rozario;Madison;AUS;1993;USA;Boston;2024-04-15;Female;Outdoor
+AL;6;WT54;MAR;1:48:40;;Dawes;Christie;AUS;1980;USA;Boston;2024-04-15;Female;Outdoor
 AL;6;WT20;WEI;5.2;1.0;Blacksmith;Telaya;AUS;2007;AUS;Adelaide;2024-04-11;Female;Outdoor
 AL;6;WT36;WEI;3.88;0.1;Colley;Tamsin;AUS;2002;AUS;Sydney;2024-03-14;Female;Outdoor
 AL;6;WT37;WEI;4.13;0.0;Joseph;Kailyn;AUS;2002;AUS;Canberra;2024-01-26;Female;Outdoor

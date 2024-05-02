@@ -68,6 +68,11 @@ AL;2;MT62;5K0;19:05.00;;Reynolds;Brian;USA;1988;USA;Boston;2024-04-13;Male;Outdo
 AL;3;MT11;10K;35:24.00;;Mendes Alves de Brito;Antonio Carlos;BRA;1989;ESP;Sevilla;2024-02-18;Male;Outdoor
 AL;3;MT11;HAM;1:15:32.0;;Mendes Alves de Brito;Antonio Carlos;BRA;1989;ESP;Sevilla;2024-02-18;Male;Outdoor
 AL;3;MT11;MAR;2:39:13;;Mendes Alves de Brito;Antonio Carlos;BRA;1989;ESP;Sevilla;2024-02-18;Male;Outdoor
+AL;2;MT12;MAR;3:24:21;;Ramirez;Irwin;USA;1987;USA;Boston;2024-04-15;Male;Outdoor
+AL;2;MT52;MAR;2:11:39;;Rigo;Isaiah;USA;1999;USA;Boston;2024-04-15;Male;Outdoor
+AL;2;MT53;MAR;1:31:16;;Willand;Wyatt;USA;2004;USA;Boston;2024-04-15;Male;Outdoor
+AL;2;MT54;MAR;1:20:37;;Romanchuk;Daniel;USA;1998;USA;Boston;2024-04-15;Male;Outdoor
+AL;2;MT62;MAR;3:28:41;;Reynolds;Brian;USA;1988;USA;Boston;2024-04-15;Male;Outdoor
 AL;2;MT42;HOC;1.81;;Astacio;Wagner;DOM;2003;MEX;Xalapa;2024-04-06;Male;Outdoor
 AL;3;MT44;HOC;1.96;;Uribe Pimentel;Rafael Augusto;VEN;1985;ITA;Jesolo;2024-03-23;Male;Outdoor
 AL;2;MT45;HOC;1.27;;Perez Giron;Raul Antonio;GUA;1974;GUA;Guatemala;2024-03-09;Male;Outdoor
@@ -190,10 +195,13 @@ AL;3;WT54;1K5;3:18.48;;dos Santos Rocha;Aline;BRA;1991;UAE;Sharjah;2024-02-05;Fe
 AL;3;WT12;5K0;26:02.00;;Rodrigues;Livea;BRA;1982;USA;Boston;2024-04-13;Female;Outdoor
 AL;2;WT54;5K0;11:13.58;;McFadden;Tatyana;USA;1989;UAE;Sharjah;2024-02-06;Female;Outdoor
 AL;3;WT12;MAR;3:01:23;;de Jesus Santos;Edneusa;BRA;1976;ESP;Barcelona;2024-03-10;Female;Outdoor
+AL;2;WT34;MAR;2:16:55;;Houston;Eva;USA;2001;USA;Boston;2024-04-15;Female;Outdoor
+AL;2;WT53;MAR;1:52:13;;Hoang;Yen;USA;1997;USA;Boston;2024-04-15;Female;Outdoor
+AL;3;WT54;MAR;1:41:47;;dos Santos Rocha;Aline;BRA;1991;USA;Boston;2024-04-15;Female;Outdoor
 AL;3;WT11;WEI;4.75;-0.9;Silva Spoladore;Lorena;BRA;1995;BRA;Sao Paulo;2024-02-25;Female;Outdoor
 AL;2;WT12;WEI;3.19;0.0;Rodriguez Aguila;Dana Larissa;MEX;2007;MEX;Xalapa;2024-04-05;Female;Outdoor
 AL;3;WT20;WEI;6.19;1.7;Cassiano Da Silva;Zileide;BRA;1998;BRA;Sao Paulo;2024-04-20;Female;Outdoor
-AL;2;WT37;WEI;3.65;2.0;Richardson;Janie;USA;2005;USA;Walnut;2024-03-15;Female;Outdoor
+AL;2;WT37;WEI;3.66;0.4;Richardson;Janie;USA;2005;USA;Cottonwood;2024-04-19;Female;Outdoor
 AL;2;WT38;WEI;4.64;2.0;Guimaraes;Catarina Joao;USA;2004;USA;Walnut;2024-03-15;Female;Outdoor
 AL;3;WT42;WEI;4.13;1.5;Da Silva;Ana Claudia Maria;BRA;1987;BRA;Sao Paulo;2024-03-03;Female;Outdoor
 AL;3;WT47;WEI;5.88;0.6;Rodriguez;Kiara;ECU;2002;UAE;Dubai;2024-02-15;Female;Outdoor
