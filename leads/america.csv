@@ -6,7 +6,7 @@ AL;2;MT34;100;0:15.91;-2.6;Smeenk;Austin;CAN;1997;UAE;Sharjah;2024-02-04;Male;Ou
 AL;3;MT35;100;0:12.31;-0.5;Bordignon;Fabio;BRA;1992;BRA;Sao Paulo;2024-04-18;Male;Outdoor
 AL;3;MT36;100;0:12.21;-1.1;Chavez;Alexis Sebastian;ARG;2002;MEX;Xalapa;2024-04-06;Male;Outdoor
 AL;3;MT37;100;0:11.09;1.5;Gomes de Mendonca;Ricardo;BRA;1990;BRA;Sao Paulo;2024-04-18;Male;Outdoor
-AL;2;MT38;100;0:11.49;-0.6;Chessani Garcia;Jose Rodolfo;MEX;1998;MEX;Xalapa;2024-04-06;Male;Outdoor
+AL;2;MT38;100;0:11.03;-1.3;Blackwell;Jaydin;USA;2004;USA;Des Moines;2024-04-27;Male;Outdoor
 AL;3;MT44;100;0:12.14;-1.1;Pereira Santos;Romildo;BRA;1999;BRA;Sao Paulo;2024-03-16;Male;Outdoor
 AL;2;MT45;100;0:11.57;1.8;Sample;Rayven;USA;2002;USA;Walnut;2024-03-16;Male;Outdoor
 AL;3;MT47;100;0:10.72;-1.1;Ferreira dos Santos;Petrucio;BRA;1996;BRA;Sao Paulo;2024-03-16;Male;Outdoor
@@ -19,17 +19,19 @@ AL;2;MT63;100;0:12.34;0.8;Frech;Ezra;USA;2005;USA;Walnut;2024-03-16;Male;Outdoor
 AL;2;MT64;100;0:10.93;1.3;Guity Guity;Sherman Isidro;CRC;1996;ITA;Jesolo;2024-03-23;Male;Outdoor
 AL;2;MT71;100;0:26.61;0.6;Putman;Jody;USA;2001;USA;Walnut;2024-03-16;Male;Outdoor
 AL;3;MT72;100;0:15.90;1.6;Marques Krieger Quintino;Vinicius;BRA;2006;BRA;Sao Paulo;2024-04-18;Male;Outdoor
-AL;2;MT11;200;0:25.21;0.7;Brown;David;USA;1992;USA;San Diego;2024-02-03;Male;Outdoor
-AL;2;MT12;200;0:21.49;0.5;Malone;Noah;USA;2001;USA;San Diego;2024-04-06;Male;Outdoor
+AL;2;MT11;200;0:24.87;1.4;Brown;David;USA;1992;USA;Walnut;2024-04-20;Male;Outdoor
+AL;2;MT12;200;0:21.07;1.4;Malone;Noah;USA;2001;USA;Walnut;2024-04-20;Male;Outdoor
 AL;3;MT13;200;0:22.65;1.9;Barros Ferreira;Fabricio Junior;BRA;1998;BRA;Sao Paulo;2024-02-25;Male;Outdoor
 AL;3;MT35;200;0:26.42;-0.6;Barreto;Hernan;ARG;1991;MEX;Xalapa;2024-04-05;Male;Outdoor
 AL;2;MT36;200;0:41.39;-0.6;Landois Varela;Edgar Michel;MEX;2009;MEX;Xalapa;2024-04-05;Male;Outdoor
 AL;3;MT37;200;0:23.83;1.9;Cavalcante Pinheiro;Edson;BRA;1979;BRA;Sao Paulo;2024-02-25;Male;Outdoor
-AL;2;MT38;200;0:25.63;-2.3;Torres Lopez;Jassiel Jose;PUR;2005;ITA;Jesolo;2024-03-24;Male;Outdoor
+AL;2;MT38;200;0:22.83;1.7;Mayhugh;Nick;USA;1996;USA;Clermont;2024-04-20;Male;Outdoor
+AL;3;MT47;200;0:23.02;-2.6;Marins Araujo;Bruno;BRA;1992;BRA;Sao Paulo;2024-04-28;Male;Outdoor
 AL;2;MT51;200;0:43.66;2.0;Fournie;Cody;CAN;1989;UAE;Dubai;2024-02-15;Male;Outdoor
-AL;2;MT62;200;0:31.46;0.3;Reynolds;Brian;USA;1988;MEX;Xalapa;2024-04-05;Male;Outdoor
+AL;2;MT62;200;0:22.01;1.4;Leeper;Blake;USA;1989;USA;Walnut;2024-04-20;Male;Outdoor
 AL;3;MT64;200;0:22.79;0.1;Fortes;Wallison Andre;BRA;1996;BRA;Sao Paulo;2024-03-03;Male;Outdoor
 AL;2;MT72;200;0:40.92;-0.1;Anwar;Michael;USA;1995;USA;Spokane;2024-04-05;Male;Outdoor
+AL;3;MT11;400;0:52.24;;Mendes Da Silva;Daniel;BRA;1979;BRA;Sao Paulo;2024-04-28;Male;Outdoor
 AL;3;MT12;400;0:51.04;;Acosta Manjarres;Yamil David;COL;1997;UAE;Dubai;2024-02-14;Male;Outdoor
 AL;3;MT13;400;0:49.48;;Souza;Davi Wilker;BRA;1997;BRA;Sao Paulo;2024-03-03;Male;Outdoor
 AL;3;MT20;400;0:46.91;;Oliveira Conceicao;Samuel;BRA;1999;BRA;Sao Paulo;2024-02-25;Male;Outdoor
@@ -38,21 +40,22 @@ AL;2;MT36;400;0:57.61;;Zavala Alvarado;Alan Manuel;MEX;1997;MEX;Xalapa;2024-04-0
 AL;3;MT37;400;0:50.95;;Da Silva Chaves;Bartolomeu;BRA;2001;BRA;Sao Paulo;2024-03-16;Male;Outdoor
 AL;2;MT38;400;0:49.34;;Blackwell;Jaydin;USA;2004;USA;Walnut;2024-03-16;Male;Outdoor
 AL;2;MT45;400;0:51.40;;Sample;Rayven;USA;2002;USA;Walnut;2024-03-16;Male;Outdoor
-AL;3;MT47;400;0:49.28;;de Sousa Lima;Lucas;BRA;1995;BRA;Sao Paulo;2024-04-19;Male;Outdoor
+AL;3;MT47;400;0:48.80;;de Sousa Lima;Lucas;BRA;1995;BRA;Sao Paulo;2024-04-28;Male;Outdoor
 AL;2;MT52;400;1:01.45;;Perez Juarez;Leonardo De Jesus;MEX;1993;MEX;Xalapa;2024-04-07;Male;Outdoor
 AL;3;MT53;400;0:52.74;;Fernandes Da Silva;Ariosvaldo;BRA;1976;BRA;Sao Paulo;2024-04-19;Male;Outdoor
 AL;2;MT54;400;0:47.84;;Cervantes Garcia;Juan Pablo;MEX;1992;MEX;Xalapa;2024-04-07;Male;Outdoor
 AL;2;MT62;400;0:48.04;;Woodhall;Hunter;USA;1999;USA;Walnut;2024-03-17;Male;Outdoor
-AL;2;MT20;800;1:57.17;;Barber;Michael;CAN;2000;USA;Azusa;2024-04-13;Male;Outdoor
+AL;2;MT20;800;1:55.83;;Barber;Michael;CAN;2000;USA;Bellingham;2024-04-27;Male;Outdoor
 AL;2;MT34;800;1:39.68;;Smeenk;Austin;CAN;1997;UAE;Dubai;2024-02-15;Male;Outdoor
 AL;2;MT38;800;1:59.59;;Stanley;Liam;CAN;1997;USA;Azusa;2024-04-13;Male;Outdoor
+AL;2;MT52;800;2:23.60;;Rigo;Isaiah;USA;1999;USA;Des Moines;2024-04-26;Male;Outdoor
 AL;2;MT53;800;1:44.00;;Frias Moreno;Jose Alan;MEX;1987;UAE;Dubai;2024-02-13;Male;Outdoor
 AL;2;MT54;800;1:32.83;;Cassidy;Josh;CAN;1984;UAE;Sharjah;2024-02-04;Male;Outdoor
 AL;2;MT62;800;1:57.53;;Leeper;Blake;USA;1989;USA;Azusa;2024-04-13;Male;Outdoor
 AL;3;MT11;1K5;4:04.79;;Agripino dos Santos;Julio Cesar;BRA;1991;BRA;Sao Paulo;2024-03-03;Male;Outdoor
 AL;3;MT12;1K5;4:12.21;;de Souza Santos;Sivaldo;BRA;1991;BRA;Sao Paulo;2024-03-16;Male;Outdoor
-AL;2;MT13;1K5;3:55.14;;Gomez;Joel;USA;2003;USA;Walnut;2024-03-16;Male;Outdoor
-AL;2;MT20;1K5;3:57.46;;Brannigan;Michael;USA;1996;USA;Walnut;2024-03-16;Male;Outdoor
+AL;2;MT13;1K5;3:53.65;;Gomez;Joel;USA;2003;USA;Des Moines;2024-04-25;Male;Outdoor
+AL;2;MT20;1K5;3:50.73;;Brannigan;Michael;USA;1996;USA;Des Moines;2024-04-27;Male;Outdoor
 AL;3;MT37;1K5;4:28.80;;de Macedo;David Benedito;BRA;1984;BRA;Sao Paulo;2024-04-18;Male;Outdoor
 AL;2;MT38;1K5;4:03.94;;Stanley;Liam;CAN;1997;USA;Bellingham;2024-04-27;Male;Outdoor
 AL;3;MT46;1K5;4:03.49;;Orrego Campos;Mauricio Esteban;CHI;2000;ITA;Jesolo;2024-03-22;Male;Outdoor
@@ -90,11 +93,11 @@ AL;2;MT42;WEI;4.44;0.4;Astacio;Wagner;DOM;2003;MEX;Xalapa;2024-04-06;Male;Outdoo
 AL;3;MT44;WEI;6.07;-1.6;Pereira Santos;Romildo;BRA;1999;BRA;Sao Paulo;2024-03-16;Male;Outdoor
 AL;2;MT47;WEI;7.84;-0.5;Sol Cervantes;Robiel Yankiel;CUB;2003;MEX;Xalapa;2024-04-07;Male;Outdoor
 AL;2;MT63;WEI;6.94;1.6;Frech;Ezra;USA;2005;USA;Walnut;2024-03-16;Male;Outdoor
-AL;2;MT64;WEI;7.36;2.0;Merrill;Trenten;USA;1990;USA;Walnut;2024-03-16;Male;Outdoor
+AL;2;MT64;WEI;7.82;0.0;Loccident;Derek;USA;1998;USA;Walnut;2024-04-19;Male;Outdoor
 AL;3;MF11;KUG;13.63;;Da Silva;Alessandro Rodrigo;BRA;1984;BRA;Sao Paulo;2024-03-17;Male;Outdoor
-AL;2;MF12;KUG;14.19;;Huhta;Devin;USA;1984;USA;Spokane;2024-04-05;Male;Outdoor
+AL;3;MF12;KUG;14.64;;Da Silva Pereira;Caio Vinicius;BRA;1980;BRA;Sao Paulo;2024-04-28;Male;Outdoor
 AL;3;MF20;KUG;13.78;;Santos;Wellington;BRA;1992;BRA;Sao Paulo;2024-04-20;Male;Outdoor
-AL;3;MF33;KUG;6.5;;dos Santos;Robson Daniel;BRA;1979;ITA;Jesolo;2024-03-22;Male;Outdoor
+AL;3;MF33;KUG;6.74;;dos Santos;Robson Daniel;BRA;1979;BRA;Sao Paulo;2024-04-28;Male;Outdoor
 AL;3;MF34;KUG;11.83;;dos Santos Pereira;Eduardo;BRA;1981;BRA;Sao Paulo;2024-04-19;Male;Outdoor
 AL;3;MF35;KUG;15.37;;Urra;Hernan Emanuel;ARG;1996;MEX;Xalapa;2024-04-06;Male;Outdoor
 AL;2;MF36;KUG;7.73;;Winter;Sam;USA;2005;USA;Walnut;2024-03-15;Male;Outdoor
@@ -107,7 +110,7 @@ AL;2;MF46;KUG;15.81;;Cinnamo;Joshua;USA;1981;USA;Walnut;2024-03-15;Male;Outdoor
 AL;3;MF54;KUG;9.29;;Bohorquez Taborda;Alex Arlen;COL;1983;COL;Ibague;2024-04-04;Male;Outdoor
 AL;3;MF55;KUG;12.03;;Santos;Wallace;BRA;1984;BRA;Sao Paulo;2024-03-16;Male;Outdoor
 AL;2;MF56;KUG;9.91;;Medina Castaneda;Oscar Omar;MEX;1994;MEX;Xalapa;2024-04-05;Male;Outdoor
-AL;3;MF57;KUG;15.07;;Paulino dos Santos;Thiago;BRA;1985;BRA;Sao Paulo;2024-04-19;Male;Outdoor
+AL;3;MF57;KUG;15.27;;Paulino dos Santos;Thiago;BRA;1985;BRA;Sao Paulo;2024-04-28;Male;Outdoor
 AL;3;MF63;KUG;10.72;;Felipa;Carlos;PER;1981;MEX;Xalapa;2024-04-07;Male;Outdoor
 AL;2;MF64;KUG;10.59;;Velasquez;Leonel;GUA;2002;GUA;Guatemala;2024-03-09;Male;Outdoor
 AL;3;MF11;DIS;42.43;;Da Silva;Alessandro Rodrigo;BRA;1984;BRA;Sao Paulo;2024-03-16;Male;Outdoor
@@ -115,18 +118,19 @@ AL;3;MF12;DIS;25.09;;Carballo Marcano;Oscar Armando;VEN;1975;MEX;Xalapa;2024-04-
 AL;2;MF37;DIS;54.81;;Zesseu;Jesse;CAN;1999;USA;San Diego;2024-03-29;Male;Outdoor
 AL;2;MF42;DIS;38.99;;Estrada Bernal;Jose Luis Diego;MEX;2002;MEX;Xalapa;2024-04-07;Male;Outdoor
 AL;4;MF43;DIS;55.15;;Stewart;Akeem;TTO;1992;JAM;Kingston;2024-03-16;Male;Outdoor
-AL;2;MF44;DIS;55.8;;Blair;David;USA;1975;USA;Walnut;2024-03-17;Male;Outdoor
+AL;2;MF44;DIS;56.84;;Blair;David;USA;1975;USA;Provo;2024-04-27;Male;Outdoor
 AL;3;MF52;DIS;21.75;;Rocha;Andre;BRA;1977;BRA;Sao Paulo;2024-03-17;Male;Outdoor
 AL;3;MF54;DIS;17.59;;Ottoni Rosa;Fernando;BRA;1978;ITA;Jesolo;2024-03-23;Male;Outdoor
 AL;3;MF55;DIS;35.51;;Pacheco;Kenny;PER;1991;MEX;Xalapa;2024-04-05;Male;Outdoor
 AL;3;MF56;DIS;46.81;;Batista dos Santos;Claudiney;BRA;1978;BRA;Sao Paulo;2024-04-20;Male;Outdoor
 AL;3;MF57;DIS;38.09;;Aguilar Tracana;Lautaro Ezequiel;ARG;1996;ARG;Buenos Aires;2024-04-20;Male;Outdoor
 AL;3;MF63;DIS;34.94;;Marin Quirama;Yesid de Jesus;COL;1975;COL;Ibague;2024-04-04;Male;Outdoor
-AL;2;MF64;DIS;52.33;;Rohn;Max;USA;1987;USA;San Diego;2024-04-06;Male;Outdoor
+AL;2;MF64;DIS;62.98;;Campbell;Jeremy;USA;1987;USA;Des Moines;2024-04-26;Male;Outdoor
 AL;3;MF12;SPE;45.83;;de Souza Moura;Brendow Christian;BRA;1995;BRA;Sao Paulo;2024-04-18;Male;Outdoor
 AL;3;MF13;SPE;46.92;;Silva de Souza;Jorge Luiz;BRA;1978;BRA;Sao Paulo;2024-04-18;Male;Outdoor
 AL;2;MF33;SPE;11.4;;Mendoza Ortiz;Jose Luis;MEX;2000;MEX;Xalapa;2024-04-05;Male;Outdoor
 AL;3;MF34;SPE;35.97;;Meneses Medina;Diego Fernando;COL;1998;UAE;Dubai;2024-02-13;Male;Outdoor
+AL;3;MF37;SPE;23.41;;Duarte D Oliveira;Rammon;BRA;1985;BRA;Sao Paulo;2024-04-28;Male;Outdoor
 AL;3;MF38;SPE;52.76;;Lucumi Villegas;Luis Fernando;COL;1998;COL;Ibague;2024-04-04;Male;Outdoor
 AL;2;MF40;SPE;29.38;;Sanchez Vega;Ruben Nahum;MEX;2001;MEX;Xalapa;2024-04-05;Male;Outdoor
 AL;2;MF41;SPE;36.04;;Castro Martinez;Ever Rene;CUB;1993;MEX;Xalapa;2024-04-05;Male;Outdoor
@@ -134,12 +138,12 @@ AL;3;MF42;SPE;56.87;;Roberto Floriani;Edenilson;BRA;1990;BRA;Sao Paulo;2024-04-1
 AL;2;MF43;SPE;50.24;;Monterrey Perez;Yorizan;CUB;1989;MEX;Xalapa;2024-04-07;Male;Outdoor
 AL;3;MF44;SPE;53.48;;Jefferson de Lima;Francisco;BRA;1991;BRA;Sao Paulo;2024-04-18;Male;Outdoor
 AL;2;MF46;SPE;61.14;;Varona Gonzalez;Guillermo;CUB;1995;MEX;Xalapa;2024-04-05;Male;Outdoor
-AL;2;MF54;SPE;29.45;;Fuentes Yanez;Edgar Ulises;MEX;1994;MEX;Xalapa;2024-04-06;Male;Outdoor
+AL;2;MF54;SPE;30.6;;Phongsavanh;Justin;USA;1997;USA;Des Moines;2024-04-25;Male;Outdoor
 AL;3;MF55;SPE;32.16;;Varelo de Oliveira;Sandro;BRA;1981;BRA;Sao Paulo;2024-04-18;Male;Outdoor
 AL;3;MF57;SPE;49.78;;Lins Nobre;Cicero Valdiran;BRA;1992;BRA;Sao Paulo;2024-03-16;Male;Outdoor
 AL;2;MF63;SPE;20.57;;Jackson;Desmond;USA;1999;USA;Walnut;2024-03-16;Male;Outdoor
-AL;2;MF64;SPE;47.05;;Loccident;Derek;USA;1998;USA;Walnut;2024-03-16;Male;Outdoor
-AL;3;MF31;KEU;19.91;;Da Silva;Rafael Mateus;BRA;1986;BRA;Sao Paulo;2024-03-17;Male;Outdoor
+AL;2;MF64;SPE;47.56;;Loccident;Derek;USA;1998;USA;Walnut;2024-04-18;Male;Outdoor
+AL;3;MF31;KEU;20.38;;Da Silva;Rafael Mateus;BRA;1986;BRA;Sao Paulo;2024-04-28;Male;Outdoor
 AL;2;MF32;KEU;20.02;;Vazquez Estrada;Esteban Abraham;MEX;1995;MEX;Xalapa;2024-04-06;Male;Outdoor
 AL;2;MF51;KEU;32.47;;Ramos Hernandez;Mario Santana;MEX;1981;MEX;Xalapa;2024-04-05;Male;Outdoor
 AL;3;WT11;100;0:12.13;-1.1;Geber dos Santos;Jerusa;BRA;1982;BRA;Sao Paulo;2024-03-03;Female;Outdoor
@@ -148,7 +152,7 @@ AL;3;WT13;100;0:12.04;0.8;Soares Da Silva;Rayane;BRA;1997;BRA;Sao Paulo;2024-04-
 AL;2;WT34;100;0:18.83;0.5;Houston;Eva;USA;2001;USA;Champaign;2024-04-13;Female;Outdoor
 AL;2;WT35;100;0:15.97;0.4;Salinaro;Brianna;USA;1998;USA;Walnut;2024-03-16;Female;Outdoor
 AL;3;WT36;100;0:14.31;0.1;Hipolito;Veronica;BRA;1996;BRA;Sao Paulo;2024-03-16;Female;Outdoor
-AL;2;WT37;100;0:13.11;1.7;Swanson;Taylor;USA;1992;USA;Walnut;2024-03-16;Female;Outdoor
+AL;2;WT37;100;0:12.83;0.2;Swanson;Taylor;USA;1992;USA;Walnut;2024-04-20;Female;Outdoor
 AL;3;WT38;100;0:13.76;-0.3;Saldarriaga Hernandez;Xiomara;COL;2004;MEX;Xalapa;2024-04-06;Female;Outdoor
 AL;3;WT42;100;0:15.96;0.4;Da Silva;Ana Claudia Maria;BRA;1987;BRA;Sao Paulo;2024-04-18;Female;Outdoor
 AL;2;WT44;100;0:14.08;0.5;Carey;Annie;USA;2004;USA;Walnut;2024-03-16;Female;Outdoor
@@ -163,16 +167,16 @@ AL;2;WT72;100;0:18.29;0.6;Grooms;Sayers;USA;2005;USA;Walnut;2024-03-16;Female;Ou
 AL;3;WT11;200;0:25.48;-1.6;Simplicio Da Silva;Thalita Vitoria;BRA;1997;BRA;Sao Paulo;2024-04-20;Female;Outdoor
 AL;3;WT12;200;0:25.46;-1.4;Gomes de Aguiar;Lorraine;BRA;1997;BRA;Sao Paulo;2024-03-17;Female;Outdoor
 AL;3;WT13;200;0:26.12;1.0;Mendonca Ferreira;Gabriela;BRA;1998;BRA;Sao Paulo;2024-02-25;Female;Outdoor
-AL;2;WT35;200;0:34.62;0.7;Salinaro;Brianna;USA;1998;USA;Walnut;2024-03-15;Female;Outdoor
+AL;2;WT35;200;0:34.61;1.2;Salinaro;Brianna;USA;1998;USA;Walnut;2024-04-20;Female;Outdoor
 AL;3;WT36;200;0:30.32;0.3;Rotela;Araceli;ARG;2004;MEX;Xalapa;2024-04-05;Female;Outdoor
-AL;2;WT37;200;0:28.05;0.1;Swanson;Taylor;USA;1992;USA;Spokane;2024-04-05;Female;Outdoor
-AL;2;WT38;200;0:29.25;1.3;Guimaraes;Catarina Joao;USA;2004;USA;Walnut;2024-03-15;Female;Outdoor
+AL;2;WT37;200;0:27.03;1.2;Swanson;Taylor;USA;1992;USA;Walnut;2024-04-20;Female;Outdoor
+AL;2;WT38;200;0:28.61;1.2;Guimaraes;Catarina Joao;USA;2004;USA;Walnut;2024-04-20;Female;Outdoor
 AL;2;WT44;200;0:29.47;1.5;Carey;Annie;USA;2004;USA;Walnut;2024-03-15;Female;Outdoor
 AL;3;WT45;200;0:35.09;-1.1;dos Santos Silva;Nanilza;BRA;1986;BRA;Sao Paulo;2024-04-20;Female;Outdoor
 AL;2;WT47;200;0:25.68;0.7;Mason;Brittni;USA;1998;USA;Gainsville;2024-03-30;Female;Outdoor
 AL;2;WT63;200;0:33.50;1.5;Lambert;Noelle;USA;1997;USA;Fullerton;2024-03-09;Female;Outdoor
-AL;2;WT64;200;0:27.45;0.2;Hatz;B;USA;2000;USA;San Diego;2024-04-06;Female;Outdoor
-AL;3;WT11;400;0:58.36;;Simplicio Da Silva;Thalita Vitoria;BRA;1997;BRA;Sao Paulo;2024-04-19;Female;Outdoor
+AL;2;WT64;200;0:26.46;1.2;Hatz;B;USA;2000;USA;Walnut;2024-04-20;Female;Outdoor
+AL;3;WT11;400;0:58.30;;dos Santos;Jhulia Karol;BRA;1991;BRA;Sao Paulo;2024-04-28;Female;Outdoor
 AL;3;WT12;400;0:57.46;;Gomes de Aguiar;Lorraine;BRA;1997;BRA;Sao Paulo;2024-04-19;Female;Outdoor
 AL;3;WT13;400;0:56.16;;Soares Da Silva;Rayane;BRA;1997;BRA;Sao Paulo;2024-03-16;Female;Outdoor
 AL;2;WT20;400;0:57.56;;Clark;Breanna;USA;1994;USA;Walnut;2024-03-16;Female;Outdoor
@@ -184,7 +188,7 @@ AL;2;WT53;400;1:01.49;;Lewis;Jessica Cooper;BER;1993;UAE;Sharjah;2024-02-06;Fema
 AL;2;WT54;400;0:51.40;;McFadden;Tatyana;USA;1989;UAE;Sharjah;2024-02-06;Female;Outdoor
 AL;3;WT11;800;2:35.52;;Venancio de Oliveira;Isadora;BRA;2004;BRA;Sao Paulo;2024-02-25;Female;Outdoor
 AL;2;WT20;800;2:27.92;;Bounds;Kaitlin;USA;1991;USA;Conway;2024-03-02;Female;Outdoor
-AL;2;WT34;800;2:42.08;;Meairs;Elicia;USA;2005;USA;Walnut;2024-03-15;Female;Outdoor
+AL;2;WT34;800;2:19.69;;Houston;Eva;USA;2001;USA;Des Moines;2024-04-26;Female;Outdoor
 AL;3;WT53;800;1:21.11;;Ferreyra;Milagros;ARG;2001;ARG;Buenos Aires;2024-04-27;Female;Outdoor
 AL;2;WT54;800;1:44.43;;McFadden;Tatyana;USA;1989;UAE;Dubai;2024-02-13;Female;Outdoor
 AL;3;WT11;1K5;5:07.32;;Muller;Camila;BRA;1994;BRA;Sao Paulo;2024-04-18;Female;Outdoor
@@ -206,14 +210,14 @@ AL;2;WT38;WEI;4.64;2.0;Guimaraes;Catarina Joao;USA;2004;USA;Walnut;2024-03-15;Fe
 AL;3;WT42;WEI;4.13;1.5;Da Silva;Ana Claudia Maria;BRA;1987;BRA;Sao Paulo;2024-03-03;Female;Outdoor
 AL;3;WT47;WEI;5.88;0.6;Rodriguez;Kiara;ECU;2002;UAE;Dubai;2024-02-15;Female;Outdoor
 AL;2;WT62;WEI;3.91;0.0;Rosenthal;Lillian;USA;2007;USA;Janesville;2024-04-04;Female;Outdoor
-AL;2;WT63;WEI;4.77;0.0;Lambert;Noelle;USA;1997;USA;San Diego;2024-04-06;Female;Outdoor
-AL;2;WT64;WEI;4.92;1.5;Hatz;B;USA;2000;USA;Walnut;2024-03-15;Female;Outdoor
+AL;2;WT63;WEI;4.91;0.0;Lambert;Noelle;USA;1997;USA;Walnut;2024-04-19;Female;Outdoor
+AL;2;WT64;WEI;5;0.0;Hatz;B;USA;2000;USA;Long Beack;2024-04-11;Female;Outdoor
 AL;3;WF11;KUG;9.99;;Campos;Izabela;BRA;1981;BRA;Sao Paulo;2024-03-16;Female;Outdoor
 AL;3;WF13;KUG;9.7;;Da Silva De Azevedo;Jenifer Cristian;BRA;1997;BRA;Sao Paulo;2024-02-25;Female;Outdoor
-AL;3;WF20;KUG;11.64;;Caetano Alves;Vanessa;BRA;2000;BRA;Sao Paulo;2024-03-16;Female;Outdoor
+AL;3;WF20;KUG;11.77;;Caetano Alves;Vanessa;BRA;2000;BRA;Sao Paulo;2024-04-28;Female;Outdoor
 AL;3;WF32;KUG;7.85;;Brito Oliveira;Wanna Helena;BRA;1996;BRA;Sao Paulo;2024-03-16;Female;Outdoor
 AL;2;WF33;KUG;8.23;;Cota Vera;Gilda Guadalupe;MEX;1989;MEX;Xalapa;2024-04-06;Female;Outdoor
-AL;2;WF34;KUG;6.94;;Grauer;Beth;USA;1983;USA;Walnut;2024-03-15;Female;Outdoor
+AL;2;WF34;KUG;7.28;;Grauer;Beth;USA;1983;USA;Des Moines;2024-04-25;Female;Outdoor
 AL;3;WF35;KUG;8.53;;Oliveira Da Nobrega;Marivana;BRA;1990;ITA;Jesolo;2024-03-22;Female;Outdoor
 AL;3;WF36;KUG;8.62;;Hernandez Florian;Martha Liliana;COL;1988;COL;Ibague;2024-04-04;Female;Outdoor
 AL;3;WF37;KUG;9.95;;Henao Sanchez;Maria Salome;COL;2006;COL;Ibague;2024-04-04;Female;Outdoor
@@ -221,7 +225,7 @@ AL;2;WF40;KUG;8.48;;Mejia Hernandez;Pauleth;MEX;2004;MEX;Xalapa;2024-04-06;Femal
 AL;3;WF41;KUG;9.9;;Buitrago Ariza;Mayerli;COL;1986;COL;Ibague;2024-04-04;Female;Outdoor
 AL;2;WF42;KUG;5.01;;Marin Aboites;Norma Alexandra;MEX;2001;MEX;Xalapa;2024-04-07;Female;Outdoor
 AL;2;WF44;KUG;11.02;;Middleton;Arelle;USA;2008;USA;Walnut;2024-03-17;Female;Outdoor
-AL;2;WF46;KUG;13.21;;Malkamaki;Noelle;USA;2001;USA;Walnut;2024-03-17;Female;Outdoor
+AL;2;WF46;KUG;13.33;;Malkamaki;Noelle;USA;2001;USA;Des Moines;2024-04-26;Female;Outdoor
 AL;3;WF53;KUG;7.64;;Rodrigues Gomes;Elizabeth;BRA;1965;BRA;Sao Paulo;2024-02-25;Female;Outdoor
 AL;2;WF54;KUG;8.19;;Zarza Guadarrama;Gloria;MEX;1984;MEX;Xalapa;2024-04-06;Female;Outdoor
 AL;3;WF55;KUG;6.91;;Valdes Romero;Iveth Del Rosario;PAN;1977;MEX;Xalapa;2024-04-07;Female;Outdoor
@@ -229,18 +233,19 @@ AL;2;WF56;KUG;6.31;;Contreras Roman;Kenia Marlenne;MEX;1997;MEX;Xalapa;2024-04-0
 AL;2;WF57;KUG;10.43;;Ortiz Hernandez;Maria De Los Angeles;MEX;1973;MEX;Xalapa;2024-04-05;Female;Outdoor
 AL;2;WF64;KUG;9.67;;Guerrero;Alicia;USA;2003;USA;Walnut;2024-03-17;Female;Outdoor
 AL;3;WF11;DIS;40.12;;Campos;Izabela;BRA;1981;BRA;Sao Paulo;2024-03-16;Female;Outdoor
+AL;3;WF13;DIS;22.47;;Parreira Garcia;Gabriela;BRA;1986;BRA;Sao Paulo;2024-04-28;Female;Outdoor
 AL;3;WF37;DIS;27.56;;Henao Sanchez;Maria Salome;COL;2006;COL;Ibague;2024-04-04;Female;Outdoor
 AL;3;WF38;DIS;35.56;;Hurtado;Katty;COL;1990;COL;Ibague;2024-04-04;Female;Outdoor
 AL;2;WF40;DIS;23.39;;Mejia Hernandez;Pauleth;MEX;2004;MEX;Xalapa;2024-04-06;Female;Outdoor
-AL;3;WF41;DIS;28.55;;Ruiz Diaz;Antonella;ARG;1996;ARG;Buenos Aires;2024-04-20;Female;Outdoor
+AL;2;WF41;DIS;31.42;;Bolton;Charlotte;CAN;2003;USA;Ramano;2024-04-28;Female;Outdoor
 AL;2;WF44;DIS;41.81;;Machado Plata;Osiris Aneth;MEX;2004;MEX;Xalapa;2024-04-07;Female;Outdoor
 AL;2;WF46;DIS;21.48;;Charles;Ishona;GRN;1986;JAM;Kingston;2024-03-16;Female;Outdoor
-AL;3;WF53;DIS;17.22;;Rodrigues Gomes;Elizabeth;BRA;1965;BRA;Sao Paulo;2024-02-25;Female;Outdoor
+AL;3;WF53;DIS;17.34;;Rodrigues Gomes;Elizabeth;BRA;1965;BRA;Sao Paulo;2024-04-28;Female;Outdoor
 AL;2;WF55;DIS;24.61;;Guerrero Cazares;Rosa Maria;MEX;1984;MEX;Xalapa;2024-04-06;Female;Outdoor
 AL;2;WF56;DIS;20.31;;Contreras Roman;Kenia Marlenne;MEX;1997;MEX;Xalapa;2024-04-06;Female;Outdoor
 AL;2;WF57;DIS;28.56;;Estrada Bernal;Floralia;MEX;1990;MEX;Xalapa;2024-04-06;Female;Outdoor
 AL;2;WF62;DIS;11.31;;Rosenthal;Lillian;USA;2007;USA;Walnut;2024-03-16;Female;Outdoor
-AL;2;WF64;DIS;33.84;;Heims;Jessica;USA;1998;USA;Walnut;2024-03-16;Female;Outdoor
+AL;2;WF64;DIS;34.99;;Heims;Jessica;USA;1998;USA;Des Moines;2024-04-26;Female;Outdoor
 AL;3;WF12;SPE;21.18;;Nunes de Paulo;Nauane;BRA;1984;BRA;Sao Paulo;2024-04-20;Female;Outdoor
 AL;3;WF13;SPE;29.4;;Da Silva De Azevedo;Jenifer Cristian;BRA;1997;BRA;Sao Paulo;2024-04-20;Female;Outdoor
 AL;2;WF33;SPE;9.53;;Castrejon Lopez;Luisa Lizbeth;MEX;1991;MEX;Xalapa;2024-04-05;Female;Outdoor
