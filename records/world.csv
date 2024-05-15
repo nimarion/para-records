@@ -22,6 +22,7 @@ WR;;MT61;100;0:12.73;0.9;Lacin;Ali;GER;1988;GER;Berlin;2020-07-03;Male;Outdoor
 WR;;MT62;100;0:10.54;1.6;Floors;Johannes;GER;1995;UAE;Dubai;2019-11-10;Male;Outdoor
 WR;;MT63;100;0:11.95;1.9;Goncalves Rodrigues;Vinicius;BRA;1994;BRA;São Paulo;2019-04-25;Male;Outdoor
 WR;;MT64;100;0:10.61;1.4;Browne;Richard;USA;1991;QAT;Doha;2015-10-29;Male;Outdoor
+WR;;MT72;100;0:15.80;-2.5;Calcagni;Carlo Fabio Marcello;ITA;1968;ITA;Jesolo;2024-03-24;Male;Outdoor
 WR;;MT11;200;0:22.41;1.6;Brown;David;USA;1992;USA;Walnut, California;2014-04-18;Male;Outdoor
 WR;;MT12;200;0:21.55;0.8;Malone;Noah;USA;2001;USA;Terre Haute, IN;2021-05-07;Male;Outdoor
 WR;;MT13;200;0:21.05;1.7;Smyth;Jason;IRL;1987;FRA;Lyon;2013-07-21;Male;Outdoor
@@ -179,13 +180,13 @@ WR;;MF36;KUG;16.86;;Guenichi;Yassine;TUN;1995;FRA;Paris;2023-07-13;Male;Outdoor
 WR;;MF37;KUG;17.52;;Xia;Dong;CHN;1984;GBR;London;2012-09-05;Male;Outdoor
 WR;;MF38;KUG;18.26;;Lemos Rivas;Jose Gregorio;COL;1991;FRA;Paris;2023-07-16;Male;Outdoor
 WR;;MF40;KUG;11.6;;Monteiro;Miguel;POR;2000;POR;Pombal;2022-02-27;Male;Outdoor
-WR;;MF41;KUG;14.99;;Kappel;Niko;GER;1995;SUI;Nottwil;2022-05-28;Male;Outdoor
+WR;;MF41;KUG;15.07;;Kappel;Niko;GER;1995;GER;Hechingen;2024-05-09;Male;Outdoor
 WR;;MF42;KUG;17.52;;Davies;Aled;GBR;1991;GBR;London;2017-07-22;Male;Outdoor
 WR;;MF43;KUG;19.08;;Stewart;Akeem;TTO;1992;GBR;London;2017-07-23;Male;Outdoor
 WR;;MF44;KUG;15.73;;Walsh;Harrison;GBR;1996;ITA;Grosseto;2019-06-09;Male;Outdoor
 WR;;MF46;KUG;16.8;;Cinnamo;Joshua;USA;1981;UAE;Dubai;2019-11-15;Male;Outdoor
 WR;;MF52;KUG;11.74;;Rocha;Andre;BRA;1977;BRA;São Paulo;2017-10-28;Male;Outdoor
-WR;;MF53;KUG;8.83;;Rocha;Andre;BRA;1977;GER;Berlin;2018-06-30;Male;Outdoor
+WR;;MF53;KUG;8.84;;Gani;Abdelillah;MAR;1987;MAR;Marrakech;2024-04-28;Male;Outdoor
 WR;;MF54;KUG;12.06;;Sokulskii;Sergei;RPC;1985;JPN;Tokyo;2021-08-27;Male;Outdoor
 WR;;MF55;KUG;12.68;;Ruzhdi;Ruzhdi;BUL;1991;FRA;Paris;2023-07-09;Male;Outdoor
 WR;;MF56;KUG;13.49;;Musayev;Olokhan;AZE;1979;CHN;Beijing;2008-09-15;Male;Outdoor
@@ -281,6 +282,7 @@ WR;;WT61;100;0:14.95;1.5;Low;Vanessa;AUS;1990;AUS;Canberra;2020-01-20;Female;Out
 WR;;WT62;100;0:12.40;2.0;Jong;Fleur;NED;1995;SUI;Nottwil;2023-05-27;Female;Outdoor
 WR;;WT63;100;0:13.98;0.6;Sabatini;Ambra;ITA;2002;FRA;Paris;2023-07-13;Female;Outdoor
 WR;;WT64;100;0:12.66;0.5;van Gansewinkel;Marlene;NED;1995;SUI;Nottwil;2019-05-24;Female;Outdoor
+WR;;WT72;100;0:17.07;0.5;Strong;Maria;AUS;1971;FRA;Paris;2023-07-09;Female;Outdoor
 WR;;WT11;200;0:24.39;-1.0;Liu;Cuiqing;CHN;1991;CHN;Tianjin;2019-08-30;Female;Outdoor
 WR;;WT12;200;0:23.02;1.3;Durand Elias;Omara;CUB;1991;JPN;Tokyo;2021-09-04;Female;Outdoor
 WR;;WT13;200;0:24.24;-0.6;Durand Elias;Omara;CUB;1991;NZL;Christchurch;2011-01-26;Female;Outdoor
@@ -402,7 +404,7 @@ WR;;WF35;KUG;13.91;;Wang;Jun;CHN;1990;BRA;Rio de Janeiro;2016-09-15;Female;Outdo
 WR;;WF36;KUG;11.79;;Kober;Birgit;GER;1971;GER;Berlin;2018-08-24;Female;Outdoor
 WR;;WF37;KUG;15.5;;Adams;Lisa;NZL;1990;NZL;Hastings;2020-09-13;Female;Outdoor
 WR;;WF38;KUG;12.58;;Grigaliuniene;Aldona;LTU;1955;CHN;Beijing;2008-09-11;Female;Outdoor
-WR;;WF40;KUG;9.21;;Sliwinska;Renata;POL;1996;FRA;Paris;2023-07-17;Female;Outdoor
+WR;;WF40;KUG;9.25;;Baars;Lara;NED;1996;GER;Hechingen;2024-05-09;Female;Outdoor
 WR;;WF41;KUG;10.55;;Tlili;Raoua;TUN;1989;JPN;Tokyo;2021-08-27;Female;Outdoor
 WR;;WF42;KUG;11.64;;Nwachukwu;Goodness Chiemerie;NGR;1998;FRA;Paris;2023-07-15;Female;Outdoor
 WR;;WF43;KUG;8.74;;Clement;Tayla;NZL;1997;NZL;Auckland;2019-03-21;Female;Outdoor

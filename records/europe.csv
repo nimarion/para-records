@@ -23,7 +23,7 @@ AR;1;MT62;100;0:10.54;1.6;Floors;Johannes;GER;1995;UAE;Dubai;2019-11-10;Male;Out
 AR;1;MT63;100;0:12.03;0.6;de Jong;Joel;NED;2002;SUI;Nottwil;2023-05-26;Male;Outdoor
 AR;1;MT64;100;0:10.64;-0.2;Manu;Maxcel Amo;ITA;1992;FRA;Paris;2023-07-11;Male;Outdoor
 AR;1;MT71;100;0:28.79;0.5;Hayer;Muninder;GBR;1995;GBR;Warwickshire;2023-04-15;Male;Outdoor
-AR;1;MT72;100;0:16.66;1.5;Drysdale;Gavin;GBR;2000;FRA;Paris;2023-07-09;Male;Outdoor
+AR;1;MT72;100;0:15.80;-2.5;Calcagni;Carlo Fabio Marcello;ITA;1968;ITA;Jesolo;2024-03-24;Male;Outdoor
 AR;1;MT11;200;0:22.79;-0.7;Ghavelas;Nasos;GRE;1999;GRE;Heraklion Crete;2022-05-22;Male;Outdoor
 AR;1;MT12;200;0:21.56;1.0;Michalski;Mateusz;POL;1987;GBR;London;2012-09-08;Male;Outdoor
 AR;1;MT13;200;0:21.05;1.7;Smyth;Jason;IRL;1987;FRA;Lyon;2013-07-21;Male;Outdoor
@@ -172,7 +172,7 @@ AR;1;MF36;KUG;16.79;;Sviridov;Vladimir;RUS;1990;RUS;Cheboksary;2023-08-12;Male;O
 AR;1;MF37;KUG;16.8;;Bilius;Mindaugas;LTU;1982;BRA;Rio de Janeiro;2016-09-14;Male;Outdoor
 AR;1;MF38;KUG;15.27;;Doroshenko;Oleksandr;UKR;1981;UAE;Dubai;2019-11-11;Male;Outdoor
 AR;1;MF40;KUG;11.6;;Monteiro;Miguel;POR;2000;POR;Pombal;2022-02-27;Male;Outdoor
-AR;1;MF41;KUG;14.99;;Kappel;Niko;GER;1995;SUI;Nottwil;2022-05-28;Male;Outdoor
+AR;1;MF41;KUG;15.07;;Kappel;Niko;GER;1995;GER;Hechingen;2024-05-09;Male;Outdoor
 AR;1;MF42;KUG;17.52;;Davies;Aled;GBR;1991;GBR;London;2017-07-22;Male;Outdoor
 AR;1;MF44;KUG;15.73;;Walsh;Harrison;GBR;1996;ITA;Grosseto;2019-06-09;Male;Outdoor
 AR;0;MF46;KUG;16.29;;Prokhorov;Nikita;RPC;1991;JPN;Tokyo;2021-09-01;Male;Outdoor
@@ -376,7 +376,7 @@ AR;1;WF35;KUG;13.59;;Pomazan;Mariia;UKR;1988;BRA;Rio de Janeiro;2016-09-15;Femal
 AR;1;WF36;KUG;11.79;;Kober;Birgit;GER;1971;GER;Berlin;2018-08-24;Female;Outdoor
 AR;1;WF37;KUG;13.96;;Liebhardt;Franziska;GER;1982;BRA;Rio de Janeiro;2016-09-13;Female;Outdoor
 AR;1;WF38;KUG;12.58;;Grigaliuniene;Aldona;LTU;1955;CHN;Beijing;2008-09-11;Female;Outdoor
-AR;1;WF40;KUG;9.21;;Sliwinska;Renata;POL;1996;FRA;Paris;2023-07-17;Female;Outdoor
+AR;1;WF40;KUG;9.25;;Baars;Lara;NED;1996;GER;Hechingen;2024-05-09;Female;Outdoor
 AR;1;WF41;KUG;8.37;;Gradecak;Ana;CRO;1990;FRA;Paris;2022-06-10;Female;Outdoor
 AR;1;WF42;KUG;9.18;;Schmidt;Jana;GER;1972;GER;Singen am Hohentwiel;2011-07-23;Female;Outdoor
 AR;1;WF44;KUG;12.58;;Floeth;Michaela;GER;1969;CHN;Beijing;2008-09-09;Female;Outdoor
