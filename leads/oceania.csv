@@ -84,7 +84,7 @@ AL;6;WT64;100;0:14.20;1.8;Steven;Anna;NZL;2000;NZL;Auckland;2024-03-10;Female;Ou
 AL;6;WT71;100;0:32.64;2.0;Auld;Isabella;AUS;2002;AUS;Brisbane;2024-03-15;Female;Outdoor
 AL;6;WT72;100;0:21.97;-1.7;Neuenkirchen;Kim;AUS;1967;AUS;Canberra;2024-03-09;Female;Outdoor
 AL;6;WT33;200;0:42.97;0.0;Clifton-Bligh;Sarah;AUS;2004;AUS;Sydney;2024-03-07;Female;Outdoor
-AL;6;WT36;200;0:28.19;-0.1;Aitchison;Danielle;NZL;2001;NZL;Wellington;2024-03-17;Female;Outdoor
+AL;6;WT36;200;0:27.47;-0.1;Aitchison;Danielle;NZL;2001;JPN;Kobe;2024-05-23;Female;Outdoor
 AL;6;WT37;200;0:28.86;0.5;Snowden;Akeesha;AUS;2005;AUS;Adelaide;2024-04-14;Female;Outdoor
 AL;6;WT38;200;0:27.17;-0.1;Clarke;Rhiannon;AUS;2002;AUS;Adelaide;2024-04-14;Female;Outdoor
 AL;6;WT47;200;0:25.95;1.6;Grimaldi;Anna;NZL;1997;NZL;Wellington;2024-03-17;Female;Outdoor
@@ -120,7 +120,7 @@ AL;6;WT20;WEI;5.2;1.0;Blacksmith;Telaya;AUS;2007;AUS;Adelaide;2024-04-11;Female;
 AL;6;WT36;WEI;3.88;0.1;Colley;Tamsin;AUS;2002;AUS;Sydney;2024-03-14;Female;Outdoor
 AL;6;WT37;WEI;4.13;0.0;Joseph;Kailyn;AUS;2002;AUS;Canberra;2024-01-26;Female;Outdoor
 AL;6;WT38;WEI;4.14;2.0;Doyle;Taylor;AUS;1992;AUS;Canberra;2024-01-26;Female;Outdoor
-AL;6;WT47;WEI;5.51;-0.5;Grimaldi;Anna;NZL;1997;AUS;Melbourne;2024-02-15;Female;Outdoor
+AL;6;WT47;WEI;5.84;-0.9;Grimaldi;Anna;NZL;1997;JPN;Kobe;2024-05-24;Female;Outdoor
 AL;6;WT61;WEI;5.33;0.0;Low;Vanessa;AUS;1990;AUS;Canberra;2024-01-26;Female;Outdoor
 AL;6;WT64;WEI;5.14;0.3;Walsh;Sarah;AUS;1998;JPN;Kobe;2024-05-20;Female;Outdoor
 AL;6;WF32;KUG;6.13;;Little;Rosemary;AUS;1982;AUS;Adelaide;2024-04-11;Female;Outdoor
@@ -128,9 +128,10 @@ AL;6;WF33;KUG;6.76;;Strong;Maria;AUS;1971;AUS;Melbourne;2024-03-09;Female;Outdoo
 AL;6;WF37;KUG;14.55;;Adams;Lisa;NZL;1990;NZL;Auckland;2024-03-10;Female;Outdoor
 AL;6;WF38;KUG;10.32;;Schmidt;Samantha;AUS;2001;AUS;Brisbane;2024-03-15;Female;Outdoor
 AL;6;WF41;KUG;3.28;;Wapwap;Elsie;VAN;1987;AUS;Brisbane;2024-02-03;Female;Outdoor
-AL;6;WF42;KUG;6.08;;Biudole;Ulamila;FIJ;1999;AUS;Brisbane;2024-02-03;Female;Outdoor
+AL;6;WF42;KUG;8.78;;Vatunisolo;Naibili;FIJ;1990;JPN;Kobe;2024-05-23;Female;Outdoor
 AL;6;WF46;KUG;12.17;;Robinson;Holly;NZL;1994;NZL;Christchurch;2024-02-24;Female;Outdoor
 AL;6;WF57;KUG;6.55;;Charlton;Julie;AUS;1999;AUS;Adelaide;2024-04-11;Female;Outdoor
+AL;6;WF64;KUG;7.12;;Seau;Selina;FIJ;1979;JPN;Kobe;2024-05-23;Female;Outdoor
 AL;6;WF37;DIS;28;;Hose;Ella;AUS;2005;NZL;Wellington;2024-03-17;Female;Outdoor
 AL;6;WF38;DIS;32.98;;Schmidt;Samantha;AUS;2001;JPN;Kobe;2024-05-25;Female;Outdoor
 AL;6;WF42;DIS;12.72;;Biudole;Ulamila;FIJ;1999;AUS;Canberra;2024-01-26;Female;Outdoor
