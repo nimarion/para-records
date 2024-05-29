@@ -1,6 +1,6 @@
 Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Geschlecht;Umgebung
 AL;5;MT11;100;0:11.28;-0.1;Di;Dongdong;CHN;1993;JPN;Kobe;2024-05-23;Male;Outdoor
-AL;5;MT12;100;0:11.35;0.4;Mohamad Ali Hanafiah;Muhamad Afiq;MAS;1994;JPN;Kobe;2024-05-17;Male;Outdoor
+AL;5;MT12;100;0:11.28;1.9;Ishiyama;Daiki;JPN;2000;JPN;Ichinomiya;2024-04-21;Male;Outdoor
 AL;5;MT13;100;0:10.70;0.9;Kawakami;Shuta;JPN;1998;JPN;Kobe;2024-05-20;Male;Outdoor
 AL;5;MT33;100;0:17.31;0.1;Almutairi;Ahmad;KUW;1994;UAE;Sharjah;2024-02-04;Male;Outdoor
 AL;5;MT34;100;0:14.98;0.4;Rattana;Chaiwat;THA;1996;THA;Nakhon Ratchasima;2024-01-18;Male;Outdoor
@@ -10,8 +10,8 @@ AL;5;MT37;100;0:11.63;-0.6;Purnomo;Saptoyogo;INA;1998;JPN;Kobe;2024-05-18;Male;O
 AL;5;MT38;100;0:11.07;0.8;Zhou;Peng;CHN;1999;JPN;Kobe;2024-05-18;Male;Outdoor
 AL;5;MT42;100;0:12.22;-0.2;;Partin;INA;2002;JPN;Kobe;2024-05-25;Male;Outdoor
 AL;5;MT44;100;0:11.75;0.4;Gamage;Indika;SRI;1990;JPN;Kobe;2024-05-20;Male;Outdoor
-AL;5;MT45;100;0:11.78;-1.4;Sambongi;Yuya;JPN;2001;JPN;Kobe;2024-05-17;Male;Outdoor
-AL;5;MT47;100;0:10.88;0.1;Wang;Hao;CHN;1995;JPN;Kobe;2024-05-17;Male;Outdoor
+AL;5;MT45;100;0:11.57;0.6;Sambongi;Yuya;JPN;2001;JPN;Hiroshima;2024-04-29;Male;Outdoor
+AL;5;MT47;100;0:10.85;1.7;Ishida;Kakeru;JPN;1999;JPN;Ichinomiya;2024-04-21;Male;Outdoor
 AL;5;MT51;100;0:24.44;1.1;Alshook;Mohamed;BRN;1991;UAE;Dubai;2024-02-13;Male;Outdoor
 AL;5;MT52;100;0:17.63;0.7;Ito;Tatsuya;JPN;1986;JPN;Kobe;2024-05-23;Male;Outdoor
 AL;5;MT53;100;0:14.58;1.4;Alqurashi;Adbulrahman;KSA;1997;UAE;Dubai;2024-02-13;Male;Outdoor
@@ -82,8 +82,9 @@ AL;5;MT54;5K0;9:14.02;;Alrajehi;Faisal;KUW;1998;UAE;Dubai;2024-02-15;Male;Outdoo
 AL;5;MT11;MAR;2:23:27;;Wada;Shinya;JPN;1977;JPN;Oita;2024-02-04;Male;Outdoor
 AL;5;MT12;MAR;2:22:19;;Horikoshi;Tadashi;JPN;1988;JPN;Tsuchiura City;2024-04-21;Male;Outdoor
 AL;5;MT13;MAR;2:39:15;;Takai;Toshiharu;JPN;1986;JPN;Tsuchiura City;2024-04-21;Male;Outdoor
-AL;5;MT53;MAR;1:50:08;;Matsunaga;Hitoshi;JPN;1972;GBR;London;2024-04-21;Male;Outdoor
-AL;5;MT54;MAR;1:26:10;;Watanabe;Sho;JPN;1991;USA;Boston;2024-04-15;Male;Outdoor
+AL;5;MT52;MAR;2:07:31;;Matsumoto;Naoyuki;JPN;1979;JPN;Tokyo;2024-03-03;Male;Outdoor
+AL;5;MT53;MAR;1:43:07;;Hiromichi;Jun;JPN;1973;JPN;Tokyo;2024-03-03;Male;Outdoor
+AL;5;MT54;MAR;1:23:05;;Suzuki;Tomoki;JPN;1994;JPN;Tokyo;2024-03-03;Male;Outdoor
 AL;5;MT42;HOC;1.88;;Thangavelu;Mariyappan;IND;1995;JPN;Kobe;2024-05-21;Male;Outdoor
 AL;5;MT44;HOC;2.05;;;Praveen Kumar;IND;2003;IND;BANGALORE;2024-03-25;Male;Outdoor
 AL;5;MT47;HOC;1.99;;;Nishad Kumar;IND;1999;JPN;Kobe;2024-05-19;Male;Outdoor
@@ -94,7 +95,7 @@ AL;1;MT13;WEI;6.59;-0.2;Akhmedov;Doniyorjon;UZB;1994;THA;Nakhon Ratchasima;2024-
 AL;5;MT20;WEI;7.3;-0.2;Romly;Abdul Latif;MAS;1997;JPN;Kobe;2024-05-25;Male;Outdoor
 AL;1;MT36;WEI;5.57;-1.4;Turgunov;Izzat;UZB;1995;JPN;Kobe;2024-05-25;Male;Outdoor
 AL;5;MT37;WEI;6.13;0.9;Nasri;Muhammad Nazmi;MAS;2003;JPN;Kobe;2024-05-23;Male;Outdoor
-AL;5;MT38;WEI;4.34;-0.1;Yamagishi;Hideki;JPN;1988;THA;Nakhon Ratchasima;2024-01-20;Male;Outdoor
+AL;5;MT38;WEI;4.4;1.2;Yamagishi;Hideki;JPN;1988;JPN;Ichinomiya;2024-04-21;Male;Outdoor
 AL;5;MT42;WEI;5.53;-1.2;;Partin;INA;2002;ITA;Jesolo;2024-03-22;Male;Outdoor
 AL;5;MT44;WEI;6.15;2.0;Bernard;Eddy;MAS;2001;UAE;Dubai;2024-02-14;Male;Outdoor
 AL;5;MT47;WEI;7.25;0.3;Wang;Hao;CHN;1995;JPN;Kobe;2024-05-18;Male;Outdoor
@@ -175,12 +176,12 @@ AL;5;WT37;100;0:12.27;1.9;Wen;Xiaoyan;CHN;1997;JPN;Kobe;2024-05-21;Female;Outdoo
 AL;5;WT38;100;0:13.24;-0.7;Chen;Zimo;CHN;2000;JPN;Kobe;2024-05-19;Female;Outdoor
 AL;5;WT42;100;0:14.65;0.4;Tiarani;Karisma Evi;INA;2001;JPN;Kobe;2024-05-21;Female;Outdoor
 AL;5;WT47;100;0:12.83;0.8;Tsuji;Sae;JPN;1994;JPN;Kobe;2024-05-18;Female;Outdoor
-AL;5;WT52;100;0:26.32;-1.0;Kiyama;Yuka;JPN;1983;UAE;Sharjah;2024-02-04;Female;Outdoor
+AL;5;WT52;100;0:23.26;1.3;Tanaka;Teruyo;JPN;1959;JPN;Ichinomiya;2024-04-21;Female;Outdoor
 AL;5;WT54;100;0:16.68;1.0;Muraoka;Momoka;JPN;1997;JPN;Tokyo;2024-03-23;Female;Outdoor
 AL;5;WT61;100;0:17.14;0.1;Yuguchi;Erina;JPN;2000;AUS;Brisbane;2024-02-03;Female;Outdoor
 AL;5;WT62;100;0:18.20;-2.4;Saraswathi;Shalini;IND;1979;IND;BANGALORE;2024-03-25;Female;Outdoor
 AL;5;WT63;100;0:15.76;0.4;Tozawa;Tomomi;JPN;1999;JPN;Kobe;2024-05-21;Female;Outdoor
-AL;5;WT64;100;0:14.18;-1.1;Takakuwa;Saki;JPN;1992;JPN;Tokyo;2024-03-24;Female;Outdoor
+AL;5;WT64;100;0:13.55;0.5;Takakuwa;Saki;JPN;1992;JPN;Hiroshima;2024-04-29;Female;Outdoor
 AL;5;WT11;200;0:24.36;1.5;Liu;Cuiqing;CHN;1991;JPN;Kobe;2024-05-25;Female;Outdoor
 AL;5;WT12;200;0:24.95;0.1;;Simran;IND;1999;JPN;Kobe;2024-05-25;Female;Outdoor
 AL;5;WT13;200;0:26.87;1.1;Sasaki;Mana;JPN;1997;JPN;Kobe;2024-05-20;Female;Outdoor
@@ -193,10 +194,11 @@ AL;5;WT11;400;0:58.32;;Liu;Cuiqing;CHN;1991;JPN;Kobe;2024-05-19;Female;Outdoor
 AL;5;WT12;400;0:57.56;;Safarzadeh Ghahderijani;Hajar;IRI;2000;JPN;Kobe;2024-05-21;Female;Outdoor
 AL;5;WT13;400;0:59.28;;Sasaki;Mana;JPN;1997;JPN;Kobe;2024-05-25;Female;Outdoor
 AL;5;WT20;400;0:55.07;;Jeevanji;Deepthi;IND;2003;JPN;Kobe;2024-05-20;Female;Outdoor
+AL;5;WT34;400;1:21.59;;Kitaura;Haruka;JPN;1992;JPN;Ichinomiya;2024-04-21;Female;Outdoor
 AL;5;WT37;400;1:02.48;;Jiang;Fenfen;CHN;1997;JPN;Kobe;2024-05-17;Female;Outdoor
 AL;5;WT38;400;1:01.51;;Chen;Zimo;CHN;2000;JPN;Kobe;2024-05-25;Female;Outdoor
 AL;5;WT47;400;1:00.49;;Li;Lu;CHN;1994;JPN;Kobe;2024-05-21;Female;Outdoor
-AL;5;WT52;400;1:29.30;;Kiyama;Yuka;JPN;1983;UAE;Sharjah;2024-02-06;Female;Outdoor
+AL;5;WT52;400;1:25.91;;Tanaka;Teruyo;JPN;1959;JPN;Ichinomiya;2024-04-21;Female;Outdoor
 AL;5;WT53;400;0:54.57;;Zhou;Hongzhuan;CHN;1988;JPN;Kobe;2024-05-23;Female;Outdoor
 AL;5;WT54;400;0:53.91;;Zhou;Zhaoqian;CHN;1997;JPN;Kobe;2024-05-23;Female;Outdoor
 AL;5;WT20;800;2:28.89;;Fujiwara;Yuna;JPN;2002;JPN;Tokyo;2024-03-24;Female;Outdoor
@@ -215,7 +217,8 @@ AL;5;WT53;HAM;1:02.3;;Takimura;Kazumi;JPN;1983;JPN;Sendai;2024-05-12;Female;Outd
 AL;5;WT54;HAM;0:57.3;;Kina;Tsubasa;JPN;1990;JPN;Sendai;2024-05-12;Female;Outdoor
 AL;5;WT11;MAR;3:09:51;;He;Shanshan;CHN;1999;CHN;Xiamen;2024-01-07;Female;Outdoor
 AL;5;WT12;MAR;3:04:44;;Michishita;Misato;JPN;1977;JPN;Tsuchiura City;2024-04-21;Female;Outdoor
-AL;5;WT54;MAR;1:50:18;;Tsuchida;Wakako;JPN;1974;GBR;London;2024-04-21;Female;Outdoor
+AL;5;WT53;MAR;2:15:30;;Takimura;Kazumi;JPN;1983;JPN;Tokyo;2024-03-03;Female;Outdoor
+AL;5;WT54;MAR;1:44:22;;Tsuchida;Wakako;JPN;1974;JPN;Tokyo;2024-03-03;Female;Outdoor
 AL;1;WT11;WEI;5.18;0.1;Mirzayorova;Asila;UZB;1999;JPN;Kobe;2024-05-24;Female;Outdoor
 AL;1;WT12;WEI;5.42;1.4;Kholbekova;Yokutkhon;UZB;1995;JPN;Kobe;2024-05-19;Female;Outdoor
 AL;5;WT20;WEI;5.39;-1.1;Sakai;Sonomi;JPN;1996;JPN;Kobe;2024-05-17;Female;Outdoor
