@@ -73,7 +73,7 @@ AL;2;MT54;5K0;9:52.37;;Cassidy;Josh;CAN;1984;UAE;Sharjah;2024-02-06;Male;Outdoor
 AL;2;MT62;5K0;19:05.00;;Reynolds;Brian;USA;1988;USA;Boston;2024-04-13;Male;Outdoor
 AL;3;MT11;10K;35:24.00;;Mendes Alves de Brito;Antonio Carlos;BRA;1989;ESP;Sevilla;2024-02-18;Male;Outdoor
 AL;3;MT11;HAM;1:15:32.0;;Mendes Alves de Brito;Antonio Carlos;BRA;1989;ESP;Sevilla;2024-02-18;Male;Outdoor
-AL;3;MT11;MAR;2:39:13;;Mendes Alves de Brito;Antonio Carlos;BRA;1989;ESP;Sevilla;2024-02-18;Male;Outdoor
+AL;3;MT11;MAR;2:28:07;;Guillen;Rosbil;PER;1992;PER;Lima;2024-05-19;Male;Outdoor
 AL;2;MT12;MAR;3:24:21;;Ramirez;Irwin;USA;1987;USA;Boston;2024-04-15;Male;Outdoor
 AL;2;MT52;MAR;2:11:39;;Rigo;Isaiah;USA;1999;USA;Boston;2024-04-15;Male;Outdoor
 AL;2;MT53;MAR;1:31:16;;Willand;Wyatt;USA;2004;USA;Boston;2024-04-15;Male;Outdoor
@@ -256,6 +256,7 @@ AL;3;WF12;SPE;21.18;;Nunes de Paulo;Nauane;BRA;1984;BRA;Sao Paulo;2024-04-20;Fem
 AL;3;WF13;SPE;29.4;;Da Silva De Azevedo;Jenifer Cristian;BRA;1997;BRA;Sao Paulo;2024-04-20;Female;Outdoor
 AL;2;WF33;SPE;9.53;;Castrejon Lopez;Luisa Lizbeth;MEX;1991;MEX;Xalapa;2024-04-05;Female;Outdoor
 AL;2;WF34;SPE;12.99;;Roman Perez;Brenda Erika;MEX;1997;MEX;Xalapa;2024-04-06;Female;Outdoor
+AL;2;WF40;SPE;13.77;;Zagorski;Sophia;USA;2006;GBR;Coventry;2024-04-27;Female;Outdoor
 AL;2;WF46;SPE;35.46;;Lozano Mendez;Kenya Nayeli;MEX;2002;JPN;Kobe;2024-05-17;Female;Outdoor
 AL;3;WF53;SPE;13.62;;Rodrigues Gomes;Elizabeth;BRA;1965;BRA;Sao Paulo;2024-03-17;Female;Outdoor
 AL;3;WF54;SPE;15.36;;Torres Martinez;Yanive;COL;1979;COL;Ibague;2024-04-04;Female;Outdoor
