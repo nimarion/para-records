@@ -81,6 +81,7 @@ AL;0;MT12;5K0;14:32.11;;Kuliatin;Anton;NPA;1991;JPN;Kobe;2024-05-18;Male;Outdoor
 AL;1;MT13;5K0;14:27.76;;Ouhdadi El Ataby;Yassine;ESP;1994;JPN;Kobe;2024-05-18;Male;Outdoor
 AL;1;MT53;5K0;10:51.00;;Fairbank;Pierre;FRA;1971;AUS;Canberra;2024-01-22;Male;Outdoor
 AL;1;MT54;5K0;9:13.81;;Hug;Marcel;SUI;1986;UAE;Dubai;2024-02-15;Male;Outdoor
+AL;1;MT12;HAM;1:20:25.0;;Yap;Tien-Fung;GER;1990;GER;Berlin;2024-04-07;Male;Outdoor
 AL;0;MT12;MAR;2:23:10;;Gavrilov;Denis;NPA;1986;RUS;Kazan;2024-05-12;Male;Outdoor
 AL;1;MT52;MAR;2:16:26;;Smith;Rob;GBR;1975;JPN;Tokyo;2024-03-03;Male;Outdoor
 AL;1;MT53;MAR;1:28:49;;Lawson;Simon;GBR;1982;USA;Boston;2024-04-15;Male;Outdoor
@@ -127,10 +128,10 @@ AL;1;MF56;KUG;10.45;;Biernat;Mateusz;POL;2001;POL;Slubice;2024-05-11;Male;Outdoo
 AL;1;MF57;KUG;14.74;;Koopikka;Teijo;FIN;1980;JPN;Kobe;2024-05-24;Male;Outdoor
 AL;1;MF62;KUG;8.25;;Marchetti;Moreno;ITA;1978;ITA;Jesolo;2024-03-23;Male;Outdoor
 AL;1;MF63;KUG;14.36;;Habscheid;Tom;LUX;1986;GER;Neustädt;2024-05-11;Male;Outdoor
-AL;1;MF11;DIS;42.76;;Tapia;Oney;ITA;1976;JPN;Kobe;2024-05-23;Male;Outdoor
+AL;1;MF11;DIS;43.08;;Tapia;Oney;ITA;1976;ITA;Macerata;2024-05-04;Male;Outdoor
 AL;1;MF13;DIS;39.31;;Emanuele;Pangher;ITA;2002;TUN;Tunis;2024-03-05;Male;Outdoor
 AL;1;MF32;DIS;8.07;;Puglisi;Antonino;ITA;1978;ITA;Jesolo;2024-03-23;Male;Outdoor
-AL;1;MF33;DIS;21.42;;Campoccio;Giuseppe;ITA;1966;ITA;Ancona;2024-01-27;Male;Outdoor
+AL;1;MF33;DIS;23.21;;Campoccio;Giuseppe;ITA;1966;ITA;Macerata;2024-05-04;Male;Outdoor
 AL;1;MF34;DIS;25.66;;Dvorak;Martin;CZE;1994;UAE;Sharjah;2024-02-04;Male;Outdoor
 AL;1;MF36;DIS;22.23;;Strelkauskis;Simonas;LTU;2002;ITA;Jesolo;2024-03-22;Male;Outdoor
 AL;1;MF37;DIS;46.19;;Czarnecki;Lukasz;POL;2000;POL;Slubice;2024-05-11;Male;Outdoor
@@ -150,9 +151,9 @@ AL;1;MF57;DIS;42.64;;Petrous;Jaroslav;CZE;1977;UAE;Khorfakkan;2024-02-08;Male;Ou
 AL;1;MF62;DIS;29.86;;Sevdikalis;Ioannis;GRE;1991;GRE;Thessaloniki;2024-06-03;Male;Outdoor
 AL;1;MF63;DIS;36.42;;Adamcik;Martin;CZE;2000;UAE;Khorfakkan;2024-02-09;Male;Outdoor
 AL;1;MF64;DIS;53.89;;Katanusic;Ivan;CRO;1991;JPN;Kobe;2024-05-23;Male;Outdoor
-AL;1;MF12;SPE;57.43;;Wietecki;Marek;POL;1983;JPN;Kobe;2024-05-23;Male;Outdoor
+AL;1;MF12;SPE;59.66;;Cabrera Llacer;Hector;ESP;1994;ESP;Valencia;2024-06-08;Male;Outdoor
 AL;1;MF13;SPE;66.96;;Pembroke;Daniel;GBR;1991;JPN;Kobe;2024-05-23;Male;Outdoor
-AL;1;MF33;SPE;24.43;;Campoccio;Giuseppe;ITA;1966;ITA;Ancona;2024-01-26;Male;Outdoor
+AL;1;MF33;SPE;25.12;;Campoccio;Giuseppe;ITA;1966;ITA;Macerata;2024-05-04;Male;Outdoor
 AL;1;MF34;SPE;31.9;;Kaedi;Muhsin;TUR;1987;UAE;Dubai;2024-02-13;Male;Outdoor
 AL;1;MF37;SPE;42.06;;Ibarra Valdemoros;Daniel;ESP;1997;ESP;Leon;2024-02-10;Male;Outdoor
 AL;1;MF38;SPE;38.53;;Kavtaradze;Davit;GEO;1987;UAE;Dubai;2024-02-15;Male;Outdoor
@@ -187,7 +188,7 @@ AL;1;WT53;100;0:15.29;0.1;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2024-06-09;Fe
 AL;1;WT54;100;0:15.75;0.3;Bayekula;Lea;BEL;1995;SUI;Nottwil;2024-06-09;Female;Outdoor
 AL;1;WT62;100;0:12.71;0.5;Jong;Fleur;NED;1995;JPN;Kobe;2024-05-21;Female;Outdoor
 AL;1;WT63;100;0:14.41;1.2;Contrafatto;Monica Graziana;ITA;1981;ITA;Rieti;2024-06-01;Female;Outdoor
-AL;1;WT64;100;0:12.73;0.5;van Gansewinkel;Marlene;NED;1995;JPN;Kobe;2024-05-21;Female;Outdoor
+AL;1;WT64;100;0:12.06;0.0;Alkemade;Kimberly;NED;1990;NED;Vught;2024-05-09;Female;Outdoor
 AL;1;WT71;100;0:22.10;-2.5;Morkus;Bella;LTU;1967;ITA;Jesolo;2024-03-23;Female;Outdoor
 AL;1;WT72;100;0:17.51;0.0;Andruszkiewicz;Magdalena;POL;1989;JPN;Kobe;2024-05-17;Female;Outdoor
 AL;1;WT11;200;0:32.49;-2.0;Cerda Nicolas;Irene;ESP;2008;ITA;Jesolo;2024-03-24;Female;Outdoor
@@ -236,14 +237,14 @@ AL;1;WT12;5K0;21:14.53;;Paredes Rodriguez;Maria Del Carmen;ESP;1963;ESP;L’HOSP
 AL;0;WT13;5K0;19:33.36;;Pautova;Elena;NPA;1986;MAR;Marrakech;2024-04-28;Female;Outdoor
 AL;1;WT53;5K0;10:29.56;;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2024-06-09;Female;Outdoor
 AL;1;WT54;5K0;11:06.49;;Eachus;Patricia;SUI;1989;UAE;Sharjah;2024-02-06;Female;Outdoor
-AL;1;WT54;HAM;0:50.4;;Menje;Merle Marie;GER;2004;GER;Berlin;2024-04-07;Female;Outdoor
+AL;1;WT54;HAM;50:37.0;;Menje;Merle Marie;GER;2004;GER;Berlin;2024-04-07;Female;Outdoor
 AL;1;WT12;MAR;3:05:08;;Congost;Elena;ESP;1987;ESP;Sevilla;2024-02-18;Female;Outdoor
 AL;1;WT53;MAR;1:38:54;;Debrunner;Catherine;SUI;1995;GBR;London;2024-04-21;Female;Outdoor
 AL;1;WT54;MAR;1:35:11;;Rainbow-Cooper;Eden;GBR;2001;USA;Boston;2024-04-15;Female;Outdoor
 AL;1;WT47;HOC;1.41;;Maric;Sara;CRO;2010;CRO;Pula;2024-04-28;Female;Outdoor
 AL;1;WT11;WEI;4.79;1.8;Garcia Falagan;Alba;ESP;2002;ESP;Segovia;2024-04-20;Female;Outdoor
 AL;1;WT12;WEI;5.37;1.4;Martinez;Sara;ESP;1990;ESP;Guadalajara;2024-04-06;Female;Outdoor
-AL;1;WT13;WEI;4.83;1.8;Yuste Cotino;Carolina;ESP;2007;ESP;Valen;2024-04-26;Female;Outdoor
+AL;1;WT13;WEI;4.88;0.5;Yuste Cotino;Carolina;ESP;2007;ESP;Valencia;2024-06-08;Female;Outdoor
 AL;1;WT20;WEI;5.62;1.6;Altin;Fatma Damla;TUR;2002;UAE;Dubai;2024-02-13;Female;Outdoor
 AL;1;WT37;WEI;4.53;0.0;Francois-Elie;Mandy;FRA;1989;USA;Long Beack;2024-04-11;Female;Outdoor
 AL;1;WT38;WEI;5.63;-2.7;Ekler;Luca;HUN;1998;JPN;Kobe;2024-05-21;Female;Outdoor
@@ -252,7 +253,7 @@ AL;1;WT47;WEI;5.66;1.7;Luteran;Petra;HUN;1997;JPN;Kobe;2024-05-24;Female;Outdoor
 AL;1;WT62;WEI;6.53;0.1;Jong;Fleur;NED;1995;JPN;Kobe;2024-05-20;Female;Outdoor
 AL;1;WT63;WEI;4.73;1.7;Aaen;Emilie;DEN;2001;ITA;Jesolo;2024-03-24;Female;Outdoor
 AL;1;WT64;WEI;5.45;-0.6;van Gansewinkel;Marlene;NED;1995;JPN;Kobe;2024-05-20;Female;Outdoor
-AL;1;WF11;KUG;13.98;;Legnante;Assunta;ITA;1978;ITA;Jesolo;2024-03-22;Female;Outdoor
+AL;1;WF11;KUG;14.72;;Legnante;Assunta;ITA;1978;ITA;Macerata;2024-05-04;Female;Outdoor
 AL;1;WF12;KUG;11.93;;Church;Lydia;GBR;1999;GBR;Loughborough;2024-05-19;Female;Outdoor
 AL;1;WF13;KUG;9.61;;Zamora Arnau;Maria;ESP;2006;ESP;L’HOSPITALET DE LLOBREGAT;2024-03-02;Female;Outdoor
 AL;1;WF20;KUG;14.73;;Fortune;Sabrina;GBR;1997;JPN;Kobe;2024-05-19;Female;Outdoor
@@ -274,7 +275,7 @@ AL;1;WF55;KUG;8.49;;Krumina;Diana;LAT;1986;UAE;Dubai;2024-02-14;Female;Outdoor
 AL;1;WF56;KUG;7.06;;Obrova;Miroslava;CZE;1975;UAE;Sharjah;2024-02-06;Female;Outdoor
 AL;1;WF57;KUG;8.87;;Navarro Rodriguez;Gabriela Michell;ESP;1992;MEX;Xalapa;2024-04-05;Female;Outdoor
 AL;1;WF63;KUG;10.64;;Nouchet;Alexandra;FRA;1998;JPN;Kobe;2024-05-23;Female;Outdoor
-AL;1;WF11;DIS;34.85;;Legnante;Assunta;ITA;1978;ITA;Jesolo;2024-03-23;Female;Outdoor
+AL;1;WF11;DIS;35.94;;Legnante;Assunta;ITA;1978;ITA;Macerata;2024-05-04;Female;Outdoor
 AL;1;WF12;DIS;24.82;;Welepa;Rose;FRA;1986;AUS;Canberra;2024-01-26;Female;Outdoor
 AL;0;WF13;DIS;30.96;;Dabravolskaya;Lizaveta;NPA;2002;MAR;Marrakech;2024-04-28;Female;Outdoor
 AL;1;WF32;DIS;7.85;;Marcanikova;Anna;CZE;1995;CZE;Pardubice;2024-05-05;Female;Outdoor
