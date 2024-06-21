@@ -33,7 +33,6 @@ WR;;MT35;200;0:23.00;0.3;Safronov;Dmitrii;RPC;1995;JPN;Tokyo;2021-09-04;Male;Out
 WR;;MT36;200;0:24.09;-0.2;Turner;James;AUS;1996;GBR;London;2017-07-17;Male;Outdoor
 WR;;MT37;200;0:21.91;1.0;Mayhugh;Nick;USA;1996;JPN;Tokyo;2021-09-04;Male;Outdoor
 WR;;MT38;200;0:21.82;-0.2;O'Hanlon;Evan;AUS;1988;GBR;London;2012-09-08;Male;Outdoor
-WR;;MT42;200;0:25.28;0.1;;Partin;INA;2002;THA;Nakhon Ratchasima (Korat);2023-12-05;Male;Outdoor
 WR;;MT43;200;0:39.51;1.0;Stamatiadis;Achileas;GRE;1992;GRE;Thessaloniki;2021-07-10;Male;Outdoor
 WR;;MT44;200;0:22.81;1.3;Mhlongo;Mpumelelo;RSA;1994;JPN;Tokyo;2021-09-04;Male;Outdoor
 WR;;MT45;200;0:21.91;0.2;Nascimento;Yohansson;BRA;1987;FRA;Lyon;2013-07-22;Male;Outdoor
@@ -45,7 +44,7 @@ WR;;MT53;200;0:25.04;0.0;Lakatos;Brent;CAN;1980;SUI;Arbon;2017-05-28;Male;Outdoo
 WR;;MT54;200;0:23.97;0.5;Paeng-Nuea;Athiwat;THA;2002;UAE;Sharjah;2024-02-05;Male;Outdoor
 WR;;MT61;200;0:23.03;0.6;Mahlangu;Ntando;RSA;2002;SUI;Nottwil;2019-08-01;Male;Outdoor
 WR;;MT62;200;0:20.69;-0.6;Floors;Johannes;GER;1995;GER;Regensburg;2022-06-19;Male;Outdoor
-WR;;MT63;200;0:25.81;0.6;Goncalves Rodrigues;Vinicius;BRA;1994;BRA;Sao Paulo;2023-06-18;Male;Outdoor
+WR;;MT63;200;0:26.27;1.4;Schaefer;Leon;GER;1997;SUI;Nottwil;2023-05-25;Male;Outdoor
 WR;;MT64;200;0:21.27;0.9;Browne;Richard;USA;1991;QAT;Doha;2015-10-25;Male;Outdoor
 WR;;MT11;400;0:49.82;;Mendes Da Silva;Daniel;BRA;1979;MEX;Guadalajara;2011-11-18;Male;Outdoor
 WR;;MT12;400;0:47.47;;Yildirim;Serkan;TUR;1991;JPN;Kobe;2024-05-23;Male;Outdoor
@@ -59,6 +58,7 @@ WR;;MT36;400;0:51.71;;Turner;James;AUS;1996;UAE;Dubai;2019-11-14;Male;Outdoor
 WR;;MT37;400;0:49.34;;Vdovin;Andrei;RPC;1994;JPN;Tokyo;2021-09-01;Male;Outdoor
 WR;;MT38;400;0:48.49;;Blackwell;Jaydin;USA;2004;FRA;Paris;2023-07-13;Male;Outdoor
 WR;;MT43;400;1:26.01;;Stamatiadis;Achileas;GRE;1992;GRE;Thessaloniki;2022-07-10;Male;Outdoor
+WR;;MT44;400;0:52.81;;Alsana;Nour;KSA;1984;CHN;Hangzhou;2023-10-24;Male;Outdoor
 WR;;MT45;400;0:49.21;;Nascimento;Yohansson;BRA;1987;GBR;London;2012-09-04;Male;Outdoor
 WR;;MT46;400;0:46.78;;Sadni;Ayoub;MAR;1999;FRA;Paris;2023-07-14;Male;Outdoor
 WR;;MT47;400;0:46.78;;Sadni;Ayoub;MAR;1999;FRA;Paris;2023-07-14;Male;Outdoor
@@ -80,7 +80,7 @@ WR;;MT35;800;2:29.47;;Sands;James;GBR;;GER;Berlin;1994-07-31;Male;Outdoor
 WR;;MT36;800;2:02.39;;Turner;James;AUS;1996;BRA;Rio de Janeiro;2016-09-17;Male;Outdoor
 WR;;MT37;800;1:57.17;;McKillop;Michael;IRL;1990;FRA;Lyon;2013-07-21;Male;Outdoor
 WR;;MT38;800;1:55.75;;Riech;Nate;CAN;1995;CAN;Langley, BC;2023-07-27;Male;Outdoor
-WR;;MT44;800;2:02.65;;Alsana;Nour;KSA;;UAE;Dubai;2018-03-13;Male;Outdoor
+WR;;MT44;800;2:02.65;;Alsana;Nour;KSA;1984;UAE;Dubai;2018-03-13;Male;Outdoor
 WR;;MT45;800;1:59.30;;Reis de Sousa;Yagonny;BRA;1992;BRA;São Paulo;2013-06-08;Male;Outdoor
 WR;;MT46;800;1:51.82;;Matzinger;Gunther;AUT;1987;GBR;London;2012-09-08;Male;Outdoor
 WR;;MT51;800;2:30.98;;Mestre;Helder;POR;1967;UAE;Sharjah;2018-03-18;Male;Outdoor
@@ -241,7 +241,7 @@ WR;;MF56;SPE;42.74;;Batista dos Santos;Claudiney;BRA;1978;BRA;Rio de Janeiro;201
 WR;;MF57;SPE;51.42;;Heidari;Hamed;AZE;1991;JPN;Tokyo;2021-08-28;Male;Outdoor
 WR;;MF63;SPE;59.77;;Sveinsson;Helgi;ISL;1979;ITA;Rieti;2017-05-06;Male;Outdoor
 WR;;MF64;SPE;73.29;;;Sumit;IND;1998;CHN;Hangzhou;2023-10-25;Male;Outdoor
-WR;;MF31;KEU;30.72;;Da Silva;Rafael Mateus;BRA;1986;BRA;São Paulo;2018-08-05;Male;Outdoor
+WR;;MF31;KEU;32.88;;Demin;Evgenii;RUS;1989;RUS;Cheboksary;2023-08-12;Male;Outdoor
 WR;;MF32;KEU;46.6;;Bo;Qing;CHN;1998;FRA;Paris;2023-07-10;Male;Outdoor
 WR;;MF51;KEU;36.22;;Taimazov;Musa;RUS;1984;RUS;Cheboksary;2023-08-12;Male;Outdoor
 WR;;MP11;5-K;2,627;;Sevostianov;Sergey;RUS;1960;AUS;Sydney;2000-10-24;Male;Outdoor
