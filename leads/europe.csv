@@ -153,7 +153,7 @@ AL;1;MF40;DIS;16.18;;Teric;Vlado;MNE;2002;CRO;Pula;2024-04-06;Male;Outdoor
 AL;1;MF41;DIS;22.22;;Jimenez Alonso;Alvaro;ESP;2000;ESP;Madrid;2024-06-15;Male;Outdoor
 AL;1;MF42;DIS;49.04;;Ntimeris;Fotios;GRE;1989;UAE;Dubai;2024-02-13;Male;Outdoor
 AL;1;MF43;DIS;32.36;;Elmakyes;Avishay Yosef;ISR;1998;ITA;Jesolo;2024-03-24;Male;Outdoor
-AL;1;MF44;DIS;57.17;;Greaves;Dan;GBR;1982;GBR;Bedford;2024-05-25;Male;Outdoor
+AL;1;MF44;DIS;57.25;;Walsh;Harrison;GBR;1996;GBR;Cardiff;2024-06-16;Male;Outdoor
 AL;1;MF51;DIS;12.79;;Radojicic;Vladimir;SRB;1988;SRB;Krusevac;2024-06-15;Male;Outdoor
 AL;1;MF52;DIS;20.13;;Jachimowicz;Robert;POL;1967;POL;Slubice;2024-05-11;Male;Outdoor
 AL;1;MF53;DIS;14.9;;Broz;Jaroslav;CZE;1981;CZE;Ostrava;2024-06-09;Male;Outdoor
@@ -285,7 +285,7 @@ AL;1;WF38;KUG;9.66;;Leck;Rachel Jane Caroline;GBR;1996;GBR;Coventry;2024-04-27;F
 AL;1;WF40;KUG;9.25;;Baars;Lara;NED;1996;GER;Hechingen;2024-05-09;Female;Outdoor
 AL;1;WF41;KUG;7.97;;Thompson;Amy;GBR;2006;GBR;Loughborough;2024-05-27;Female;Outdoor
 AL;1;WF42;KUG;7.52;;Okoh;Ndidikama;GBR;2002;GBR;Coventry;2024-04-27;Female;Outdoor
-AL;1;WF44;KUG;10.47;;Oduwaiye;Funmi;GBR;2003;GBR;Yeovil;2024-03-30;Female;Outdoor
+AL;1;WF44;KUG;11.82;;Oduwaiye;Funmi;GBR;2003;GBR;Cardiff;2024-06-15;Female;Outdoor
 AL;1;WF45;KUG;5.4;;Stanescu;Marioara;ROU;1973;CZE;Ostrava;2024-06-08;Female;Outdoor
 AL;1;WF46;KUG;11.79;;Shpatkivska;Mariia;UKR;2000;FRA;Paris;2024-06-14;Female;Outdoor
 AL;1;WF53;KUG;5.75;;Lebiedieva;Iana;UKR;1984;UAE;Dubai;2024-02-14;Female;Outdoor
@@ -305,7 +305,7 @@ AL;0;WF37;DIS;29.3;;Vertinskaia;Irina;NPA;1984;RUS;Yekaterinburg;2024-06-06;Fema
 AL;1;WF38;DIS;30.12;;Purkic;Ivana;CRO;1989;CRO;Pula;2024-04-07;Female;Outdoor
 AL;1;WF40;DIS;23.98;;Sliwinska;Renata;POL;1996;POL;Krakow;2024-06-15;Female;Outdoor
 AL;1;WF41;DIS;21.52;;Thompson;Amy;GBR;2006;GBR;Coventry;2024-04-28;Female;Outdoor
-AL;1;WF44;DIS;34.44;;Nesse;Ida;NOR;1992;NOR;Sandvika;2024-04-20;Female;Outdoor
+AL;1;WF44;DIS;35.95;;Oduwaiye;Funmi;GBR;2003;GBR;Cardiff;2024-06-15;Female;Outdoor
 AL;1;WF46;DIS;28.91;;Flores Sardella;Martina;ESP;2002;ESP;Madrid;2024-06-15;Female;Outdoor
 AL;1;WF51;DIS;14.07;;Ovsii;Zoia;UKR;1994;FRA;Paris;2024-06-14;Female;Outdoor
 AL;1;WF53;DIS;14.3;;Lebiedieva;Iana;UKR;1984;UAE;Dubai;2024-02-13;Female;Outdoor
