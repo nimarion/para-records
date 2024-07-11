@@ -66,7 +66,7 @@ AL;3;MT12;1K5;4:00.00;;Moreta Criollo;Sixto Roman;ECU;1992;JPN;Kobe;2024-05-21;M
 AL;2;MT13;1K5;3:53.65;;Gomez;Joel;USA;2003;USA;Des Moines;2024-04-25;Male;Outdoor
 AL;2;MT20;1K5;3:50.73;;Brannigan;Michael;USA;1996;USA;Des Moines;2024-04-27;Male;Outdoor
 AL;3;MT37;1K5;4:28.80;;de Macedo;David Benedito;BRA;1984;BRA;Sao Paulo;2024-04-18;Male;Outdoor
-AL;2;MT38;1K5;4:01.75;;Stanley;Liam;CAN;1997;CAN;Vancouver;2024-06-19;Male;Outdoor
+AL;2;MT38;1K5;3:57.89;;Riech;Nate;CAN;1995;CAN;Guelph;2024-06-04;Male;Outdoor
 AL;3;MT45;1K5;4:35.91;;Loreto Barrios;Luis Jose;VEN;1991;VEN;Caracas;2024-05-30;Male;Outdoor
 AL;3;MT46;1K5;4:03.49;;Orrego Campos;Mauricio Esteban;CHI;2000;ITA;Jesolo;2024-03-22;Male;Outdoor
 AL;2;MT52;1K5;4:10.02;;Perez Juarez;Leonardo De Jesus;MEX;1993;JPN;Kobe;2024-05-25;Male;Outdoor
@@ -74,7 +74,7 @@ AL;2;MT53;1K5;2:56.14;;Siemann;Brian;USA;1989;USA;Tempe;2024-05-31;Male;Outdoor
 AL;2;MT54;1K5;2:54.65;;Romanchuk;Daniel;USA;1998;USA;Tempe;2024-05-31;Male;Outdoor
 AL;3;MT11;5K0;14:53.97;;Jacques;Yeltsin;BRA;1991;JPN;Kobe;2024-05-17;Male;Outdoor
 AL;3;MT12;5K0;15:19.16;;Moreta Criollo;Sixto Roman;ECU;1992;JPN;Kobe;2024-05-18;Male;Outdoor
-AL;2;MT13;5K0;14:52.65;;Ouellet;Guillaume;CAN;1986;CAN;Guelph;2024-06-04;Male;Outdoor
+AL;2;MT13;5K0;14:45.60;;Ouellet;Guillaume;CAN;1986;CAN;Ottawa;2024-07-06;Male;Outdoor
 AL;3;MT44;5K0;16:57.23;;Gomes de Oliveira;Ricardo;BRA;1982;BRA;Sao Paulo;2024-06-15;Male;Outdoor
 AL;2;MT53;5K0;10:18.17;;Siemann;Brian;USA;1989;USA;Champaign;2024-06-25;Male;Outdoor
 AL;2;MT54;5K0;9:39.54;;Romanchuk;Daniel;USA;1998;USA;Tempe;2024-06-01;Male;Outdoor
@@ -166,7 +166,7 @@ AL;2;MF32;KEU;20.02;;Vazquez Estrada;Esteban Abraham;MEX;1995;MEX;Xalapa;2024-04
 AL;2;MF51;KEU;33.62;;Ramos Hernandez;Mario Santana;MEX;1981;JPN;Kobe;2024-05-22;Male;Outdoor
 AL;3;WT11;100;0:11.93;0.8;Geber dos Santos;Jerusa;BRA;1982;JPN;Kobe;2024-05-21;Female;Outdoor
 AL;3;WT12;100;0:12.29;-0.1;Barros Da Silva;Clara Daniele;BRA;1998;BRA;Sao Paulo;2024-06-08;Female;Outdoor
-AL;3;WT13;100;0:12.04;0.8;Soares Da Silva;Rayane;BRA;1997;BRA;Sao Paulo;2024-04-18;Female;Outdoor
+AL;2;WT13;100;0:11.92;1.0;Borgella;Bianca;CAN;2003;CAN;London;2024-05-26;Female;Outdoor
 AL;2;WT34;100;0:18.43;0.2;Houston;Eva;USA;2001;SUI;Nottwil;2024-06-08;Female;Outdoor
 AL;2;WT35;100;0:15.86;1.4;Salinaro;Brianna;USA;1998;USA;Chula Vista;2024-06-23;Female;Outdoor
 AL;3;WT36;100;0:14.31;0.1;Hipolito;Veronica;BRA;1996;BRA;Sao Paulo;2024-03-16;Female;Outdoor
