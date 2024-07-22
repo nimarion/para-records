@@ -1,5 +1,5 @@
 Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Geschlecht;Umgebung
-AL;1;MT11;100;0:11.08;0.4;Adolphe;Timothee;FRA;1989;FRA;TALENCE /BORDEAUX 33;2024-06-29;Male;Outdoor
+AL;1;MT11;100;0:11.05;1.4;Adolphe;Timothee;FRA;1989;FRA;ALBI, 81;2024-07-13;Male;Outdoor
 AL;1;MT12;100;0:10.53;0.1;Yildirim;Serkan;TUR;1991;JPN;Kobe;2024-05-18;Male;Outdoor
 AL;1;MT13;100;0:10.56;0.7;Kashafali;Salum Ageze;NOR;1993;NOR;Oslo;2024-05-30;Male;Outdoor
 AL;1;MT33;100;0:22.96;0.6;Zani;Nicholas;ITA;1999;SUI;Nottwil;2024-06-08;Male;Outdoor
@@ -8,7 +8,7 @@ AL;0;MT35;100;0:11.76;-0.2;Dzhatiev;David;NPA;2002;RUS;Yekaterinburg;2024-06-04;
 AL;0;MT36;100;0:11.97;0.6;Torsunov;Evgenii;NPA;1990;RUS;Yekaterinburg;2024-06-04;Male;Outdoor
 AL;0;MT37;100;0:11.46;-0.5;Vdovin;Andrei;NPA;1994;RUS;Yekaterinburg;2024-06-04;Male;Outdoor
 AL;1;MT38;100;0:10.97;0.9;Young;Thomas;GBR;2000;GBR;Cardiff;2024-05-01;Male;Outdoor
-AL;1;MT42;100;0:13.50;0.0;Kayitare;Clavel;FRA;1986;SUI;Nottwil;2024-06-08;Male;Outdoor
+AL;1;MT42;100;0:13.39;1.4;Kayitare;Clavel;FRA;1986;FRA;ALBI, 81;2024-07-13;Male;Outdoor
 AL;1;MT43;100;0:26.16;1.4;Stamatiadis;Achileas;GRE;1992;GRE;Thessaloniki;2024-06-01;Male;Outdoor
 AL;1;MT44;100;0:11.64;-0.3;Siapo;Felicien;FRA;2003;;noumea;2024-03-15;Male;Outdoor
 AL;1;MT47;100;0:10.78;0.5;Derus;Michal;POL;1990;POL;Tarnow;2024-05-04;Male;Outdoor
@@ -35,7 +35,7 @@ AL;1;MT46;200;0:24.70;-0.7;Clinquart;Simon;BEL;2000;BEL;Brussel;2024-06-29;Male;
 AL;1;MT47;200;0:22.80;1.0;Bagaini;Riccardo;ITA;2000;ITA;Brescia;2024-06-30;Male;Outdoor
 AL;1;MT51;200;0:35.74;2.0;Habsch;Roger;BEL;1979;UAE;Dubai;2024-02-15;Male;Outdoor
 AL;1;MT52;200;0:28.53;-1.2;Carabin;Maxime;BEL;2000;UAE;Sharjah;2024-02-05;Male;Outdoor
-AL;1;MT53;200;0:27.51;-1.3;Brignone;Nicolas;FRA;1989;AUS;Canberra;2024-01-26;Male;Outdoor
+AL;1;MT53;200;0:26.60;0.4;Fairbank;Pierre;FRA;1971;FRA;ALBI, 81;2024-07-13;Male;Outdoor
 AL;1;MT54;200;0:24.75;0.7;Tahti;Leo-Pekka;FIN;1983;SUI;Nottwil;2024-06-09;Male;Outdoor
 AL;1;MT62;200;0:21.03;-0.2;Floors;Johannes;GER;1995;GER;Leverkusen;2024-05-05;Male;Outdoor
 AL;1;MT64;200;0:21.97;-0.8;Streng;Felix;GER;1995;GER;Mannheim;2024-06-23;Male;Outdoor
@@ -66,8 +66,8 @@ AL;1;MT33;800;2:42.44;;Zani;Nicholas;ITA;1999;SUI;Nottwil;2024-06-06;Male;Outdoo
 AL;1;MT34;800;1:39.91;;Towers;Isaac;GBR;1998;UAE;Dubai;2024-02-15;Male;Outdoor
 AL;1;MT37;800;2:31.57;;Brown;Connor;GBR;2001;GBR;Glasgow;2024-05-31;Male;Outdoor
 AL;1;MT38;800;2:11.20;;Kongssund;Skjalg;NOR;2006;NOR;Lillehammer;2024-06-23;Male;Outdoor
-AL;1;MT46;800;2:31.26;;Ricciardi;Michele;ITA;1982;ITA;Jesolo;2024-03-24;Male;Outdoor
-AL;1;MT53;800;1:39.67;;Fairbank;Pierre;FRA;1971;AUS;Canberra;2024-01-22;Male;Outdoor
+AL;1;MT46;800;1:58.50;;Praud;Antoine;FRA;2003;FRA;ALBI, 81;2024-07-14;Male;Outdoor
+AL;1;MT53;800;1:37.80;;Fairbank;Pierre;FRA;1971;FRA;ALBI, 81;2024-07-13;Male;Outdoor
 AL;1;MT54;800;1:29.46;;Hug;Marcel;SUI;1986;UAE;Sharjah;2024-02-04;Male;Outdoor
 AL;1;MT71;800;3:50.05;;Krause;Patryk;POL;1993;DEN;Bagsværd;2024-07-11;Male;Outdoor
 AL;1;MT72;800;2:56.52;;Podobajevas;Deividas;LTU;1984;DEN;Bagsværd;2024-07-11;Male;Outdoor
@@ -199,7 +199,7 @@ AL;1;WT36;100;0:14.65;-0.4;Bouthoorn;Cheyenne;NED;1997;FRA;Paris;2024-06-13;Fema
 AL;1;WT38;100;0:12.62;-1.1;Manthopoulou;Lida Maria;GRE;2005;FRA;Paris;2024-06-13;Female;Outdoor
 AL;1;WT42;100;0:15.26;0.5;Okoh;Ndidikama;GBR;2002;GBR;Manchester;2024-05-05;Female;Outdoor
 AL;1;WT44;100;0:13.09;1.2;Bensusan;Irmgard;GER;1991;GER;Leverkusen;2024-07-06;Female;Outdoor
-AL;1;WT47;100;0:12.54;0.8;Sokolov;Saska;SRB;1995;JPN;Kobe;2024-05-18;Female;Outdoor
+AL;1;WT47;100;0:12.48;1.5;Ngoussou Ngouyi;Marie;FRA;2008;FRA;ALBI, 81;2024-07-13;Female;Outdoor
 AL;1;WT52;100;0:19.41;-1.0;Henseler;Tanja;SUI;1997;UAE;Sharjah;2024-02-04;Female;Outdoor
 AL;1;WT53;100;0:15.29;0.1;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2024-06-09;Female;Outdoor
 AL;1;WT54;100;0:15.53;0.0;Kotaja;Amanda;FIN;1995;SUI;Nottwil;2024-06-08;Female;Outdoor
@@ -256,7 +256,7 @@ AL;1;WT34;1K5;4:54.41;;Lefevre;Joyce;BEL;1988;GBR;Coventry;2024-04-27;Female;Out
 AL;1;WT53;1K5;3:05.41;;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2024-06-08;Female;Outdoor
 AL;1;WT54;1K5;3:06.05;;Schaer;Manuela;SUI;1984;SUI;Nottwil;2024-06-08;Female;Outdoor
 AL;1;WT72;1K5;5:30.82;;Van Leussen Huizing;Gerlinda;NED;1974;DEN;Bagsværd;2024-07-12;Female;Outdoor
-AL;1;WT12;5K0;21:14.53;;Paredes Rodriguez;Maria Del Carmen;ESP;1963;ESP;L’HOSPITALET DE LLOBREGAT;2024-03-02;Female;Outdoor
+AL;1;WT12;5K0;20:03.43;;Gangloff;Rosario;FRA;1964;FRA;ALBI, 81;2024-07-14;Female;Outdoor
 AL;0;WT13;5K0;19:33.36;;Pautova;Elena;NPA;1986;MAR;Marrakech;2024-04-28;Female;Outdoor
 AL;1;WT53;5K0;10:29.56;;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2024-06-09;Female;Outdoor
 AL;1;WT54;5K0;10:25.24;;Schaer;Manuela;SUI;1984;SUI;Nottwil;2024-06-08;Female;Outdoor
@@ -269,7 +269,7 @@ AL;1;WT11;WEI;4.79;1.8;Garcia Falagan;Alba;ESP;2002;ESP;Segovia;2024-04-20;Femal
 AL;1;WT12;WEI;5.37;1.4;Martinez;Sara;ESP;1990;ESP;Guadalajara;2024-04-06;Female;Outdoor
 AL;1;WT13;WEI;4.88;0.5;Yuste Cotino;Carolina;ESP;2007;ESP;Valencia;2024-06-08;Female;Outdoor
 AL;1;WT20;WEI;5.62;1.6;Altin;Fatma Damla;TUR;2002;UAE;Dubai;2024-02-13;Female;Outdoor
-AL;1;WT37;WEI;4.53;0.0;Francois-Elie;Mandy;FRA;1989;USA;Long Beack;2024-04-11;Female;Outdoor
+AL;1;WT37;WEI;4.59;0.0;Genest;Manon;FRA;1992;FRA;ALBI, 81;2024-07-14;Female;Outdoor
 AL;1;WT38;WEI;5.63;-2.7;Ekler;Luca;HUN;1998;JPN;Kobe;2024-05-21;Female;Outdoor
 AL;1;WT44;WEI;3.97;1.0;Zafeiriou;Afroditi Eirini;GRE;2008;ITA;Jesolo;2024-03-24;Female;Outdoor
 AL;1;WT47;WEI;5.66;1.7;Luteran;Petra;HUN;1997;JPN;Kobe;2024-05-24;Female;Outdoor
@@ -327,7 +327,7 @@ AL;1;WF34;SPE;17.79;;Herrmann;Frances;GER;1989;UAE;Dubai;2024-02-15;Female;Outdo
 AL;1;WF35;SPE;18.52;;Maliszewska;Klaudia;POL;1992;POL;Krakow;2024-06-16;Female;Outdoor
 AL;1;WF37;SPE;17.14;;Koprowska;Iwona;POL;2001;POL;Krakow;2024-06-16;Female;Outdoor
 AL;1;WF40;SPE;13.46;;Latre Sanmartin;Elena;ESP;2006;ESP;Guadalajara;2024-04-07;Female;Outdoor
-AL;1;WF41;SPE;22.63;;Vandegou;Rose;FRA;1988;;NOUMEA 98800;2024-04-19;Female;Outdoor
+AL;1;WF41;SPE;23.1;;Vandegou;Rose;FRA;1988;FRA;ALBI, 81;2024-07-14;Female;Outdoor
 AL;1;WF45;SPE;8.19;;Stanescu;Marioara;ROU;1973;UAE;Dubai;2024-02-14;Female;Outdoor
 AL;1;WF46;SPE;42.1;;Roorda;Noelle;NED;2000;FRA;Paris;2024-06-13;Female;Outdoor
 AL;0;WF54;SPE;15.34;;Bogacheva;Mariia;NPA;1977;UAE;Dubai;2024-02-15;Female;Outdoor
