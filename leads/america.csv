@@ -11,7 +11,7 @@ AL;3;MT44;100;0:11.31;-1.2;de Lima;Matheus;BRA;2003;BRA;Sao Paulo;2024-06-15;Mal
 AL;2;MT45;100;0:11.57;1.8;Sample;Rayven;USA;2002;USA;Walnut;2024-03-16;Male;Outdoor
 AL;3;MT47;100;0:10.72;-1.1;Ferreira dos Santos;Petrucio;BRA;1996;BRA;Sao Paulo;2024-03-16;Male;Outdoor
 AL;2;MT51;100;0:20.11;1.1;Fournie;Cody;CAN;1989;CAN;Montreal;2024-06-28;Male;Outdoor
-AL;2;MT52;100;0:17.26;0.2;Bouchard;Anthony;CAN;1992;CAN;Ville Saint-Laurent;2024-05-18;Male;Outdoor
+AL;2;MT52;100;0:17.25;-0.3;Bouchard;Anthony;CAN;1992;CAN;Sherbrooke;2024-07-17;Male;Outdoor
 AL;3;MT53;100;0:14.64;1.7;Fernandes Da Silva;Ariosvaldo;BRA;1976;BRA;Sao Paulo;2024-04-18;Male;Outdoor
 AL;2;MT54;100;0:13.97;-0.2;Cervantes Garcia;Juan Pablo;MEX;1992;JPN;Kobe;2024-05-24;Male;Outdoor
 AL;2;MT62;100;0:11.00;2.0;Woodhall;Hunter;USA;1999;USA;Walnut;2024-03-15;Male;Outdoor
@@ -67,7 +67,7 @@ AL;3;MT12;1K5;4:00.00;;Moreta Criollo;Sixto Roman;ECU;1992;JPN;Kobe;2024-05-21;M
 AL;2;MT13;1K5;3:53.65;;Gomez;Joel;USA;2003;USA;Des Moines;2024-04-25;Male;Outdoor
 AL;2;MT20;1K5;3:50.73;;Brannigan;Michael;USA;1996;USA;Des Moines;2024-04-27;Male;Outdoor
 AL;3;MT37;1K5;4:28.80;;de Macedo;David Benedito;BRA;1984;BRA;Sao Paulo;2024-04-18;Male;Outdoor
-AL;2;MT38;1K5;3:57.89;;Riech;Nate;CAN;1995;CAN;Guelph;2024-06-04;Male;Outdoor
+AL;2;MT38;1K5;3:55.44;;Riech;Nate;CAN;1995;CAN;Toronto;2024-07-20;Male;Outdoor
 AL;3;MT45;1K5;4:35.91;;Loreto Barrios;Luis Jose;VEN;1991;VEN;Caracas;2024-05-30;Male;Outdoor
 AL;3;MT46;1K5;4:03.49;;Orrego Campos;Mauricio Esteban;CHI;2000;ITA;Jesolo;2024-03-22;Male;Outdoor
 AL;2;MT52;1K5;4:10.02;;Perez Juarez;Leonardo De Jesus;MEX;1993;JPN;Kobe;2024-05-25;Male;Outdoor
@@ -217,7 +217,7 @@ AL;2;WT53;800;1:57.39;;Hoang;Yen;USA;1997;USA;Champaign;2024-06-25;Female;Outdoo
 AL;2;WT54;800;1:43.24;;Scaroni;Susannah;USA;1991;SUI;Nottwil;2024-06-09;Female;Outdoor
 AL;3;WT11;1K5;5:01.46;;Mamani Quispe;Neri Roxana;PER;1998;JPN;Kobe;2024-05-18;Female;Outdoor
 AL;3;WT12;1K5;4:45.03;;Osorio;Francy;COL;1983;JPN;Kobe;2024-05-18;Female;Outdoor
-AL;2;WT13;1K5;4:56.35;;Gaunt;Keegan;CAN;2000;CAN;Hamilton;2024-07-14;Female;Outdoor
+AL;2;WT13;1K5;4:46.86;;Gaunt;Keegan;CAN;2000;CAN;Toronto;2024-07-20;Female;Outdoor
 AL;3;WT20;1K5;4:31.81;;Da Silva Barros;Antonia Keyla;BRA;1994;JPN;Kobe;2024-05-22;Female;Outdoor
 AL;2;WT34;1K5;4:02.48;;Houston;Eva;USA;2001;SUI;Nottwil;2024-06-09;Female;Outdoor
 AL;2;WT53;1K5;3:27.85;;Hoang;Yen;USA;1997;SUI;Nottwil;2024-06-08;Female;Outdoor

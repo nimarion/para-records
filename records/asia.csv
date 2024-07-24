@@ -4,7 +4,7 @@ AR;5;MT12;100;0:10.91;0.4;Li;Yansong;CHN;1982;GBR;London;2012-09-04;Male;Outdoor
 AR;5;MT13;100;0:10.70;0.9;Kawakami;Shuta;JPN;1998;JPN;Kobe;2024-05-20;Male;Outdoor
 AR;5;MT32;100;0:30.30;-0.4;Hirose;Takayoshi;JPN;;JPN;Tokyo;2002-09-01;Male;Outdoor
 AR;5;MT33;100;0:16.43;1.2;Almutairi;Ahmad;KUW;1994;UAE;Dubai;2023-02-27;Male;Outdoor
-AR;5;MT34;100;0:15.01;0.2;Rattana;Chaiwat;THA;1996;FRA;Paris;2023-07-13;Male;Outdoor
+AR;5;MT34;100;0:14.95;1.2;Othman;Mohamad;UAE;2004;SUI;Nottwil;2024-06-09;Male;Outdoor
 AR;5;MT35;100;0:12.29;-0.3;Yang;Sen;CHN;1990;CHN;Beijing;2008-09-13;Male;Outdoor
 AR;5;MT36;100;0:11.79;0.7;Yang;Yifei;CHN;1991;UAE;Dubai;2019-11-10;Male;Outdoor
 AR;5;MT37;100;0:11.27;0.1;Purnomo;Saptoyogo;INA;1998;FRA;Paris;2023-07-10;Male;Outdoor
@@ -24,7 +24,7 @@ AR;5;MT64;100;0:11.27;-0.3;Oshima;Kengo;JPN;2000;CHN;Hangzhou;2023-10-26;Male;Ou
 AR;5;MT72;100;0:25.98;1.2;Almarzooqi;Khalid;UAE;1967;UAE;Dubai;2024-02-13;Male;Outdoor
 AR;5;MT11;200;0:22.61;0.1;Di;Dongdong;CHN;1993;CHN;Tianjin;2019-08-30;Male;Outdoor
 AR;5;MT12;200;0:22.04;1.0;Li;Yansong;CHN;1982;GBR;London;2012-09-08;Male;Outdoor
-AR;5;MT13;200;0:22.10;0.0;Gull;Zeshan;PAK;;PAK;Islamabad;2003-08-17;Male;Outdoor
+AR;5;MT13;200;0:21.95;-1.4;Fukunaga;Ryota;JPN;1998;JPN;Mie;2024-06-09;Male;Outdoor
 AR;5;MT33;200;0:29.00;1.0;Almutairi;Ahmad;KUW;1994;SUI;Nottwil;2017-06-02;Male;Outdoor
 AR;5;MT34;200;0:26.20;0.1;Rattana;Chaiwat;THA;1996;THA;Nakhon Ratchasima (Korat);2023-12-06;Male;Outdoor
 AR;5;MT35;200;0:25.51;-0.3;Zare;Alireza;IRI;1994;CHN;Hangzhou;2023-10-25;Male;Outdoor
@@ -57,7 +57,7 @@ AR;5;MT45;400;0:52.83;;Sambongi;Yuya;JPN;2001;UAE;Dubai;2022-03-24;Male;Outdoor
 AR;5;MT46;400;0:48.64;;Wang;Hao;CHN;1995;INA;Jakarta;2018-10-11;Male;Outdoor
 AR;5;MT47;400;0:48.64;;Wang;Hao;CHN;1995;INA;Jakarta;2018-10-11;Male;Outdoor
 AR;5;MT51;400;1:28.34;;Inoue;Satoshi;JPN;1978;QAT;Doha;2015-10-30;Male;Outdoor
-AR;5;MT52;400;0:55.13;;Sato;Tomoki;JPN;1989;JPN;Machida City;2018-07-01;Male;Outdoor
+AR;5;MT52;400;0:54.54;;Sato;Tomoki;JPN;1989;SUI;Nottwil;2024-06-09;Male;Outdoor
 AR;5;MT53;400;0:46.11;;Paeyo;Pongsakorn;THA;1996;FRA;Paris;2023-07-11;Male;Outdoor
 AR;5;MT54;400;0:44.45;;Hu;Yang;CHN;1997;FRA;Paris;2023-07-11;Male;Outdoor
 AR;5;MT62;400;0:55.09;;Seapla;Jafa;THA;1984;CHN;Hangzhou;2023-10-24;Male;Outdoor
