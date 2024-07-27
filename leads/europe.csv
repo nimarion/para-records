@@ -7,7 +7,7 @@ AL;1;MT34;100;0:15.48;1.2;Manni;Henry;FIN;1992;SUI;Nottwil;2024-06-09;Male;Outdo
 AL;0;MT35;100;0:11.76;-0.2;Dzhatiev;David;NPA;2002;RUS;Yekaterinburg;2024-06-04;Male;Outdoor
 AL;0;MT36;100;0:11.97;0.6;Torsunov;Evgenii;NPA;1990;RUS;Yekaterinburg;2024-06-04;Male;Outdoor
 AL;0;MT37;100;0:11.46;-0.5;Vdovin;Andrei;NPA;1994;RUS;Yekaterinburg;2024-06-04;Male;Outdoor
-AL;1;MT38;100;0:10.97;0.9;Young;Thomas;GBR;2000;GBR;Cardiff;2024-05-01;Male;Outdoor
+AL;1;MT38;100;0:10.92;0.9;Young;Thomas;GBR;2000;GBR;London;2024-07-20;Male;Outdoor
 AL;1;MT42;100;0:13.39;1.4;Kayitare;Clavel;FRA;1986;FRA;ALBI, 81;2024-07-13;Male;Outdoor
 AL;1;MT43;100;0:26.16;1.4;Stamatiadis;Achileas;GRE;1992;GRE;Thessaloniki;2024-06-01;Male;Outdoor
 AL;1;MT44;100;0:11.64;-0.3;Siapo;Felicien;FRA;2003;;noumea;2024-03-15;Male;Outdoor
@@ -75,7 +75,7 @@ AL;0;MT11;1K5;4:03.52;;Rudakov;Fedor;NPA;1994;JPN;Kobe;2024-05-20;Male;Outdoor
 AL;0;MT12;1K5;3:46.63;;Kuliatin;Anton;NPA;1991;RUS;Yekaterinburg;2024-06-04;Male;Outdoor
 AL;1;MT13;1K5;3:50.63;;Ouhdadi El Ataby;Yassine;ESP;1994;ESP;L´Hospitalet de Llobregat, Barcelona;2024-04-27;Male;Outdoor
 AL;1;MT20;1K5;3:48.81;;Sandilands;Ben;GBR;2003;GBR;London;2024-06-08;Male;Outdoor
-AL;1;MT34;1K5;3:23.83;;Towers;Isaac;GBR;1998;SUI;Nottwil;2024-06-08;Male;Outdoor
+AL;1;MT34;1K5;3:15.27;;Towers;Isaac;GBR;1998;GBR;London;2024-07-20;Male;Outdoor
 AL;1;MT37;1K5;4:04.57;;Clerc;Renaud;FRA;2001;FRA;SOTTEVILLE LES ROUEN 76;2024-07-04;Male;Outdoor
 AL;1;MT38;1K5;4:06.07;;Hennouni-Bouzidi;Redouane;FRA;1989;FRA;TROYES;2024-06-16;Male;Outdoor
 AL;1;MT44;1K5;6:26.99;;Oikonomou;Dimitrios;GRE;1983;GRE;Thessaloniki;2024-06-02;Male;Outdoor
@@ -145,7 +145,7 @@ AL;1;MF63;KUG;14.36;;Habscheid;Tom;LUX;1986;GER;Neustädt;2024-05-11;Male;Outdoo
 AL;1;MF64;KUG;8.41;;Giakoumakis;Emmanouil;GRE;1994;GRE;Thessaloniki;2024-06-01;Male;Outdoor
 AL;1;MF11;DIS;43.08;;Tapia;Oney;ITA;1976;ITA;Macerata;2024-05-04;Male;Outdoor
 AL;1;MF12;DIS;42.14;;Wietecki;Marek;POL;1983;POL;Krakow;2024-06-15;Male;Outdoor
-AL;1;MF13;DIS;39.31;;Emanuele;Pangher;ITA;2002;TUN;Tunis;2024-03-05;Male;Outdoor
+AL;1;MF13;DIS;41.07;;Emanuele;Pangher;ITA;2002;ITA;Narni;2024-06-08;Male;Outdoor
 AL;1;MF32;DIS;15.73;;Serbus;Frantisek;CZE;1985;CZE;Olomouc;2024-07-05;Male;Outdoor
 AL;1;MF33;DIS;24.83;;Glab;Michal;POL;1992;POL;Krakow;2024-06-14;Male;Outdoor
 AL;1;MF34;DIS;25.66;;Dvorak;Martin;CZE;1994;UAE;Sharjah;2024-02-04;Male;Outdoor
@@ -197,8 +197,8 @@ AL;1;WT33;100;0:21.66;0.2;Goens;Cecile;BEL;2003;SUI;Nottwil;2024-06-08;Female;Ou
 AL;1;WT34;100;0:16.67;1.5;Cockroft;Hannah;GBR;1992;JPN;Kobe;2024-05-21;Female;Outdoor
 AL;1;WT35;100;0:15.23;-0.2;Kibil;Jagoda;POL;1999;POL;Tarnow;2024-05-04;Female;Outdoor
 AL;1;WT36;100;0:14.65;-0.4;Bouthoorn;Cheyenne;NED;1997;FRA;Paris;2024-06-13;Female;Outdoor
-AL;1;WT38;100;0:12.62;-1.1;Manthopoulou;Lida Maria;GRE;2005;FRA;Paris;2024-06-13;Female;Outdoor
-AL;1;WT42;100;0:15.14;1.1;Okoh;Ndidikama;GBR;2002;GBR;Loughborough;2024-07-10;Female;Outdoor
+AL;1;WT38;100;0:12.55;0.2;Hahn;Sophie;GBR;1997;GBR;London;2024-07-20;Female;Outdoor
+AL;1;WT42;100;0:14.76;0.2;Okoh;Ndidikama;GBR;2002;GBR;London;2024-07-20;Female;Outdoor
 AL;1;WT44;100;0:13.09;1.2;Bensusan;Irmgard;GER;1991;GER;Leverkusen;2024-07-06;Female;Outdoor
 AL;1;WT47;100;0:12.48;1.5;Ngoussou Ngouyi;Marie;FRA;2008;FRA;ALBI, 81;2024-07-13;Female;Outdoor
 AL;1;WT52;100;0:19.41;-1.0;Henseler;Tanja;SUI;1997;UAE;Sharjah;2024-02-04;Female;Outdoor
