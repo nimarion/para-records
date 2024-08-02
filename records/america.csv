@@ -5,11 +5,11 @@ AR;3;MT13;100;0:10.64;0.0;Mina Aponza;Jean Carlos;COL;2001;JPN;Tokyo;2021-08-29;
 AR;2;MT32;100;0:47.83;0.1;Pisano;Jason;USA;;GBR;Birmingham;2003-08-16;Male;Outdoor
 AR;2;MT33;100;0:18.36;0.0;Radmore;Joseph;CAN;1978;CAN;Ottawa;2003-06-26;Male;Outdoor
 AR;2;MT34;100;0:14.93;1.2;Smeenk;Austin;CAN;1997;SUI;Nottwil;2024-06-09;Male;Outdoor
-AR;3;MT35;100;0:12.10;1.9;Barreto;Hernan;ARG;1991;CHI;Santiago;2023-11-23;Male;Outdoor
+AR;3;MT35;100;0:12.08;-0.7;Caetano Nascimento;Henrique;BRA;1999;BRA;Sao Paulo;2024-06-08;Male;Outdoor
 AR;3;MT36;100;0:11.83;1.1;Chavez;Alexis Sebastian;ARG;2002;CHI;Santiago;2023-11-24;Male;Outdoor
 AR;2;MT37;100;0:10.95;0.3;Mayhugh;Nick;USA;1996;JPN;Tokyo;2021-08-27;Male;Outdoor
 AR;2;MT38;100;0:10.86;0.8;Blackwell;Jaydin;USA;2004;JPN;Kobe;2024-05-18;Male;Outdoor
-AR;3;MT44;100;0:11.33;-0.3;de Lima;Matheus;BRA;2003;BRA;Sao Paulo;2023-03-25;Male;Outdoor
+AR;3;MT44;100;0:11.33;-1.4;de Lima;Matheus;BRA;2003;BRA;Sao Paulo;2024-06-08;Male;Outdoor
 AR;3;MT45;100;0:10.94;0.2;Nascimento;Yohansson;BRA;1987;GBR;London;2012-09-06;Male;Outdoor
 AR;3;MT46;100;0:10.29;1.8;Ferreira dos Santos;Petrucio;BRA;1996;BRA;Sao Paulo;2022-03-31;Male;Outdoor
 AR;3;MT47;100;0:10.29;1.8;Ferreira dos Santos;Petrucio;BRA;1996;BRA;Sao Paulo;2022-03-31;Male;Outdoor
@@ -27,7 +27,7 @@ AR;2;MT13;200;0:21.71;-0.3;Jones;Stirley;USA;1984;GER;Berlin;2018-07-01;Male;Out
 AR;2;MT32;200;2:04.80;1.2;Pisano;Jason;USA;;GBR;Birmingham;2003-08-16;Male;Outdoor
 AR;2;MT33;200;0:33.73;0.0;Radmore;Joseph;CAN;1978;USA;Atlanta;2005-05-20;Male;Outdoor
 AR;2;MT34;200;0:27.71;1.5;Smeenk;Austin;CAN;1997;USA;Tempe;2017-05-12;Male;Outdoor
-AR;3;MT35;200;0:24.66;2.0;Villa;Maximiliano;ARG;2007;CHI;Santiago;2023-11-21;Male;Outdoor
+AR;3;MT35;200;0:24.52;-0.5;Caetano Nascimento;Henrique;BRA;1999;BRA;Sao Paulo;2024-06-09;Male;Outdoor
 AR;3;MT36;200;0:25.19;-0.2;Parreira Da Silva;Rodrigo;BRA;1994;GBR;London;2017-07-17;Male;Outdoor
 AR;2;MT37;200;0:21.91;1.0;Mayhugh;Nick;USA;1996;JPN;Tokyo;2021-09-04;Male;Outdoor
 AR;3;MT38;200;0:22.91;0.4;Hooker Velasquez;Dixon De Jesus;COL;1994;GBR;London;2017-07-18;Male;Outdoor
@@ -195,7 +195,7 @@ AR;3;MF56;DIS;47.37;;Batista dos Santos;Claudiney;BRA;1978;BRA;Sao Paulo;2023-06
 AR;3;MF57;DIS;48.55;;Paulino dos Santos;Thiago;BRA;1985;BRA;Sao Paulo;2019-08-11;Male;Outdoor
 AR;2;MF64;DIS;65.86;;Campbell;Jeremy;USA;1987;USA;Arizona;2021-05-30;Male;Outdoor
 AR;3;MF11;SPE;46.17;;Bello Loran;Anibal Jose;VEN;1968;FRA;Lyon;2013-07-23;Male;Outdoor
-AR;3;MF12;SPE;48.61;;de Souza Moura;Brendow Christian;BRA;1995;BRA;Rio de Janeiro;2023-08-12;Male;Outdoor
+AR;3;MF12;SPE;50.39;;de Souza Moura;Brendow Christian;BRA;1995;BRA;Sao Paulo;2024-06-08;Male;Outdoor
 AR;2;MF13;SPE;61.11;;Aguilera Cruz;Ulicer;CUB;1989;CHI;Santiago;2023-11-21;Male;Outdoor
 AR;3;MF33;SPE;20.45;;Ortega Campos;Gertrudis;PAN;1973;UAE;Dubai;2019-11-09;Male;Outdoor
 AR;3;MF34;SPE;38.23;;Valencia;Mauricio;COL;1987;SUI;Nottwil;2023-05-27;Male;Outdoor
