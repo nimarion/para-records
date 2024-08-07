@@ -1,5 +1,5 @@
 Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Geschlecht;Umgebung
-AR;1;MT11;100;0:10.82;1.2;Ghavelas;Nasos;GRE;1999;JPN;Tokyo;2021-09-02;Male;Outdoor
+AR;1;MT11;100;0:10.82;1.2;Ghavelas;Athanasios;GRE;1999;JPN;Tokyo;2021-09-02;Male;Outdoor
 AR;1;MT12;100;0:10.43;0.2;Kashafali;Salum Ageze;NOR;1993;JPN;Tokyo;2021-08-29;Male;Outdoor
 AR;1;MT13;100;0:10.37;0.8;Kashafali;Salum Ageze;NOR;1993;NOR;Oslo;2023-06-15;Male;Outdoor
 AR;1;MT32;100;0:23.25;0.0;Mcdonagh;Martin;IRL;1976;GBR;Nottingham;1999-08-13;Male;Outdoor
@@ -24,7 +24,7 @@ AR;1;MT63;100;0:12.02;1.0;Schaefer;Leon;GER;1997;GER;Leverkusen;2024-07-06;Male;
 AR;1;MT64;100;0:10.64;-0.2;Manu;Maxcel Amo;ITA;1992;FRA;Paris;2023-07-11;Male;Outdoor
 AR;1;MT71;100;0:28.79;0.5;Hayer;Muninder;GBR;1995;GBR;Warwickshire;2023-04-15;Male;Outdoor
 AR;1;MT72;100;0:15.39;-2.3;Calcagni;Carlo Fabio Marcello;ITA;1968;JPN;Kobe;2024-05-17;Male;Outdoor
-AR;1;MT11;200;0:22.79;-0.7;Ghavelas;Nasos;GRE;1999;GRE;Heraklion Crete;2022-05-22;Male;Outdoor
+AR;1;MT11;200;0:22.79;-0.7;Ghavelas;Athanasios;GRE;1999;GRE;Heraklion Crete;2022-05-22;Male;Outdoor
 AR;1;MT12;200;0:21.56;1.0;Michalski;Mateusz;POL;1987;GBR;London;2012-09-08;Male;Outdoor
 AR;1;MT13;200;0:21.05;1.7;Smyth;Jason;IRL;1987;FRA;Lyon;2013-07-21;Male;Outdoor
 AR;1;MT32;200;0:46.81;0.0;Mcdonagh;Martin;IRL;1976;GBR;Nottingham;2001-07-28;Male;Outdoor
@@ -227,7 +227,7 @@ AR;1;MF44;SPE;58.42;;Novak;Roman;UKR;1988;FRA;Paris;2023-07-13;Male;Outdoor
 AR;1;MF46;SPE;53.58;;Schiedeck;Jorg;GER;;USA;Atlanta;1996-08-24;Male;Outdoor
 AR;1;MF52;SPE;20.99;;Ganeshamoorthy;Rigivan;ITA;1999;ITA;Brescia;2024-06-30;Male;Outdoor
 AR;1;MF53;SPE;19.14;;Kisy;Ales;CZE;1980;NZL;Christchurch;2011-01-29;Male;Outdoor
-AR;1;MF54;SPE;31.5;;Stefanoudakis;Manolis;GRE;1983;THA;Nakhon Ratchasima (Korat);2023-12-05;Male;Outdoor
+AR;1;MF54;SPE;31.5;;Stefanoudakis;Emmanouil;GRE;1983;THA;Nakhon Ratchasima (Korat);2023-12-05;Male;Outdoor
 AR;1;MF55;SPE;32.38;;Bradal;Thomas;DEN;1972;CZE;Nove Mesto;2000-08-19;Male;Outdoor
 AR;1;MF56;SPE;42.27;;Gruijters;Pieter;NED;1967;CHN;Beijing;2008-09-09;Male;Outdoor
 AR;1;MF57;SPE;51.42;;Heidari;Hamed;AZE;1991;JPN;Tokyo;2021-08-28;Male;Outdoor
