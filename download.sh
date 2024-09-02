@@ -13,3 +13,4 @@ python3 main.py --url https://db.ipc-services.org/sdms/web/ranking/at/excel/type
 python3 main.py --url https://db.ipc-services.org/sdms/web/ranking/at/excel/type/ASR/list/1058/category/out --output leads/asia.csv --code AL
 python3 main.py --url https://db.ipc-services.org/sdms/web/ranking/at/excel/type/EUR/list/1058/category/out --output leads/europe.csv --code AL
 python3 main.py --url https://db.ipc-services.org/sdms/web/ranking/at/excel/type/OCR/list/1058/category/out --output leads/oceania.csv --code AL
+python3 main.py --url https://db.ipc-services.org/sdms/web/record/at/excel/type/PR/category/out/age/senior --output records/paralympics.csv --code PR
