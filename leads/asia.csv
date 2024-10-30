@@ -83,6 +83,12 @@ AL;5;MT12;5K0;15:34.23;;Horikoshi;Tadashi;JPN;1988;JPN;Abashiri City;2024-07-10;
 AL;5;MT13;5K0;16:12.13;;Takai;Toshiharu;JPN;1986;JPN;Abashiri City;2024-07-10;Male;Outdoor
 AL;5;MT20;5K0;16:34.03;;Kimura;Yuya;JPN;1984;JPN;Fukushima;2024-10-06;Male;Outdoor
 AL;5;MT54;5K0;9:14.02;;Alrajehi;Faisal;KUW;1998;UAE;Dubai;2024-02-15;Male;Outdoor
+AL;5;MT11;HAM;1:09:57.0;;Karasawa;Kenya;JPN;1994;JPN;Tokyo;2024-10-20;Male;Outdoor
+AL;5;MT12;HAM;1:09:33.0;;Kumagai;Yutaka;JPN;1987;JPN;Tokyo;2024-10-20;Male;Outdoor
+AL;5;MT37;HAM;1:15:28.0;;Igusa;Takafumi;JPN;1990;JPN;Tokyo;2024-10-20;Male;Outdoor
+AL;5;MT52;HAM;1:05:42.0;;Matsumoto;Naoyuki;JPN;1979;JPN;Tokyo;2024-10-20;Male;Outdoor
+AL;5;MT53;HAM;50:33.0;;Matsunaga;Hitoshi;JPN;1972;JPN;Tokyo;2024-10-20;Male;Outdoor
+AL;5;MT54;HAM;43:57.0;;Suzuki;Tomoki;JPN;1994;JPN;Tokyo;2024-10-20;Male;Outdoor
 AL;5;MT11;MAR;2:23:27;;Wada;Shinya;JPN;1977;JPN;Oita;2024-02-04;Male;Outdoor
 AL;5;MT12;MAR;2:22:19;;Horikoshi;Tadashi;JPN;1988;JPN;Tsuchiura City;2024-04-21;Male;Outdoor
 AL;5;MT13;MAR;2:35:19;;Takai;Toshiharu;JPN;1986;JPN;Sapporo;2024-08-25;Male;Outdoor
@@ -234,8 +240,10 @@ AL;5;WT11;5K0;22:41.94;;Inouchi;Natsumi;JPN;1989;JPN;Kitami City;2024-07-06;Fema
 AL;5;WT12;5K0;19:46.60;;Michishita;Misato;JPN;1977;JPN;Abashiri City;2024-07-10;Female;Outdoor
 AL;5;WT20;5K0;18:50.45;;Okano;Kako;JPN;2000;JPN;Tokyo;2024-03-23;Female;Outdoor
 AL;5;WT54;5K0;11:37.24;;Tian;Yajuan;CHN;1998;FRA;Paris;2024-08-31;Female;Outdoor
-AL;5;WT53;HAM;1:02:28.0;;Takimura;Kazumi;JPN;1983;JPN;Sendai;2024-05-12;Female;Outdoor
-AL;5;WT54;HAM;57:26.0;;Kina;Tsubasa;JPN;1990;JPN;Sendai;2024-05-12;Female;Outdoor
+AL;5;WT11;HAM;1:36:48.0;;Inouchi;Natsumi;JPN;1989;JPN;Tokyo;2024-10-20;Female;Outdoor
+AL;5;WT12;HAM;1:26:46.0;;Michishita;Misato;JPN;1977;JPN;Tokyo;2024-10-20;Female;Outdoor
+AL;5;WT53;HAM;1:00:51.0;;Takimura;Kazumi;JPN;1983;JPN;Tokyo;2024-10-20;Female;Outdoor
+AL;5;WT54;HAM;53:43.0;;Tsuchida;Wakako;JPN;1974;JPN;Tokyo;2024-10-20;Female;Outdoor
 AL;5;WT11;MAR;3:09:51;;He;Shanshan;CHN;1999;CHN;Xiamen;2024-01-07;Female;Outdoor
 AL;5;WT12;MAR;3:04:23;;Michishita;Misato;JPN;1977;FRA;Paris;2024-09-08;Female;Outdoor
 AL;5;WT53;MAR;2:15:30;;Takimura;Kazumi;JPN;1983;JPN;Tokyo;2024-03-03;Female;Outdoor
