@@ -84,6 +84,10 @@ AL;3;MT11;10K;35:24.00;;Mendes Alves de Brito;Antonio Carlos;BRA;1989;ESP;Sevill
 AL;2;MT54;10S;24:59.0;;Senbeta;Jeyna;USA;1986;USA;Boston;2024-06-23;Male;Outdoor
 AL;2;MT62;10S;39:24.0;;Reynolds;Brian;USA;1988;USA;Boston;2024-06-23;Male;Outdoor
 AL;3;MT11;HAM;1:15:32.0;;Mendes Alves de Brito;Antonio Carlos;BRA;1989;ESP;Sevilla;2024-02-18;Male;Outdoor
+AL;2;MT12;HAM;1:33:14.0;;Ramirez;Irwin;USA;1987;USA;Boston;2024-11-10;Male;Outdoor
+AL;2;MT53;HAM;57:16.0;;Willand;Wyatt;USA;2004;USA;Boston;2024-11-10;Male;Outdoor
+AL;2;MT54;HAM;47:38.0;;Romanchuk;Daniel;USA;1998;USA;Boston;2024-11-10;Male;Outdoor
+AL;2;MT62;HAM;1:29:45.0;;Reynolds;Brian;USA;1988;USA;Boston;2024-11-10;Male;Outdoor
 AL;3;MT11;MAR;2:28:07;;Guillen;Rosbil;PER;1992;PER;Lima;2024-05-19;Male;Outdoor
 AL;3;MT12;MAR;2:27:59;;Moreta Criollo;Sixto Roman;ECU;1992;FRA;Paris;2024-09-08;Male;Outdoor
 AL;2;MT52;MAR;2:02:19;;McCoy;Nicholas;USA;1983;USA;Duluth;2024-06-22;Male;Outdoor
@@ -227,6 +231,8 @@ AL;2;WT54;1K5;3:05.79;;Scaroni;Susannah;USA;1991;SUI;Nottwil;2024-06-08;Female;O
 AL;3;WT12;5K0;22:28.39;;Rodrigues;Livea;BRA;1982;BRA;Sao Paulo;2024-06-15;Female;Outdoor
 AL;2;WT54;5K0;10:25.00;;Scaroni;Susannah;USA;1991;SUI;Nottwil;2024-06-08;Female;Outdoor
 AL;2;WT54;10S;30:39.0;;Wheeler;Michelle;USA;1986;USA;Boston;2024-06-23;Female;Outdoor
+AL;2;WT53;HAM;1:01:53.0;;Hoang;Yen;USA;1997;USA;Boston;2024-11-10;Female;Outdoor
+AL;2;WT54;HAM;1:00:25.0;;Wheeler;Michelle;USA;1986;USA;Boston;2024-11-10;Female;Outdoor
 AL;3;WT12;MAR;3:01:23;;de Jesus Santos;Edneusa;BRA;1976;ESP;Barcelona;2024-03-10;Female;Outdoor
 AL;2;WT34;MAR;2:16:55;;Houston;Eva;USA;2001;USA;Boston;2024-04-15;Female;Outdoor
 AL;2;WT53;MAR;1:52:13;;Hoang;Yen;USA;1997;USA;Boston;2024-04-15;Female;Outdoor
