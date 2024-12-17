@@ -183,7 +183,7 @@ AR;3;MF35;DIS;46.25;;Urra;Hernan Emanuel;ARG;1996;COL;Barranquilla;2018-10-18;Ma
 AR;3;MF36;DIS;35.74;;Souza;Paulo;BRA;1985;MEX;Guadalajara;2011-11-18;Male;Outdoor
 AR;3;MF37;DIS;54.29;;Teixeira de Souza Silva;Joao Victor;BRA;1994;BRA;Sao Paulo;2022-05-06;Male;Outdoor
 AR;2;MF38;DIS;46.23;;Lopez Valenzuela;Luis Carlos;MEX;1999;SUI;Nottwil;2022-05-26;Male;Outdoor
-AR;2;MF40;DIS;19.46;;Foos;Ben;USA;1997;POR;Vila Real de Santo Anto;2022-11-28;Male;Outdoor
+AR;3;MF40;DIS;20.71;;Hirochi Lobato dos Santos;Sandro;BRA;2004;BRA;Sao Paulo;2024-12-07;Male;Outdoor
 AR;2;MF42;DIS;43.39;;Brown;Matthew;USA;1976;USA;Atlanta;2007-06-30;Male;Outdoor
 AR;4;MF43;DIS;63.7;;Stewart;Akeem;TTO;1992;PER;Lima;2019-08-27;Male;Outdoor
 AR;2;MF44;DIS;64.26;;Blair;David;USA;1975;USA;Tucson, AZ;2021-05-20;Male;Outdoor
@@ -201,7 +201,7 @@ AR;3;MF12;SPE;50.39;;de Souza Moura;Brendow Christian;BRA;1995;BRA;Sao Paulo;202
 AR;2;MF13;SPE;62.51;;Aguilera Cruz;Ulicer;CUB;1989;FRA;Paris;2024-09-05;Male;Outdoor
 AR;3;MF33;SPE;20.45;;Ortega Campos;Gertrudis;PAN;1973;UAE;Dubai;2019-11-09;Male;Outdoor
 AR;3;MF34;SPE;39.04;;Valencia;Mauricio;COL;1987;FRA;Paris;2024-09-04;Male;Outdoor
-AR;2;MF35;SPE;36.12;;Flemming;Erik;CAN;1982;FIN;Espoo;2005-08-24;Male;Outdoor
+AR;3;MF35;SPE;45.99;;Cybulski;Leandro;BRA;1988;BRA;Sao Paulo;2024-12-08;Male;Outdoor
 AR;3;MF36;SPE;45.18;;Souza;Paulo;BRA;1985;BRA;Sao Paulo;2019-09-29;Male;Outdoor
 AR;2;MF37;SPE;46.47;;Enriquez Gonzalez;Bryan Leonel;MEX;1998;MEX;San Luis Potosí;2018-12-17;Male;Outdoor
 AR;3;MF38;SPE;63.81;;Lemos Rivas;Jose Gregorio;COL;1991;FRA;Paris;2024-08-30;Male;Outdoor
@@ -343,7 +343,7 @@ AR;2;WF11;KUG;10.99;;Ljubisic;Ljiljana;CAN;1960;USA;Atlanta;1996-08-17;Female;Ou
 AR;2;WF12;KUG;13.72;;Valenzuela Alvarez;Rebeca;MEX;1992;JPN;Tokyo;2021-09-03;Female;Outdoor
 AR;3;WF13;KUG;9.81;;Almada;Mariela;ARG;1980;GRE;Athens;2004-09-25;Female;Outdoor
 AR;3;WF20;KUG;14.39;;Mendes Sanchez;Poleth Isamar;ECU;1996;JPN;Tokyo;2021-08-29;Female;Outdoor
-AR;3;WF32;KUG;7.89;;Brito Oliveira;Wanna Helena;BRA;1996;FRA;Paris;2024-09-04;Female;Outdoor
+AR;3;WF32;KUG;7.96;;Brito Oliveira;Wanna Helena;BRA;1996;BRA;Sao Paulo;2024-12-06;Female;Outdoor
 AR;2;WF33;KUG;8.23;;Cota Vera;Gilda Guadalupe;MEX;1989;MEX;Xalapa;2024-04-06;Female;Outdoor
 AR;2;WF34;KUG;7.55;;Grauer;Beth;USA;1983;USA;Miramar;2024-07-18;Female;Outdoor
 AR;3;WF35;KUG;9.47;;Oliveira Da Nobrega;Marivana;BRA;1990;USA;Tempe;2019-05-25;Female;Outdoor
@@ -375,7 +375,7 @@ AR;2;WF40;DIS;23.39;;Mejia Hernandez;Pauleth;MEX;2004;MEX;Xalapa;2024-04-06;Fema
 AR;3;WF41;DIS;30.89;;Lopez Macas;Estefany Gisela;ECU;1992;FRA;Paris;2024-09-04;Female;Outdoor
 AR;2;WF42;DIS;24.85;;Callahan;Catherine;USA;1965;USA;St. Paul, Minnesota;2015-06-20;Female;Outdoor
 AR;2;WF44;DIS;41.81;;Machado Plata;Osiris Aneth;MEX;2004;MEX;Xalapa;2024-04-07;Female;Outdoor
-AR;3;WF46;DIS;28.88;;Rodriguez;Seneida;ECU;2003;POR;Vila Real de Santo Anto;2022-11-28;Female;Outdoor
+AR;3;WF46;DIS;30.99;;Pereira Soares;Sueli;BRA;2004;BRA;Sao Paulo;2024-12-06;Female;Outdoor
 AR;2;WF51;DIS;14.87;;Mitchell;Cassie;USA;1981;USA;Arizona;2021-05-30;Female;Outdoor
 AR;3;WF52;DIS;18.25;;Rodrigues Gomes;Elizabeth;BRA;1965;BRA;Sao Paulo;2022-07-21;Female;Outdoor
 AR;3;WF53;DIS;18.45;;Rodrigues Gomes;Elizabeth;BRA;1965;BRA;Sao Paulo;2024-06-29;Female;Outdoor
@@ -403,6 +403,6 @@ AR;2;WF55;SPE;18.15;;Campbell;Santana Shawana;JAM;1990;GBR;London;2017-07-17;Fem
 AR;3;WF56;SPE;24.8;;Rocha Machado;Raissa;BRA;1996;BRA;Sao Paulo;2022-03-13;Female;Outdoor
 AR;2;WF57;SPE;22.3;;Caudillo Torres;Karla Alondra;MEX;1995;CAN;Toronto;2015-08-14;Female;Outdoor
 AR;2;WF64;SPE;19.23;;Barta;Sydney;USA;2004;USA;Tempe;2019-05-25;Female;Outdoor
-AR;3;WF32;KEU;26.66;;Brito Oliveira;Wanna Helena;BRA;1996;JPN;Kobe;2024-05-17;Female;Outdoor
+AR;3;WF32;KEU;28.03;;Brito Oliveira;Wanna Helena;BRA;1996;BRA;Sao Paulo;2024-12-07;Female;Outdoor
 AR;2;WF51;KEU;24.18;;Mitchell;Cassie;USA;1981;JPN;Tokyo;2021-09-03;Female;Outdoor
 AR;2;WP13;5-K;3,661;;Runyan;Marla;USA;;USA;Atlanta;1996-08-22;Female;Outdoor
