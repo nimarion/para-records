@@ -120,15 +120,19 @@ WL;;MT54;10S;24:59.0;;Senbeta;Jeyna;USA;1986;USA;Boston;2024-06-23;Male;Outdoor
 WL;;MT62;10S;39:24.0;;Reynolds;Brian;USA;1988;USA;Boston;2024-06-23;Male;Outdoor
 WL;;MT11;HAM;1:09:57.0;;Karasawa;Kenya;JPN;1994;JPN;Tokyo;2024-10-20;Male;Outdoor
 WL;;MT12;HAM;1:09:33.0;;Kumagai;Yutaka;JPN;1987;JPN;Tokyo;2024-10-20;Male;Outdoor
+WL;;MT33;HAM;1:19:04.0;;Yasuno;Yuhei;JPN;1990;JPN;Oita;2024-11-17;Male;Outdoor
+WL;;MT34;HAM;54:03.0;;Baba;Tatsuya;JPN;1989;JPN;Oita;2024-11-17;Male;Outdoor
 WL;;MT37;HAM;1:15:28.0;;Igusa;Takafumi;JPN;1990;JPN;Tokyo;2024-10-20;Male;Outdoor
-WL;;MT52;HAM;1:05:42.0;;Matsumoto;Naoyuki;JPN;1979;JPN;Tokyo;2024-10-20;Male;Outdoor
-WL;;MT53;HAM;50:33.0;;Matsunaga;Hitoshi;JPN;1972;JPN;Tokyo;2024-10-20;Male;Outdoor
+WL;;MT51;HAM;1:39:37.0;;Kiyota;Shinya;JPN;1993;JPN;Oita;2024-11-17;Male;Outdoor
+WL;;MT52;HAM;1:02:05.0;;Matsumoto;Naoyuki;JPN;1979;JPN;Oita;2024-11-17;Male;Outdoor
+WL;;MT53;HAM;48:47.0;;Hiromichi;Jun;JPN;1973;JPN;Oita;2024-11-17;Male;Outdoor
 WL;;MT54;HAM;43:57.0;;Suzuki;Tomoki;JPN;1994;JPN;Tokyo;2024-10-20;Male;Outdoor
 WL;;MT62;HAM;1:29:45.0;;Reynolds;Brian;USA;1988;USA;Boston;2024-11-10;Male;Outdoor
 WL;;MT11;MAR;2:23:27;;Wada;Shinya;JPN;1977;JPN;Oita;2024-02-04;Male;Outdoor
 WL;;MT12;MAR;2:22:01;;Boukhili;Wajdi;TUN;1998;MAR;Rabat;2024-04-21;Male;Outdoor
 WL;;MT13;MAR;2:26:44;;Assad;Abdennabi;MAR;1975;MAR;Marrakesh;2024-01-28;Male;Outdoor
-WL;;MT52;MAR;2:02:19;;McCoy;Nicholas;USA;1983;USA;Duluth;2024-06-22;Male;Outdoor
+WL;;MT51;MAR;2:34:37;;Du Preez;Pieter;RSA;1980;JPN;Oita;2024-11-17;Male;Outdoor
+WL;;MT52;MAR;1:55:37;;Ito;Tatsuya;JPN;1986;JPN;Oita;2024-11-17;Male;Outdoor
 WL;;MT53;MAR;1:28:49;;Lawson;Simon;GBR;1982;USA;Boston;2024-04-15;Male;Outdoor
 WL;;MT54;MAR;1:15:33;;Hug;Marcel;SUI;1986;USA;Boston;2024-04-15;Male;Outdoor
 WL;;MT61;MAR;2:42:01;;Whitehead;Richard;GBR;1976;GBR;London;2024-04-21;Male;Outdoor
@@ -332,13 +336,14 @@ WL;;WT53;10S;21:21.0;;Debrunner;Catherine;SUI;1995;JPN;Oita;2024-11-17;Female;Ou
 WL;;WT54;10S;30:39.0;;Wheeler;Michelle;USA;1986;USA;Boston;2024-06-23;Female;Outdoor
 WL;;WT11;HAM;1:36:48.0;;Inouchi;Natsumi;JPN;1989;JPN;Tokyo;2024-10-20;Female;Outdoor
 WL;;WT12;HAM;1:26:46.0;;Michishita;Misato;JPN;1977;JPN;Tokyo;2024-10-20;Female;Outdoor
+WL;;WT52;HAM;1:16:34.0;;Tanaka;Teruyo;JPN;1959;JPN;Oita;2024-11-17;Female;Outdoor
 WL;;WT53;HAM;45:49.0;;Debrunner;Catherine;SUI;1995;JPN;Oita;2024-11-17;Female;Outdoor
 WL;;WT54;HAM;50:37.0;;Menje;Merle Marie;GER;2004;GER;Berlin;2024-04-07;Female;Outdoor
 WL;;WT11;MAR;3:09:51;;He;Shanshan;CHN;1999;CHN;Xiamen;2024-01-07;Female;Outdoor
 WL;;WT12;MAR;2:45:49;;El Idrissi;Fatima Ezzahra;MAR;1995;MAR;Marrakesh;2024-01-28;Female;Outdoor
 WL;;WT13;MAR;3:17:24;;Guisado Rodriguez;Susana;ESP;1981;ESP;Valencia;2024-12-01;Female;Outdoor
 WL;;WT34;MAR;2:16:55;;Houston;Eva;USA;2001;USA;Boston;2024-04-15;Female;Outdoor
-WL;;WT53;MAR;1:38:54;;Debrunner;Catherine;SUI;1995;GBR;London;2024-04-21;Female;Outdoor
+WL;;WT53;MAR;1:36:49;;Debrunner;Catherine;SUI;1995;JPN;Oita;2024-11-17;Female;Outdoor
 WL;;WT54;MAR;1:35:11;;Rainbow-Cooper;Eden;GBR;2001;USA;Boston;2024-04-15;Female;Outdoor
 WL;;WT47;HOC;1.41;;Maric;Sara;CRO;2010;CRO;Pula;2024-04-28;Female;Outdoor
 WL;;WT11;WEI;5.24;0.2;Mirzayorova;Asila;UZB;1999;FRA;Paris;2024-08-30;Female;Outdoor
