@@ -28,7 +28,9 @@ if __name__ == '__main__':
     # Drop every row where vacant is set
     df = df[~df.eq("vacant").any(axis=1)]
 
-    df.loc[df["SDMS ID"] == 1, "SDMS ID"] = pd.NA
+    # Drop all rows where "SDMS ID" is 1 or NaN
+    df = df[~df["SDMS ID"].eq(1)]
+    df = df.dropna(subset=["SDMS ID"])
 
     # remove all where Equalled is "="
     if "Equalled" in df.columns:
@@ -125,4 +127,3 @@ if __name__ == '__main__':
     df = df.drop_duplicates()
 
     df.to_csv(args.output, index=False, sep=";")
-
