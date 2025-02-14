@@ -28,9 +28,7 @@ if __name__ == '__main__':
     # Drop every row where vacant is set
     df = df[~df.eq("vacant").any(axis=1)]
 
-    # Drop all rows where "SDMS ID" is 1 or NaN
     df.loc[df["SDMS ID"] == 1, "SDMS ID"] = pd.NA
-    df = df.dropna(subset=["SDMS ID"])
 
     # remove all where Equalled is "="
     if "Equalled" in df.columns:
