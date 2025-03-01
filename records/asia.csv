@@ -10,7 +10,7 @@ AR;5;MT36;100;0:11.79;0.7;Yang;Yifei;CHN;1991;UAE;Dubai;2019-11-10;Male;Outdoor
 AR;5;MT37;100;0:11.26;0.7;Purnomo;Saptoyogo;INA;1998;FRA;Paris;2024-08-30;Male;Outdoor
 AR;5;MT38;100;0:10.74;-0.3;Hu;Jianwen;CHN;1987;BRA;Rio de Janeiro;2016-09-13;Male;Outdoor
 AR;5;MT42;100;0:12.22;-0.2;;Partin;INA;2002;JPN;Kobe;2024-05-25;Male;Outdoor
-AR;5;MT44;100;0:11.58;-0.7;Bernard;Eddy;MAS;2001;FRA;Paris;2024-09-01;Male;Outdoor
+AR;5;MT44;100;0:11.23;1.6;Almasrahi;Naif;KSA;1990;UAE;Dubai;2025-02-11;Male;Outdoor
 AR;5;MT45;100;0:11.05;1.4;Sambongi;Yuya;JPN;2001;JPN;Totori;2023-06-25;Male;Outdoor
 AR;5;MT46;100;0:10.74;0.3;Wang;Hao;CHN;1995;JPN;Tokyo;2021-08-27;Male;Outdoor
 AR;5;MT47;100;0:10.74;0.3;Wang;Hao;CHN;1995;JPN;Tokyo;2021-08-27;Male;Outdoor
@@ -180,7 +180,7 @@ AR;1;MF37;DIS;59.75;;Norbekov;Khusniddin;UZB;1987;BRA;Rio de Janeiro;2016-09-08;
 AR;5;MF38;DIS;52.91;;Hardani;Javad;IRI;1984;GBR;London;2012-09-07;Male;Outdoor
 AR;5;MF40;DIS;24.8;;Tnaiash;Garrah;IRQ;1991;UAE;Sharjah;2018-03-20;Male;Outdoor
 AR;5;MF42;DIS;47.61;;Sorour;Faisal;KUW;1996;UAE;Dubai;2022-03-21;Male;Outdoor
-AR;5;MF43;DIS;48.68;;Thayat;Sagar;IND;;FRA;Paris;2023-07-15;Male;Outdoor
+AR;5;MF43;DIS;49.09;;Thayat;Sagar;IND;;UAE;Dubai;2025-02-12;Male;Outdoor
 AR;5;MF44;DIS;58.39;;Sepahvand;Farzad;IRI;1986;GBR;London;2012-09-06;Male;Outdoor
 AR;5;MF46;DIS;52.64;;Hou;Zhanbiao;CHN;1986;QAT;Doha;2015-10-24;Male;Outdoor
 AR;5;MF51;DIS;11.43;;Soorma;Pranav;IND;1994;FRA;Paris;2023-07-11;Male;Outdoor
@@ -359,7 +359,7 @@ AR;5;WF55;DIS;26.67;;Dong;Feixia;CHN;1989;FRA;Paris;2024-08-30;Female;Outdoor
 AR;5;WF56;DIS;23.44;;Dibaei;Faezeh;IRI;1978;UAE;Dubai;2019-02-24;Female;Outdoor
 AR;1;WF57;DIS;33.28;;Khamdamova;Mokhigul;UZB;1995;JPN;Kobe;2024-05-18;Female;Outdoor
 AR;5;WF63;DIS;33.19;;Zheng;Baozhu;CHN;1969;CHN;Beijing;2008-09-15;Female;Outdoor
-AR;5;WF64;DIS;24.22;;Maeda;Juri;JPN;1979;JPN;Kyoto;2022-05-14;Female;Outdoor
+AR;5;WF64;DIS;25.43;;;Dayawanti;IND;1990;UAE;Sharjah;2025-02-03;Female;Outdoor
 AR;5;WF11;SPE;28.21;;Zhong;Huimin;CHN;1994;CHN;Tianjin;2019-08-30;Female;Outdoor
 AR;5;WF12;SPE;47.06;;Zhao;Yuping;CHN;1994;FRA;Paris;2024-08-31;Female;Outdoor
 AR;1;WF13;SPE;44.58;;Kayumova;Nozimakhon;UZB;1992;BRA;Rio de Janeiro;2016-09-17;Female;Outdoor
