@@ -10,6 +10,7 @@ WR;;MT36;100;0:11.72;0.7;Turner;James;AUS;1996;UAE;Dubai;2019-11-10;Male;Outdoor
 WR;;MT37;100;0:10.95;0.3;Mayhugh;Nick;USA;1996;JPN;Tokyo;2021-08-27;Male;Outdoor
 WR;;MT38;100;0:10.64;0.9;Blackwell;Jaydin;USA;2004;FRA;Paris;2024-08-31;Male;Outdoor
 WR;;MT42;100;0:12.04;-0.5;Prokhorov;Anton;RPC;1992;JPN;Tokyo;2021-08-30;Male;Outdoor
+WR;;MT43;100;0:17.00;-0.9;Stamatiadis;Achileas;GRE;1992;MAR;Marrakech;2025-04-26;Male;Outdoor
 WR;;MT44;100;0:11.00;1.1;Mhlongo;Mpumelelo;RSA;1994;UAE;Dubai;2019-11-11;Male;Outdoor
 WR;;MT45;100;0:10.94;0.2;Nascimento;Yohansson;BRA;1987;GBR;London;2012-09-06;Male;Outdoor
 WR;;MT46;100;0:10.29;1.8;Ferreira dos Santos;Petrucio;BRA;1996;BRA;Sao Paulo;2022-03-31;Male;Outdoor
@@ -23,7 +24,7 @@ WR;;MT62;100;0:10.54;1.6;Floors;Johannes;GER;1995;UAE;Dubai;2019-11-10;Male;Outd
 WR;;MT63;100;0:11.95;1.9;Goncalves Rodrigues;Vinicius;BRA;1994;BRA;São Paulo;2019-04-25;Male;Outdoor
 WR;;MT64;100;0:10.61;1.4;Browne;Richard;USA;1991;QAT;Doha;2015-10-29;Male;Outdoor
 WR;;MT71;100;0:22.81;0.3;Fiore;Davide;ITA;2007;SUI;Nottwil;2024-06-08;Male;Outdoor
-WR;;MT72;100;0:15.39;-2.3;Calcagni;Carlo Fabio Marcello;ITA;1968;JPN;Kobe;2024-05-17;Male;Outdoor
+WR;;MT72;100;0:14.92;-0.6;Calcagni;Carlo Fabio Marcello;ITA;1968;MAR;Marrakech;2025-04-26;Male;Outdoor
 WR;;MT11;200;0:22.41;1.6;Brown;David;USA;1992;USA;Walnut, California;2014-04-18;Male;Outdoor
 WR;;MT12;200;0:21.55;0.8;Malone;Noah;USA;2001;USA;Terre Haute, IN;2021-05-07;Male;Outdoor
 WR;;MT13;200;0:21.05;1.7;Smyth;Jason;IRL;1987;FRA;Lyon;2013-07-21;Male;Outdoor
@@ -74,7 +75,7 @@ WR;;MT62;400;0:45.78;;Floors;Johannes;GER;1995;UAE;Dubai;2019-11-15;Male;Outdoor
 WR;;MT63;400;1:02.50;;Yamamoto;Atsushi;JPN;1982;JPN;Tama City;2020-11-08;Male;Outdoor
 WR;;MT64;400;0:49.66;;Seitis;Michail;GRE;1987;BRA;Rio de Janeiro;2016-09-15;Male;Outdoor
 WR;;MT71;400;1:49.41;;Matoga;Damian;POL;1995;DEN;Bagsværd;2024-07-12;Male;Outdoor
-WR;;MT72;400;1:02.96;;Calcagni;Carlo Fabio Marcello;ITA;1968;ITA;Brescia;2024-06-29;Male;Outdoor
+WR;;MT72;400;1:02.36;;Calcagni;Carlo Fabio Marcello;ITA;1968;MAR;Marrakech;2025-04-26;Male;Outdoor
 WR;;MT11;800;1:58.47;;Santos;Odair;BRA;1981;BRA;Sao Paulo;2011-08-06;Male;Outdoor
 WR;;MT12;800;1:50.02;;Sharov;Egor;RUS;1988;FRA;Lyon;2013-07-22;Male;Outdoor
 WR;;MT13;800;1:50.70;;Baka;Abdellatif;ALG;1994;KOR;Seoul;2015-05-13;Male;Outdoor
@@ -484,7 +485,7 @@ WR;;WF56;SPE;24.8;;Rocha Machado;Raissa;BRA;1996;BRA;Sao Paulo;2022-03-13;Female
 WR;;WF57;SPE;25.95;;Djelal;Safia;ALG;1983;UAE;Dubai;2017-03-21;Female;Outdoor
 WR;;WF64;SPE;26.61;;Kotlowska;Faustyna;POL;2001;POL;Cracow;2020-08-23;Female;Outdoor
 WR;;WF31;KEU;21.31;;Frioua;Hind;MAR;1995;FRA;Paris;2022-06-09;Female;Outdoor
-WR;;WF32;KEU;29;;Ibrahmi;Maroua;TUN;1988;FRA;Paris;2024-08-31;Female;Outdoor
+WR;;WF32;KEU;29.36;;Ibrahmi;Maroua;TUN;1988;MAR;Marrakech;2025-04-26;Female;Outdoor
 WR;;WF51;KEU;25.23;;Ovsii;Zoia;UKR;1994;UAE;Dubai;2019-11-11;Female;Outdoor
 WR;;WP11;5-K;2,182;;Willing;Martina;GER;1959;ESP;Barcelona;1992-09-11;Female;Outdoor
 WR;;WP12;5-K;2,877;;Ivekovic Mestrovic;Marija;CRO;1981;FIN;Espoo;2005-08-23;Female;Outdoor

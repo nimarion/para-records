@@ -10,7 +10,7 @@ AR;5;MT36;100;0:11.79;0.7;Yang;Yifei;CHN;1991;UAE;Dubai;2019-11-10;Male;Outdoor
 AR;5;MT37;100;0:11.26;0.7;Purnomo;Saptoyogo;INA;1998;FRA;Paris;2024-08-30;Male;Outdoor
 AR;5;MT38;100;0:10.74;-0.3;Hu;Jianwen;CHN;1987;BRA;Rio de Janeiro;2016-09-13;Male;Outdoor
 AR;5;MT42;100;0:12.22;-0.2;;Partin;INA;2002;JPN;Kobe;2024-05-25;Male;Outdoor
-AR;5;MT44;100;0:11.23;1.6;Almasrahi;Naif;KSA;1990;UAE;Dubai;2025-02-11;Male;Outdoor
+AR;5;MT44;100;0:11.21;0.4;Almasrahi;Naif;KSA;1990;MAR;Marrakech;2025-04-26;Male;Outdoor
 AR;5;MT45;100;0:11.05;1.4;Sambongi;Yuya;JPN;2001;JPN;Totori;2023-06-25;Male;Outdoor
 AR;5;MT46;100;0:10.74;0.3;Wang;Hao;CHN;1995;JPN;Tokyo;2021-08-27;Male;Outdoor
 AR;5;MT47;100;0:10.74;0.3;Wang;Hao;CHN;1995;JPN;Tokyo;2021-08-27;Male;Outdoor
@@ -33,7 +33,7 @@ AR;5;MT36;200;0:24.63;0.0;Deng;Peicheng;CHN;1996;CHN;Tianjin;2019-08-27;Male;Out
 AR;5;MT37;200;0:22.70;1.7;Shang;Guangxu;CHN;1995;QAT;Doha;2015-10-22;Male;Outdoor
 AR;5;MT38;200;0:22.65;-0.2;Zhou;Wenjun;CHN;1986;GBR;London;2012-09-08;Male;Outdoor
 AR;5;MT42;200;0:25.12;0.0;Yodha Pedige;Anil Prasanna Jayalath;SRI;1985;UAE;Dubai;2016-03-07;Male;Outdoor
-AR;5;MT44;200;0:24.03;0.3;Alsana;Nour;KSA;1984;FRA;Paris;2024-06-14;Male;Outdoor
+AR;5;MT44;200;0:23.75;-0.5;Alsana;Nour;KSA;1984;MAR;Marrakech;2025-04-26;Male;Outdoor
 AR;5;MT45;200;0:22.62;-0.2;Zhao;Xu;CHN;1985;GBR;London;2012-08-31;Male;Outdoor
 AR;5;MT46;200;0:21.71;-0.4;Wang;Hao;CHN;1995;INA;Jakarta;2018-10-09;Male;Outdoor
 AR;5;MT47;200;0:21.71;-0.4;Wang;Hao;CHN;1995;INA;Jakarta;2018-10-09;Male;Outdoor
@@ -240,9 +240,9 @@ AR;5;WT53;100;0:16.11;1.2;Gao;Fang;CHN;1988;SUI;Nottwil;2023-05-27;Female;Outdoo
 AR;5;WT54;100;0:15.80;1.7;Zhou;Zhaoqian;CHN;1997;JPN;Tokyo;2021-09-01;Female;Outdoor
 AR;5;WT61;100;0:17.39;-0.9;Yuguchi;Erina;JPN;2000;JPN;Tokyo;2024-10-13;Female;Outdoor
 AR;5;WT62;100;0:18.04;0.1;Saraswathi;Shalini;IND;1979;UAE;Sharjah;2023-02-20;Female;Outdoor
-AR;5;WT63;100;0:15.75;1.8;Tozawa;Tomomi;JPN;1999;JPN;Tottori City;2021-06-06;Female;Outdoor
+AR;5;WT63;100;0:15.55;0.7;Tozawa;Tomomi;JPN;1999;JPN;Matsuyama;2025-04-26;Female;Outdoor
 AR;5;WT64;100;0:13.43;0.6;Takakuwa;Saki;JPN;1992;JPN;Tokyo;2021-09-02;Female;Outdoor
-AR;5;WT71;100;0:54.94;-0.4;Yao;Yu-Mi;TPE;2008;FRA;Paris;2024-06-13;Female;Outdoor
+AR;5;WT71;100;0:35.29;-0.6;Alkaabi;Thekra;UAE;2001;MAR;Marrakech;2025-04-26;Female;Outdoor
 AR;5;WT11;200;0:24.36;1.5;Liu;Cuiqing;CHN;1991;JPN;Kobe;2024-05-25;Female;Outdoor
 AR;5;WT12;200;0:24.66;0.3;Zhou;Guohua;CHN;1990;GBR;London;2012-09-06;Female;Outdoor
 AR;5;WT13;200;0:26.21;0.1;Sasaki;Mana;JPN;1997;CHN;Beijing;2019-05-10;Female;Outdoor
@@ -314,12 +314,12 @@ AR;5;WT38;WEI;4.98;-0.4;Chen;Zimo;CHN;2000;FRA;Paris;2024-09-05;Female;Outdoor
 AR;5;WT46;WEI;5.41;-1.1;Ouyang;Jingling;CHN;1987;GBR;London;2012-09-02;Female;Outdoor
 AR;5;WT47;WEI;5.41;-1.1;Ouyang;Jingling;CHN;1987;GBR;London;2012-09-02;Female;Outdoor
 AR;5;WT61;WEI;4.05;0.2;Yuguchi;Erina;JPN;2000;JPN;Kobe;2024-05-23;Female;Outdoor
-AR;5;WT63;WEI;4.82;1.5;Tozawa;Tomomi;JPN;1999;GER;Leverkusen;2024-07-06;Female;Outdoor
+AR;5;WT63;WEI;4.88;1.5;Tozawa;Tomomi;JPN;1999;JPN;Matsuyama;2025-04-27;Female;Outdoor
 AR;5;WT64;WEI;5.7;0.4;Nakanishi;Maya;JPN;1985;JPN;Kumaga City;2020-09-05;Female;Outdoor
 AR;5;WF11;KUG;12.47;;Tang;Hongxia;CHN;1976;GBR;London;2012-09-05;Female;Outdoor
 AR;1;WF12;KUG;15.05;;Burkhanova;Safiya;UZB;1989;BRA;Rio de Janeiro;2016-09-14;Female;Outdoor
 AR;5;WF13;KUG;12.43;;Xu;Hongyan;CHN;;CAN;Quebec;2003-08-11;Female;Outdoor
-AR;5;WF20;KUG;12.26;;Hori;Reina;JPN;2004;JPN;Kobe;2024-05-19;Female;Outdoor
+AR;5;WF20;KUG;12.81;;Hori;Reina;JPN;2004;JPN;Matsuyama;2025-04-26;Female;Outdoor
 AR;5;WF32;KUG;6.49;;Alktebi;Noura;UAE;1992;JPN;Tokyo;2021-09-01;Female;Outdoor
 AR;5;WF33;KUG;7.98;;Wu;Qing;CHN;1988;FRA;Paris;2024-09-06;Female;Outdoor
 AR;5;WF34;KUG;9.25;;Zou;Lijuan;CHN;1994;FRA;Paris;2023-07-12;Female;Outdoor
