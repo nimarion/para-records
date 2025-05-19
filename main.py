@@ -14,7 +14,30 @@ if __name__ == '__main__':
     argparse.add_argument("--code", help="Record Code WR,AL;NR", required=False)
     args = argparse.parse_args()
 
-    resp = requests.get(args.url, verify=False)
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/123.0.0.0 Safari/537.36"
+        ),
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Connection": "keep-alive",
+        "Upgrade-Insecure-Requests": "1",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-User": "?1",
+        "Cache-Control": "max-age=0",
+    }
+
+    resp = requests.get(args.url, verify=False, headers=headers)
+    resp.raise_for_status() 
+    print("Downloading IPC Records from: " + args.url)
+    # save content to file
+    with open("ipc_records.xlsx", "wb") as f:
+        f.write(resp.content)
 
     df  = pd.read_excel(io.BytesIO(resp.content), header=0)
 
