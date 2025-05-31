@@ -2,7 +2,7 @@ Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Ges
 AR;6;MT12;100;0:11.16;1.5;Jason;Nathan;AUS;2002;AUS;Perth;2025-04-12;Male;Outdoor
 AR;6;MT13;100;0:10.80;-0.1;Perris;Chad;AUS;1992;FRA;Paris;2024-09-01;Male;Outdoor
 AR;6;MT33;100;0:19.90;0.0;Jones;Lachlan;AUS;1977;USA;Atlanta;1996-08-17;Male;Outdoor
-AR;6;MT34;100;0:14.79;0.6;McCracken;Rheed;AUS;1997;SUI;Arbon;2019-06-01;Male;Outdoor
+AR;6;MT34;100;0:14.70;1.9;McCracken;Rheed;AUS;1997;SUI;Nottwil;2025-05-24;Male;Outdoor
 AR;6;MT35;100;0:12.71;-1.2;Love;Jackson;AUS;2006;AUS;Canberra;2025-01-26;Male;Outdoor
 AR;6;MT36;100;0:11.72;0.7;Turner;James;AUS;1996;UAE;Dubai;2019-11-10;Male;Outdoor
 AR;6;MT37;100;0:12.08;0.6;Smith;Joseph;NZL;1997;FRA;Paris;2023-07-09;Male;Outdoor
@@ -11,7 +11,7 @@ AR;6;MT44;100;0:12.76;1.5;Shippley;Michael;AUS;1992;AUS;Perth;2025-04-12;Male;Ou
 AR;6;MT46;100;0:10.95;1.5;Page;Jaydon;AUS;2004;AUS;Perth;2025-04-12;Male;Outdoor
 AR;6;MT47;100;0:10.95;1.5;Page;Jaydon;AUS;2004;AUS;Perth;2025-04-12;Male;Outdoor
 AR;6;MT51;100;0:29.70;1.1;Bennet;Glen;AUS;;AUS;Sydney;2005-01-28;Male;Outdoor
-AR;6;MT52;100;0:17.31;0.0;McIntosh;Sam;AUS;1990;SUI;Nottwil;2024-06-08;Male;Outdoor
+AR;6;MT52;100;0:17.30;1.1;McIntosh;Sam;AUS;1990;SUI;Nottwil;2025-05-24;Male;Outdoor
 AR;6;MT53;100;0:15.66;0.5;Colman;Richard;AUS;1984;AUS;Brisbane;2015-03-07;Male;Outdoor
 AR;6;MT54;100;0:13.94;1.1;Carter;Samuel;AUS;1991;UAE;Dubai;2019-11-07;Male;Outdoor
 AR;6;MT63;100;0:12.13;0.6;Reardon;Scott;AUS;1990;QAT;Doha;2015-10-25;Male;Outdoor
@@ -42,7 +42,7 @@ AR;6;MT12;400;0:53.60;;Fitzpatrick;Jonathan;AUS;1986;NED;Assen;2006-09-07;Male;O
 AR;6;MT13;400;0:51.38;;Prendergast;Tim;NZL;1979;NZL;Wellington;2003-03-15;Male;Outdoor
 AR;6;MT20;400;0:50.71;;Campbell;Alberto;AUS;1993;AUS;Canberra;2016-02-06;Male;Outdoor
 AR;6;MT33;400;1:03.77;;Jones;Lachlan;AUS;1977;AUS;Sydney;2000-10-24;Male;Outdoor
-AR;6;MT34;400;0:48.86;;McCracken;Rheed;AUS;1997;UAE;Sharjah;2025-02-04;Male;Outdoor
+AR;6;MT34;400;0:48.82;;McCracken;Rheed;AUS;1997;SUI;Nottwil;2025-05-25;Male;Outdoor
 AR;6;MT35;400;1:08.88;;Orbell;Zac;NZL;2004;AUS;Perth;2025-04-10;Male;Outdoor
 AR;6;MT36;400;0:51.54;;Turner;James;AUS;1996;FRA;Paris;2024-09-03;Male;Outdoor
 AR;6;MT37;400;0:54.37;;Scott;Brad;AUS;1988;FRA;Lyon;2013-07-26;Male;Outdoor

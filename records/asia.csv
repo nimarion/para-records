@@ -4,7 +4,7 @@ AR;5;MT12;100;0:10.91;0.4;Li;Yansong;CHN;1982;GBR;London;2012-09-04;Male;Outdoor
 AR;5;MT13;100;0:10.70;0.9;Kawakami;Shuta;JPN;1998;JPN;Kobe;2024-05-20;Male;Outdoor
 AR;5;MT32;100;0:30.30;-0.4;Hirose;Takayoshi;JPN;;JPN;Tokyo;2002-09-01;Male;Outdoor
 AR;5;MT33;100;0:16.43;1.2;Almutairi;Ahmad;KUW;1994;UAE;Dubai;2023-02-27;Male;Outdoor
-AR;5;MT34;100;0:14.76;-0.8;Rattana;Chaiwat;THA;1996;FRA;Paris;2024-09-02;Male;Outdoor
+AR;5;MT34;100;0:14.56;1.9;Rattana;Chaiwat;THA;1996;SUI;Nottwil;2025-05-24;Male;Outdoor
 AR;5;MT35;100;0:12.29;-0.3;Yang;Sen;CHN;1990;CHN;Beijing;2008-09-13;Male;Outdoor
 AR;5;MT36;100;0:11.79;0.7;Yang;Yifei;CHN;1991;UAE;Dubai;2019-11-10;Male;Outdoor
 AR;5;MT37;100;0:11.26;0.7;Purnomo;Saptoyogo;INA;1998;FRA;Paris;2024-08-30;Male;Outdoor
@@ -15,9 +15,9 @@ AR;5;MT45;100;0:11.05;1.4;Sambongi;Yuya;JPN;2001;JPN;Totori;2023-06-25;Male;Outd
 AR;5;MT46;100;0:10.74;0.3;Wang;Hao;CHN;1995;JPN;Tokyo;2021-08-27;Male;Outdoor
 AR;5;MT47;100;0:10.74;0.3;Wang;Hao;CHN;1995;JPN;Tokyo;2021-08-27;Male;Outdoor
 AR;5;MT51;100;0:21.93;0.5;Alshook;Mohamed;BRN;1991;UAE;Dubai;2023-02-27;Male;Outdoor
-AR;5;MT52;100;0:16.75;1.8;Oya;Yuki;JPN;1981;JPN;Kobe;2021-07-10;Male;Outdoor
+AR;5;MT52;100;0:16.68;1.1;Sato;Tomoki;JPN;1989;SUI;Nottwil;2025-05-24;Male;Outdoor
 AR;5;MT53;100;0:14.20;0.8;Paeyo;Pongsakorn;THA;1996;JPN;Tokyo;2021-09-01;Male;Outdoor
-AR;5;MT54;100;0:13.63;-0.9;Paeng-Nuea;Athiwat;THA;2002;FRA;Paris;2023-07-15;Male;Outdoor
+AR;5;MT54;100;0:13.62;0.0;Paeng-Nuea;Athiwat;THA;2002;SUI;Nottwil;2025-05-24;Male;Outdoor
 AR;5;MT62;100;0:12.64;1.2;Seapla;Jafa;THA;1984;SUI;Nottwil;2022-05-27;Male;Outdoor
 AR;5;MT63;100;0:12.61;1.8;Yamamoto;Atsushi;JPN;1982;QAT;Doha;2015-10-25;Male;Outdoor
 AR;5;MT64;100;0:11.24;0.0;Oshima;Kengo;JPN;2000;FRA;Paris;2024-09-01;Male;Outdoor
@@ -49,7 +49,7 @@ AR;5;MT12;400;0:48.57;;Sun;Qichao;CHN;1994;BRA;Rio de Janeiro;2016-09-09;Male;Ou
 AR;5;MT13;400;0:47.79;;Fukunaga;Ryota;JPN;1998;FRA;Paris;2023-07-15;Male;Outdoor
 AR;5;MT20;400;0:47.43;;Nor Azmi;Muhammad Ammar Aiman;MAS;2002;FRA;Paris;2024-06-14;Male;Outdoor
 AR;5;MT33;400;0:57.05;;Almutairi;Ahmad;KUW;1994;UAE;Sharjah;2023-02-22;Male;Outdoor
-AR;5;MT34;400;0:48.61;;Rattana;Chaiwat;THA;1996;THA;Nakhon Ratchasima (Korat);2023-12-07;Male;Outdoor
+AR;5;MT34;400;0:48.49;;Rattana;Chaiwat;THA;1996;SUI;Nottwil;2025-05-25;Male;Outdoor
 AR;5;MT35;400;1:08.00;;Choi;Chang-Jin;KOR;1973;KOR;ChunAn;2003-05-15;Male;Outdoor
 AR;5;MT36;400;0:53.63;;Matsumoto;Takeru;JPN;2001;FRA;Paris;2024-09-03;Male;Outdoor
 AR;5;MT37;400;0:53.14;;Freitas;Teofilo;TLS;1993;INA;Jakarta;2018-10-10;Male;Outdoor
@@ -202,7 +202,7 @@ AR;5;MF37;SPE;57.81;;Xia;Dong;CHN;1984;CHN;Beijing;2008-09-09;Male;Outdoor
 AR;5;MF38;SPE;52.52;;An;Dongquan;CHN;1987;CHN;Hangzhou;2023-10-25;Male;Outdoor
 AR;5;MF40;SPE;39.08;;Naas;Ahmed;IRQ;1992;UAE;Dubai;2022-03-22;Male;Outdoor
 AR;5;MF41;SPE;48.94;;Sun;Pengxiang;CHN;1991;JPN;Kobe;2024-05-25;Male;Outdoor
-AR;5;MF42;SPE;52.79;;Fu;Yanlong;CHN;1988;GBR;London;2012-09-07;Male;Outdoor
+AR;5;MF42;SPE;61.17;;Gurjar;Mahendra;IND;1998;SUI;Nottwil;2025-05-25;Male;Outdoor
 AR;5;MF43;SPE;62.09;;Singh;Pushpendra;IND;2000;FRA;Paris;2023-07-13;Male;Outdoor
 AR;5;MF44;SPE;67.03;;Kodithuwakku;Dulan;SRI;1990;FRA;Paris;2024-09-02;Male;Outdoor
 AR;5;MF46;SPE;68.6;;Gurjar;Sundar Singh;IND;1996;CHN;Hangzhou;2023-10-25;Male;Outdoor
