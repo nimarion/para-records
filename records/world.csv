@@ -247,7 +247,7 @@ WR;;MF53;SPE;24.3;;Cunningham;Alphanso;JAM;1980;FRA;Lyon;2013-07-26;Male;Outdoor
 WR;;MF54;SPE;33.29;;Phongsavanh;Justin;USA;1997;USA;Minneapolis, MN;2021-06-19;Male;Outdoor
 WR;;MF55;SPE;35.3;;Naderi Darbaghshay;Ali;IRI;1967;GRE;Athens;2004-09-22;Male;Outdoor
 WR;;MF56;SPE;42.74;;Batista dos Santos;Claudiney;BRA;1978;BRA;Rio de Janeiro;2016-09-12;Male;Outdoor
-WR;;MF57;SPE;51.42;;Heidari;Hamed;AZE;1991;JPN;Tokyo;2021-08-28;Male;Outdoor
+WR;;MF57;SPE;51.42;;Haydari;Hamid;AZE;1991;JPN;Tokyo;2021-08-28;Male;Outdoor
 WR;;MF63;SPE;59.77;;Sveinsson;Helgi;ISL;1979;ITA;Rieti;2017-05-06;Male;Outdoor
 WR;;MF64;SPE;73.29;;;Sumit;IND;1998;CHN;Hangzhou;2023-10-25;Male;Outdoor
 WR;;MF31;KEU;32.88;;Demin;Evgenii;RUS;1989;RUS;Cheboksary;2023-08-12;Male;Outdoor
@@ -310,7 +310,7 @@ WR;;WT47;200;0:24.45;-0.6;Castillo Castillo;Yunidis;CUB;1987;GBR;London;2012-09-
 WR;;WT51;200;0:44.17;1.9;Mitchell;Cassie;USA;1981;USA;St. Paul, Minnesota;2015-06-20;Female;Outdoor
 WR;;WT52;200;0:33.19;1.6;Stilwell;Michelle;CAN;1974;AUS;Canberra;2013-01-21;Female;Outdoor
 WR;;WT53;200;0:27.47;0.0;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2022-05-26;Female;Outdoor
-WR;;WT54;200;0:27.52;0.5;Petitclerc;Chantal;CAN;1969;CHN;Beijing;2008-09-14;Female;Outdoor
+WR;;WT54;200;0:27.18;-0.1;Bayekula;Lea;BEL;1995;SUI;Arbon;2025-05-31;Female;Outdoor
 WR;;WT61;200;0:36.10;-0.9;Yuguchi;Erina;JPN;2000;JPN;Tokyo;2023-09-02;Female;Outdoor
 WR;;WT62;200;0:26.53;0.0;Andres Barrio;Sara;ESP;1986;ESP;Madrid;2024-06-15;Female;Outdoor
 WR;;WT63;200;0:29.87;-0.6;Sabatini;Ambra;ITA;2002;ITA;Jesolo;2022-05-08;Female;Outdoor
@@ -333,8 +333,8 @@ WR;;WT46;400;0:55.60;;Weyers;Anrune;RSA;1992;BEL;Huizingen;2019-08-24;Female;Out
 WR;;WT47;400;0:55.60;;Weyers;Anrune;RSA;1992;BEL;Huizingen;2019-08-24;Female;Outdoor
 WR;;WT51;400;1:36.44;;Mitchell;Cassie;USA;1981;USA;Charlotte, North Carolina;2016-07-02;Female;Outdoor
 WR;;WT52;400;1:04.87;;Vervoort;Marieke;BEL;1979;BEL;Kortrijk;2013-07-14;Female;Outdoor
-WR;;WT53;400;0:49.43;;Debrunner;Catherine;SUI;1995;FRA;Paris;2024-06-14;Female;Outdoor
-WR;;WT54;400;0:50.91;;Bayekula;Lea;BEL;1995;FRA;Paris;2024-06-14;Female;Outdoor
+WR;;WT53;400;0:49.02;;Debrunner;Catherine;SUI;1995;SUI;Arbon;2025-05-31;Female;Outdoor
+WR;;WT54;400;0:50.46;;McFadden;Tatyana;USA;1989;SUI;Arbon;2025-05-31;Female;Outdoor
 WR;;WT63;400;1:19.72;;Yasuda;Asumi;JPN;1991;JPN;Mie;2024-06-08;Female;Outdoor
 WR;;WT64;400;0:59.27;;Le Fur;Marie-Amelie;FRA;1988;BRA;Rio de Janeiro;2016-09-12;Female;Outdoor
 WR;;WT71;400;2:07.81;;Vaihinger;Marika;SWE;1988;NOR;Lillestrøm;2023-08-19;Female;Outdoor
@@ -369,8 +369,8 @@ WR;;WT38;1K5;5:28.51;;Fernandes;Maria;POR;1969;GBR;Nottingham;2001-07-26;Female;
 WR;;WT46;1K5;4:50.08;;Li;Chun Mei;CHN;;MAS;Kuala Lumpur;2006-11-29;Female;Outdoor
 WR;;WT51;1K5;6:25.19;;Mitchell;Cassie;USA;1981;USA;Tempe;2017-05-13;Female;Outdoor
 WR;;WT52;1K5;4:10.77;;Henseler;Tanja;SUI;1997;UAE;Sharjah;2023-02-21;Female;Outdoor
-WR;;WT53;1K5;3:05.41;;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2024-06-08;Female;Outdoor
-WR;;WT54;1K5;3:05.41;;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2024-06-08;Female;Outdoor
+WR;;WT53;1K5;3:02.26;;Debrunner;Catherine;SUI;1995;SUI;Arbon;2025-05-31;Female;Outdoor
+WR;;WT54;1K5;3:02.26;;Debrunner;Catherine;SUI;1995;SUI;Arbon;2025-05-31;Female;Outdoor
 WR;;WT64;1K5;4:58.68;;Norman;Grace;USA;1998;USA;Indianapolis, IN;2015-06-28;Female;Outdoor
 WR;;WT72;1K5;5:30.82;;Van Leussen Huizing;Gerlinda;NED;1974;DEN;Bagsværd;2024-07-12;Female;Outdoor
 WR;;WT11;5K0;17:17.32;;Njoroge;Mary Waithera;KEN;1984;MAR;Marrakech;2019-04-25;Female;Outdoor
@@ -378,8 +378,8 @@ WR;;WT12;5K0;17:50.45;;Pautova;Elena;RUS;1986;CAN;Quebec;2003-08-04;Female;Outdo
 WR;;WT13;5K0;15:07.19;;Runyan;Marla;USA;;ESP;Seville;1999-08-27;Female;Outdoor
 WR;;WT20;5K0;17:10.74;;Bounds;Kaitlin;USA;1991;USA;Des Moines;2025-04-24;Female;Outdoor
 WR;;WT52;5K0;14:47.55;;Vervoort;Marieke;BEL;1979;SUI;Nottwil;2014-05-18;Female;Outdoor
-WR;;WT53;5K0;10:25.00;;Scaroni;Susannah;USA;1991;SUI;Nottwil;2024-06-08;Female;Outdoor
-WR;;WT54;5K0;10:25.00;;Scaroni;Susannah;USA;1991;SUI;Nottwil;2024-06-08;Female;Outdoor
+WR;;WT53;5K0;10:24.36;;Debrunner;Catherine;SUI;1995;SUI;Arbon;2025-06-01;Female;Outdoor
+WR;;WT54;5K0;10:24.36;;Debrunner;Catherine;SUI;1995;SUI;Arbon;2025-06-01;Female;Outdoor
 WR;;WT53;10K;24:21.64;;Driscoll;Jean;USA;;USA;Atlanta;1996-08-18;Female;Outdoor
 WR;;WT54;10K;24:21.64;;Driscoll;Jean;USA;;USA;Atlanta;1996-08-18;Female;Outdoor
 WR;;WT11;HOC;1.45;;Rijswijk;Joke;NED;1954;KOR;Seoul;1988-10-19;Female;Outdoor
