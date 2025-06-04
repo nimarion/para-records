@@ -42,7 +42,7 @@ AL;1;MT62;200;0:21.12;-1.5;Floors;Johannes;GER;1995;ESP;L´Hospitalet de Llobreg
 AL;1;MT64;200;0:26.88;-2.3;Hegni;Sander Andreas;NOR;1998;SUI;Nottwil;2025-05-23;Male;Outdoor
 AL;1;MT71;200;0:57.62;-0.9;Krause;Patryk;POL;1993;POL;Wroclaw;2025-04-26;Male;Outdoor
 AL;1;MT72;200;0:35.99;-1.7;Siejwa;Piotr;POL;2006;POL;Wroclaw;2025-04-26;Male;Outdoor
-AL;1;MT11;400;0:55.30;;Kogovsek;Robi;SLO;2001;SUI;Nottwil;2025-05-25;Male;Outdoor
+AL;1;MT11;400;0:51.06;;Adolphe;Timothee;FRA;1989;FRA;SAINT denis;2025-05-29;Male;Outdoor
 AL;1;MT12;400;0:51.48;;Kaya;Ali Enes;TUR;2001;SUI;Nottwil;2025-05-25;Male;Outdoor
 AL;1;MT13;400;0:50.03;;Marzillier;Max;GER;2001;SUI;Nottwil;2025-05-25;Male;Outdoor
 AL;1;MT20;400;0:48.60;;Rodriguez Ramirez;Deliber;ESP;1993;ESP;Jaen;2025-05-24;Male;Outdoor
@@ -71,8 +71,9 @@ AL;1;MT12;1K5;4:07.51;;Gomes;Isaias;POR;1994;UAE;Dubai;2025-02-11;Male;Outdoor
 AL;1;MT13;1K5;4:01.53;;Al;Mikail;TUR;2001;SUI;Nottwil;2025-05-24;Male;Outdoor
 AL;1;MT20;1K5;3:56.32;;Geffroy;Gael;FRA;1999;FRA;Vichy;2025-05-17;Male;Outdoor
 AL;1;MT34;1K5;4:04.57;;Hermann;Eskil;SUI;2006;SUI;Arbon;2025-05-31;Male;Outdoor
-AL;1;MT37;1K5;5:04.86;;Ley;Maximilian;GER;2003;SUI;Nottwil;2025-05-24;Male;Outdoor
+AL;1;MT37;1K5;4:00.27;;Clerc;Renaud;FRA;2001;FRA;SAINT denis;2025-05-29;Male;Outdoor
 AL;1;MT38;1K5;4:16.08;;Kruesemann;Felix Maximilian Sven;GER;2001;UAE;Dubai;2025-02-12;Male;Outdoor
+AL;1;MT46;1K5;3:55.61;;Praud;Antoine;FRA;2003;FRA;SAINT denis;2025-05-29;Male;Outdoor
 AL;1;MT52;1K5;3:09.11;;Carabin;Maxime;BEL;2000;UAE;Sharjah;2025-02-03;Male;Outdoor
 AL;1;MT53;1K5;3:03.28;;Fairbank;Pierre;FRA;1971;SUI;Arbon;2025-05-31;Male;Outdoor
 AL;1;MT54;1K5;2:47.57;;Hug;Marcel;SUI;1986;SUI;Arbon;2025-05-31;Male;Outdoor
@@ -168,7 +169,7 @@ AL;1;WT34;100;0:16.98;0.0;Cockroft;Hannah;GBR;1992;SUI;Nottwil;2025-05-24;Female
 AL;1;WT35;100;0:15.44;-1.5;Renecka;Ingrid;POL;2004;SUI;Nottwil;2025-05-23;Female;Outdoor
 AL;1;WT36;100;0:15.26;-1.5;Bouthoorn;Cheyenne;NED;1997;SUI;Nottwil;2025-05-23;Female;Outdoor
 AL;1;WT37;100;0:15.62;-1.5;Burbulla;Laura;GER;2004;SUI;Nottwil;2025-05-23;Female;Outdoor
-AL;1;WT38;100;0:13.54;-2.4;Down;Maddie;GBR;2007;GBR;Manchester;2025-05-04;Female;Outdoor
+AL;1;WT38;100;0:13.42;-1.1;Pace;Sofia;FRA;1994;FRA;SAINT denis;2025-05-29;Female;Outdoor
 AL;1;WT42;100;0:15.30;1.3;Okoh;Ndidikama;GBR;2002;UAE;Dubai;2025-02-11;Female;Outdoor
 AL;1;WT46;100;0:13.06;0.6;Ross;Jule;GER;2006;ESP;L´Hospitalet de Llobregat, Barcelona;2025-05-17;Female;Outdoor
 AL;0;WT47;100;0:12.55;-0.3;Soloveva;Anastasiia;NPA;1997;IND;New Delhi;2025-03-11;Female;Outdoor
