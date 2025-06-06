@@ -18,8 +18,8 @@ AL;2;MT54;100;0:13.89;0.2;Cervantes Garcia;Juan Pablo;MEX;1992;MEX;Guadalajara;2
 AL;3;MT62;100;0:13.27;-0.7;Batista Cardoso Campos;Joao Vitor;BRA;2002;BRA;Sao Paulo;2025-04-25;Male;Outdoor
 AL;3;MT63;100;0:12.65;0.4;Goncalves Rodrigues;Vinicius;BRA;1994;BRA;Sao Paulo;2025-04-25;Male;Outdoor
 AL;2;MT64;100;0:11.03;0.9;Guity Guity;Sherman Isidro;CRC;1996;COL;Cali;2025-05-17;Male;Outdoor
-AL;3;MT71;100;0:21.55;0.0;Cabral;Vinicius Augusto;BRA;2001;BRA;Sao Paulo;2025-04-25;Male;Outdoor
-AL;3;MT72;100;0:15.80;0.6;Matos Marques Cunha;Joao;BRA;2007;BRA;Florianópolis;2025-04-12;Male;Outdoor
+AL;3;MT71;100;0:21.50;1.6;Cabral;Vinicius Augusto;BRA;2001;BRA;Sao Paulo;2025-05-24;Male;Outdoor
+AL;3;MT72;100;0:15.35;1.6;Matos Marques Cunha;Joao;BRA;2007;BRA;Sao Paulo;2025-05-24;Male;Outdoor
 AL;3;MT11;200;0:24.81;-0.3;Naranjo Rios;Samuel;COL;2002;COL;Cali;2025-03-16;Male;Outdoor
 AL;2;MT12;200;0:24.16;0.2;Johnson;David;CAN;1999;CAN;Victoria;2025-05-11;Male;Outdoor
 AL;3;MT13;200;0:24.20;-1.5;Ospina Rodriguez;Jordan Smith;COL;2005;COL;Cali;2025-03-16;Male;Outdoor
@@ -274,6 +274,7 @@ AL;2;WF33;SPE;9.49;;Davila Sepulveda;Alitzel;MEX;2001;MEX;Guadalajara;2025-05-09
 AL;3;WF34;SPE;15.83;;Mejias Viloria;Wendis;VEN;2001;COL;Cali;2025-05-18;Female;Outdoor
 AL;3;WF38;SPE;30.47;;Saldarriaga Hernandez;Xiomara;COL;2004;COL;Cali;2025-03-14;Female;Outdoor
 AL;3;WF46;SPE;36.92;;Rodriguez;Patricia;VEN;1998;MEX;Guadalajara;2025-05-12;Female;Outdoor
+AL;3;WF53;SPE;14.48;;Rodrigues Gomes;Elizabeth;BRA;1965;BRA;Sao Paulo;2025-05-25;Female;Outdoor
 AL;3;WF54;SPE;15.43;;Torres Martinez;Yanive;COL;1979;COL;Cali;2025-05-19;Female;Outdoor
 AL;2;WF55;SPE;20.22;;Navarro Hernandez;Maria Guadalupe;MEX;2006;MEX;Guadalajara;2025-05-09;Female;Outdoor
 AL;3;WF56;SPE;23.36;;Rocha Machado;Raissa;BRA;1996;BRA;Sao Paulo;2025-04-20;Female;Outdoor
