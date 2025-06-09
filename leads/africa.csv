@@ -7,13 +7,13 @@ AL;4;MT36;100;0:12.70;0.1;Zakary;Youssef;MAR;2000;MAR;Marrakech;2025-04-26;Male;
 AL;4;MT37;100;0:12.20;1.3;Opiyo;Samson;KEN;1996;UAE;Dubai;2025-02-11;Male;Outdoor
 AL;4;MT38;100;0:12.19;1.3;Prosper;Mitchell;MRI;2000;UAE;Dubai;2025-02-11;Male;Outdoor
 AL;4;MT44;100;0:12.75;0.4;Benkirane;Amine;MAR;2002;MAR;Marrakech;2025-04-26;Male;Outdoor
-AL;4;MT46;100;0:11.65;-1.0;Mutai;Vincent Kiprono;KEN;1998;MAR;Marrakech;2025-04-26;Male;Outdoor
+AL;4;MT46;100;0:11.35;-0.6;Christian;Ifeanyi;NGR;1996;FRA;Paris;2025-06-03;Male;Outdoor
 AL;4;MT47;100;0:10.73;-0.5;El Haddaoui;Aymane;MAR;2000;MAR;Marrakech;2025-04-26;Male;Outdoor
 AL;4;MT52;100;0:24.78;1.9;Berrahal;Mohamed;ALG;1979;UAE;Dubai;2025-02-10;Male;Outdoor
 AL;4;MT54;100;0:15.03;-1.3;Ravet;Cedric;MRI;1986;SUI;Arbon;2025-06-01;Male;Outdoor
 AL;4;MT61;100;0:16.55;-2.3;Mokolometsa;Kitso;RSA;2007;RSA;Gqeberha;2025-03-30;Male;Outdoor
 AL;4;MT62;100;0:11.31;0.6;Daniels;Paul;RSA;2002;RSA;Stellenbosch;2025-02-22;Male;Outdoor
-AL;4;MT63;100;0:12.28;-0.6;Mabote;Puseletso Michael;RSA;2005;ESP;L´Hospitalet de Llobregat, Barcelona;2025-05-17;Male;Outdoor
+AL;4;MT63;100;0:12.20;-0.5;Mabote;Puseletso Michael;RSA;2005;FRA;Paris;2025-06-03;Male;Outdoor
 AL;4;MT64;100;0:12.74;0.2;Van Heerden;Jayden;RSA;2009;RSA;Gqeberha;2025-03-30;Male;Outdoor
 AL;4;MT11;200;0:26.10;-0.8;Mukiri;John Njoroge;KEN;1987;MAR;Marrakech;2025-04-26;Male;Outdoor
 AL;4;MT12;200;0:31.58;-0.9;Loko;Francois D'Assise Jasmin Romeo;BEN;2002;MAR;Marrakech;2025-04-26;Male;Outdoor
@@ -79,6 +79,7 @@ AL;4;MF12;KUG;13.37;;Blom;Hermanus;RSA;1986;RSA;Gqeberha;2025-03-30;Male;Outdoor
 AL;4;MF32;KUG;9.83;;Amchi;Mohamed Nadjib;ALG;1991;UAE;Dubai;2025-02-10;Male;Outdoor
 AL;4;MF33;KUG;11;;Derhem;Zakariae;MAR;1990;MAR;Marrakech;2025-04-26;Male;Outdoor
 AL;4;MF34;KUG;11.05;;Nouiri;Azeddine;MAR;1986;MAR;Marrakech;2025-04-26;Male;Outdoor
+AL;4;MF36;KUG;15.17;;Guenichi;Yassine;TUN;1995;FRA;Paris;2025-06-02;Male;Outdoor
 AL;4;MF37;KUG;7.77;;Naili;Yahya;MAR;2008;MAR;Marrakech;2025-04-26;Male;Outdoor
 AL;4;MF40;KUG;8.15;;Duffi;Benian Richard;CIV;1991;MAR;Marrakech;2025-04-26;Male;Outdoor
 AL;4;MF41;KUG;10.26;;Ye;Kah Michel;CIV;1984;MAR;Marrakech;2025-04-26;Male;Outdoor
@@ -112,7 +113,7 @@ AL;4;WT11;100;0:13.84;-1.1;Asaun;Julie Anndora;MRI;1998;UAE;Dubai;2025-02-10;Fem
 AL;4;WT12;100;0:14.34;0.2;Numedo;Akuvi Xana;TOG;1994;MAR;Marrakech;2025-04-26;Female;Outdoor
 AL;4;WT13;100;0:14.21;0.2;Mone;Rahinatou;BUR;2003;MAR;Marrakech;2025-04-26;Female;Outdoor
 AL;4;WT37;100;0:14.22;-0.2;James;Sheryl;RSA;1986;RSA;Gqeberha;2025-03-30;Female;Outdoor
-AL;4;WT44;100;0:15.17;0.2;Felix;Charne;RSA;1986;RSA;Gqeberha;2025-03-30;Female;Outdoor
+AL;4;WT44;100;0:15.11;-0.6;Abrahams;Tezna Kirstin;RSA;1995;FRA;Paris;2025-06-03;Female;Outdoor
 AL;4;WT47;100;0:13.06;-0.5;Obonyo;Stency;KEN;2002;MAR;Marrakech;2025-04-26;Female;Outdoor
 AL;4;WT54;100;0:16.41;-1.0;Perrine;Marie Desirella Brandy;MRI;1998;UAE;Sharjah;2025-02-02;Female;Outdoor
 AL;4;WT11;200;0:28.77;0.1;Asaun;Julie Anndora;MRI;1998;UAE;Dubai;2025-02-12;Female;Outdoor
@@ -122,7 +123,7 @@ AL;4;WT11;400;1:05.48;;Jepkemei;Priscah;KEN;1990;MAR;Marrakech;2025-04-26;Female
 AL;4;WT13;400;1:00.93;;Majaga;Gloria;BOT;2001;BOT;Francistown;2025-04-27;Female;Outdoor
 AL;4;WT20;400;1:08.78;;Telvave;Ashley;MRI;2000;MAR;Marrakech;2025-04-26;Female;Outdoor
 AL;4;WT37;400;1:05.92;;James;Sheryl;RSA;1986;UAE;Dubai;2025-02-11;Female;Outdoor
-AL;4;WT38;400;1:08.59;;Mansour;Sonia;TUN;1988;MAR;Marrakech;2025-04-26;Female;Outdoor
+AL;4;WT38;400;1:06.88;;Nicolaisen;Arina;RSA;2000;FRA;Paris;2025-06-04;Female;Outdoor
 AL;4;WT47;400;1:04.40;;Aciro;Prisca;UGA;2002;UGA;Kampala;2025-04-12;Female;Outdoor
 AL;4;WT54;400;0:53.62;;Alphonse;Noemi;MRI;1995;UAE;Sharjah;2025-02-04;Female;Outdoor
 AL;4;WT12;800;3:17.57;;Numedo;Akuvi Xana;TOG;1994;MAR;Marrakech;2025-04-26;Female;Outdoor
@@ -136,6 +137,7 @@ AL;4;WT11;MAR;3:43:41;;Coetzee;Louzanne;RSA;1993;GBR;London;2025-04-27;Female;Ou
 AL;4;WT54;MAR;2:05:14;;Alphonse;Noemi;MRI;1995;GBR;London;2025-04-27;Female;Outdoor
 AL;4;WT20;WEI;4.51;-0.1;Telvave;Ashley;MRI;2000;MAR;Marrakech;2025-04-26;Female;Outdoor
 AL;4;WT37;WEI;4.4;0.6;Angeline;Anais;MRI;1999;UAE;Dubai;2025-02-13;Female;Outdoor
+AL;4;WT44;WEI;4.23;-0.9;Abrahams;Tezna Kirstin;RSA;1995;FRA;Paris;2025-06-04;Female;Outdoor
 AL;4;WT47;WEI;4.49;1.8;Korir;Caren Jemutai;KEN;2007;MAR;Marrakech;2025-04-26;Female;Outdoor
 AL;4;WF20;KUG;11.41;;Clair;Brigila;MRI;2002;MAR;Marrakech;2025-04-26;Female;Outdoor
 AL;4;WF32;KUG;5.94;;Ibrahmi;Maroua;TUN;1988;MAR;Marrakech;2025-04-26;Female;Outdoor
@@ -143,7 +145,7 @@ AL;4;WF33;KUG;5.16;;Elfaroui;Hanane;MAR;2000;MAR;Marrakech;2025-04-26;Female;Out
 AL;4;WF34;KUG;6.47;;Ben Mbarek;Sawsen;TUN;1993;MAR;Marrakech;2025-04-26;Female;Outdoor
 AL;4;WF38;KUG;11.61;;Kruger;Simone;RSA;2005;RSA;Stellenbosch;2025-02-22;Female;Outdoor
 AL;4;WF40;KUG;8.58;;Jebali;Raja;TUN;1997;MAR;Marrakech;2025-04-26;Female;Outdoor
-AL;4;WF41;KUG;8.74;;Ben Koelleb;Samar;TUN;1995;MAR;Marrakech;2025-04-26;Female;Outdoor
+AL;4;WF41;KUG;9.54;;Tlili;Raoua;TUN;1989;FRA;Paris;2025-06-04;Female;Outdoor
 AL;4;WF42;KUG;10.4;;Nwachukwu;Goodness Chiemerie;NGR;1998;MAR;Marrakech;2025-04-26;Female;Outdoor
 AL;4;WF44;KUG;9.45;;van der Merwe;Yane;RSA;2000;RSA;Gqeberha;2025-03-31;Female;Outdoor
 AL;4;WF46;KUG;9.92;;Le Roux;Juane;RSA;2007;RSA;Gqeberha;2025-03-30;Female;Outdoor
@@ -152,7 +154,7 @@ AL;4;WF56;KUG;6.09;;Guissou;Kouilibi Victorine;BUR;1985;MAR;Marrakech;2025-04-26
 AL;4;WF57;KUG;8.94;;Iyiazi;Eucharia Njideka;NGR;1973;MAR;Marrakech;2025-04-26;Female;Outdoor
 AL;4;WF38;DIS;37.3;;Kruger;Simone;RSA;2005;RSA;Stellenbosch;2025-02-22;Female;Outdoor
 AL;4;WF40;DIS;11.92;;Hafid;Ikram;MAR;2003;MAR;Marrakech;2025-04-26;Female;Outdoor
-AL;4;WF41;DIS;28.66;;Yapi;Chia Carine;CIV;1995;MAR;Marrakech;2025-04-26;Female;Outdoor
+AL;4;WF41;DIS;34.36;;Tlili;Raoua;TUN;1989;FRA;Paris;2025-06-03;Female;Outdoor
 AL;4;WF42;DIS;35.33;;Nwachukwu;Goodness Chiemerie;NGR;1998;MAR;Marrakech;2025-04-26;Female;Outdoor
 AL;4;WF44;DIS;34.06;;van der Merwe;Yane;RSA;2000;RSA;Gqeberha;2025-03-30;Female;Outdoor
 AL;4;WF46;DIS;34.52;;Le Roux;Juane;RSA;2007;RSA;Gqeberha;2025-03-31;Female;Outdoor

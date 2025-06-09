@@ -1,5 +1,5 @@
 Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Geschlecht;Umgebung
-AL;3;MT11;100;0:11.57;-0.1;Goncalves de Lima Da Silv;Kim Wagner;BRA;1981;BRA;Sao Paulo;2025-04-25;Male;Outdoor
+AL;3;MT11;100;0:11.46;-0.7;Santos Gonzalez;Enderson German;VEN;1987;FRA;Paris;2025-06-02;Male;Outdoor
 AL;2;MT12;100;0:10.58;1.2;Malone;Noah;USA;2001;USA;Walnut;2025-04-19;Male;Outdoor
 AL;3;MT13;100;0:10.91;-0.2;Barros Ferreira;Fabricio Junior;BRA;1998;BRA;Cuiabá;2025-05-03;Male;Outdoor
 AL;2;MT34;100;0:15.19;-0.7;Smeenk;Austin;CAN;1997;SUI;Arbon;2025-05-29;Male;Outdoor
@@ -86,7 +86,7 @@ AL;2;MT52;MAR;2:46:05;;McCoy;Nicholas;USA;1983;USA;Boston;2025-04-21;Male;Outdoo
 AL;2;MT53;MAR;1:38:50;;Siemann;Brian;USA;1989;GBR;London;2025-04-27;Male;Outdoor
 AL;2;MT54;MAR;1:25:58;;Romanchuk;Daniel;USA;1998;USA;Boston;2025-04-21;Male;Outdoor
 AL;3;MT42;HOC;1.5;;Moraes Da Costa;Gabriel Euzebio;BRA;2006;BRA;Sao Paulo;2025-04-20;Male;Outdoor
-AL;3;MT44;HOC;1.88;;Laim dos Santos;Caio;BRA;2001;BRA;Sao Paulo;2025-05-24;Male;Outdoor
+AL;3;MT44;HOC;1.95;;Uribe Pimentel;Rafael Augusto;VEN;1985;FRA;Paris;2025-06-03;Male;Outdoor
 AL;3;MT47;HOC;1.81;;Guerra;Paulo;BRA;1992;BRA;Sao Paulo;2025-04-20;Male;Outdoor
 AL;2;MT64;HOC;2;;Loccident;Derek;USA;1998;COL;Cali;2025-05-16;Male;Outdoor
 AL;3;MT11;WEI;5.82;-0.1;Goncalves de Lima Da Silv;Kim Wagner;BRA;1981;BRA;Sao Paulo;2025-04-26;Male;Outdoor
@@ -94,7 +94,7 @@ AL;3;MT12;WEI;6.78;-1.1;Vazquez;Fernando;ARG;1999;SUI;Nottwil;2025-05-25;Male;Ou
 AL;3;MT13;WEI;6.83;-1.0;Andrade dos Reis;Paulo Henrique;BRA;1998;BRA;Sao Paulo;2025-04-20;Male;Outdoor
 AL;2;MT20;WEI;6.91;-1.7;Vucsics;Noah;CAN;2000;CAN;Calgary;2025-05-11;Male;Outdoor
 AL;3;MT36;WEI;5.91;0.9;Almeida Ramos;Aser Mateus;BRA;1991;BRA;Sao Paulo;2025-04-23;Male;Outdoor
-AL;3;MT37;WEI;6.33;0.0;Impellizzeri;Brian Lionel;ARG;1998;SUI;Nottwil;2025-05-23;Male;Outdoor
+AL;3;MT37;WEI;6.38;0.0;Impellizzeri;Brian Lionel;ARG;1998;FRA;Paris;2025-06-04;Male;Outdoor
 AL;3;MT38;WEI;6.63;0.2;Gomez Coa;Juan Sebastian;COL;1999;COL;Cali;2025-05-17;Male;Outdoor
 AL;3;MT44;WEI;6.45;1.2;Pereira Santos;Romildo;BRA;1999;BRA;Sao Paulo;2025-04-23;Male;Outdoor
 AL;2;MT46;WEI;7.69;0.1;Sol Cervantes;Robiel Yankiel;CUB;2003;COL;Cali;2025-05-17;Male;Outdoor
@@ -108,17 +108,17 @@ AL;3;MF20;KUG;13.97;;Santos;Wellington;BRA;1992;BRA;Sao Paulo;2025-05-25;Male;Ou
 AL;2;MF32;KUG;4.89;;Salas Graciano;Jesus Eduardo;MEX;2006;MEX;Guadalajara;2025-05-10;Male;Outdoor
 AL;3;MF33;KUG;7.03;;dos Santos;Robson Daniel;BRA;1979;BRA;Sao Paulo;2025-04-23;Male;Outdoor
 AL;3;MF34;KUG;12.01;;Valencia;Mauricio;COL;1987;COL;Cali;2025-05-17;Male;Outdoor
-AL;3;MF35;KUG;15.53;;Urra;Hernan Emanuel;ARG;1996;ARG;Buenos Aires;2025-04-05;Male;Outdoor
+AL;3;MF35;KUG;15.91;;Urra;Hernan Emanuel;ARG;1996;FRA;Paris;2025-06-02;Male;Outdoor
 AL;2;MF36;KUG;14.23;;Ruiz Castro;Jose Roman;MEX;1988;COL;Cali;2025-05-18;Male;Outdoor
-AL;2;MF37;KUG;14.88;;Lopez Valenzuela;Luis Carlos;MEX;1999;MEX;Guadalajara;2025-05-10;Male;Outdoor
+AL;2;MF37;KUG;44.73;;Enriquez Gonzalez;Bryan Leonel;MEX;1998;FRA;Paris;2025-06-03;Male;Outdoor
 AL;3;MF38;KUG;19.22;;Lemos Rivas;Jose Gregorio;COL;1991;COL;Cali;2025-05-19;Male;Outdoor
-AL;2;MF40;KUG;9.43;;Sanchez Vega;Ruben Nahum;MEX;2001;MEX;Guadalajara;2025-05-11;Male;Outdoor
+AL;2;MF40;KUG;9.81;;Sanchez Vega;Ruben Nahum;MEX;2001;FRA;Paris;2025-06-03;Male;Outdoor
 AL;3;MF41;KUG;9.81;;Osorio Campaz;Oscar Andres;COL;1997;COL;Cali;2025-03-16;Male;Outdoor
 AL;3;MF42;KUG;14.93;;Roberto Floriani;Edenilson;BRA;1990;BRA;Sao Paulo;2025-04-26;Male;Outdoor
-AL;2;MF46;KUG;15.17;;Cinnamo;Joshua;USA;1981;USA;Des Moines;2025-04-26;Male;Outdoor
+AL;2;MF46;KUG;16.23;;Stewart;Greg;CAN;1986;FRA;Paris;2025-06-04;Male;Outdoor
 AL;3;MF52;KUG;5.82;;Castano Salazar;Carlos Roosselvelt;COL;1984;COL;Cali;2025-03-14;Male;Outdoor
 AL;2;MF53;KUG;5.57;;Zamudio Arenas;Alain Michaell;MEX;1991;MEX;Guadalajara;2025-05-12;Male;Outdoor
-AL;2;MF54;KUG;11.17;;Salinas Ventura;Johnatan Abel;MEX;1984;MEX;Guadalajara;2025-05-11;Male;Outdoor
+AL;2;MF54;KUG;11.59;;Salinas Ventura;Johnatan Abel;MEX;1984;FRA;Paris;2025-06-02;Male;Outdoor
 AL;3;MF55;KUG;10.54;;Santos;Wallace;BRA;1984;BRA;Sao Paulo;2025-05-24;Male;Outdoor
 AL;3;MF56;KUG;10.54;;Santos;Edjamerson;BRA;1981;BRA;Sao Paulo;2025-05-24;Male;Outdoor
 AL;3;MF57;KUG;14.39;;Paulino dos Santos;Thiago;BRA;1985;BRA;Sao Paulo;2025-05-24;Male;Outdoor
@@ -158,7 +158,7 @@ AL;3;MF57;SPE;50.1;;Lins Nobre;Cicero Valdiran;BRA;1992;BRA;Sao Paulo;2025-04-23
 AL;3;MF64;SPE;44.42;;Soto Mina;Tomas Felipe;COL;2007;COL;Cali;2025-05-18;Male;Outdoor
 AL;3;MF31;KEU;26.15;;Da Silva;Rafael Mateus;BRA;1986;BRA;Sao Paulo;2025-04-26;Male;Outdoor
 AL;2;MF32;KEU;19.56;;Vazquez Estrada;Esteban Abraham;MEX;1995;MEX;Guadalajara;2025-05-10;Male;Outdoor
-AL;2;MF51;KEU;26.8;;Ramos Hernandez;Mario Santana;MEX;1981;MEX;Guadalajara;2025-05-10;Male;Outdoor
+AL;2;MF51;KEU;32.18;;Ramos Hernandez;Mario Santana;MEX;1981;FRA;Paris;2025-06-03;Male;Outdoor
 AL;3;WT11;100;0:12.12;1.2;Geber dos Santos;Jerusa;BRA;1982;BRA;Sao Paulo;2025-04-20;Female;Outdoor
 AL;3;WT12;100;0:12.29;1.2;Barros Da Silva;Clara Daniele;BRA;1998;BRA;Sao Paulo;2025-04-20;Female;Outdoor
 AL;3;WT13;100;0:11.94;-0.8;Soares Da Silva;Rayane;BRA;1997;BRA;Sao Paulo;2025-05-24;Female;Outdoor
@@ -168,14 +168,14 @@ AL;3;WT36;100;0:14.42;0.4;Rotela;Araceli;ARG;2004;MEX;Guadalajara;2025-05-11;Fem
 AL;2;WT37;100;0:12.95;0.4;Swanson;Taylor;USA;1992;COL;Cali;2025-05-17;Female;Outdoor
 AL;3;WT38;100;0:12.41;0.1;Palomeque Moreno;Karen Tatiana;COL;1994;COL;Cali;2025-05-17;Female;Outdoor
 AL;3;WT42;100;0:16.65;0.4;Da Silva;Ana Claudia Maria;BRA;1987;BRA;Sao Paulo;2025-04-25;Female;Outdoor
-AL;2;WT44;100;0:13.67;-1.5;Carey;Annie;USA;2004;SUI;Nottwil;2025-05-23;Female;Outdoor
+AL;2;WT44;100;0:13.27;-0.6;Carey;Annie;USA;2004;FRA;Paris;2025-06-03;Female;Outdoor
 AL;3;WT45;100;0:15.58;0.8;dos Santos Silva;Nanilza;BRA;1986;BRA;Sao Paulo;2025-04-25;Female;Outdoor
 AL;3;WT46;100;0:12.06;0.7;Rodriguez;Kiara;ECU;2002;COL;Cali;2025-05-17;Female;Outdoor
 AL;3;WT47;100;0:12.60;0.3;Augusto Da Silva;Maria Clara;BRA;2004;BRA;Sao Paulo;2025-04-25;Female;Outdoor
 AL;2;WT53;100;0:15.42;-0.3;Stein;Chelsea;USA;2003;MEX;Guadalajara;2025-05-11;Female;Outdoor
 AL;2;WT54;100;0:15.45;-0.5;McFadden;Tatyana;USA;1989;SUI;Arbon;2025-06-01;Female;Outdoor
 AL;2;WT63;100;0:15.16;0.6;Marcusen;Lindi;USA;1996;USA;Spokane;2025-05-07;Female;Outdoor
-AL;2;WT64;100;0:13.24;-0.4;Hatz;B;USA;2000;USA;Walnut;2025-04-19;Female;Outdoor
+AL;2;WT64;100;0:13.19;-0.6;Papaconstantinou;Marissa;CAN;1999;FRA;Paris;2025-06-03;Female;Outdoor
 AL;3;WT72;100;0:17.33;-0.6;Almeida dos Santos;Edileusa;BRA;1966;BRA;Sao Paulo;2025-04-23;Female;Outdoor
 AL;3;WT11;200;0:25.47;0.1;Silva Spoladore;Lorena;BRA;1995;BRA;Sao Paulo;2025-05-25;Female;Outdoor
 AL;3;WT12;200;0:25.80;-0.7;Barros Da Silva;Clara Daniele;BRA;1998;BRA;Sao Paulo;2025-04-23;Female;Outdoor
@@ -200,7 +200,7 @@ AL;3;WT20;400;0:58.43;;Santos Da Silva;Alanny Sthefany;BRA;2006;BRA;Sao Paulo;20
 AL;2;WT34;400;1:05.61;;Houston;Eva;USA;2001;USA;Champaign;2025-04-26;Female;Outdoor
 AL;2;WT36;400;1:26.65;;Marquez Montiel;Gilda Guadalupe;MEX;1993;MEX;Guadalajara;2025-05-12;Female;Outdoor
 AL;3;WT37;400;1:14.60;;Batista de Souza;Ana Carolina;BRA;2006;BRA;Sao Paulo;2025-05-24;Female;Outdoor
-AL;2;WT38;400;1:09.13;;Thirsk;Natalie;CAN;2002;SUI;Nottwil;2025-05-25;Female;Outdoor
+AL;2;WT38;400;1:06.93;;Thirsk;Natalie;CAN;2002;FRA;Paris;2025-06-04;Female;Outdoor
 AL;3;WT46;400;1:11.28;;Villanueva Padilla;Bettsy Janine;COL;2003;COL;Cali;2025-03-15;Female;Outdoor
 AL;3;WT47;400;0:57.68;;Da Silva;Fernanda Yara;BRA;1986;BRA;Sao Paulo;2025-04-25;Female;Outdoor
 AL;2;WT53;400;0:57.91;;Lewis;Jessica Cooper;BER;1993;SUI;Arbon;2025-05-31;Female;Outdoor
@@ -248,13 +248,13 @@ AL;2;WF34;KUG;7.17;;Grauer;Beth;USA;1983;MEX;Guadalajara;2025-05-10;Female;Outdo
 AL;3;WF35;KUG;8.03;;Oliveira Da Nobrega;Marivana;BRA;1990;BRA;Sao Paulo;2025-04-23;Female;Outdoor
 AL;2;WF36;KUG;5.24;;Favela Parra;Melany;MEX;2006;MEX;Guadalajara;2025-05-10;Female;Outdoor
 AL;3;WF37;KUG;10.11;;Aponza Gonzalez;Kelly Yaritza;COL;1997;COL;Cali;2025-05-18;Female;Outdoor
-AL;2;WF40;KUG;8.25;;Mejia Hernandez;Pauleth;MEX;2004;MEX;Guadalajara;2025-05-11;Female;Outdoor
+AL;2;WF40;KUG;8.64;;Mejia Hernandez;Pauleth;MEX;2004;FRA;Paris;2025-06-04;Female;Outdoor
 AL;2;WF41;KUG;9.48;;Bolton;Charlotte;CAN;2003;CAN;Toronto;2025-05-04;Female;Outdoor
 AL;2;WF42;KUG;4.95;;Can Gonzalez;Johanna Yzel;MEX;2009;MEX;Guadalajara;2025-05-12;Female;Outdoor
 AL;2;WF44;KUG;12.52;;Middleton;Arelle;USA;2008;USA;Moorpark;2025-05-17;Female;Outdoor
 AL;3;WF46;KUG;12.69;;Nahirnei;Suzana;BRA;1994;BRA;Sao Paulo;2025-04-20;Female;Outdoor
 AL;3;WF53;KUG;7.4;;Rodrigues Gomes;Elizabeth;BRA;1965;BRA;Sao Paulo;2025-04-23;Female;Outdoor
-AL;3;WF54;KUG;6.11;;Sousa;Poliana;BRA;1986;BRA;Sao Paulo;2025-05-24;Female;Outdoor
+AL;2;WF54;KUG;7.72;;Zarza Guadarrama;Gloria;MEX;1984;FRA;Paris;2025-06-04;Female;Outdoor
 AL;2;WF55;KUG;6.55;;Navarro Hernandez;Maria Guadalupe;MEX;2006;MEX;Guadalajara;2025-05-12;Female;Outdoor
 AL;2;WF56;KUG;6.52;;Contreras Roman;Kenia Marlenne;MEX;1997;MEX;Guadalajara;2025-05-09;Female;Outdoor
 AL;2;WF57;KUG;10.11;;Ortiz Hernandez;Maria De Los Angeles;MEX;1973;COL;Cali;2025-05-19;Female;Outdoor
@@ -262,9 +262,9 @@ AL;2;WF64;KUG;10.07;;Guerrero;Alicia;USA;2003;USA;San Antonio;2025-04-27;Female;
 AL;3;WF11;DIS;35.12;;Campos;Izabela;BRA;1981;BRA;Sao Paulo;2025-04-23;Female;Outdoor
 AL;3;WF37;DIS;32.22;;Henao Sanchez;Maria Salome;COL;2006;COL;Cali;2025-03-15;Female;Outdoor
 AL;3;WF38;DIS;36.45;;Saldarriaga Hernandez;Xiomara;COL;2004;COL;Cali;2025-03-15;Female;Outdoor
-AL;2;WF40;DIS;21.79;;Mejia Hernandez;Pauleth;MEX;2004;MEX;Guadalajara;2025-05-09;Female;Outdoor
-AL;2;WF41;DIS;28.68;;Bolton;Charlotte;CAN;2003;CAN;Toronto;2025-05-04;Female;Outdoor
-AL;2;WF44;DIS;42.26;;Heyison;Samantha;USA;2005;USA;High Point;2025-03-22;Female;Outdoor
+AL;2;WF40;DIS;22.05;;Mejia Hernandez;Pauleth;MEX;2004;FRA;Paris;2025-06-03;Female;Outdoor
+AL;2;WF41;DIS;28.97;;Bolton;Charlotte;CAN;2003;FRA;Paris;2025-06-03;Female;Outdoor
+AL;2;WF44;DIS;42.35;;Machado Plata;Osiris Aneth;MEX;2004;FRA;Paris;2025-06-02;Female;Outdoor
 AL;2;WF52;DIS;11.67;;Ochoa Delgado;Leticia;MEX;1979;MEX;Guadalajara;2025-05-11;Female;Outdoor
 AL;3;WF53;DIS;16.31;;Rodrigues Gomes;Elizabeth;BRA;1965;BRA;Sao Paulo;2025-04-23;Female;Outdoor
 AL;2;WF54;DIS;9.17;;Garcia Alonzo;Alma Sarely;MEX;2005;MEX;Guadalajara;2025-05-10;Female;Outdoor
@@ -277,9 +277,9 @@ AL;3;WF13;SPE;29.88;;Blandon Escobar;Yasiris;COL;1996;COL;Cali;2025-03-16;Female
 AL;2;WF33;SPE;9.49;;Davila Sepulveda;Alitzel;MEX;2001;MEX;Guadalajara;2025-05-09;Female;Outdoor
 AL;3;WF34;SPE;15.83;;Mejias Viloria;Wendis;VEN;2001;COL;Cali;2025-05-18;Female;Outdoor
 AL;3;WF38;SPE;30.47;;Saldarriaga Hernandez;Xiomara;COL;2004;COL;Cali;2025-03-14;Female;Outdoor
-AL;3;WF46;SPE;36.92;;Rodriguez;Patricia;VEN;1998;MEX;Guadalajara;2025-05-12;Female;Outdoor
+AL;2;WF46;SPE;37.95;;Lozano Mendez;Kenya Nayeli;MEX;2002;FRA;Paris;2025-06-02;Female;Outdoor
 AL;3;WF53;SPE;14.48;;Rodrigues Gomes;Elizabeth;BRA;1965;BRA;Sao Paulo;2025-05-25;Female;Outdoor
-AL;3;WF54;SPE;15.43;;Torres Martinez;Yanive;COL;1979;COL;Cali;2025-05-19;Female;Outdoor
+AL;2;WF54;SPE;15.66;;Salazar Rodriguez;Alondra;MEX;1996;FRA;Paris;2025-06-03;Female;Outdoor
 AL;2;WF55;SPE;20.22;;Navarro Hernandez;Maria Guadalupe;MEX;2006;MEX;Guadalajara;2025-05-09;Female;Outdoor
 AL;3;WF56;SPE;24.09;;Rocha Machado;Raissa;BRA;1996;BRA;Sao Paulo;2025-05-25;Female;Outdoor
 AL;3;WF57;SPE;19.12;;Paredes Muriel;Yeniffer;COL;1991;COL;Cali;2025-03-16;Female;Outdoor
