@@ -39,7 +39,7 @@ AL;1;MT53;200;0:35.59;0.2;Harder;Tim Pascal;SUI;2002;SUI;Nottwil;2025-05-23;Male
 AL;1;MT54;200;0:25.78;0.4;Mattila;Esa-Pekka;FIN;1989;SUI;Arbon;2025-05-29;Male;Outdoor
 AL;1;MT61;200;0:27.04;-0.5;Lacin;Ali;GER;1988;UAE;Dubai;2025-02-10;Male;Outdoor
 AL;1;MT62;200;0:20.87;0.3;Floors;Johannes;GER;1995;GER;Leverkusen;2025-05-10;Male;Outdoor
-AL;1;MT64;200;0:24.11;-0.8;Bottazzini;Fabio;ITA;2004;FRA;Paris;2025-06-03;Male;Outdoor
+AL;1;MT64;200;0:23.71;-0.8;Bomberg;Pierluigi;NED;1998;FRA;Paris;2025-06-03;Male;Outdoor
 AL;1;MT71;200;0:57.62;-0.9;Krause;Patryk;POL;1993;POL;Wroclaw;2025-04-26;Male;Outdoor
 AL;1;MT72;200;0:35.99;-1.7;Siejwa;Piotr;POL;2006;POL;Wroclaw;2025-04-26;Male;Outdoor
 AL;1;MT11;400;0:51.06;;Adolphe;Timothee;FRA;1989;FRA;SAINT denis;2025-05-29;Male;Outdoor
@@ -69,7 +69,7 @@ AL;1;MT54;800;1:29.61;;Maguire;Nathan;GBR;1997;SUI;Arbon;2025-06-01;Male;Outdoor
 AL;1;MT11;1K5;4:14.39;;Kossakowski;Aleksander;POL;1994;FRA;Paris;2025-06-03;Male;Outdoor
 AL;1;MT12;1K5;4:07.51;;Gomes;Isaias;POR;1994;UAE;Dubai;2025-02-11;Male;Outdoor
 AL;1;MT13;1K5;4:01.53;;Al;Mikail;TUR;2001;SUI;Nottwil;2025-05-24;Male;Outdoor
-AL;1;MT20;1K5;3:53.48;;Sandilands;Ben;GBR;2003;GBR;Manchester;2025-05-24;Male;Outdoor
+AL;1;MT20;1K5;3:49.64;;Sandilands;Ben;GBR;2003;GBR;Birmingham;2025-06-07;Male;Outdoor
 AL;1;MT34;1K5;4:04.57;;Hermann;Eskil;SUI;2006;SUI;Arbon;2025-05-31;Male;Outdoor
 AL;1;MT37;1K5;4:00.27;;Clerc;Renaud;FRA;2001;FRA;SAINT denis;2025-05-29;Male;Outdoor
 AL;1;MT38;1K5;4:16.08;;Kruesemann;Felix Maximilian Sven;GER;2001;UAE;Dubai;2025-02-12;Male;Outdoor
@@ -170,7 +170,7 @@ AL;1;WT13;100;0:12.12;0.2;Comerford;Orla;IRL;1997;FRA;Paris;2025-06-02;Female;Ou
 AL;1;WT33;100;0:21.30;0.0;Goens;Cecile;BEL;2003;SUI;Nottwil;2025-05-24;Female;Outdoor
 AL;1;WT34;100;0:16.98;0.0;Cockroft;Hannah;GBR;1992;SUI;Nottwil;2025-05-24;Female;Outdoor
 AL;1;WT35;100;0:15.44;-1.5;Renecka;Ingrid;POL;2004;SUI;Nottwil;2025-05-23;Female;Outdoor
-AL;1;WT36;100;0:15.26;-1.5;Bouthoorn;Cheyenne;NED;1997;SUI;Nottwil;2025-05-23;Female;Outdoor
+AL;1;WT36;100;0:15.12;-0.2;Bouthoorn;Cheyenne;NED;1997;FRA;Paris;2025-06-03;Female;Outdoor
 AL;1;WT37;100;0:15.08;0.1;Burbulla;Laura;GER;2004;GER;Leverkusen;2025-05-10;Female;Outdoor
 AL;1;WT38;100;0:12.88;-0.2;Sutton;Lana;IRL;1998;FRA;Paris;2025-06-03;Female;Outdoor
 AL;1;WT42;100;0:14.64;1.8;Okoh;Ndidikama;GBR;2002;GBR;London;2025-05-26;Female;Outdoor
@@ -189,8 +189,8 @@ AL;1;WT12;200;0:26.52;0.1;Mueller-Rottgardt;Katrin;GER;1982;UAE;Dubai;2025-02-12
 AL;1;WT13;200;0:24.62;-0.4;Comerford;Orla;IRL;1997;FRA;Paris;2025-06-03;Female;Outdoor
 AL;1;WT33;200;0:40.57;0.3;Goens;Cecile;BEL;2003;SUI;Arbon;2025-05-29;Female;Outdoor
 AL;1;WT34;200;0:34.47;-0.1;Andre;Fabienne;GBR;1996;UAE;Sharjah;2025-02-03;Female;Outdoor
-AL;1;WT35;200;0:32.92;1.2;Renecka;Ingrid;POL;2004;SUI;Nottwil;2025-05-23;Female;Outdoor
-AL;1;WT36;200;0:32.28;1.2;Bouthoorn;Cheyenne;NED;1997;SUI;Nottwil;2025-05-23;Female;Outdoor
+AL;1;WT35;200;0:31.80;-0.3;Renecka;Ingrid;POL;2004;FRA;Paris;2025-06-03;Female;Outdoor
+AL;1;WT36;200;0:31.41;-0.4;Bouthoorn;Cheyenne;NED;1997;FRA;Paris;2025-06-03;Female;Outdoor
 AL;1;WT37;200;0:32.87;-1.2;Castillo Cuesta;Tania;ESP;2005;ESP;Gua;2025-04-12;Female;Outdoor
 AL;1;WT38;200;0:26.04;-1.2;Ekler;Luca;HUN;1998;FRA;Paris;2025-06-02;Female;Outdoor
 AL;1;WT44;200;0:28.72;2.0;Jackson;Bebe;GBR;2005;GBR;London;2025-05-26;Female;Outdoor
@@ -220,7 +220,7 @@ AL;1;WT63;800;0:15.04;;Spack;Sophie;SUI;2010;SUI;Düdingen;2025-05-03;Female;Out
 AL;0;WT11;1K5;5:46.43;;Morozova;Olga;NPA;1981;COL;Cali;2025-05-16;Female;Outdoor
 AL;1;WT12;1K5;5:08.63;;Oses Ayucar;Izaskun;ESP;1984;ESP;Vitoria;2025-04-26;Female;Outdoor
 AL;1;WT13;1K5;4:58.99;;Razet;Lucile;FRA;2001;FRA;Paris;2025-06-03;Female;Outdoor
-AL;1;WT20;1K5;4:53.10;;Richards;Ella;GBR;2010;FRA;Paris;2025-06-03;Female;Outdoor
+AL;1;WT20;1K5;4:41.31;;Taunton;Hannah;GBR;1991;GBR;Birmingham;2025-06-07;Female;Outdoor
 AL;1;WT53;1K5;3:02.26;;Debrunner;Catherine;SUI;1995;SUI;Arbon;2025-05-31;Female;Outdoor
 AL;1;WT54;1K5;3:18.73;;Woods;Melanie;GBR;1994;SUI;Nottwil;2025-05-24;Female;Outdoor
 AL;1;WT53;5K0;10:24.36;;Debrunner;Catherine;SUI;1995;SUI;Arbon;2025-06-01;Female;Outdoor
