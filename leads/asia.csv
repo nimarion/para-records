@@ -1,7 +1,7 @@
 Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Geschlecht;Umgebung
 AL;5;MT11;100;0:12.09;-0.7;Kim;Cholong;KOR;2001;FRA;Paris;2025-06-02;Male;Outdoor
 AL;5;MT12;100;0:11.22;1.2;Ishiyama;Daiki;JPN;2000;JPN;Matsuyama;2025-04-27;Male;Outdoor
-AL;5;MT13;100;0:10.99;1.6;Kuno;Ryutaro;JPN;1999;JPN;Mihama;2025-05-18;Male;Outdoor
+AL;5;MT13;100;0:10.98;1.2;Fukunaga;Ryota;JPN;1998;JPN;Tottori;2025-06-01;Male;Outdoor
 AL;5;MT33;100;0:23.26;0.0;Yamada;Yoshihiro;JPN;1979;JPN;Tokyo;2025-03-30;Male;Outdoor
 AL;5;MT34;100;0:14.56;1.9;Rattana;Chaiwat;THA;1996;SUI;Nottwil;2025-05-24;Male;Outdoor
 AL;5;MT35;100;0:13.76;0.0;Jadhav;Abhishek Babasaheb;IND;1998;IND;New Delhi;2025-03-11;Male;Outdoor
@@ -52,7 +52,7 @@ AL;5;MT52;400;0:53.62;;Sato;Tomoki;JPN;1989;SUI;Arbon;2025-05-29;Male;Outdoor
 AL;5;MT53;400;0:47.13;;Paeyo;Pongsakorn;THA;1996;SUI;Nottwil;2025-05-25;Male;Outdoor
 AL;5;MT54;400;0:45.76;;Paeng-Nuea;Athiwat;THA;2002;SUI;Nottwil;2025-05-25;Male;Outdoor
 AL;5;MT72;400;1:45.36;;Almarzooqi;Abdalla;UAE;2006;FRA;Paris;2025-06-04;Male;Outdoor
-AL;5;MT20;800;1:55.74;;Ghafiry;Abdulmajeed;KSA;2006;FRA;Paris;2025-06-02;Male;Outdoor
+AL;5;MT20;800;1:53.06;;Mahutan;Meshal;KSA;1999;FRA;Paris;2025-06-02;Male;Outdoor
 AL;5;MT33;800;3:39.58;;Yamada;Yoshihiro;JPN;1979;JPN;Tokyo;2025-03-30;Male;Outdoor
 AL;5;MT34;800;1:36.70;;Othman;Mohamad;UAE;2004;SUI;Arbon;2025-06-01;Male;Outdoor
 AL;5;MT37;800;2:54.92;;Kusumi;Ryosuke;JPN;2001;JPN;Matsuyama;2025-04-27;Male;Outdoor
@@ -163,17 +163,17 @@ AL;5;MF51;KEU;25.35;;Jung;Jiwon;KOR;1975;FRA;Paris;2025-06-03;Male;Outdoor
 AL;1;WT11;100;0:14.17;-1.5;Saydullaeva;Nozima;UZB;2008;SUI;Nottwil;2025-05-23;Female;Outdoor
 AL;5;WT12;100;0:12.41;0.2;;Simran;IND;1999;FRA;Paris;2025-06-02;Female;Outdoor
 AL;5;WT13;100;0:14.88;-0.2;Kale;Sakshi Eshwar;IND;2005;IND;New Delhi;2025-03-11;Female;Outdoor
-AL;5;WT34;100;0:19.29;0.0;Onodera;Moe;JPN;2003;SUI;Nottwil;2025-05-24;Female;Outdoor
+AL;5;WT34;100;0:18.69;1.5;Yoshida;Ayano;JPN;2006;JPN;Tottori;2025-06-01;Female;Outdoor
 AL;5;WT35;100;0:16.12;0.9;Guo;Qianqian;CHN;2004;UAE;Dubai;2025-02-13;Female;Outdoor
 AL;5;WT36;100;0:16.15;-0.2;Yam;Kwok Fan;HKG;1997;FRA;Paris;2025-06-03;Female;Outdoor
 AL;5;WT38;100;0:13.82;0.9;Takamatsu;Yuka;JPN;1993;JPN;Matsuyama;2025-04-27;Female;Outdoor
 AL;5;WT44;100;0:17.91;1.3;Munniyandi;Bhavani;IND;1992;UAE;Dubai;2025-02-11;Female;Outdoor
 AL;1;WT46;100;0:15.51;-0.5;Imomalieva;Sabinabonu;UZB;2007;MAR;Marrakech;2025-04-26;Female;Outdoor
-AL;5;WT47;100;0:13.07;1.6;Tsuji;Sae;JPN;1994;JPN;Mihama;2025-04-13;Female;Outdoor
+AL;5;WT47;100;0:12.82;1.5;Nakagawa;Moe;JPN;2003;JPN;Tottori;2025-06-01;Female;Outdoor
 AL;5;WT52;100;0:23.13;1.0;Tanaka;Teruyo;JPN;1959;JPN;Mihama;2025-05-18;Female;Outdoor
-AL;5;WT54;100;0:22.90;0.1;Shriram Metkar;Kiran;IND;1985;IND;New Delhi;2025-03-11;Female;Outdoor
+AL;5;WT54;100;0:18.00;1.5;Tsuchida;Wakako;JPN;1974;JPN;Tottori;2025-06-01;Female;Outdoor
 AL;5;WT63;100;0:15.55;0.7;Tozawa;Tomomi;JPN;1999;JPN;Matsuyama;2025-04-26;Female;Outdoor
-AL;5;WT64;100;0:13.91;0.7;Yamashita;Chie;JPN;1997;JPN;Matsuyama;2025-04-26;Female;Outdoor
+AL;5;WT64;100;0:13.65;1.5;Takakuwa;Saki;JPN;1992;JPN;Tottori;2025-06-01;Female;Outdoor
 AL;5;WT71;100;0:35.29;-0.6;Alkaabi;Thekra;UAE;2001;MAR;Marrakech;2025-04-26;Female;Outdoor
 AL;1;WT11;200;0:29.97;0.1;Saydullaeva;Nozima;UZB;2008;SUI;Nottwil;2025-05-23;Female;Outdoor
 AL;5;WT12;200;0:25.53;-0.4;;Simran;IND;1999;FRA;Paris;2025-06-03;Female;Outdoor
