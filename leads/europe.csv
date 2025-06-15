@@ -93,7 +93,7 @@ AL;1;MT61;MAR;2:56:09;;Whitehead;Richard;GBR;1976;USA;Boston;2025-04-21;Male;Out
 AL;1;MT42;HOC;1.2;;Ntimeris;Fotios;GRE;1989;FRA;Paris;2025-06-03;Male;Outdoor
 AL;1;MT44;HOC;2.01;;Lepiato;Maciej;POL;1988;FRA;Paris;2025-06-03;Male;Outdoor
 AL;1;MT46;HOC;1.75;;Dipoko-Ewane;Alexandre;FRA;1996;FRA;MAISON ALFORT;2025-05-11;Male;Outdoor
-AL;1;MT47;HOC;5.24;;Perez Martinez;Daniel;ESP;1995;FRA;Paris;2025-06-03;Male;Outdoor
+AL;1;MT47;HOC;1.97;;Ilgaz;Abdullah;TUR;1998;SUI;Nottwil;2025-05-25;Male;Outdoor
 AL;1;MT11;WEI;5.99;-0.6;Pallier;Ronan;FRA;1970;FRA;Paris;2025-06-03;Male;Outdoor
 AL;1;MT12;WEI;6.69;1.5;Walser;Andreas;GER;1996;GER;Rehlingen;2025-06-08;Male;Outdoor
 AL;1;MT13;WEI;6.61;1.3;Cano Blanco;Ivan Jose;ESP;1995;ESP;Segovia;2025-03-30;Male;Outdoor
@@ -115,10 +115,10 @@ AL;1;MF13;KUG;13.13;;Romero Paredes;Ismael;ESP;2005;ESP;Segovia;2025-03-29;Male;
 AL;1;MF20;KUG;16.15;;Meissonnier;Soane Luka;FRA;2003;FRA;Paris;2025-06-03;Male;Outdoor
 AL;1;MF32;KUG;9.31;;Correia;Olavio;POR;1992;POR;Torres Vedras;2025-05-11;Male;Outdoor
 AL;0;MF33;KUG;11.83;;Khrupin;Aleksandr;NPA;1994;MAR;Marrakech;2025-04-26;Male;Outdoor
-AL;1;MF34;KUG;18.58;;Vaicaitis;Eugenijus;LTU;1988;FRA;Paris;2025-06-02;Male;Outdoor
+AL;0;MF34;KUG;11.02;;Dubenchuk;Nikita;NPA;1998;MAR;Marrakech;2025-04-26;Male;Outdoor
 AL;1;MF35;KUG;10.89;;Konov;Valerii;UKR;2003;UAE;Dubai;2025-02-10;Male;Outdoor
 AL;0;MF36;KUG;14.68;;Kokoity;Alan;NPA;1988;IND;New Delhi;2025-03-13;Male;Outdoor
-AL;1;MF37;KUG;44.26;;Dundzys;Donatas;LTU;1991;FRA;Paris;2025-06-03;Male;Outdoor
+AL;1;MF37;KUG;13.74;;Miroslaw;Jakub;POL;2000;MAR;Marrakech;2025-04-26;Male;Outdoor
 AL;1;MF38;KUG;13.5;;Bilyi;Vladyslav;UKR;1997;UAE;Dubai;2025-02-13;Male;Outdoor
 AL;0;MF40;KUG;11.36;;Gnezdilov;Denis;NPA;1986;IND;New Delhi;2025-03-13;Male;Outdoor
 AL;1;MF41;KUG;14.7;;Kappel;Niko;GER;1995;GER;Rechberghausen;2025-05-01;Male;Outdoor
@@ -135,11 +135,11 @@ AL;1;MF11;DIS;38.16;;Marinkovic;Bil;AUT;1973;FRA;Paris;2025-06-04;Male;Outdoor
 AL;1;MF13;DIS;34.33;;Romero Paredes;Ismael;ESP;2005;ESP;Segovia;2025-03-29;Male;Outdoor
 AL;1;MF33;DIS;27.35;;Glab;Michal;POL;1992;MAR;Marrakech;2025-04-26;Male;Outdoor
 AL;1;MF34;DIS;30.5;;Horacek;Tomas;CZE;1986;CZE;Olomouc;2025-05-18;Male;Outdoor
-AL;1;MF37;DIS;43.48;;Czarnecki;Lukasz;POL;2000;POL;Gorzow Wielkopolski;2025-05-24;Male;Outdoor
+AL;1;MF37;DIS;44.26;;Dundzys;Donatas;LTU;1991;FRA;Paris;2025-06-03;Male;Outdoor
 AL;1;MF38;DIS;54.85;;Jenkins;Michael;GBR;2004;GBR;Loughbrough;2025-06-01;Male;Outdoor
 AL;1;MF41;DIS;16.39;;Jimenez Alonso;Alvaro;ESP;2000;ESP;Gua;2025-04-13;Male;Outdoor
 AL;1;MF42;DIS;45.53;;Ntimeris;Fotios;GRE;1989;FRA;Paris;2025-06-02;Male;Outdoor
-AL;1;MF44;DIS;49.87;;Spudis;Jonas;LTU;1979;FRA;Paris;2025-06-02;Male;Outdoor
+AL;1;MF44;DIS;42;;Rutter;Adam James;GBR;2005;FRA;Paris;2025-06-02;Male;Outdoor
 AL;1;MF51;DIS;10.16;;Kureja;Marian;SVK;1980;CZE;Pardubice;2025-05-04;Male;Outdoor
 AL;1;MF52;DIS;17.82;;Rocki;Rafal;POL;1976;FRA;Paris;2025-06-02;Male;Outdoor
 AL;1;MF53;DIS;15.85;;Broz;Jaroslav;CZE;1981;CZE;Pardubice;2025-05-04;Male;Outdoor
