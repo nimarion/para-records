@@ -38,8 +38,8 @@ WL;;MT46;200;0:22.53;0.9;Lara Rodallega;Luis Fernando;COL;2000;COL;Cali;2025-03-
 WL;;MT47;200;0:12.55;-1.5;Madronero Ramon;David;ESP;1999;ESP;L´Hospitalet de Llobregat, Barcelona;2025-05-17;Male;Outdoor
 WL;;MT51;200;0:37.39;-0.6;Habsch;Roger;BEL;1979;SUI;Arbon;2025-05-31;Male;Outdoor
 WL;;MT52;200;0:27.57;-0.3;Carabin;Maxime;BEL;2000;UAE;Sharjah;2025-02-03;Male;Outdoor
-WL;;MT53;200;0:29.80;0.0;Al Turki;Fahad;KSA;2005;SUI;Arbon;2025-05-31;Male;Outdoor
-WL;;MT54;200;0:25.08;0.0;Gharbi;Yassine;TUN;1990;UAE;Sharjah;2025-02-03;Male;Outdoor
+WL;;MT53;200;0:28.24;0.0;Brignone;Nicolas;FRA;1989;FRA;MONT DORE;2025-04-25;Male;Outdoor
+WL;;MT54;200;0:22.41;0.0;Alcazar Morales;Jonattan Eduardo;CRC;1980;ESP;POLIDEPORTIVO ARTUNDUAGA;2025-06-01;Male;Outdoor
 WL;;MT61;200;0:27.04;-0.5;Lacin;Ali;GER;1988;UAE;Dubai;2025-02-10;Male;Outdoor
 WL;;MT62;200;0:20.87;0.3;Floors;Johannes;GER;1995;GER;Leverkusen;2025-05-10;Male;Outdoor
 WL;;MT63;200;0:24.88;-1.5;Mabote;Puseletso Michael;RSA;2005;ESP;L´Hospitalet de Llobregat, Barcelona;2025-05-17;Male;Outdoor
@@ -56,7 +56,7 @@ WL;;MT35;400;1:04.09;;Jadhav;Abhishek Babasaheb;IND;1998;IND;New Delhi;2025-03-1
 WL;;MT36;400;0:52.65;;Turner;James;AUS;1996;AUS;Perth;2025-04-10;Male;Outdoor
 WL;;MT37;400;0:50.99;;Da Silva Chaves;Bartolomeu;BRA;2001;BRA;Sao Paulo;2025-04-25;Male;Outdoor
 WL;;MT38;400;0:48.26;;Blackwell;Jaydin;USA;2004;COL;Cali;2025-05-17;Male;Outdoor
-WL;;MT44;400;0:57.99;;Alsana;Nour;KSA;1984;UAE;Sharjah;2025-02-04;Male;Outdoor
+WL;;MT44;400;0:57.94;;Siapo;Felicien;FRA;2003;FRA;MONT DORE;2025-04-25;Male;Outdoor
 WL;;MT45;400;0:50.83;;Sample;Rayven;USA;2002;MEX;Guadalajara;2025-05-12;Male;Outdoor
 WL;;MT46;400;0:48.78;;Gavit;Dilip Mahadu;IND;2003;IND;New Delhi;2025-03-12;Male;Outdoor
 WL;;MT47;400;0:46.84;;El Haddaoui;Aymane;MAR;2000;MAR;Marrakech;2025-04-26;Male;Outdoor
@@ -259,7 +259,7 @@ WL;;WT34;400;0:54.08;;Cockroft;Hannah;GBR;1992;SUI;Arbon;2025-05-29;Female;Outdo
 WL;;WT36;400;1:12.35;;Colley;Tamsin;AUS;2002;AUS;Perth;2025-04-10;Female;Outdoor
 WL;;WT37;400;1:05.92;;James;Sheryl;RSA;1986;UAE;Dubai;2025-02-11;Female;Outdoor
 WL;;WT38;400;1:00.81;;Smith;Ali;GBR;1988;GER;Leverkusen;2025-05-10;Female;Outdoor
-WL;;WT46;400;1:11.28;;Villanueva Padilla;Bettsy Janine;COL;2003;COL;Cali;2025-03-15;Female;Outdoor
+WL;;WT46;400;0:58.79;;Rummery;Amanda;CAN;1997;CAN;Calgary;2025-06-08;Female;Outdoor
 WL;;WT47;400;0:57.68;;Da Silva;Fernanda Yara;BRA;1986;BRA;Sao Paulo;2025-04-25;Female;Outdoor
 WL;;WT52;400;1:22.23;;Tanaka;Teruyo;JPN;1959;JPN;Mihama;2025-05-18;Female;Outdoor
 WL;;WT53;400;0:49.02;;Debrunner;Catherine;SUI;1995;SUI;Arbon;2025-05-31;Female;Outdoor
@@ -287,7 +287,7 @@ WL;;WT36;1K5;5:54.69;;Colley;Tamsin;AUS;2002;AUS;Sydney;2025-03-21;Female;Outdoo
 WL;;WT53;1K5;3:02.26;;Debrunner;Catherine;SUI;1995;SUI;Arbon;2025-05-31;Female;Outdoor
 WL;;WT54;1K5;3:13.40;;McFadden;Tatyana;USA;1989;SUI;Arbon;2025-05-31;Female;Outdoor
 WL;;WT11;5K0;22:56.42;;Konno;Yumiko;JPN;1961;JPN;Kumagaya;2025-05-25;Female;Outdoor
-WL;;WT12;5K0;21:37.07;;Waki;Manami;JPN;1999;JPN;Kumagaya;2025-05-25;Female;Outdoor
+WL;;WT12;5K0;20:04.71;;Gangloff;Rosario;FRA;1964;FRA;FLORANGE;2025-05-31;Female;Outdoor
 WL;;WT20;5K0;17:10.74;;Bounds;Kaitlin;USA;1991;USA;Des Moines;2025-04-24;Female;Outdoor
 WL;;WT34;5K0;17:20.63;;Espie;Coco;AUS;2008;AUS;Canberra;2025-01-23;Female;Outdoor
 WL;;WT53;5K0;10:24.36;;Debrunner;Catherine;SUI;1995;SUI;Arbon;2025-06-01;Female;Outdoor
@@ -300,8 +300,8 @@ WL;;WT12;MAR;2:58:40;;de Jesus Santos;Edneusa;BRA;1976;ESP;Barcelona;2025-03-16;
 WL;;WT34;MAR;2:32:32;;Houston;Eva;USA;2001;USA;Boston;2025-04-21;Female;Outdoor
 WL;;WT53;MAR;1:34:18;;Debrunner;Catherine;SUI;1995;GBR;London;2025-04-27;Female;Outdoor
 WL;;WT54;MAR;1:35:20;;Scaroni;Susannah;USA;1991;USA;Boston;2025-04-21;Female;Outdoor
-WL;;WT11;WEI;4.7;0.0;Garcia Falagan;Alba;ESP;2002;ESP;L´Hospitalet de Llobregat, Barcelona;2025-05-17;Female;Outdoor
-WL;;WT12;WEI;5.05;1.2;Mueller-Rottgardt;Katrin;GER;1982;UAE;Dubai;2025-02-11;Female;Outdoor
+WL;;WT11;WEI;4.75;0.0;Garcia Falagan;Alba;ESP;2002;ESP;POLIDEPORTIVO ARTUNDUAGA;2025-06-01;Female;Outdoor
+WL;;WT12;WEI;5.4;0.7;Lounela;Iida;FIN;2003;FIN;Lahti;2025-06-11;Female;Outdoor
 WL;;WT13;WEI;4.52;-3.5;Yuste Cotino;Carolina;ESP;2007;ESP;Segovia;2025-03-29;Female;Outdoor
 WL;;WT20;WEI;5.85;-0.9;Felix Barbosa Da Silva;Jardenia;BRA;2003;BRA;Sao Paulo;2025-04-20;Female;Outdoor
 WL;;WT35;WEI;3.27;1.5;Giddings;Summer;AUS;2002;AUS;Perth;2025-04-10;Female;Outdoor
@@ -340,8 +340,9 @@ WL;;WF56;KUG;6.93;;Obrova;Miroslava;CZE;1975;CZE;Pardubice;2025-05-04;Female;Out
 WL;;WF57;KUG;10.11;;Ortiz Hernandez;Maria De Los Angeles;MEX;1973;COL;Cali;2025-05-19;Female;Outdoor
 WL;;WF64;KUG;10.36;;Kotlowska;Faustyna;POL;2001;MAR;Marrakech;2025-04-26;Female;Outdoor
 WL;;WF11;DIS;35.9;;Dobrovolskaja;Oksana;LTU;1996;FRA;Paris;2025-06-04;Female;Outdoor
+WL;;WF12;DIS;28.5;;Welepa;Rose;FRA;1986;FRA;MONT DORE;2025-04-25;Female;Outdoor
 WL;;WF32;DIS;8.64;;Marcanikova;Anna;CZE;1995;CZE;Prague;2025-05-03;Female;Outdoor
-WL;;WF33;DIS;10.41;;Alkhaaldi;Aishah Salem;UAE;1975;UAE;Sharjah;2025-02-03;Female;Outdoor
+WL;;WF33;DIS;17.59;;Hanes;Julia;CAN;1995;CAN;Nanaimo;2025-05-24;Female;Outdoor
 WL;;WF34;DIS;12.01;;Aljumaah;Sarah;KSA;1979;UAE;Sharjah;2025-02-03;Female;Outdoor
 WL;;WF35;DIS;10.79;;Giddings;Summer;AUS;2002;AUS;Canberra;2025-01-25;Female;Outdoor
 WL;;WF37;DIS;32.22;;Henao Sanchez;Maria Salome;COL;2006;COL;Cali;2025-03-15;Female;Outdoor
@@ -362,7 +363,7 @@ WL;;WF64;DIS;38.7;;Kotlowska;Faustyna;POL;2001;POL;Gorzow Wielkopolski;2025-05-2
 WL;;WF11;SPE;10.6;;Tsujioka;Keiko;JPN;1962;JPN;Matsuyama;2025-04-27;Female;Outdoor
 WL;;WF12;SPE;35.03;;Wanyoyi;Sheilla;KEN;1998;UAE;Dubai;2025-02-13;Female;Outdoor
 WL;;WF13;SPE;29.88;;Blandon Escobar;Yasiris;COL;1996;COL;Cali;2025-03-16;Female;Outdoor
-WL;;WF33;SPE;9.49;;Davila Sepulveda;Alitzel;MEX;2001;MEX;Guadalajara;2025-05-09;Female;Outdoor
+WL;;WF33;SPE;15.16;;Hanes;Julia;CAN;1995;CAN;Nanaimo;2025-05-24;Female;Outdoor
 WL;;WF34;SPE;19.52;;Zou;Lijuan;CHN;1994;UAE;Dubai;2025-02-10;Female;Outdoor
 WL;;WF35;SPE;17.87;;Maliszewska;Klaudia;POL;1992;POL;Gorzow Wielkopolski;2025-05-25;Female;Outdoor
 WL;;WF37;SPE;19.03;;Gardiner-Hall;Charli;NZL;2007;NZL;Dunedin;2025-03-08;Female;Outdoor

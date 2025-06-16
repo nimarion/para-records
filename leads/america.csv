@@ -31,7 +31,8 @@ AL;2;MT45;200;0:28.46;0.8;Perez Giron;Raul Antonio;GUA;1974;USA;Tempe;2025-05-30
 AL;3;MT46;200;0:22.53;0.9;Lara Rodallega;Luis Fernando;COL;2000;COL;Cali;2025-03-16;Male;Outdoor
 AL;2;MT47;200;0:22.03;0.3;Best;Korban;USA;2003;USA;Los Angeles;2025-05-03;Male;Outdoor
 AL;2;MT52;200;0:37.35;-0.6;Fournie;Cody;CAN;1989;SUI;Arbon;2025-05-31;Male;Outdoor
-AL;3;MT54;200;0:26.02;1.6;Sosa;Gabriel;ARG;1999;ARG;Buenos Aires;2025-04-12;Male;Outdoor
+AL;2;MT54;200;0:22.41;0.0;Alcazar Morales;Jonattan Eduardo;CRC;1980;ESP;POLIDEPORTIVO ARTUNDUAGA;2025-06-01;Male;Outdoor
+AL;2;MT63;200;0:33.08;-3.8;Njai;Kebba;CAN;1997;CAN;Thorold;2025-05-31;Male;Outdoor
 AL;2;MT64;200;0:22.38;-0.5;Guity Guity;Sherman Isidro;CRC;1996;COL;Cali;2025-05-18;Male;Outdoor
 AL;2;MT71;200;0:58.93;-1.6;Putman;Jody;USA;2001;USA;Cottleville;2025-05-18;Male;Outdoor
 AL;2;MT72;200;0:41.84;-0.4;Anwar;Michael;USA;1995;SUI;Nottwil;2025-05-23;Male;Outdoor
@@ -202,7 +203,7 @@ AL;2;WT34;400;1:03.15;;Houston;Eva;USA;2001;USA;Tempe;2025-05-30;Female;Outdoor
 AL;2;WT36;400;1:24.29;;Marquez Montiel;Gilda Guadalupe;MEX;1993;USA;Tempe;2025-05-30;Female;Outdoor
 AL;3;WT37;400;1:14.60;;Batista de Souza;Ana Carolina;BRA;2006;BRA;Sao Paulo;2025-05-24;Female;Outdoor
 AL;2;WT38;400;1:06.93;;Thirsk;Natalie;CAN;2002;FRA;Paris;2025-06-04;Female;Outdoor
-AL;3;WT46;400;1:11.28;;Villanueva Padilla;Bettsy Janine;COL;2003;COL;Cali;2025-03-15;Female;Outdoor
+AL;2;WT46;400;0:58.79;;Rummery;Amanda;CAN;1997;CAN;Calgary;2025-06-08;Female;Outdoor
 AL;3;WT47;400;0:57.68;;Da Silva;Fernanda Yara;BRA;1986;BRA;Sao Paulo;2025-04-25;Female;Outdoor
 AL;2;WT53;400;0:57.91;;Lewis;Jessica Cooper;BER;1993;SUI;Arbon;2025-05-31;Female;Outdoor
 AL;2;WT54;400;0:50.46;;McFadden;Tatyana;USA;1989;SUI;Arbon;2025-05-31;Female;Outdoor
@@ -262,6 +263,7 @@ AL;2;WF57;KUG;10.11;;Ortiz Hernandez;Maria De Los Angeles;MEX;1973;COL;Cali;2025
 AL;2;WF64;KUG;10.07;;Guerrero;Alicia;USA;2003;USA;San Antonio;2025-04-27;Female;Outdoor
 AL;3;WF11;DIS;35.12;;Campos;Izabela;BRA;1981;BRA;Sao Paulo;2025-04-23;Female;Outdoor
 AL;2;WF32;DIS;5.14;;Dominguez Leal;Elvia Adalid;MEX;1999;USA;Tempe;2025-05-31;Female;Outdoor
+AL;2;WF33;DIS;17.59;;Hanes;Julia;CAN;1995;CAN;Nanaimo;2025-05-24;Female;Outdoor
 AL;2;WF35;DIS;10.29;;Alejo Hernandez;Guadalupe Nayeli;MEX;2000;USA;Tempe;2025-05-31;Female;Outdoor
 AL;3;WF37;DIS;32.22;;Henao Sanchez;Maria Salome;COL;2006;COL;Cali;2025-03-15;Female;Outdoor
 AL;3;WF38;DIS;36.45;;Saldarriaga Hernandez;Xiomara;COL;2004;COL;Cali;2025-03-15;Female;Outdoor
@@ -279,7 +281,7 @@ AL;2;WF57;DIS;28.09;;Estrada Bernal;Floralia;MEX;1990;MEX;Guadalajara;2025-05-11
 AL;2;WF64;DIS;31.49;;Heims;Jessica;USA;1998;USA;Des Moines;2025-04-25;Female;Outdoor
 AL;3;WF12;SPE;23.48;;Rosa Castelvi;Ana Paula;BRA;1994;BRA;Sao Paulo;2025-04-26;Female;Outdoor
 AL;3;WF13;SPE;29.88;;Blandon Escobar;Yasiris;COL;1996;COL;Cali;2025-03-16;Female;Outdoor
-AL;2;WF33;SPE;9.49;;Davila Sepulveda;Alitzel;MEX;2001;MEX;Guadalajara;2025-05-09;Female;Outdoor
+AL;2;WF33;SPE;15.16;;Hanes;Julia;CAN;1995;CAN;Nanaimo;2025-05-24;Female;Outdoor
 AL;3;WF34;SPE;15.83;;Mejias Viloria;Wendis;VEN;2001;COL;Cali;2025-05-18;Female;Outdoor
 AL;2;WF37;SPE;15;;Nickel;Kasey;USA;2002;USA;Edmond;2025-06-07;Female;Outdoor
 AL;3;WF38;SPE;30.47;;Saldarriaga Hernandez;Xiomara;COL;2004;COL;Cali;2025-03-14;Female;Outdoor
