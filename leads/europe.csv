@@ -1,7 +1,7 @@
 Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Geschlecht;Umgebung
 AL;1;MT11;100;0:11.17;1.8;Adolphe;Timothee;FRA;1989;FRA;MAISON ALFORT;2025-05-11;Male;Outdoor
-AL;1;MT12;100;0:10.72;-0.1;Kashafali;Salum Ageze;NOR;1993;SUI;Nottwil;2025-05-23;Male;Outdoor
-AL;1;MT13;100;0:11.04;0.3;Zorzi;Axel;FRA;1997;FRA;Antony;2025-06-07;Male;Outdoor
+AL;1;MT12;100;0:10.53;1.9;Kashafali;Salum Ageze;NOR;1993;NOR;Oslo;2025-06-12;Male;Outdoor
+AL;1;MT13;100;0:11.00;1.9;Sverd;Vegard Dragsund;NOR;1999;NOR;Oslo;2025-06-12;Male;Outdoor
 AL;1;MT33;100;0:17.30;-0.3;Small;Andrew;GBR;1993;SUI;Arbon;2025-05-29;Male;Outdoor
 AL;1;MT34;100;0:15.22;1.9;Manni;Henry;FIN;1992;SUI;Nottwil;2025-05-24;Male;Outdoor
 AL;0;MT35;100;0:12.08;0.0;Safronov;Dmitrii;NPA;1995;IND;New Delhi;2025-03-11;Male;Outdoor
@@ -17,7 +17,7 @@ AL;1;MT52;100;0:16.01;0.5;Carabin;Maxime;BEL;2000;UAE;Sharjah;2025-02-02;Male;Ou
 AL;1;MT53;100;0:15.20;-1.0;Fairbank;Pierre;FRA;1971;SUI;Arbon;2025-06-01;Male;Outdoor
 AL;1;MT54;100;0:13.68;1.0;Balde;Mamudo;POR;2005;POR;Lisboa;2025-04-25;Male;Outdoor
 AL;1;MT62;100;0:10.79;1.3;Floors;Johannes;GER;1995;GER;Leverkusen;2025-05-10;Male;Outdoor
-AL;1;MT63;100;0:12.21;-0.5;de Jong;Joel;NED;2002;FRA;Paris;2025-06-03;Male;Outdoor
+AL;1;MT63;100;0:11.97;1.9;de Jong;Joel;NED;2002;NOR;Oslo;2025-06-12;Male;Outdoor
 AL;0;MT64;100;0:11.56;-0.5;Mikhalkov;Petr;NPA;1993;IND;New Delhi;2025-03-11;Male;Outdoor
 AL;1;MT71;100;0:21.96;0.8;Krzyzek;Artur;POL;2000;SUI;Nottwil;2025-05-24;Male;Outdoor
 AL;1;MT72;100;0:14.92;-0.6;Calcagni;Carlo Fabio Marcello;ITA;1968;MAR;Marrakech;2025-04-26;Male;Outdoor
@@ -124,7 +124,7 @@ AL;1;MF37;KUG;13.74;;Miroslaw;Jakub;POL;2000;MAR;Marrakech;2025-04-26;Male;Outdo
 AL;1;MF38;KUG;13.5;;Bilyi;Vladyslav;UKR;1997;UAE;Dubai;2025-02-13;Male;Outdoor
 AL;0;MF40;KUG;11.36;;Gnezdilov;Denis;NPA;1986;IND;New Delhi;2025-03-13;Male;Outdoor
 AL;1;MF41;KUG;14.7;;Kappel;Niko;GER;1995;GER;Rechberghausen;2025-05-01;Male;Outdoor
-AL;1;MF42;KUG;12.35;;Ntimeris;Fotios;GRE;1989;FRA;Paris;2025-06-03;Male;Outdoor
+AL;1;MF42;KUG;12.85;;Touzi;Badr;FRA;1988;FRA;Aulnay Saint michel;2025-05-31;Male;Outdoor
 AL;1;MF44;KUG;11.57;;Rutter;Adam James;GBR;2005;GBR;Manchester;2025-05-05;Male;Outdoor
 AL;1;MF46;KUG;14.96;;Skuja;Andrius;LTU;1992;FRA;Paris;2025-06-04;Male;Outdoor
 AL;1;MF53;KUG;8.53;;Gorczak;Bartosz;POL;1988;FRA;Paris;2025-06-02;Male;Outdoor
@@ -170,7 +170,7 @@ AL;1;MF32;KEU;37.37;;Serbus;Frantisek;CZE;1985;UAE;Dubai;2025-02-13;Male;Outdoor
 AL;1;MF51;KEU;35.05;;Kureja;Marian;SVK;1980;CZE;Prague;2025-05-03;Male;Outdoor
 AL;1;WT11;100;0:13.06;-1.3;Garcia Falagan;Alba;ESP;2002;ESP;L´Hospitalet de Llobregat, Barcelona;2025-05-17;Female;Outdoor
 AL;1;WT12;100;0:13.22;-0.7;Mueller-Rottgardt;Katrin;GER;1982;UAE;Sharjah;2025-02-02;Female;Outdoor
-AL;1;WT13;100;0:12.12;0.2;Comerford;Orla;IRL;1997;FRA;Paris;2025-06-02;Female;Outdoor
+AL;1;WT13;100;0:11.87;-0.7;Comerford;Orla;IRL;1997;NOR;Oslo;2025-06-11;Female;Outdoor
 AL;1;WT33;100;0:21.30;0.0;Goens;Cecile;BEL;2003;SUI;Nottwil;2025-05-24;Female;Outdoor
 AL;1;WT34;100;0:16.98;0.0;Cockroft;Hannah;GBR;1992;SUI;Nottwil;2025-05-24;Female;Outdoor
 AL;1;WT35;100;0:15.44;-1.5;Renecka;Ingrid;POL;2004;SUI;Nottwil;2025-05-23;Female;Outdoor
