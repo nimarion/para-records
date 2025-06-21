@@ -100,7 +100,7 @@ AL;1;MT11;WEI;5.99;-0.6;Pallier;Ronan;FRA;1970;FRA;Paris;2025-06-03;Male;Outdoor
 AL;1;MT12;WEI;6.69;1.5;Walser;Andreas;GER;1996;GER;Rehlingen;2025-06-08;Male;Outdoor
 AL;1;MT13;WEI;6.81;1.9;Skinner;Zak;GBR;1998;GBR;Chelmsford;2025-05-26;Male;Outdoor
 AL;1;MT20;WEI;7.36;0.0;Prodromou;Athanasios;GRE;1994;GRE;Trikala;2025-06-01;Male;Outdoor
-AL;1;MT35;WEI;4.21;-0.3;Maubourguet;Yannis;FRA;2004;FRA;Paris;2025-06-04;Male;Outdoor
+AL;1;MT35;WEI;4.53;1.6;Noll;Szilveszter;HUN;2002;HUN;Budapest;2025-06-09;Male;Outdoor
 AL;1;MT36;WEI;5.08;0.0;Petropoulos;Anastasios;GRE;1990;GRE;Trikala;2025-06-01;Male;Outdoor
 AL;1;MT37;WEI;6.12;0.0;Kamaras;Konstantinos;GRE;1997;GRE;Trikala;2025-06-01;Male;Outdoor
 AL;1;MT38;WEI;6.69;0.0;Sienkiewicz;Bartosz;POL;2001;SUI;Nottwil;2025-05-23;Male;Outdoor
@@ -139,9 +139,11 @@ AL;1;MF33;DIS;27.35;;Glab;Michal;POL;1992;MAR;Marrakech;2025-04-26;Male;Outdoor
 AL;1;MF34;DIS;30.5;;Horacek;Tomas;CZE;1986;CZE;Olomouc;2025-05-18;Male;Outdoor
 AL;1;MF37;DIS;44.26;;Dundzys;Donatas;LTU;1991;FRA;Paris;2025-06-03;Male;Outdoor
 AL;1;MF38;DIS;54.85;;Jenkins;Michael;GBR;2004;GBR;Loughbrough;2025-06-01;Male;Outdoor
+AL;1;MF40;DIS;26.61;;Sloup;Matija;CRO;1996;HUN;Budapest;2025-06-09;Male;Outdoor
 AL;1;MF41;DIS;19.47;;Jimenez Alonso;Alvaro;ESP;2000;ESP;POLIDEPORTIVO ARTUNDUAGA;2025-06-01;Male;Outdoor
 AL;1;MF42;DIS;45.53;;Ntimeris;Fotios;GRE;1989;FRA;Paris;2025-06-02;Male;Outdoor
 AL;1;MF44;DIS;42;;Rutter;Adam James;GBR;2005;FRA;Paris;2025-06-02;Male;Outdoor
+AL;1;MF46;DIS;52.52;;Kaurin;Erik Fabian;CRO;2000;HUN;Budapest;2025-06-09;Male;Outdoor
 AL;1;MF51;DIS;10.16;;Kureja;Marian;SVK;1980;CZE;Pardubice;2025-05-04;Male;Outdoor
 AL;1;MF52;DIS;17.82;;Rocki;Rafal;POL;1976;FRA;Paris;2025-06-02;Male;Outdoor
 AL;1;MF53;DIS;15.85;;Broz;Jaroslav;CZE;1981;CZE;Pardubice;2025-05-04;Male;Outdoor
@@ -150,6 +152,7 @@ AL;1;MF56;DIS;45.28;;Tzounis;Konstantinos;GRE;1991;GRE;Trikala;2025-06-01;Male;O
 AL;1;MF57;DIS;43.38;;Petrous;Jaroslav;CZE;1977;CZE;Prague;2025-05-03;Male;Outdoor
 AL;1;MF62;DIS;28.25;;Sevdikalis;Ioannis;GRE;1991;GRE;Trikala;2025-06-01;Male;Outdoor
 AL;1;MF63;DIS;36.28;;Adamcik;Martin;CZE;2000;CZE;Prague;2025-05-03;Male;Outdoor
+AL;1;MF64;DIS;50.91;;Katanusic;Ivan;CRO;1991;HUN;Budapest;2025-06-09;Male;Outdoor
 AL;1;MF12;SPE;48.17;;Tucaliuc;Octavian Vasile;ROU;1994;UAE;Dubai;2025-02-11;Male;Outdoor
 AL;0;MF13;SPE;43.98;;Kaniuk;Yury;NPA;2006;UAE;Dubai;2025-02-11;Male;Outdoor
 AL;1;MF33;SPE;7.02;;Konecny;Vladimir;CZE;1981;CZE;Pardubice;2025-05-04;Male;Outdoor
@@ -241,7 +244,7 @@ AL;0;WT20;WEI;5.35;-0.1;Sapanzha;Irina;NPA;2005;IND;New Delhi;2025-03-13;Female;
 AL;1;WT37;WEI;4.24;1.7;Burbulla;Laura;GER;2004;GER;Bremen;2025-05-29;Female;Outdoor
 AL;1;WT38;WEI;5.23;0.0;Ekler;Luca;HUN;1998;FRA;Paris;2025-06-04;Female;Outdoor
 AL;1;WT46;WEI;5.13;-0.3;Lanza;Angelina;FRA;1993;FRA;MAISON ALFORT;2025-05-11;Female;Outdoor
-AL;1;WT47;WEI;5.59;-0.6;Noerremark;Bjoerk;DEN;2002;FRA;Paris;2025-06-04;Female;Outdoor
+AL;1;WT47;WEI;5.85;1.1;Noerremark;Bjoerk;DEN;2002;DEN;Brøndby;2025-06-14;Female;Outdoor
 AL;1;WT62;WEI;6.86;1.0;Jong;Fleur;NED;1995;AUT;Innsbruck;2025-06-07;Female;Outdoor
 AL;1;WT63;WEI;5.17;1.6;Kratter;Elena;SUI;1996;GER;Rehlingen;2025-06-08;Female;Outdoor
 AL;1;WT64;WEI;4.81;-0.7;Filippi;Giuliana Chiara;ITA;2005;FRA;Paris;2025-06-04;Female;Outdoor
@@ -269,7 +272,7 @@ AL;1;WF12;DIS;28.5;;Welepa;Rose;FRA;1986;FRA;MONT DORE;2025-04-25;Female;Outdoor
 AL;1;WF32;DIS;8.64;;Marcanikova;Anna;CZE;1995;CZE;Prague;2025-05-03;Female;Outdoor
 AL;1;WF33;DIS;5.27;;Kabotova;Veronika;CZE;1987;CZE;Prague;2025-05-03;Female;Outdoor
 AL;0;WF37;DIS;28.35;;Vertinskaia;Irina;NPA;1984;IND;New Delhi;2025-03-11;Female;Outdoor
-AL;1;WF38;DIS;27.94;;Leck;Rachel Jane Caroline;GBR;1996;GBR;London;2025-03-23;Female;Outdoor
+AL;1;WF38;DIS;28.93;;Purkic;Ivana;CRO;1989;HUN;Budapest;2025-06-09;Female;Outdoor
 AL;1;WF40;DIS;14.96;;Latre Sanmartin;Elena;ESP;2006;ESP;Gua;2025-04-13;Female;Outdoor
 AL;1;WF41;DIS;13.2;;Birch;Abigail;GBR;2003;GBR;Manchester;2025-05-05;Female;Outdoor
 AL;1;WF44;DIS;37.47;;Oduwaiye;Funmi;GBR;2003;GBR;Loughbrough;2025-06-01;Female;Outdoor

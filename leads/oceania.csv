@@ -78,7 +78,7 @@ AL;6;MF44;SPE;61.34;;Burian;Michal;AUS;1992;AUS;Perth;2025-04-11;Male;Outdoor
 AL;6;MF46;SPE;42.29;;Thompson;Matthew;AUS;1986;AUS;Canberra;2025-01-25;Male;Outdoor
 AL;6;MF56;SPE;17.14;;Dimond;Jonti;NZL;1992;AUS;Canberra;2025-01-26;Male;Outdoor
 AL;6;MF32;KEU;11.51;;Mattinson;Thomas;AUS;2009;AUS;Adelaide;2025-03-29;Male;Outdoor
-AL;6;WT33;100;0:24.53;0.0;Clifton-Bligh;Sarah;AUS;2004;AUS;Sydney;2025-03-15;Female;Outdoor
+AL;6;WT33;100;0:24.34;-2.6;Clifton-Bligh;Sarah;AUS;2004;AUS;Rooty Hill;2025-06-14;Female;Outdoor
 AL;6;WT34;100;0:21.48;0.0;Espie;Coco;AUS;2008;SUI;Nottwil;2025-05-24;Female;Outdoor
 AL;6;WT35;100;0:16.32;1.6;Giddings;Summer;AUS;2002;AUS;Perth;2025-04-12;Female;Outdoor
 AL;6;WT36;100;0:14.24;1.6;Lovell;Mali;AUS;2004;AUS;Perth;2025-04-12;Female;Outdoor
@@ -91,6 +91,7 @@ AL;6;WT64;100;0:14.51;0.9;Walsh;Patricia;NZL;2004;NZL;Auckland;2025-02-01;Female
 AL;6;WT72;100;0:21.06;1.7;Neuenkirchen;Kim;AUS;1967;AUS;Perth;2025-04-12;Female;Outdoor
 AL;6;WT33;200;0:46.46;-1.4;Clifton-Bligh;Sarah;AUS;2004;AUS;Canberra;2025-01-23;Female;Outdoor
 AL;6;WT34;200;0:39.95;-1.4;Espie;Coco;AUS;2008;AUS;Canberra;2025-01-23;Female;Outdoor
+AL;6;WT35;200;0:38.09;0.0;Giddings;Summer;AUS;2002;AUS;Rooty Hill;2025-06-14;Female;Outdoor
 AL;6;WT36;200;0:29.64;-0.9;Lovell;Mali;AUS;2004;AUS;Perth;2025-04-13;Female;Outdoor
 AL;6;WT37;200;0:28.52;-1.6;Snowden;Akeesha;AUS;2005;AUS;Perth;2025-04-13;Female;Outdoor
 AL;6;WT38;200;0:26.76;-0.5;Clarke;Rhiannon;AUS;2002;IND;New Delhi;2025-03-13;Female;Outdoor
@@ -115,6 +116,7 @@ AL;6;WT36;800;2:49.04;;Colley;Tamsin;AUS;2002;AUS;Sydney;2025-03-20;Female;Outdo
 AL;6;WT38;800;2:50.63;;Sharp;Layla;AUS;2007;AUS;Sydney;2025-03-16;Female;Outdoor
 AL;6;WT53;800;1:54.86;;Ballard;Angela;AUS;1982;SUI;Arbon;2025-06-01;Female;Outdoor
 AL;6;WT54;800;2:15.83;;Wright;Gabrielle;NZL;2004;SUI;Arbon;2025-05-29;Female;Outdoor
+AL;6;WT72;800;3:38.18;;Neuenkirchen;Kim;AUS;1967;AUS;Rooty Hill;2025-06-14;Female;Outdoor
 AL;6;WT20;1K5;4:42.23;;Colman;Annabelle;AUS;2004;AUS;Perth;2025-04-10;Female;Outdoor
 AL;6;WT33;1K5;5:44.72;;Clifton-Bligh;Sarah;AUS;2004;AUS;Canberra;2025-01-22;Female;Outdoor
 AL;6;WT34;1K5;4:22.82;;Espie;Coco;AUS;2008;SUI;Arbon;2025-05-31;Female;Outdoor
