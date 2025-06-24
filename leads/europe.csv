@@ -108,7 +108,7 @@ AL;1;MT44;WEI;6.82;-0.7;Cicchetti;Marco;ITA;1999;FRA;Paris;2025-06-04;Male;Outdo
 AL;1;MT46;WEI;5.69;1.6;Winkeler;Jonas Dominik;GER;2002;GER;Rehlingen;2025-06-08;Male;Outdoor
 AL;0;MT47;WEI;6.79;0.0;Kotukov;Nikita;NPA;1999;IND;New Delhi;2025-03-12;Male;Outdoor
 AL;1;MT61;WEI;6.74;2.0;Sinnott;Luke;GBR;1980;GBR;Chelmsford;2025-05-26;Male;Outdoor
-AL;1;MT63;WEI;7.37;1.1;de Jong;Joel;NED;2002;FRA;Paris;2025-06-03;Male;Outdoor
+AL;1;MT63;WEI;7.45;0.2;de Jong;Joel;NED;2002;AUT;Innsbruck;2025-06-07;Male;Outdoor
 AL;1;MT64;WEI;8.29;0.6;Rehm;Markus;GER;1988;GER;Bremen;2025-05-29;Male;Outdoor
 AL;1;MT38;DRE;12.13;0.7;Thommen;Elijah;SUI;2005;SUI;Muttenz;2025-05-31;Male;Outdoor
 AL;1;MF11;KUG;11.11;;Carvalho;Leonildo;POR;1983;POR;Torres Vedras;2025-04-06;Male;Outdoor
@@ -131,7 +131,7 @@ AL;1;MF53;KUG;8.53;;Gorczak;Bartosz;POL;1988;FRA;Paris;2025-06-02;Male;Outdoor
 AL;1;MF54;KUG;8.85;;Cuchran;Ladislav;SVK;1982;CZE;Pardubice;2025-05-04;Male;Outdoor
 AL;1;MF55;KUG;11.66;;Stoltman;Lech;POL;1985;POL;Gorzow Wielkopolski;2025-05-24;Male;Outdoor
 AL;1;MF56;KUG;11.99;;Laczko;Dusan;SVK;1983;CZE;Pardubice;2025-05-04;Male;Outdoor
-AL;1;MF57;KUG;14.05;;Koopikka;Teijo;FIN;1980;FRA;Paris;2025-06-03;Male;Outdoor
+AL;1;MF57;KUG;14.23;;Koopikka;Teijo;FIN;1980;FIN;Kuortane;2025-06-21;Male;Outdoor
 AL;1;MF63;KUG;12.96;;Schober;Georg;AUT;1989;SUI;Nottwil;2025-05-24;Male;Outdoor
 AL;1;MF11;DIS;38.16;;Marinkovic;Bil;AUT;1973;FRA;Paris;2025-06-04;Male;Outdoor
 AL;1;MF13;DIS;34.33;;Romero Paredes;Ismael;ESP;2005;ESP;Segovia;2025-03-29;Male;Outdoor
@@ -177,7 +177,7 @@ AL;1;WT13;100;0:11.87;-0.7;Comerford;Orla;IRL;1997;NOR;Oslo;2025-06-11;Female;Ou
 AL;1;WT33;100;0:21.30;0.0;Goens;Cecile;BEL;2003;SUI;Nottwil;2025-05-24;Female;Outdoor
 AL;1;WT34;100;0:16.98;0.0;Cockroft;Hannah;GBR;1992;SUI;Nottwil;2025-05-24;Female;Outdoor
 AL;1;WT35;100;0:15.44;-1.5;Renecka;Ingrid;POL;2004;SUI;Nottwil;2025-05-23;Female;Outdoor
-AL;1;WT36;100;0:15.12;-0.2;Bouthoorn;Cheyenne;NED;1997;FRA;Paris;2025-06-03;Female;Outdoor
+AL;1;WT36;100;0:14.87;0.6;Bouthoorn;Cheyenne;NED;1997;NED;Utrecht;2025-06-13;Female;Outdoor
 AL;1;WT37;100;0:15.08;0.1;Burbulla;Laura;GER;2004;GER;Leverkusen;2025-05-10;Female;Outdoor
 AL;1;WT38;100;0:12.88;-0.2;Sutton;Lana;IRL;1998;FRA;Paris;2025-06-03;Female;Outdoor
 AL;1;WT42;100;0:14.64;1.8;Okoh;Ndidikama;GBR;2002;GBR;London;2025-05-26;Female;Outdoor
