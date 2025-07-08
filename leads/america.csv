@@ -8,7 +8,7 @@ AL;3;MT36;100;0:12.05;0.9;Chavez;Alexis Sebastian;ARG;2002;SUI;Nottwil;2025-05-2
 AL;3;MT37;100;0:11.06;1.4;Gomes de Mendonca;Ricardo;BRA;1990;BRA;Sao Paulo;2025-04-20;Male;Outdoor
 AL;2;MT38;100;0:10.57;0.9;Blackwell;Jaydin;USA;2004;USA;Winter Garden;2025-06-14;Male;Outdoor
 AL;3;MT42;100;0:16.61;-0.9;de Paiva Neves;Deryk;BRA;2006;BRA;Sao Paulo;2025-04-23;Male;Outdoor
-AL;2;MT44;100;0:11.32;0.8;Vives Suares;Yamel Luis;CUB;1998;COL;Cali;2025-05-17;Male;Outdoor
+AL;2;MT44;100;0:11.10;0.2;Vives Suares;Yamel Luis;CUB;1998;TUN;Tunis;2025-06-16;Male;Outdoor
 AL;2;MT45;100;0:11.48;1.2;Sample;Rayven;USA;2002;USA;Walnut;2025-04-19;Male;Outdoor
 AL;3;MT47;100;0:10.57;1.2;Ferreira dos Santos;Petrucio;BRA;1996;BRA;Sao Paulo;2025-04-25;Male;Outdoor
 AL;2;MT52;100;0:16.94;1.1;Bouchard;Anthony;CAN;1992;SUI;Nottwil;2025-05-24;Male;Outdoor
@@ -21,13 +21,13 @@ AL;3;MT71;100;0:21.50;1.6;Cabral;Vinicius Augusto;BRA;2001;BRA;Sao Paulo;2025-05
 AL;3;MT72;100;0:15.35;1.6;Matos Marques Cunha;Joao;BRA;2007;BRA;Sao Paulo;2025-05-24;Male;Outdoor
 AL;3;MT11;200;0:24.81;-0.3;Naranjo Rios;Samuel;COL;2002;COL;Cali;2025-03-16;Male;Outdoor
 AL;2;MT12;200;0:24.16;0.2;Johnson;David;CAN;1999;CAN;Victoria;2025-05-11;Male;Outdoor
-AL;3;MT13;200;0:24.20;-1.5;Ospina Rodriguez;Jordan Smith;COL;2005;COL;Cali;2025-03-16;Male;Outdoor
+AL;2;MT13;200;0:22.00;0.9;Suarez Cabilla;York Lazaro;CUB;2001;TUN;Tunis;2025-06-16;Male;Outdoor
 AL;2;MT34;200;0:34.43;1.2;Pruitt;Austin;USA;1994;USA;Spokane;2025-06-21;Male;Outdoor
 AL;3;MT35;200;0:24.59;-0.2;Villa;Maximiliano;ARG;2007;MEX;Guadalajara;2025-05-09;Male;Outdoor
 AL;3;MT36;200;0:26.62;-1.1;Pabon Cano;David;COL;2002;COL;Cali;2025-03-16;Male;Outdoor
 AL;3;MT37;200;0:23.08;-0.7;Gomes de Mendonca;Ricardo;BRA;1990;BRA;Sao Paulo;2025-04-26;Male;Outdoor
 AL;2;MT38;200;0:21.21;0.6;Blackwell;Jaydin;USA;2004;USA;Clermont;2025-04-26;Male;Outdoor
-AL;2;MT44;200;0:23.61;-0.5;Vives Suares;Yamel Luis;CUB;1998;COL;Cali;2025-05-18;Male;Outdoor
+AL;2;MT44;200;0:23.16;0.1;Vives Suares;Yamel Luis;CUB;1998;TUN;Tunis;2025-06-16;Male;Outdoor
 AL;2;MT45;200;0:28.46;0.8;Perez Giron;Raul Antonio;GUA;1974;USA;Tempe;2025-05-30;Male;Outdoor
 AL;3;MT46;200;0:22.53;0.9;Lara Rodallega;Luis Fernando;COL;2000;COL;Cali;2025-03-16;Male;Outdoor
 AL;2;MT47;200;0:22.03;0.3;Best;Korban;USA;2003;USA;Los Angeles;2025-05-03;Male;Outdoor
@@ -70,7 +70,7 @@ AL;2;MT34;1K5;3:03.34;;Smeenk;Austin;CAN;1997;SUI;Arbon;2025-05-31;Male;Outdoor
 AL;3;MT37;1K5;4:29.30;;Gomez Pinto;Jhonier Sneider;COL;2000;COL;Cali;2025-03-15;Male;Outdoor
 AL;2;MT38;1K5;4:04.92;;Merle;Leo;USA;1998;CAN;Windsor;2025-06-15;Male;Outdoor
 AL;2;MT44;1K5;4:37.48;;Donnan;Timothy;USA;2006;USA;Lake Forest & Willamette;2025-06-15;Male;Outdoor
-AL;3;MT46;1K5;4:13.10;;Sepulveda;Ignacio;CHI;1994;BRA;Sao Paulo;2025-04-25;Male;Outdoor
+AL;3;MT46;1K5;4:08.35;;Orrego Campos;Mauricio Esteban;CHI;2000;TUN;Tunis;2025-06-16;Male;Outdoor
 AL;2;MT52;1K5;3:44.70;;Perez Juarez;Leonardo De Jesus;MEX;1993;SUI;Arbon;2025-05-31;Male;Outdoor
 AL;2;MT53;1K5;3:15.53;;Frias Moreno;Jose Alan;MEX;1987;MEX;Guadalajara;2025-05-09;Male;Outdoor
 AL;2;MT54;1K5;2:49.69;;Jimenez-Vergara;Miguel;USA;2000;SUI;Arbon;2025-05-31;Male;Outdoor
@@ -100,7 +100,7 @@ AL;2;MT64;HOC;2;;Loccident;Derek;USA;1998;COL;Cali;2025-05-16;Male;Outdoor
 AL;2;MT11;WEI;6.16;1.1;Gillette;Lex;USA;1984;USA;Chula Vista;2025-06-29;Male;Outdoor
 AL;3;MT12;WEI;6.78;-1.1;Vazquez;Fernando;ARG;1999;SUI;Nottwil;2025-05-25;Male;Outdoor
 AL;3;MT13;WEI;6.83;-1.0;Andrade dos Reis;Paulo Henrique;BRA;1998;BRA;Sao Paulo;2025-04-20;Male;Outdoor
-AL;2;MT20;WEI;6.91;-1.7;Vucsics;Noah;CAN;2000;CAN;Calgary;2025-05-11;Male;Outdoor
+AL;2;MT20;WEI;7.06;0.9;Vucsics;Noah;CAN;2000;CAN;Calgary;2025-06-22;Male;Outdoor
 AL;3;MT36;WEI;5.91;0.9;Almeida Ramos;Aser Mateus;BRA;1991;BRA;Sao Paulo;2025-04-23;Male;Outdoor
 AL;3;MT37;WEI;6.38;0.0;Impellizzeri;Brian Lionel;ARG;1998;FRA;Paris;2025-06-04;Male;Outdoor
 AL;3;MT38;WEI;6.63;0.2;Gomez Coa;Juan Sebastian;COL;1999;COL;Cali;2025-05-17;Male;Outdoor
@@ -148,16 +148,16 @@ AL;3;MF57;DIS;45.97;;Paulino dos Santos;Thiago;BRA;1985;BRA;Sao Paulo;2025-04-26
 AL;2;MF64;DIS;57.12;;Campbell;Jeremy;USA;1987;USA;Edmond;2025-06-07;Male;Outdoor
 AL;2;MF11;SPE;23.08;;Murby;Ness;CAN;1985;CAN;Calgary;2025-05-25;Male;Outdoor
 AL;3;MF12;SPE;44.34;;de Souza Moura;Brendow Christian;BRA;1995;BRA;Sao Paulo;2025-05-24;Male;Outdoor
-AL;2;MF13;SPE;57.06;;Aguilera Cruz;Ulicer;CUB;1989;COL;Cali;2025-05-17;Male;Outdoor
+AL;2;MF13;SPE;59;;Aguilera Cruz;Ulicer;CUB;1989;TUN;Tunis;2025-06-16;Male;Outdoor
 AL;2;MF33;SPE;11.86;;Mendoza Ortiz;Jose Luis;MEX;2000;MEX;Guadalajara;2025-05-09;Male;Outdoor
 AL;3;MF34;SPE;38.3;;Meneses Medina;Diego Fernando;COL;1998;COL;Cali;2025-05-18;Male;Outdoor
 AL;3;MF36;SPE;20.31;;Unate Mendez;Sebastian;COL;1996;COL;Cali;2025-03-15;Male;Outdoor
 AL;3;MF37;SPE;18;;Rojas Duenes;Julian Andres;COL;1983;COL;Cali;2025-03-15;Male;Outdoor
 AL;3;MF38;SPE;56.6;;Lemos Rivas;Jose Gregorio;COL;1991;COL;Cali;2025-03-16;Male;Outdoor
 AL;3;MF40;SPE;30.87;;Hirochi Lobato dos Santos;Sandro;BRA;2004;BRA;Sao Paulo;2025-04-23;Male;Outdoor
-AL;2;MF41;SPE;31.83;;Cruz Sanchez;Sigi Sergio David;MEX;2006;MEX;Guadalajara;2025-05-09;Male;Outdoor
+AL;2;MF41;SPE;38.54;;Castro Martinez;Ever Rene;CUB;1993;TUN;Tunis;2025-06-16;Male;Outdoor
 AL;3;MF42;SPE;56.59;;Roberto Floriani;Edenilson;BRA;1990;BRA;Sao Paulo;2025-05-24;Male;Outdoor
-AL;3;MF44;SPE;46.14;;Pereira Da Silva;Edevaldo;BRA;1981;BRA;Sao Paulo;2025-05-24;Male;Outdoor
+AL;3;MF44;SPE;52.05;;Rodriguez Chirinos;Romy Roger;VEN;1984;TUN;Tunis;2025-06-16;Male;Outdoor
 AL;2;MF46;SPE;61.16;;Gabriel Buenaventura;Eliezer;MEX;1998;MEX;Guadalajara;2025-05-09;Male;Outdoor
 AL;2;MF54;SPE;30.55;;Phongsavanh;Justin;USA;1997;USA;Des Moines;2025-04-24;Male;Outdoor
 AL;3;MF55;SPE;31.27;;Varelo de Oliveira;Sandro;BRA;1981;BRA;Sao Paulo;2025-04-25;Male;Outdoor
