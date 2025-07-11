@@ -22,7 +22,7 @@ AL;1;MT63;100;0:11.97;1.9;de Jong;Joel;NED;2002;NOR;Oslo;2025-06-12;Male;Outdoor
 AL;1;MT64;100;0:10.63;0.3;Streng;Felix;GER;1995;GER;Leichlingen;2025-06-13;Male;Outdoor
 AL;1;MT71;100;0:21.96;0.8;Krzyzek;Artur;POL;2000;SUI;Nottwil;2025-05-24;Male;Outdoor
 AL;1;MT72;100;0:14.92;-0.6;Calcagni;Carlo Fabio Marcello;ITA;1968;MAR;Marrakech;2025-04-26;Male;Outdoor
-AL;1;MT11;200;0:22.86;1.8;Adolphe;Timothee;FRA;1989;FRA;MAISON ALFORT;2025-05-11;Male;Outdoor
+AL;1;MT11;200;0:22.76;0.3;Adolphe;Timothee;FRA;1989;FRA;Poitiers;2025-06-28;Male;Outdoor
 AL;1;MT12;200;0:24.27;0.2;Quintanilla Soriano;Enric;ESP;2008;ESP;POLIDEPORTIVO ARTUNDUAGA;2025-06-01;Male;Outdoor
 AL;1;MT13;200;0:22.30;-0.5;Marzillier;Max;GER;2001;GER;Mannheim;2025-06-29;Male;Outdoor
 AL;1;MT33;200;0:32.37;0.8;Small;Andrew;GBR;1993;SUI;Arbon;2025-05-29;Male;Outdoor
@@ -79,7 +79,7 @@ AL;1;MT46;1K5;3:55.61;;Praud;Antoine;FRA;2003;FRA;SAINT denis;2025-05-29;Male;Ou
 AL;1;MT52;1K5;3:09.11;;Carabin;Maxime;BEL;2000;UAE;Sharjah;2025-02-03;Male;Outdoor
 AL;1;MT53;1K5;3:03.28;;Fairbank;Pierre;FRA;1971;SUI;Arbon;2025-05-31;Male;Outdoor
 AL;1;MT54;1K5;2:47.57;;Hug;Marcel;SUI;1986;SUI;Arbon;2025-05-31;Male;Outdoor
-AL;1;MT11;5K0;16:35.20;;Munsch;Michel;FRA;1974;FRA;MAISON ALFORT;2025-05-11;Male;Outdoor
+AL;1;MT11;5K0;16:32.03;;Munsch;Michel;FRA;1974;FRA;Poitiers;2025-06-28;Male;Outdoor
 AL;1;MT12;5K0;15:44.50;;Gomes;Isaias;POR;1994;POR;Oeiras;2025-03-29;Male;Outdoor
 AL;1;MT13;5K0;16:34.10;;Lerch;Noam;ISR;2009;SUI;Nottwil;2025-05-25;Male;Outdoor
 AL;1;MT20;5K0;14:20.14;;Sandilands;Ben;GBR;2003;GBR;Manchester;2025-05-05;Male;Outdoor
@@ -96,10 +96,10 @@ AL;1;MT54;MAR;1:21:34;;Hug;Marcel;SUI;1986;USA;Boston;2025-04-21;Male;Outdoor
 AL;1;MT61;MAR;2:56:09;;Whitehead;Richard;GBR;1976;USA;Boston;2025-04-21;Male;Outdoor
 AL;1;MT42;HOC;1.2;;Ntimeris;Fotios;GRE;1989;FRA;Paris;2025-06-03;Male;Outdoor
 AL;1;MT44;HOC;2.01;;Lepiato;Maciej;POL;1988;FRA;Paris;2025-06-03;Male;Outdoor
-AL;1;MT46;HOC;1.75;;Dipoko-Ewane;Alexandre;FRA;1996;FRA;MAISON ALFORT;2025-05-11;Male;Outdoor
+AL;1;MT46;HOC;1.8;;Dipoko-Ewane;Alexandre;FRA;1996;FRA;Poitiers;2025-06-28;Male;Outdoor
 AL;1;MT47;HOC;1.97;;Ilgaz;Abdullah;TUR;1998;SUI;Nottwil;2025-05-25;Male;Outdoor
-AL;1;MT63;HOC;1.55;;Passon;Emilien;FRA;2007;FRA;MAISON ALFORT;2025-05-11;Male;Outdoor
-AL;1;MT11;WEI;5.99;-0.6;Pallier;Ronan;FRA;1970;FRA;Paris;2025-06-03;Male;Outdoor
+AL;1;MT63;HOC;1.56;;Passon;Emilien;FRA;2007;FRA;Poitiers;2025-06-28;Male;Outdoor
+AL;1;MT11;WEI;6.1;1.1;Pallier;Ronan;FRA;1970;FRA;Poitiers;2025-06-28;Male;Outdoor
 AL;1;MT12;WEI;6.69;1.5;Walser;Andreas;GER;1996;GER;Rehlingen;2025-06-08;Male;Outdoor
 AL;1;MT13;WEI;6.91;0.0;Cano Blanco;Ivan Jose;ESP;1995;ESP;Elche;2025-06-28;Male;Outdoor
 AL;1;MT20;WEI;7.36;0.0;Prodromou;Athanasios;GRE;1994;GRE;Trikala;2025-06-01;Male;Outdoor
@@ -187,7 +187,7 @@ AL;1;WT37;100;0:15.08;0.1;Burbulla;Laura;GER;2004;GER;Leverkusen;2025-05-10;Fema
 AL;1;WT38;100;0:12.88;-0.2;Sutton;Lana;IRL;1998;FRA;Paris;2025-06-03;Female;Outdoor
 AL;1;WT42;100;0:14.64;1.8;Okoh;Ndidikama;GBR;2002;GBR;London;2025-05-26;Female;Outdoor
 AL;1;WT44;100;0:13.24;1.0;Levitt;Victoria Jade;GBR;1996;GBR;London;2025-06-22;Female;Outdoor
-AL;1;WT46;100;0:12.83;-0.6;Ross;Jule;GER;2006;GER;Leichlingen;2025-06-13;Female;Outdoor
+AL;1;WT46;100;0:12.43;1.1;Ngoussou Ngouyi;Marie;FRA;2008;FRA;Poitiers;2025-06-28;Female;Outdoor
 AL;0;WT47;100;0:12.55;-0.3;Soloveva;Anastasiia;NPA;1997;IND;New Delhi;2025-03-11;Female;Outdoor
 AL;1;WT53;100;0:15.20;1.1;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2025-05-24;Female;Outdoor
 AL;1;WT54;100;0:15.48;-0.5;Bayekula;Lea;BEL;1995;SUI;Arbon;2025-06-01;Female;Outdoor
@@ -208,7 +208,7 @@ AL;1;WT38;200;0:26.04;-1.2;Ekler;Luca;HUN;1998;FRA;Paris;2025-06-02;Female;Outdo
 AL;1;WT44;200;0:28.20;-0.5;Bensusan;Irmgard;GER;1991;GER;Duisbrug;2025-06-21;Female;Outdoor
 AL;1;WT46;200;0:26.33;-1.0;Ross;Jule;GER;2006;GER;Leichlingen;2025-06-14;Female;Outdoor
 AL;0;WT47;200;0:26.21;-0.4;Soloveva;Anastasiia;NPA;1997;IND;New Delhi;2025-03-13;Female;Outdoor
-AL;1;WT53;200;0:39.73;-0.5;Stragier;Joke;BEL;2006;SUI;Arbon;2025-05-31;Female;Outdoor
+AL;1;WT53;200;0:27.33;-1.2;Debrunner;Catherine;SUI;1995;BEL;Brussels;2025-06-29;Female;Outdoor
 AL;1;WT54;200;0:27.18;-0.1;Bayekula;Lea;BEL;1995;SUI;Arbon;2025-05-31;Female;Outdoor
 AL;1;WT63;200;0:32.04;-1.0;Kratter;Elena;SUI;1996;GER;Leichlingen;2025-06-14;Female;Outdoor
 AL;1;WT64;200;0:26.93;-1.2;Pinar Batalla;Fiona;ESP;2003;ESP;Gua;2025-04-12;Female;Outdoor
@@ -254,11 +254,11 @@ AL;1;WT35;WEI;3.14;1.2;Westling;Ellen;SWE;2007;SWE;Göteborg;2025-06-28;Female;O
 AL;1;WT37;WEI;4.24;1.7;Burbulla;Laura;GER;2004;GER;Bremen;2025-05-29;Female;Outdoor
 AL;1;WT38;WEI;5.34;0.0;Ekler;Luca;HUN;1998;TUN;Tunis;2025-06-16;Female;Outdoor
 AL;1;WT44;WEI;4.52;0.8;Jackson;Bebe;GBR;2005;CZE;Olomouc;2025-07-04;Female;Outdoor
-AL;1;WT46;WEI;5.2;0.0;Ross;Jule;GER;2006;GER;Leichlingen;2025-06-13;Female;Outdoor
+AL;1;WT46;WEI;5.75;0.2;Ngoussou Ngouyi;Marie;FRA;2008;FRA;Poitiers;2025-06-28;Female;Outdoor
 AL;1;WT47;WEI;5.86;0.6;Noerremark;Bjoerk;DEN;2002;DEN;Aalborg;2025-06-26;Female;Outdoor
 AL;1;WT62;WEI;6.86;1.0;Jong;Fleur;NED;1995;AUT;Innsbruck;2025-06-07;Female;Outdoor
 AL;1;WT63;WEI;5.27;0.9;Kratter;Elena;SUI;1996;GER;Leichlingen;2025-06-13;Female;Outdoor
-AL;1;WT64;WEI;4.81;-0.7;Filippi;Giuliana Chiara;ITA;2005;FRA;Paris;2025-06-04;Female;Outdoor
+AL;1;WT64;WEI;4.84;1.6;Solde;Typhaine;FRA;2002;FRA;Poitiers;2025-06-28;Female;Outdoor
 AL;1;WF11;KUG;7.36;;Duran Gonzalez;Sara;ESP;2002;TUN;Tunis;2025-06-16;Female;Outdoor
 AL;1;WF12;KUG;12.67;;Church;Lydia;GBR;1999;GBR;Loughborough;2025-06-18;Female;Outdoor
 AL;1;WF13;KUG;9.89;;Zamora Arnau;Maria;ESP;2006;ESP;L´Hospitalet de Llobregat, Barcelona;2025-05-17;Female;Outdoor
@@ -278,6 +278,7 @@ AL;0;WF54;KUG;7.09;;Nezhura;Yuliya;NPA;1975;UAE;Dubai;2025-02-11;Female;Outdoor
 AL;1;WF55;KUG;5.98;;Pipisega;Anna;FRA;1990;FRA;MONT DORE;2025-04-25;Female;Outdoor
 AL;1;WF56;KUG;7.14;;Obrova;Miroslava;CZE;1975;CZE;Olomouc;2025-07-03;Female;Outdoor
 AL;1;WF57;KUG;8.8;;Navarro Rodriguez;Gabriela Michell;ESP;1992;ESP;Gua;2025-04-13;Female;Outdoor
+AL;1;WF63;KUG;8.43;;Nouchet;Alexandra;FRA;1998;FRA;Poitiers;2025-06-28;Female;Outdoor
 AL;1;WF64;KUG;10.36;;Kotlowska;Faustyna;POL;2001;MAR;Marrakech;2025-04-26;Female;Outdoor
 AL;1;WF11;DIS;36.96;;Dobrovolskaja;Oksana;LTU;1996;CZE;Olomouc;2025-07-03;Female;Outdoor
 AL;1;WF12;DIS;28.5;;Welepa;Rose;FRA;1986;FRA;MONT DORE;2025-04-25;Female;Outdoor
