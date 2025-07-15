@@ -330,6 +330,7 @@ AR;5;WF38;KUG;4.12;;Alsayes;Asmeera;UAE;1990;UAE;Sharjah;2011-12-03;Female;Outdo
 AR;5;WF40;KUG;8.62;;Alzeyoudi;Maryam;UAE;1995;FRA;Paris;2024-09-07;Female;Outdoor
 AR;1;WF41;KUG;10.36;;Khakimova;Kubaro;UZB;2002;FRA;Paris;2024-08-30;Female;Outdoor
 AR;5;WF44;KUG;13.14;;Yao;Juan;CHN;1984;QAT;Doha;2015-10-28;Female;Outdoor
+AR;5;WF45;KUG;8.79;;Tychshenko;Irina;KAZ;1974;CZE;Olomouc;2025-07-04;Female;Outdoor
 AR;5;WF46;KUG;12.47;;Saito;Yukiko;JPN;1993;JPN;Machida City, Tokyo;2015-07-04;Female;Outdoor
 AR;5;WF53;KUG;5.13;;Nedham;Fatema;BRN;1967;TUN;Tunis;2019-06-30;Female;Outdoor
 AR;5;WF54;KUG;7.9;;Yang;Liwan;CHN;1978;CHN;Beijing;2016-04-23;Female;Outdoor
@@ -350,7 +351,7 @@ AR;5;WF40;DIS;22.26;;Alzeyoudi;Maryam;UAE;1995;UAE;Dubai;2024-02-13;Female;Outdo
 AR;5;WF41;DIS;27.53;;Li;Wei;CHN;2001;CHN;Beijing;2019-05-11;Female;Outdoor
 AR;5;WF43;DIS;28.92;;Houshmand;Vajiheh;IRI;1983;CHN;Hangzhou;2023-10-27;Female;Outdoor
 AR;5;WF44;DIS;44.73;;Yao;Juan;CHN;1984;JPN;Tokyo;2021-08-29;Female;Outdoor
-AR;5;WF45;DIS;20.09;;Tychshenko;Irina;KAZ;;UAE;Dubai;2018-03-13;Female;Outdoor
+AR;5;WF45;DIS;22.9;;Tychshenko;Irina;KAZ;1974;CZE;Olomouc;2025-07-04;Female;Outdoor
 AR;5;WF46;DIS;42.12;;Wu;Hong Ping;CHN;1970;GRE;Athens;2004-09-25;Female;Outdoor
 AR;5;WF51;DIS;7.1;;Bhyan;Ekta;IND;1985;CHN;Hangzhou;2023-10-23;Female;Outdoor
 AR;5;WF52;DIS;6.05;;Sran;Jaspreet Kaur;IND;1981;IND;New Delhi;2025-03-13;Female;Outdoor
@@ -372,7 +373,7 @@ AR;5;WF37;SPE;31.62;;Jia;Qianqian;CHN;1987;GBR;London;2012-09-08;Female;Outdoor
 AR;5;WF40;SPE;22.1;;Alzeyoudi;Maryam;UAE;1995;UAE;Sharjah;2022-03-16;Female;Outdoor
 AR;5;WF42;SPE;31.05;;Zheng;Baozhu;CHN;1969;CHN;Beijing;2008-09-08;Female;Outdoor
 AR;5;WF44;SPE;43.12;;Yao;Juan;CHN;1984;CHN;Tianjin;2019-08-30;Female;Outdoor
-AR;5;WF45;SPE;21.65;;Tychshenko;Irina;KAZ;;UAE;Dubai;2019-02-24;Female;Outdoor
+AR;5;WF45;SPE;21.65;;Tychshenko;Irina;KAZ;1974;UAE;Dubai;2019-02-24;Female;Outdoor
 AR;1;WF46;SPE;43.12;;Yigitalieva;Shahinakhon;UZB;2008;FRA;Paris;2024-09-06;Female;Outdoor
 AR;5;WF53;SPE;10.15;;Malik;Deepa;IND;1970;INA;Jakarta;2018-10-08;Female;Outdoor
 AR;1;WF54;SPE;21.12;;Kurbanova;Nurkhon;UZB;1994;FRA;Paris;2024-09-07;Female;Outdoor
