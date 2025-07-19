@@ -11,7 +11,7 @@ WL;;MT38;100;0:10.57;0.9;Blackwell;Jaydin;USA;2004;USA;Winter Garden;2025-06-14;
 WL;;MT42;100;0:12.69;0.2;;Partin;INA;2002;TUN;Tunis;2025-06-16;Male;Outdoor
 WL;;MT43;100;0:17.00;-0.9;Stamatiadis;Achileas;GRE;1992;MAR;Marrakech;2025-04-26;Male;Outdoor
 WL;;MT44;100;0:11.10;0.2;Vives Suares;Yamel Luis;CUB;1998;TUN;Tunis;2025-06-16;Male;Outdoor
-WL;;MT45;100;0:11.38;1.8;Sambongi;Yuya;JPN;2001;JPN;Hiroshima;2025-04-29;Male;Outdoor
+WL;;MT45;100;0:11.36;0.2;Sambongi;Yuya;JPN;2001;JPN;Tokyo;2025-07-06;Male;Outdoor
 WL;;MT46;100;0:10.91;0.7;Shi;Kangjun;CHN;2002;TUN;Tunis;2025-06-16;Male;Outdoor
 WL;;MT47;100;0:10.57;1.2;Ferreira dos Santos;Petrucio;BRA;1996;BRA;Sao Paulo;2025-04-25;Male;Outdoor
 WL;;MT51;100;0:19.96;1.9;Habsch;Roger;BEL;1979;SUI;Nottwil;2025-05-24;Male;Outdoor
@@ -42,14 +42,14 @@ WL;;MT52;200;0:27.57;-0.3;Carabin;Maxime;BEL;2000;UAE;Sharjah;2025-02-03;Male;Ou
 WL;;MT53;200;0:28.24;0.0;Brignone;Nicolas;FRA;1989;FRA;MONT DORE;2025-04-25;Male;Outdoor
 WL;;MT54;200;0:22.41;0.0;Alcazar Morales;Jonattan Eduardo;CRC;1980;ESP;POLIDEPORTIVO ARTUNDUAGA;2025-06-01;Male;Outdoor
 WL;;MT61;200;0:27.04;-0.5;Lacin;Ali;GER;1988;UAE;Dubai;2025-02-10;Male;Outdoor
-WL;;MT62;200;0:20.84;-1.7;Floors;Johannes;GER;1995;GER;Leichlingen;2025-06-14;Male;Outdoor
+WL;;MT62;200;0:20.29;2.0;Floors;Johannes;GER;1995;GER;Leverkusen;2025-07-05;Male;Outdoor
 WL;;MT63;200;0:24.88;-1.5;Mabote;Puseletso Michael;RSA;2005;ESP;L´Hospitalet de Llobregat, Barcelona;2025-05-17;Male;Outdoor
 WL;;MT64;200;0:21.63;1.4;Guity Guity;Sherman Isidro;CRC;1996;USA;Eugene;2025-07-05;Male;Outdoor
 WL;;MT71;200;0:57.62;-0.9;Krause;Patryk;POL;1993;POL;Wroclaw;2025-04-26;Male;Outdoor
 WL;;MT72;200;0:34.65;0.9;Mattinson;Thomas;AUS;2009;AUS;Adelaide;2025-03-29;Male;Outdoor
 WL;;MT11;400;0:51.06;;Adolphe;Timothee;FRA;1989;FRA;SAINT denis;2025-05-29;Male;Outdoor
 WL;;MT12;400;0:49.81;;Jebabli;Rouay;TUN;1997;TUN;Tunis;2025-06-16;Male;Outdoor
-WL;;MT13;400;0:49.31;;Fukunaga;Ryota;JPN;1998;JPN;Matsuyama;2025-04-26;Male;Outdoor
+WL;;MT13;400;0:48.93;;Marzillier;Max;GER;2001;GER;Leverkusen;2025-07-05;Male;Outdoor
 WL;;MT20;400;0:47.21;;Pineda Mejia;David Jose;ESP;1998;FRA;Paris;2025-06-04;Male;Outdoor
 WL;;MT33;400;1:01.03;;Small;Andrew;GBR;1993;SUI;Arbon;2025-05-29;Male;Outdoor
 WL;;MT34;400;0:48.09;;McCracken;Rheed;AUS;1997;SUI;Arbon;2025-05-31;Male;Outdoor
@@ -238,8 +238,9 @@ WL;;WT47;100;0:12.39;1.7;Grimaldi;Anna;NZL;1997;AUS;Perth;2025-04-12;Female;Outd
 WL;;WT52;100;0:23.13;1.0;Tanaka;Teruyo;JPN;1959;JPN;Mihama;2025-05-18;Female;Outdoor
 WL;;WT53;100;0:15.20;1.1;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2025-05-24;Female;Outdoor
 WL;;WT54;100;0:15.45;-0.5;McFadden;Tatyana;USA;1989;SUI;Arbon;2025-06-01;Female;Outdoor
+WL;;WT61;100;0:18.07;-0.3;Yuguchi;Erina;JPN;2000;JPN;Tokyo;2025-07-06;Female;Outdoor
 WL;;WT62;100;0:12.31;-0.6;Jong;Fleur;NED;1995;FRA;Paris;2025-06-03;Female;Outdoor
-WL;;WT63;100;0:14.94;0.6;Kratter;Elena;SUI;1996;ESP;L´Hospitalet de Llobregat, Barcelona;2025-05-17;Female;Outdoor
+WL;;WT63;100;0:14.47;1.9;Kratter;Elena;SUI;1996;GER;Leverkusen;2025-07-05;Female;Outdoor
 WL;;WT64;100;0:12.76;1.5;van Gansewinkel;Marlene;NED;1995;NED;Vught;2025-05-29;Female;Outdoor
 WL;;WT71;100;0:20.08;1.7;Morkus;Bella;LTU;1967;DEN;København;2025-07-10;Female;Outdoor
 WL;;WT72;100;0:16.95;0.7;Andruszkiewicz;Magdalena;POL;1989;FRA;Paris;2025-06-02;Female;Outdoor
@@ -397,7 +398,7 @@ WL;;WF40;SPE;21.63;;Alzeyoudi;Maryam;UAE;1995;CZE;Olomouc;2025-07-03;Female;Outd
 WL;;WF42;SPE;28.48;;Nwachukwu;Goodness Chiemerie;NGR;1998;MAR;Marrakech;2025-04-26;Female;Outdoor
 WL;;WF44;SPE;32.82;;Agbo;Destiny;NGR;2005;TUN;Tunis;2025-06-16;Female;Outdoor
 WL;;WF45;SPE;19.88;;Tychshenko;Irina;KAZ;1974;CZE;Olomouc;2025-07-03;Female;Outdoor
-WL;;WF46;SPE;40.95;;Roorda;Noelle;NED;2000;FRA;Paris;2025-06-02;Female;Outdoor
+WL;;WF46;SPE;41.17;;Roorda;Noelle;NED;2000;GER;Leverkusen;2025-07-05;Female;Outdoor
 WL;;WF53;SPE;14.48;;Rodrigues Gomes;Elizabeth;BRA;1965;BRA;Sao Paulo;2025-05-25;Female;Outdoor
 WL;;WF54;SPE;18.62;;Ugwunwa;Flora;NGR;1984;TUN;Tunis;2025-06-16;Female;Outdoor
 WL;;WF55;SPE;20.22;;Navarro Hernandez;Maria Guadalupe;MEX;2006;MEX;Guadalajara;2025-05-09;Female;Outdoor
