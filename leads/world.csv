@@ -1,6 +1,6 @@
 Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Geschlecht;Umgebung
 WL;;MT11;100;0:10.84;1.5;Ghavelas;Athanasios;GRE;1999;GRE;ATHENS;2025-07-05;Male;Outdoor
-WL;;MT12;100;0:10.50;1.8;Malone;Noah;USA;2001;USA;Chula Vista;2025-06-29;Male;Outdoor
+WL;;MT12;100;0:10.46;1.6;Malone;Noah;USA;2001;USA;Chula Vista;2025-07-12;Male;Outdoor
 WL;;MT13;100;0:10.83;1.5;Perris;Chad;AUS;1992;AUS;Perth;2025-04-12;Male;Outdoor
 WL;;MT33;100;0:17.30;-0.3;Small;Andrew;GBR;1993;SUI;Arbon;2025-05-29;Male;Outdoor
 WL;;MT34;100;0:14.56;1.9;Rattana;Chaiwat;THA;1996;SUI;Nottwil;2025-05-24;Male;Outdoor
@@ -77,6 +77,7 @@ WL;;MT34;800;1:35.78;;Smeenk;Austin;CAN;1997;SUI;Arbon;2025-06-01;Male;Outdoor
 WL;;MT36;800;2:11.01;;Thelaidjia;Fakhr Eddine;ALG;1999;ALG;Oran;2025-07-03;Male;Outdoor
 WL;;MT37;800;2:09.87;;Reeve;Leopold;AUS;2007;AUS;Perth;2025-04-12;Male;Outdoor
 WL;;MT38;800;1:52.37;;Langdon;Reece;AUS;1996;AUS;Melbourne;2025-03-27;Male;Outdoor
+WL;;MT44;800;2:13.89;;Donnan;Timothy;USA;2006;USA;Grand Rapids;2025-07-14;Male;Outdoor
 WL;;MT46;800;2:09.02;;Bousaid;Rabah;ALG;1996;ALG;Oran;2025-07-02;Male;Outdoor
 WL;;MT52;800;2:01.34;;Ito;Tomoya;JPN;1963;JPN;Matsuyama;2025-04-27;Male;Outdoor
 WL;;MT53;800;1:32.49;;Lakatos;Brent;CAN;1980;SUI;Nottwil;2025-05-23;Male;Outdoor
@@ -91,7 +92,7 @@ WL;;MT34;1K5;2:57.13;;Ktila;Walid;TUN;1985;UAE;Sharjah;2025-02-03;Male;Outdoor
 WL;;MT36;1K5;5:11.55;;Matsumoto;Takeru;JPN;2001;JPN;Tokyo;2025-03-30;Male;Outdoor
 WL;;MT37;1K5;4:00.27;;Clerc;Renaud;FRA;2001;FRA;SAINT denis;2025-05-29;Male;Outdoor
 WL;;MT38;1K5;3:46.83;;Langdon;Reece;AUS;1996;AUS;Perth;2025-04-10;Male;Outdoor
-WL;;MT44;1K5;4:37.48;;Donnan;Timothy;USA;2006;USA;Lake Forest & Willamette;2025-06-15;Male;Outdoor
+WL;;MT44;1K5;4:33.79;;Donnan;Timothy;USA;2006;USA;Grand Rapids;2025-07-14;Male;Outdoor
 WL;;MT46;1K5;3:54.57;;Roeger;Michael;AUS;1988;AUS;Perth;2025-04-10;Male;Outdoor
 WL;;MT52;1K5;3:09.11;;Carabin;Maxime;BEL;2000;UAE;Sharjah;2025-02-03;Male;Outdoor
 WL;;MT53;1K5;2:57.36;;Paeyo;Pongsakorn;THA;1996;SUI;Nottwil;2025-05-24;Male;Outdoor
@@ -384,7 +385,7 @@ WL;;WF54;DIS;17.39;;Ugwunwa;Flora;NGR;1984;TUN;Tunis;2025-06-16;Female;Outdoor
 WL;;WF55;DIS;27.61;;Guerrero Cazares;Rosa Maria;MEX;1984;MEX;Guadalajara;2025-05-11;Female;Outdoor
 WL;;WF56;DIS;21.54;;Medjmedj;Nadia;ALG;1974;ALG;Oran;2025-07-01;Female;Outdoor
 WL;;WF57;DIS;35.07;;Saifi;Nassima;ALG;1988;CZE;Olomouc;2025-07-03;Female;Outdoor
-WL;;WF62;DIS;14.81;;Rosenthal;Lillian;USA;2007;USA;Ann Arbor;2025-06-28;Female;Outdoor
+WL;;WF62;DIS;16.22;;Rosenthal;Lillian;USA;2007;USA;Grand Rapids;2025-07-14;Female;Outdoor
 WL;;WF64;DIS;38.7;;Kotlowska;Faustyna;POL;2001;POL;Gorzow Wielkopolski;2025-05-24;Female;Outdoor
 WL;;WF11;SPE;10.99;;Tsujioka;Keiko;JPN;1962;JPN;Sendai City;2025-06-07;Female;Outdoor
 WL;;WF12;SPE;35.71;;Eder;Natalija;AUT;1980;TUN;Tunis;2025-06-16;Female;Outdoor
@@ -404,7 +405,7 @@ WL;;WF54;SPE;18.62;;Ugwunwa;Flora;NGR;1984;TUN;Tunis;2025-06-16;Female;Outdoor
 WL;;WF55;SPE;20.22;;Navarro Hernandez;Maria Guadalupe;MEX;2006;MEX;Guadalajara;2025-05-09;Female;Outdoor
 WL;;WF56;SPE;24.09;;Rocha Machado;Raissa;BRA;1996;BRA;Sao Paulo;2025-05-25;Female;Outdoor
 WL;;WF57;SPE;23.5;;Alam;Ugochi Constance;NGR;1988;TUN;Tunis;2025-06-16;Female;Outdoor
-WL;;WF62;SPE;17.52;;Rosenthal;Lillian;USA;2007;USA;Ann Arbor;2025-06-28;Female;Outdoor
+WL;;WF62;SPE;18.84;;Rosenthal;Lillian;USA;2007;USA;Grand Rapids;2025-07-14;Female;Outdoor
 WL;;WF64;SPE;20.11;;Ouarghi;Rana;ALG;2003;ALG;Oran;2025-07-01;Female;Outdoor
 WL;;WF31;KEU;11.91;;Kulanthaisamy;Anandhi;IND;1997;FRA;Paris;2025-06-02;Female;Outdoor
 WL;;WF32;KEU;29.36;;Ibrahmi;Maroua;TUN;1988;MAR;Marrakech;2025-04-26;Female;Outdoor
