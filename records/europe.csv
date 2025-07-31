@@ -22,7 +22,7 @@ AR;1;MT61;100;0:12.73;0.9;Lacin;Ali;GER;1988;GER;Berlin;2020-07-03;Male;Outdoor
 AR;1;MT62;100;0:10.54;1.6;Floors;Johannes;GER;1995;UAE;Dubai;2019-11-10;Male;Outdoor
 AR;1;MT63;100;0:12.02;1.0;Schaefer;Leon;GER;1997;GER;Leverkusen;2024-07-06;Male;Outdoor
 AR;1;MT64;100;0:10.63;0.3;Streng;Felix;GER;1995;GER;Leichlingen;2025-06-13;Male;Outdoor
-AR;1;MT71;100;0:21.96;-0.6;Krzyzek;Artur;POL;2000;FRA;Paris;2025-06-02;Male;Outdoor
+AR;1;MT71;100;0:20.71;-0.2;Krzyzek;Artur;POL;2000;POL;Wloclawek;2025-07-05;Male;Outdoor
 AR;1;MT72;100;0:14.92;-0.6;Calcagni;Carlo Fabio Marcello;ITA;1968;MAR;Marrakech;2025-04-26;Male;Outdoor
 AR;1;MT11;200;0:22.79;-0.7;Ghavelas;Athanasios;GRE;1999;GRE;Heraklion Crete;2022-05-22;Male;Outdoor
 AR;1;MT12;200;0:21.56;1.0;Michalski;Mateusz;POL;1987;GBR;London;2012-09-08;Male;Outdoor
@@ -43,10 +43,10 @@ AR;1;MT51;200;0:35.74;2.0;Habsch;Roger;BEL;1979;UAE;Dubai;2024-02-15;Male;Outdoo
 AR;1;MT52;200;0:27.57;-0.3;Carabin;Maxime;BEL;2000;UAE;Sharjah;2025-02-03;Male;Outdoor
 AR;1;MT53;200;0:25.84;0.0;Fairbank;Pierre;FRA;1971;SUI;Arbon;2017-05-28;Male;Outdoor
 AR;1;MT54;200;0:24.22;0.1;van Weeghel;Kenny;NED;1980;SUI;Nottwil;2014-05-21;Male;Outdoor
-AR;1;MT62;200;0:20.69;-0.6;Floors;Johannes;GER;1995;GER;Regensburg;2022-06-19;Male;Outdoor
+AR;1;MT62;200;0:20.29;2.0;Floors;Johannes;GER;1995;GER;Leverkusen;2025-07-05;Male;Outdoor
 AR;1;MT63;200;0:26.27;1.4;Schaefer;Leon;GER;1997;SUI;Nottwil;2023-05-25;Male;Outdoor
 AR;1;MT64;200;0:21.36;-0.3;Manu;Maxcel Amo;ITA;1992;FRA;Paris;2023-07-17;Male;Outdoor
-AR;1;MT71;200;0:45.50;1.4;Krzyzek;Artur;POL;2000;POL;Slubice;2024-05-11;Male;Outdoor
+AR;1;MT71;200;0:42.82;0.9;Krzyzek;Artur;POL;2000;POL;Wloclawek;2025-07-06;Male;Outdoor
 AR;1;MT72;200;0:30.41;-2.0;Calcagni;Carlo Fabio Marcello;ITA;1968;ITA;Jesolo;2024-03-24;Male;Outdoor
 AR;1;MT11;400;0:50.03;;Adolphe;Timothee;FRA;1989;FRA;Paris;2024-06-14;Male;Outdoor
 AR;1;MT12;400;0:47.47;;Yildirim;Serkan;TUR;1991;JPN;Kobe;2024-05-23;Male;Outdoor
@@ -71,7 +71,7 @@ AR;1;MT54;400;0:44.39;;Chiassaro;Richard;GBR;1981;SUI;Nottwil;2018-05-31;Male;Ou
 AR;1;MT62;400;0:45.78;;Floors;Johannes;GER;1995;UAE;Dubai;2019-11-15;Male;Outdoor
 AR;1;MT63;400;1:10.67;;Marcantognini;Lorenzo;ITA;2002;ITA;Jesolo;2020-09-12;Male;Outdoor
 AR;1;MT64;400;0:49.66;;Seitis;Michail;GRE;1987;BRA;Rio de Janeiro;2016-09-15;Male;Outdoor
-AR;1;MT71;400;1:47.25;;Avramidis;Ioannis;GRE;2002;SUI;Nottwil;2025-05-25;Male;Outdoor
+AR;1;MT71;400;1:37.09;;Krzyzek;Artur;POL;2000;POL;Wloclawek;2025-07-04;Male;Outdoor
 AR;1;MT72;400;0:59.43;;Calcagni;Carlo Fabio Marcello;ITA;1968;FRA;Paris;2025-06-04;Male;Outdoor
 AR;1;MT11;800;1:59.99;;Matthews;Rob;GBR;1961;GER;Unknown;1986-01-01;Male;Outdoor
 AR;1;MT12;800;1:50.02;;Sharov;Egor;RUS;1988;FRA;Lyon;2013-07-22;Male;Outdoor
@@ -153,7 +153,7 @@ AR;0;MT20;WEI;7.51;0.7;Iakushev;Matvei;NPA;2003;FRA;Paris;2024-09-07;Male;Outdoo
 AR;1;MT35;WEI;4.32;1.5;Noll;Szilveszter;HUN;2002;ITA;Jesolo;2021-04-16;Male;Outdoor
 AR;0;MT36;WEI;6.05;0.8;Torsunov;Evgenii;NPA;1990;RUS;Yekaterinburg;2024-06-05;Male;Outdoor
 AR;1;MT37;WEI;6.59;0.5;Zahrebelnyi;Vladyslav;UKR;1991;JPN;Tokyo;2021-09-02;Male;Outdoor
-AR;1;MT38;WEI;6.69;0.0;Sienkiewicz;Bartosz;POL;2001;SUI;Nottwil;2025-05-23;Male;Outdoor
+AR;1;MT38;WEI;6.83;-1.4;Sienkiewicz;Bartosz;POL;2001;POL;Wloclawek;2025-07-04;Male;Outdoor
 AR;1;MT45;WEI;6;-1.3;Hristov;Mihail;BUL;1991;UAE;Dubai;2014-02-24;Male;Outdoor
 AR;1;MT46;WEI;7.58;0.6;Assoumani;Arnaud;FRA;1985;NZL;Christchurch;2011-01-22;Male;Outdoor
 AR;1;MT47;WEI;7.58;0.6;Assoumani;Arnaud;FRA;1985;NZL;Christchurch;2011-01-22;Male;Outdoor
@@ -274,7 +274,7 @@ AR;1;WT51;100;0:30.31;1.0;Tapola;Aino;FIN;1997;SUI;Nottwil;2017-06-03;Female;Out
 AR;1;WT52;100;0:18.33;1.3;Henseler;Tanja;SUI;1997;SUI;Nottwil;2023-05-27;Female;Outdoor
 AR;1;WT53;100;0:15.20;1.1;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2025-05-24;Female;Outdoor
 AR;1;WT54;100;0:15.36;1.2;Kotaja;Amanda;FIN;1995;SUI;Nottwil;2023-05-27;Female;Outdoor
-AR;1;WT62;100;0:12.31;-0.6;Jong;Fleur;NED;1995;FRA;Paris;2025-06-03;Female;Outdoor
+AR;1;WT62;100;0:12.19;1.4;Jong;Fleur;NED;1995;GER;Leverkusen;2025-07-05;Female;Outdoor
 AR;1;WT63;100;0:13.98;0.6;Sabatini;Ambra;ITA;2002;FRA;Paris;2023-07-13;Female;Outdoor
 AR;1;WT64;100;0:12.46;1.1;Alkemade;Kimberly;NED;1990;SUI;Nottwil;2024-06-07;Female;Outdoor
 AR;1;WT71;100;0:20.58;0.2;Morkus;Bella;LTU;1967;THA;Nakhon Ratchasima (Korat);2023-12-07;Female;Outdoor
@@ -299,7 +299,7 @@ AR;1;WT62;200;0:26.53;0.0;Andres Barrio;Sara;ESP;1986;ESP;Madrid;2024-06-15;Fema
 AR;1;WT63;200;0:29.87;-0.6;Sabatini;Ambra;ITA;2002;ITA;Jesolo;2022-05-08;Female;Outdoor
 AR;1;WT64;200;0:25.29;-0.2;Alkemade;Kimberly;NED;1990;FRA;Paris;2024-06-14;Female;Outdoor
 AR;1;WT71;200;0:48.38;0.5;Dominikowska;Miriam;POL;2001;POL;Szczecin;2023-07-02;Female;Outdoor
-AR;1;WT72;200;0:34.89;0.1;Andruszkiewicz;Magdalena;POL;1989;SUI;Nottwil;2025-05-23;Female;Outdoor
+AR;1;WT72;200;0:33.83;1.5;Andruszkiewicz;Magdalena;POL;1989;POL;Wloclawek;2025-07-06;Female;Outdoor
 AR;1;WT11;400;0:56.83;;Santamarta-Bravo;Purificacion;ESP;1962;AUS;Sydney;2000-10-25;Female;Outdoor
 AR;1;WT12;400;0:53.14;;Boturchuk;Oksana;UKR;1984;BRA;Rio de Janeiro;2016-09-17;Female;Outdoor
 AR;1;WT13;400;0:54.72;;Duarte;Carolina;POR;1990;POR;Lisboa;2024-05-18;Female;Outdoor

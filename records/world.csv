@@ -23,7 +23,7 @@ WR;;MT61;100;0:12.73;0.9;Lacin;Ali;GER;1988;GER;Berlin;2020-07-03;Male;Outdoor
 WR;;MT62;100;0:10.54;1.6;Floors;Johannes;GER;1995;UAE;Dubai;2019-11-10;Male;Outdoor
 WR;;MT63;100;0:11.95;1.9;Goncalves Rodrigues;Vinicius;BRA;1994;BRA;São Paulo;2019-04-25;Male;Outdoor
 WR;;MT64;100;0:10.61;1.4;Browne;Richard;USA;1991;QAT;Doha;2015-10-29;Male;Outdoor
-WR;;MT71;100;0:21.96;-0.6;Krzyzek;Artur;POL;2000;FRA;Paris;2025-06-02;Male;Outdoor
+WR;;MT71;100;0:20.71;-0.2;Krzyzek;Artur;POL;2000;POL;Wloclawek;2025-07-05;Male;Outdoor
 WR;;MT72;100;0:14.92;-0.6;Calcagni;Carlo Fabio Marcello;ITA;1968;MAR;Marrakech;2025-04-26;Male;Outdoor
 WR;;MT11;200;0:22.41;1.6;Brown;David;USA;1992;USA;Walnut, California;2014-04-18;Male;Outdoor
 WR;;MT12;200;0:21.55;0.8;Malone;Noah;USA;2001;USA;Terre Haute, IN;2021-05-07;Male;Outdoor
@@ -45,10 +45,10 @@ WR;;MT52;200;0:27.57;-0.3;Carabin;Maxime;BEL;2000;UAE;Sharjah;2025-02-03;Male;Ou
 WR;;MT53;200;0:25.04;0.0;Lakatos;Brent;CAN;1980;SUI;Arbon;2017-05-28;Male;Outdoor
 WR;;MT54;200;0:23.97;0.5;Paeng-Nuea;Athiwat;THA;2002;UAE;Sharjah;2024-02-05;Male;Outdoor
 WR;;MT61;200;0:23.03;0.6;Mahlangu;Ntando;RSA;2002;SUI;Nottwil;2019-08-01;Male;Outdoor
-WR;;MT62;200;0:20.69;-0.6;Floors;Johannes;GER;1995;GER;Regensburg;2022-06-19;Male;Outdoor
+WR;;MT62;200;0:20.29;2.0;Floors;Johannes;GER;1995;GER;Leverkusen;2025-07-05;Male;Outdoor
 WR;;MT63;200;0:25.12;0.3;Mabote;Puseletso Michael;RSA;2005;RSA;Bloemfontein;2024-03-24;Male;Outdoor
 WR;;MT64;200;0:21.27;0.9;Browne;Richard;USA;1991;QAT;Doha;2015-10-25;Male;Outdoor
-WR;;MT71;200;0:45.50;1.4;Krzyzek;Artur;POL;2000;POL;Slubice;2024-05-11;Male;Outdoor
+WR;;MT71;200;0:42.82;0.9;Krzyzek;Artur;POL;2000;POL;Wloclawek;2025-07-06;Male;Outdoor
 WR;;MT72;200;0:30.41;-2.0;Calcagni;Carlo Fabio Marcello;ITA;1968;ITA;Jesolo;2024-03-24;Male;Outdoor
 WR;;MT11;400;0:49.82;;Mendes Da Silva;Daniel;BRA;1979;MEX;Guadalajara;2011-11-18;Male;Outdoor
 WR;;MT12;400;0:47.47;;Yildirim;Serkan;TUR;1991;JPN;Kobe;2024-05-23;Male;Outdoor
@@ -74,7 +74,7 @@ WR;;MT61;400;0:48.31;;Mahlangu;Ntando;RSA;2002;GER;Leverkusen;2019-06-21;Male;Ou
 WR;;MT62;400;0:45.78;;Floors;Johannes;GER;1995;UAE;Dubai;2019-11-15;Male;Outdoor
 WR;;MT63;400;1:02.50;;Yamamoto;Atsushi;JPN;1982;JPN;Tama City;2020-11-08;Male;Outdoor
 WR;;MT64;400;0:49.66;;Seitis;Michail;GRE;1987;BRA;Rio de Janeiro;2016-09-15;Male;Outdoor
-WR;;MT71;400;1:47.25;;Avramidis;Ioannis;GRE;2002;SUI;Nottwil;2025-05-25;Male;Outdoor
+WR;;MT71;400;1:37.09;;Krzyzek;Artur;POL;2000;POL;Wloclawek;2025-07-04;Male;Outdoor
 WR;;MT72;400;0:59.43;;Calcagni;Carlo Fabio Marcello;ITA;1968;FRA;Paris;2025-06-04;Male;Outdoor
 WR;;MT11;800;1:58.47;;Santos;Odair;BRA;1981;BRA;Sao Paulo;2011-08-06;Male;Outdoor
 WR;;MT12;800;1:50.02;;Sharov;Egor;RUS;1988;FRA;Lyon;2013-07-22;Male;Outdoor
@@ -288,7 +288,7 @@ WR;;WT52;100;0:18.33;1.3;Henseler;Tanja;SUI;1997;SUI;Nottwil;2023-05-27;Female;O
 WR;;WT53;100;0:15.20;1.1;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2025-05-24;Female;Outdoor
 WR;;WT54;100;0:15.35;1.9;McFadden;Tatyana;USA;1989;USA;Indianapolis, Indiana;2016-06-05;Female;Outdoor
 WR;;WT61;100;0:14.95;1.5;Low;Vanessa;AUS;1990;AUS;Canberra;2020-01-20;Female;Outdoor
-WR;;WT62;100;0:12.31;-0.6;Jong;Fleur;NED;1995;FRA;Paris;2025-06-03;Female;Outdoor
+WR;;WT62;100;0:12.19;1.4;Jong;Fleur;NED;1995;GER;Leverkusen;2025-07-05;Female;Outdoor
 WR;;WT63;100;0:13.98;0.6;Sabatini;Ambra;ITA;2002;FRA;Paris;2023-07-13;Female;Outdoor
 WR;;WT64;100;0:12.46;1.1;Alkemade;Kimberly;NED;1990;SUI;Nottwil;2024-06-07;Female;Outdoor
 WR;;WT71;100;0:20.58;0.2;Morkus;Bella;LTU;1967;THA;Nakhon Ratchasima (Korat);2023-12-07;Female;Outdoor
@@ -316,7 +316,7 @@ WR;;WT62;200;0:26.53;0.0;Andres Barrio;Sara;ESP;1986;ESP;Madrid;2024-06-15;Femal
 WR;;WT63;200;0:29.87;-0.6;Sabatini;Ambra;ITA;2002;ITA;Jesolo;2022-05-08;Female;Outdoor
 WR;;WT64;200;0:25.29;-0.2;Alkemade;Kimberly;NED;1990;FRA;Paris;2024-06-14;Female;Outdoor
 WR;;WT71;200;0:48.38;0.5;Dominikowska;Miriam;POL;2001;POL;Szczecin;2023-07-02;Female;Outdoor
-WR;;WT72;200;0:34.89;0.1;Andruszkiewicz;Magdalena;POL;1989;SUI;Nottwil;2025-05-23;Female;Outdoor
+WR;;WT72;200;0:33.83;1.5;Andruszkiewicz;Magdalena;POL;1989;POL;Wloclawek;2025-07-06;Female;Outdoor
 WR;;WT11;400;0:56.00;;Liu;Cuiqing;CHN;1991;CHN;Beijing;2018-05-13;Female;Outdoor
 WR;;WT12;400;0:51.77;;Durand Elias;Omara;CUB;1991;BRA;Rio de Janeiro;2016-09-17;Female;Outdoor
 WR;;WT13;400;0:53.55;;Soares Da Silva;Rayane;BRA;1997;FRA;Paris;2024-09-07;Female;Outdoor
