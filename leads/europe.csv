@@ -162,7 +162,7 @@ AL;1;MF51;DIS;12.45;;Radojicic;Vladimir;SRB;1988;SRB;Krusevac;2025-07-20;Male;Ou
 AL;1;MF52;DIS;27.98;;Ganeshamoorthy;Rigivan;ITA;1999;ITA;Ancona;2025-03-15;Male;Outdoor
 AL;1;MF53;DIS;15.85;;Broz;Jaroslav;CZE;1981;CZE;Pardubice;2025-05-04;Male;Outdoor
 AL;1;MF54;DIS;23.11;;Vlasakidis;Apostolos;GRE;1983;GRE;Thessaloniki;2025-06-14;Male;Outdoor
-AL;1;MF55;DIS;30.96;;Niedre;Gatis;LAT;1994;FRA;Paris;2025-06-03;Male;Outdoor
+AL;1;MF55;DIS;31.47;;Niedre;Gatis;LAT;1994;EST;Rakvere;2025-07-19;Male;Outdoor
 AL;1;MF56;DIS;45.28;;Tzounis;Konstantinos;GRE;1991;GRE;Trikala;2025-06-01;Male;Outdoor
 AL;1;MF57;DIS;46.3;;Koopikka;Teijo;FIN;1980;FIN;Laihia;2025-06-30;Male;Outdoor
 AL;1;MF62;DIS;29.75;;Sevdikalis;Ioannis;GRE;1991;GRE;Serres;2025-07-20;Male;Outdoor
@@ -170,7 +170,7 @@ AL;1;MF63;DIS;36.28;;Adamcik;Martin;CZE;2000;CZE;Prague;2025-05-03;Male;Outdoor
 AL;1;MF64;DIS;53.99;;Katanusic;Ivan;CRO;1991;CRO;Zagreb;2025-07-12;Male;Outdoor
 AL;1;MF12;SPE;52.3;;Wietecki;Marek;POL;1983;POL;Szczecin;2025-06-28;Male;Outdoor
 AL;1;MF13;SPE;66.33;;Pembroke;Daniel;GBR;1991;GBR;Cardiff;2025-06-29;Male;Outdoor
-AL;1;MF33;SPE;7.26;;Konecny;Vladimir;CZE;1981;CZE;Olomouc;2025-07-05;Male;Outdoor
+AL;1;MF33;SPE;14.4;;Juhnevics;Janis;LAT;1981;EST;Rakvere;2025-07-19;Male;Outdoor
 AL;1;MF34;SPE;29.42;;Horacek;Tomas;CZE;1986;TUN;Tunis;2025-06-16;Male;Outdoor
 AL;1;MF35;SPE;29.32;;Konov;Valerii;UKR;2003;UAE;Dubai;2025-02-11;Male;Outdoor
 AL;1;MF37;SPE;34.07;;Kukla;Martin;CZE;1993;CZE;Olomouc;2025-05-18;Male;Outdoor
@@ -313,7 +313,7 @@ AL;1;WF44;DIS;39.83;;Cronin;Bree;GBR;2003;GBR;Cardiff;2025-06-28;Female;Outdoor
 AL;1;WF46;DIS;27.14;;Adamczyk;Kornelia;POL;2001;POL;Pila;2025-06-14;Female;Outdoor
 AL;0;WF51;DIS;12.62;;Gorlova;Elena;NPA;1981;TUN;Tunis;2025-06-16;Female;Outdoor
 AL;1;WF54;DIS;9.17;;Kacanu;Eva;CZE;1965;CZE;Pardubice;2025-05-04;Female;Outdoor
-AL;1;WF55;DIS;19.25;;Arsic;Ivana;SRB;1985;SRB;Krusevac;2025-07-19;Female;Outdoor
+AL;1;WF55;DIS;25.56;;Krumina;Diana;LAT;1986;EST;Rakvere;2025-07-19;Female;Outdoor
 AL;1;WF56;DIS;20.48;;Keramyda;Soultana;GRE;1989;GRE;Thessaloniki;2025-06-14;Female;Outdoor
 AL;1;WF57;DIS;22.7;;Navarro Rodriguez;Gabriela Michell;ESP;1992;FRA;Paris;2025-06-03;Female;Outdoor
 AL;1;WF62;DIS;6.3;;Bochti;Iliana;GRE;2001;GRE;Thessaloniki;2025-06-14;Female;Outdoor
@@ -329,7 +329,7 @@ AL;1;WF40;SPE;12.59;;Latre Sanmartin;Elena;ESP;2006;ESP;Gua;2025-04-13;Female;Ou
 AL;1;WF45;SPE;8.42;;Stanescu;Marioara;ROU;1973;UAE;Dubai;2025-02-12;Female;Outdoor
 AL;1;WF46;SPE;41.17;;Roorda;Noelle;NED;2000;GER;Leverkusen;2025-07-05;Female;Outdoor
 AL;0;WF54;SPE;14.6;;Nezhura;Yuliya;NPA;1975;UAE;Dubai;2025-02-10;Female;Outdoor
-AL;1;WF55;SPE;16.28;;Arsic;Ivana;SRB;1985;CZE;Olomouc;2025-07-04;Female;Outdoor
+AL;1;WF55;SPE;24.69;;Krumina;Diana;LAT;1986;EST;Rakvere;2025-07-19;Female;Outdoor
 AL;1;WF56;SPE;21.77;;Keramyda;Soultana;GRE;1989;GRE;Thessaloniki;2025-06-14;Female;Outdoor
 AL;1;WF57;SPE;10.58;;Jusyte;Goda;LTU;2009;CZE;Olomouc;2025-07-03;Female;Outdoor
 AL;1;WF31;KEU;0.81;;Kvapilova;Eva;CZE;1987;CZE;Olomouc;2025-07-03;Female;Outdoor
