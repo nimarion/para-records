@@ -194,7 +194,7 @@ AL;1;WT13;100;0:11.87;-0.7;Comerford;Orla;IRL;1997;NOR;Oslo;2025-06-11;Female;Ou
 AL;1;WT33;100;0:21.30;0.0;Goens;Cecile;BEL;2003;SUI;Nottwil;2025-05-24;Female;Outdoor
 AL;1;WT34;100;0:16.98;0.0;Cockroft;Hannah;GBR;1992;SUI;Nottwil;2025-05-24;Female;Outdoor
 AL;1;WT35;100;0:15.23;0.0;Renecka;Ingrid;POL;2004;POL;Wloclawek;2025-07-05;Female;Outdoor
-AL;1;WT36;100;0:14.87;0.6;Bouthoorn;Cheyenne;NED;1997;NED;Utrecht;2025-06-13;Female;Outdoor
+AL;1;WT36;100;0:14.51;0.3;Bouthoorn;Cheyenne;NED;1997;NED;Hengelo;2025-08-03;Female;Outdoor
 AL;1;WT37;100;0:14.98;0.1;Ustaritz;Laure;FRA;1995;FRA;BELFORT;2025-07-12;Female;Outdoor
 AL;1;WT38;100;0:12.67;0.7;Hahn;Sophie;GBR;1997;GBR;London;2025-07-13;Female;Outdoor
 AL;1;WT42;100;0:14.64;1.8;Okoh;Ndidikama;GBR;2002;GBR;London;2025-05-26;Female;Outdoor
@@ -203,7 +203,7 @@ AL;1;WT46;100;0:12.43;1.1;Ngoussou Ngouyi;Marie;FRA;2008;FRA;Poitiers;2025-06-28
 AL;0;WT47;100;0:12.55;-0.3;Soloveva;Anastasiia;NPA;1997;IND;New Delhi;2025-03-11;Female;Outdoor
 AL;1;WT53;100;0:15.20;1.1;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2025-05-24;Female;Outdoor
 AL;1;WT54;100;0:15.48;-0.5;Bayekula;Lea;BEL;1995;SUI;Arbon;2025-06-01;Female;Outdoor
-AL;1;WT62;100;0:12.19;1.4;Jong;Fleur;NED;1995;GER;Leverkusen;2025-07-05;Female;Outdoor
+AL;1;WT62;100;0:12.02;0.3;Jong;Fleur;NED;1995;NED;Hengelo;2025-08-03;Female;Outdoor
 AL;1;WT63;100;0:14.47;1.9;Kratter;Elena;SUI;1996;GER;Leverkusen;2025-07-05;Female;Outdoor
 AL;1;WT64;100;0:12.76;1.5;van Gansewinkel;Marlene;NED;1995;NED;Vught;2025-05-29;Female;Outdoor
 AL;1;WT71;100;0:20.08;1.7;Morkus;Bella;LTU;1967;DEN;København;2025-07-10;Female;Outdoor
@@ -214,12 +214,12 @@ AL;1;WT13;200;0:24.62;-0.4;Comerford;Orla;IRL;1997;FRA;Paris;2025-06-03;Female;O
 AL;1;WT33;200;0:40.57;0.3;Goens;Cecile;BEL;2003;SUI;Arbon;2025-05-29;Female;Outdoor
 AL;1;WT34;200;0:34.47;-0.1;Andre;Fabienne;GBR;1996;UAE;Sharjah;2025-02-03;Female;Outdoor
 AL;1;WT35;200;0:31.80;-0.3;Renecka;Ingrid;POL;2004;FRA;Paris;2025-06-03;Female;Outdoor
-AL;1;WT36;200;0:31.03;1.4;Bouthoorn;Cheyenne;NED;1997;GER;Leverkusen;2025-07-05;Female;Outdoor
+AL;1;WT36;200;0:30.99;1.7;Bouthoorn;Cheyenne;NED;1997;NED;Rotterdam;2025-07-26;Female;Outdoor
 AL;1;WT37;200;0:31.20;-1.8;Ustaritz;Laure;FRA;1995;FRA;FLORANGE;2025-05-31;Female;Outdoor
 AL;1;WT38;200;0:26.04;-1.2;Ekler;Luca;HUN;1998;FRA;Paris;2025-06-02;Female;Outdoor
 AL;1;WT44;200;0:28.20;-0.5;Bensusan;Irmgard;GER;1991;GER;Duisbrug;2025-06-21;Female;Outdoor
 AL;1;WT46;200;0:25.86;1.9;Ross;Jule;GER;2006;GER;Leverkusen;2025-07-05;Female;Outdoor
-AL;0;WT47;200;0:26.21;-0.4;Soloveva;Anastasiia;NPA;1997;IND;New Delhi;2025-03-13;Female;Outdoor
+AL;1;WT47;200;0:25.94;-0.1;Noerremark;Bjoerk;DEN;2002;DEN;Greve;2025-08-03;Female;Outdoor
 AL;1;WT53;200;0:27.33;-1.2;Debrunner;Catherine;SUI;1995;BEL;Brussels;2025-06-29;Female;Outdoor
 AL;1;WT54;200;0:27.18;-0.1;Bayekula;Lea;BEL;1995;SUI;Arbon;2025-05-31;Female;Outdoor
 AL;1;WT63;200;0:32.04;-1.0;Kratter;Elena;SUI;1996;GER;Leichlingen;2025-06-14;Female;Outdoor
@@ -284,6 +284,7 @@ AL;0;WF20;KUG;13.97;;Mironova;Svetlana;NPA;1995;IND;New Delhi;2025-03-12;Female;
 AL;0;WF32;KUG;7.42;;Galaktionova;Evgeniia;NPA;2000;MAR;Marrakech;2025-04-26;Female;Outdoor
 AL;1;WF34;KUG;8.55;;Kornobys;Lucyna;POL;1978;MAR;Marrakech;2025-04-26;Female;Outdoor
 AL;1;WF35;KUG;9.25;;Nicholson;Anna;GBR;1995;GBR;Shildon;2025-05-10;Female;Outdoor
+AL;1;WF36;KUG;9.33;;Bouthoorn;Cheyenne;NED;1997;NED;Rotterdam;2025-07-26;Female;Outdoor
 AL;0;WF37;KUG;13.08;;Vertinskaia;Irina;NPA;1984;IND;New Delhi;2025-03-12;Female;Outdoor
 AL;1;WF38;KUG;10.11;;Leck;Rachel Jane Caroline;GBR;1996;CAN;Windsor;2025-06-15;Female;Outdoor
 AL;1;WF40;KUG;9.1;;Baars;Lara;NED;1996;NED;Hengelo;2025-06-09;Female;Outdoor
