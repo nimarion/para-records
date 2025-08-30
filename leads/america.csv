@@ -10,7 +10,7 @@ AL;2;MT38;100;0:10.57;0.9;Blackwell;Jaydin;USA;2004;USA;Winter Garden;2025-06-14
 AL;3;MT42;100;0:16.61;-0.9;de Paiva Neves;Deryk;BRA;2006;BRA;Sao Paulo;2025-04-23;Male;Outdoor
 AL;2;MT44;100;0:11.10;0.2;Vives Suares;Yamel Luis;CUB;1998;TUN;Tunis;2025-06-16;Male;Outdoor
 AL;2;MT45;100;0:11.33;1.4;Sample;Rayven;USA;2002;USA;Eugene;2025-08-02;Male;Outdoor
-AL;3;MT46;100;0:10.84;-0.4;Sousa Pereira;Lucas;BRA;1999;BRA;Belo Horizonte;2025-06-07;Male;Outdoor
+AL;3;MT46;100;0:10.73;2.0;Sousa Pereira;Lucas;BRA;1999;BRA;Sao Paulo;2025-07-31;Male;Outdoor
 AL;3;MT47;100;0:10.57;1.2;Ferreira dos Santos;Petrucio;BRA;1996;BRA;Sao Paulo;2025-04-25;Male;Outdoor
 AL;2;MT52;100;0:16.90;0.4;Bouchard;Anthony;CAN;1992;CAN;Quebec City;2025-07-12;Male;Outdoor
 AL;3;MT53;100;0:15.10;-0.1;Fernandes Da Silva;Ariosvaldo;BRA;1976;BRA;Sao Paulo;2025-04-23;Male;Outdoor
@@ -116,7 +116,6 @@ AL;2;MT47;WEI;5.15;0.0;Ayala;Gerber;ESA;2004;MEX;Guadalajara;2025-05-12;Male;Out
 AL;2;MT63;WEI;6.76;1.0;Frech;Ezra;USA;2005;USA;Eugene;2025-08-01;Male;Outdoor
 AL;2;MT64;WEI;8.22;1.4;Loccident;Derek;USA;1998;USA;Chula Vista;2025-06-29;Male;Outdoor
 AL;3;MF11;KUG;13.44;;Da Silva;Alessandro Rodrigo;BRA;1984;BRA;Sao Paulo;2025-04-23;Male;Outdoor
-AL;2;MF12;KUG;14.7;;Huhta;Devin;USA;1984;USA;Eugene;2025-07-31;Male;Outdoor
 AL;3;MF13;KUG;9.6;;Silva de Souza;Jorge Luiz;BRA;1978;BRA;Florianópolis;2025-04-12;Male;Outdoor
 AL;3;MF20;KUG;14.91;;Santos;Wellington;BRA;1992;BRA;São Paulo;2025-08-24;Male;Outdoor
 AL;2;MF32;KUG;4.89;;Salas Graciano;Jesus Eduardo;MEX;2006;MEX;Guadalajara;2025-05-10;Male;Outdoor
@@ -177,7 +176,7 @@ AL;2;MF32;KEU;19.56;;Vazquez Estrada;Esteban Abraham;MEX;1995;MEX;Guadalajara;20
 AL;2;MF51;KEU;32.18;;Ramos Hernandez;Mario Santana;MEX;1981;FRA;Paris;2025-06-03;Male;Outdoor
 AL;3;WT11;100;0:12.12;1.2;Geber dos Santos;Jerusa;BRA;1982;BRA;Sao Paulo;2025-04-20;Female;Outdoor
 AL;3;WT12;100;0:11.81;0.4;Barros Da Silva;Clara Daniele;BRA;1998;BRA;Sao Paulo;2025-07-13;Female;Outdoor
-AL;3;WT13;100;0:11.94;-0.8;Soares Da Silva;Rayane;BRA;1997;BRA;Sao Paulo;2025-05-24;Female;Outdoor
+AL;3;WT13;100;0:11.66;1.4;Soares Da Silva;Rayane;BRA;1997;BRA;Sao Paulo;2025-07-31;Female;Outdoor
 AL;2;WT34;100;0:19.14;1.7;Houston;Eva;USA;2001;USA;Champaign;2025-04-26;Female;Outdoor
 AL;2;WT35;100;0:16.02;0.2;Stevens;Kira;USA;2004;MEX;Guadalajara;2025-05-11;Female;Outdoor
 AL;3;WT36;100;0:14.40;-0.6;Hipolito;Veronica;BRA;1996;BRA;Sao Paulo;2025-07-18;Female;Outdoor
@@ -196,7 +195,7 @@ AL;2;WT64;100;0:12.84;1.8;Papaconstantinou;Marissa;CAN;1999;CAN;Ottawa;2025-07-3
 AL;3;WT72;100;0:18.89;0.0;Almeida dos Santos;Edileusa;BRA;1966;BRA;Sao Paulo;2025-04-25;Female;Outdoor
 AL;3;WT11;200;0:25.47;0.1;Silva Spoladore;Lorena;BRA;1995;BRA;Sao Paulo;2025-05-25;Female;Outdoor
 AL;3;WT12;200;0:24.72;-0.6;Barros Da Silva;Clara Daniele;BRA;1998;BRA;Sao Paulo;2025-07-18;Female;Outdoor
-AL;3;WT13;200;0:24.47;1.5;Soares Da Silva;Rayane;BRA;1997;BRA;Sao Paulo;2025-04-20;Female;Outdoor
+AL;3;WT13;200;0:24.19;0.0;Soares Da Silva;Rayane;BRA;1997;BRA;Sao Paulo;2025-08-02;Female;Outdoor
 AL;2;WT34;200;0:38.16;-1.4;Link;Carolanne;USA;1995;AUS;Canberra;2025-01-23;Female;Outdoor
 AL;3;WT35;200;0:34.41;0.5;Salerno;Victoria Larissa;BRA;2002;BRA;São Paulo;2025-08-24;Female;Outdoor
 AL;3;WT36;200;0:30.17;-0.1;Rotela;Araceli;ARG;2004;MEX;Guadalajara;2025-05-09;Female;Outdoor
@@ -232,7 +231,7 @@ AL;2;WT54;800;1:43.99;;Scaroni;Susannah;USA;1991;USA;Champaign;2025-07-01;Female
 AL;3;WT11;1K5;5:10.28;;Venancio de Oliveira;Isadora;BRA;2004;BRA;Sao Paulo;2025-05-24;Female;Outdoor
 AL;3;WT12;1K5;5:25.36;;de Jesus Santos;Edneusa;BRA;1976;BRA;Sao Paulo;2025-04-25;Female;Outdoor
 AL;2;WT13;1K5;4:20.73;;Corso;Liza;USA;2003;USA;Nashville;2025-05-02;Female;Outdoor
-AL;3;WT20;1K5;4:28.92;;Da Silva Barros;Antonia Keyla;BRA;1994;BRA;Belo Horizonte;2025-06-07;Female;Outdoor
+AL;3;WT20;1K5;4:24.33;;Da Silva Barros;Antonia Keyla;BRA;1994;BRA;Sao Paulo;2025-08-03;Female;Outdoor
 AL;2;WT34;1K5;4:10.43;;Houston;Eva;USA;2001;USA;Champaign;2025-07-01;Female;Outdoor
 AL;2;WT53;1K5;3:50.21;;Hoang;Yen;USA;1997;USA;Eugene;2025-08-02;Female;Outdoor
 AL;2;WT54;1K5;3:13.40;;McFadden;Tatyana;USA;1989;SUI;Arbon;2025-05-31;Female;Outdoor
