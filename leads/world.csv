@@ -14,7 +14,7 @@ WL;;MT44;100;0:11.10;0.2;Vives Suares;Yamel Luis;CUB;1998;TUN;Tunis;2025-06-16;M
 WL;;MT45;100;0:11.33;1.4;Sample;Rayven;USA;2002;USA;Eugene;2025-08-02;Male;Outdoor
 WL;;MT46;100;0:10.73;2.0;Sousa Pereira;Lucas;BRA;1999;BRA;Sao Paulo;2025-07-31;Male;Outdoor
 WL;;MT47;100;0:10.57;1.2;Ferreira dos Santos;Petrucio;BRA;1996;BRA;Sao Paulo;2025-04-25;Male;Outdoor
-WL;;MT51;100;0:19.96;1.9;Habsch;Roger;BEL;1979;SUI;Nottwil;2025-05-24;Male;Outdoor
+WL;;MT51;100;0:19.70;0.8;Habsch;Roger;BEL;1979;SUI;Nottwil;2025-08-31;Male;Outdoor
 WL;;MT52;100;0:16.01;0.5;Carabin;Maxime;BEL;2000;UAE;Sharjah;2025-02-02;Male;Outdoor
 WL;;MT53;100;0:14.26;1.3;Paeyo;Pongsakorn;THA;1996;SUI;Nottwil;2025-05-24;Male;Outdoor
 WL;;MT54;100;0:13.62;0.0;Paeng-Nuea;Athiwat;THA;2002;SUI;Nottwil;2025-05-24;Male;Outdoor
@@ -161,7 +161,7 @@ WL;;MF36;KUG;17.14;;Guenichi;Yassine;TUN;1995;TUN;Tunis;2025-06-16;Male;Outdoor
 WL;;MF38;KUG;19.22;;Lemos Rivas;Jose Gregorio;COL;1991;COL;Cali;2025-05-19;Male;Outdoor
 WL;;MF40;KUG;11.36;;Gnezdilov;Denis;NPA;1986;IND;New Delhi;2025-03-13;Male;Outdoor
 WL;;MF41;KUG;14.72;;Kappel;Niko;GER;1995;GER;Leichlingen;2025-06-14;Male;Outdoor
-WL;;MF42;KUG;14.94;;Sorour;Faisal;KUW;1996;TUN;Tunis;2025-06-16;Male;Outdoor
+WL;;MF42;KUG;16.51;;Davies;Aled;GBR;1991;GBR;Birmingham;2025-08-02;Male;Outdoor
 WL;;MF43;KUG;7.85;;Brakna;Kamel;ALG;1986;ALG;Oran;2025-07-03;Male;Outdoor
 WL;;MF44;KUG;11.57;;Rutter;Adam James;GBR;2005;GBR;Manchester;2025-05-05;Male;Outdoor
 WL;;MF46;KUG;16.23;;Stewart;Greg;CAN;1986;FRA;Paris;2025-06-04;Male;Outdoor
@@ -185,7 +185,7 @@ WL;;MF37;DIS;54.96;;Lopez Valenzuela;Luis Carlos;MEX;1999;UAE;Dubai;2025-02-10;M
 WL;;MF38;DIS;56.08;;Jenkins;Michael;GBR;2004;GBR;Cardiff;2025-06-28;Male;Outdoor
 WL;;MF40;DIS;26.61;;Sloup;Matija;CRO;1996;HUN;Budapest;2025-06-09;Male;Outdoor
 WL;;MF41;DIS;27.89;;Osorio Campaz;Oscar Andres;COL;1997;COL;Cali;2025-03-14;Male;Outdoor
-WL;;MF42;DIS;48.21;;Sorour;Faisal;KUW;1996;TUN;Tunis;2025-06-16;Male;Outdoor
+WL;;MF42;DIS;48.59;;Davies;Aled;GBR;1991;GBR;Birmingham;2025-08-02;Male;Outdoor
 WL;;MF43;DIS;53.38;;Stewart;Akeem;TTO;1992;COL;Cali;2025-05-17;Male;Outdoor
 WL;;MF44;DIS;59.26;;Mosquera Neira;Andres Felipe;COL;1985;COL;Cali;2025-03-14;Male;Outdoor
 WL;;MF46;DIS;52.52;;Kaurin;Erik Fabian;CRO;2000;HUN;Budapest;2025-06-09;Male;Outdoor
@@ -235,7 +235,7 @@ WL;;WT36;100;0:14.24;1.6;Lovell;Mali;AUS;2004;AUS;Perth;2025-04-12;Female;Outdoo
 WL;;WT37;100;0:12.95;0.4;Swanson;Taylor;USA;1992;COL;Cali;2025-05-17;Female;Outdoor
 WL;;WT38;100;0:12.41;0.1;Palomeque Moreno;Karen Tatiana;COL;1994;COL;Cali;2025-05-17;Female;Outdoor
 WL;;WT42;100;0:14.64;1.8;Okoh;Ndidikama;GBR;2002;GBR;London;2025-05-26;Female;Outdoor
-WL;;WT44;100;0:13.24;1.0;Levitt;Victoria Jade;GBR;1996;GBR;London;2025-06-22;Female;Outdoor
+WL;;WT44;100;0:13.21;1.1;Levitt;Victoria Jade;GBR;1996;GBR;Birmingham;2025-08-03;Female;Outdoor
 WL;;WT45;100;0:15.58;0.8;dos Santos Silva;Nanilza;BRA;1986;BRA;Sao Paulo;2025-04-25;Female;Outdoor
 WL;;WT46;100;0:11.77;-0.7;Ross;Jule;GER;2006;GER;Rhede;2025-08-10;Female;Outdoor
 WL;;WT47;100;0:12.38;-0.7;Augusto Da Silva;Maria Clara;BRA;2004;BRA;Sao Paulo;2025-07-13;Female;Outdoor
@@ -346,7 +346,7 @@ WL;;WT47;DRE;10.36;-14.0;Smaragdi;Styliani;GRE;1995;GRE;Thessaloniki;2025-06-15;
 WL;;WF11;KUG;14.78;;Legnante;Assunta;ITA;1978;ITA;Grosseto;2025-07-12;Female;Outdoor
 WL;;WF12;KUG;12.67;;Church;Lydia;GBR;1999;GBR;Loughborough;2025-06-18;Female;Outdoor
 WL;;WF13;KUG;12.46;;Blandon Escobar;Yasiris;COL;1996;COL;Cali;2025-03-14;Female;Outdoor
-WL;;WF20;KUG;13.97;;Mironova;Svetlana;NPA;1995;IND;New Delhi;2025-03-12;Female;Outdoor
+WL;;WF20;KUG;15.75;;Fortune;Sabrina;GBR;1997;GBR;Birmingham;2025-08-03;Female;Outdoor
 WL;;WF32;KUG;8.18;;Brito Oliveira;Wanna Helena;BRA;1996;BRA;Sao Paulo;2025-04-23;Female;Outdoor
 WL;;WF33;KUG;7.97;;Cota Vera;Gilda Guadalupe;MEX;1989;CZE;Olomouc;2025-07-03;Female;Outdoor
 WL;;WF34;KUG;8.55;;Kornobys;Lucyna;POL;1978;MAR;Marrakech;2025-04-26;Female;Outdoor

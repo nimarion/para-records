@@ -7,12 +7,12 @@ AL;1;MT34;100;0:15.22;1.9;Manni;Henry;FIN;1992;SUI;Nottwil;2025-05-24;Male;Outdo
 AL;0;MT35;100;0:12.08;0.0;Safronov;Dmitrii;NPA;1995;IND;New Delhi;2025-03-11;Male;Outdoor
 AL;0;MT36;100;0:12.61;0.3;Shvetsov;Evgenii;NPA;1988;TUN;Tunis;2025-06-16;Male;Outdoor
 AL;0;MT37;100;0:11.98;-0.6;Vdovin;Andrei;NPA;1994;IND;New Delhi;2025-03-11;Male;Outdoor
-AL;1;MT38;100;0:10.99;0.9;Jozwicki;Dimitri;FRA;1997;FRA;BELFORT;2025-07-12;Male;Outdoor
+AL;1;MT38;100;0:10.98;0.8;Young;Thomas;GBR;2000;GBR;Birmingham;2025-08-02;Male;Outdoor
 AL;1;MT43;100;0:17.00;-0.9;Stamatiadis;Achileas;GRE;1992;MAR;Marrakech;2025-04-26;Male;Outdoor
 AL;1;MT44;100;0:11.46;-0.6;Cicchetti;Marco;ITA;1999;ITA;Grosseto;2025-07-12;Male;Outdoor
 AL;1;MT46;100;0:11.44;1.8;Ryan;Cathal;IRL;2000;IRL;Dublin;2025-06-18;Male;Outdoor
-AL;1;MT47;100;0:11.03;-0.5;Derus;Michal;POL;1990;SUI;Nottwil;2025-05-23;Male;Outdoor
-AL;1;MT51;100;0:19.96;1.9;Habsch;Roger;BEL;1979;SUI;Nottwil;2025-05-24;Male;Outdoor
+AL;1;MT47;100;0:11.00;0.8;Santos;Kevin;GBR;2002;GBR;Birmingham;2025-08-02;Male;Outdoor
+AL;1;MT51;100;0:19.70;0.8;Habsch;Roger;BEL;1979;SUI;Nottwil;2025-08-31;Male;Outdoor
 AL;1;MT52;100;0:16.01;0.5;Carabin;Maxime;BEL;2000;UAE;Sharjah;2025-02-02;Male;Outdoor
 AL;1;MT53;100;0:15.14;1.2;Fairbank;Pierre;FRA;1971;FRA;BELFORT;2025-07-12;Male;Outdoor
 AL;1;MT54;100;0:13.68;1.0;Balde;Mamudo;POR;2005;POR;Lisboa;2025-04-25;Male;Outdoor
@@ -136,10 +136,10 @@ AL;0;MF34;KUG;11.02;;Dubenchuk;Nikita;NPA;1998;MAR;Marrakech;2025-04-26;Male;Out
 AL;1;MF35;KUG;10.96;;Russo;Nicky;ITA;1974;ITA;Grosseto;2025-07-13;Male;Outdoor
 AL;0;MF36;KUG;14.68;;Kokoity;Alan;NPA;1988;IND;New Delhi;2025-03-13;Male;Outdoor
 AL;1;MF37;KUG;14.5;;Dundzys;Donatas;LTU;1991;LTU;Palanga;2025-08-03;Male;Outdoor
-AL;1;MF38;KUG;13.5;;Bilyi;Vladyslav;UKR;1997;UAE;Dubai;2025-02-13;Male;Outdoor
+AL;1;MF38;KUG;17.94;;Jenkins;Michael;GBR;2004;GBR;Birmingham;2025-08-02;Male;Outdoor
 AL;0;MF40;KUG;11.36;;Gnezdilov;Denis;NPA;1986;IND;New Delhi;2025-03-13;Male;Outdoor
 AL;1;MF41;KUG;14.72;;Kappel;Niko;GER;1995;GER;Leichlingen;2025-06-14;Male;Outdoor
-AL;1;MF42;KUG;12.95;;Touzi;Badr;FRA;1988;FRA;saint denis;2025-06-20;Male;Outdoor
+AL;1;MF42;KUG;16.51;;Davies;Aled;GBR;1991;GBR;Birmingham;2025-08-02;Male;Outdoor
 AL;1;MF44;KUG;11.57;;Rutter;Adam James;GBR;2005;GBR;Manchester;2025-05-05;Male;Outdoor
 AL;1;MF46;KUG;15.5;;Bakovic;Luka;CRO;1997;CRO;Zagreb;2025-07-12;Male;Outdoor
 AL;1;MF52;KUG;11.3;;Ganeshamoorthy;Rigivan;ITA;1999;ITA;Ancona;2025-03-15;Male;Outdoor
@@ -159,8 +159,8 @@ AL;1;MF37;DIS;46.66;;Miroslaw;Jakub;POL;2000;POL;Szczecin;2025-06-28;Male;Outdoo
 AL;1;MF38;DIS;56.08;;Jenkins;Michael;GBR;2004;GBR;Cardiff;2025-06-28;Male;Outdoor
 AL;1;MF40;DIS;26.61;;Sloup;Matija;CRO;1996;HUN;Budapest;2025-06-09;Male;Outdoor
 AL;1;MF41;DIS;25.76;;Ntisios;Nikolaos Rafail;GRE;2007;;Istanbul;2025-07-26;Male;Outdoor
-AL;1;MF42;DIS;45.53;;Ntimeris;Fotios;GRE;1989;FRA;Paris;2025-06-02;Male;Outdoor
-AL;1;MF44;DIS;53.31;;Walsh;Harrison;GBR;1996;GBR;Cardiff;2025-06-29;Male;Outdoor
+AL;1;MF42;DIS;48.59;;Davies;Aled;GBR;1991;GBR;Birmingham;2025-08-02;Male;Outdoor
+AL;1;MF44;DIS;55.63;;Greaves;Dan;GBR;1982;GBR;Birmingham;2025-08-02;Male;Outdoor
 AL;1;MF46;DIS;52.52;;Kaurin;Erik Fabian;CRO;2000;HUN;Budapest;2025-06-09;Male;Outdoor
 AL;1;MF51;DIS;12.45;;Radojicic;Vladimir;SRB;1988;SRB;Krusevac;2025-07-20;Male;Outdoor
 AL;1;MF52;DIS;27.98;;Ganeshamoorthy;Rigivan;ITA;1999;ITA;Ancona;2025-03-15;Male;Outdoor
@@ -203,7 +203,7 @@ AL;1;WT36;100;0:14.51;0.3;Bouthoorn;Cheyenne;NED;1997;NED;Hengelo;2025-08-03;Fem
 AL;1;WT37;100;0:14.98;0.1;Ustaritz;Laure;FRA;1995;FRA;BELFORT;2025-07-12;Female;Outdoor
 AL;1;WT38;100;0:12.67;0.7;Hahn;Sophie;GBR;1997;GBR;London;2025-07-13;Female;Outdoor
 AL;1;WT42;100;0:14.64;1.8;Okoh;Ndidikama;GBR;2002;GBR;London;2025-05-26;Female;Outdoor
-AL;1;WT44;100;0:13.24;1.0;Levitt;Victoria Jade;GBR;1996;GBR;London;2025-06-22;Female;Outdoor
+AL;1;WT44;100;0:13.21;1.1;Levitt;Victoria Jade;GBR;1996;GBR;Birmingham;2025-08-03;Female;Outdoor
 AL;1;WT46;100;0:11.77;-0.7;Ross;Jule;GER;2006;GER;Rhede;2025-08-10;Female;Outdoor
 AL;0;WT47;100;0:12.55;-0.3;Soloveva;Anastasiia;NPA;1997;IND;New Delhi;2025-03-11;Female;Outdoor
 AL;1;WT53;100;0:15.20;1.1;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2025-05-24;Female;Outdoor
@@ -288,7 +288,7 @@ AL;1;WT47;DRE;10.36;-14.0;Smaragdi;Styliani;GRE;1995;GRE;Thessaloniki;2025-06-15
 AL;1;WF11;KUG;14.78;;Legnante;Assunta;ITA;1978;ITA;Grosseto;2025-07-12;Female;Outdoor
 AL;1;WF12;KUG;12.67;;Church;Lydia;GBR;1999;GBR;Loughborough;2025-06-18;Female;Outdoor
 AL;1;WF13;KUG;9.98;;Zamora Arnau;Maria;ESP;2006;ESP;Fuenlabrada;2025-07-12;Female;Outdoor
-AL;0;WF20;KUG;13.97;;Mironova;Svetlana;NPA;1995;IND;New Delhi;2025-03-12;Female;Outdoor
+AL;1;WF20;KUG;15.75;;Fortune;Sabrina;GBR;1997;GBR;Birmingham;2025-08-03;Female;Outdoor
 AL;0;WF32;KUG;7.42;;Galaktionova;Evgeniia;NPA;2000;MAR;Marrakech;2025-04-26;Female;Outdoor
 AL;1;WF34;KUG;8.55;;Kornobys;Lucyna;POL;1978;MAR;Marrakech;2025-04-26;Female;Outdoor
 AL;1;WF35;KUG;9.25;;Nicholson;Anna;GBR;1995;GBR;Shildon;2025-05-10;Female;Outdoor
@@ -297,7 +297,7 @@ AL;0;WF37;KUG;13.08;;Vertinskaia;Irina;NPA;1984;IND;New Delhi;2025-03-12;Female;
 AL;1;WF38;KUG;10.11;;Leck;Rachel Jane Caroline;GBR;1996;CAN;Windsor;2025-06-15;Female;Outdoor
 AL;1;WF40;KUG;9.17;;Baars;Lara;NED;1996;GER;Osterode am Harz;2025-06-27;Female;Outdoor
 AL;1;WF41;KUG;8.52;;Thompson;Amy;GBR;2006;GBR;Loughbrough;2025-06-01;Female;Outdoor
-AL;1;WF44;KUG;11.94;;Oduwaiye;Funmi;GBR;2003;GBR;Cardiff;2025-06-28;Female;Outdoor
+AL;1;WF44;KUG;12.04;;Oduwaiye;Funmi;GBR;2003;GBR;Birmingham;2025-08-03;Female;Outdoor
 AL;1;WF45;KUG;5.07;;Stanescu;Marioara;ROU;1973;ESP;L´Hospitalet de Llobregat, Barcelona;2025-05-17;Female;Outdoor
 AL;1;WF46;KUG;10.99;;Vaske;Kim Marie;GER;2005;GER;Leverkusen;2025-07-05;Female;Outdoor
 AL;0;WF54;KUG;7.09;;Nezhura;Yuliya;NPA;1975;UAE;Dubai;2025-02-11;Female;Outdoor
