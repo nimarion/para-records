@@ -2,7 +2,7 @@ Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Ges
 AL;2;MT11;100;0:11.32;0.4;Quarcoo;George;CAN;1994;CAN;Ottawa;2025-07-30;Male;Outdoor
 AL;2;MT12;100;0:10.46;1.6;Malone;Noah;USA;2001;USA;Chula Vista;2025-07-12;Male;Outdoor
 AL;3;MT13;100;0:10.88;1.2;Barros Ferreira;Fabricio Junior;BRA;1998;BRA;Sao Paulo;2025-07-18;Male;Outdoor
-AL;2;MT34;100;0:15.19;-0.7;Smeenk;Austin;CAN;1997;SUI;Arbon;2025-05-29;Male;Outdoor
+AL;2;MT34;100;0:15.14;-1.0;Smeenk;Austin;CAN;1997;CAN;Hamilton;2025-07-23;Male;Outdoor
 AL;3;MT35;100;0:11.60;1.0;Caetano Nascimento;Henrique;BRA;1999;BRA;Sao Paulo;2025-07-18;Male;Outdoor
 AL;3;MT36;100;0:11.99;0.9;Lopez;Fabricio;ARG;2003;ARG;Buenos Aires;2025-07-19;Male;Outdoor
 AL;3;MT37;100;0:11.06;1.4;Gomes de Mendonca;Ricardo;BRA;1990;BRA;Sao Paulo;2025-04-20;Male;Outdoor
@@ -275,6 +275,7 @@ AL;2;WF41;KUG;9.62;;Bolton;Charlotte;CAN;2003;CAN;Burnaby;2025-07-15;Female;Outd
 AL;2;WF42;KUG;4.95;;Can Gonzalez;Johanna Yzel;MEX;2009;MEX;Guadalajara;2025-05-12;Female;Outdoor
 AL;2;WF44;KUG;12.99;;Middleton;Arelle;USA;2008;USA;Eugene;2025-07-31;Female;Outdoor
 AL;3;WF46;KUG;12.69;;Nahirnei;Suzana;BRA;1994;BRA;Sao Paulo;2025-04-20;Female;Outdoor
+AL;2;WF52;KUG;3.9;;Ens;Nikita;CAN;1988;CAN;Calgary;2025-08-30;Female;Outdoor
 AL;3;WF53;KUG;7.65;;Rodrigues Gomes;Elizabeth;BRA;1965;BRA;Sao Paulo;2025-07-13;Female;Outdoor
 AL;2;WF54;KUG;7.72;;Zarza Guadarrama;Gloria;MEX;1984;FRA;Paris;2025-06-04;Female;Outdoor
 AL;2;WF55;KUG;6.55;;Navarro Hernandez;Maria Guadalupe;MEX;2006;MEX;Guadalajara;2025-05-12;Female;Outdoor
@@ -310,6 +311,7 @@ AL;2;WF37;SPE;27.04;;Hiltz;Carleigh;CAN;1992;CAN;Ottawa;2025-08-01;Female;Outdoo
 AL;3;WF38;SPE;30.47;;Saldarriaga Hernandez;Xiomara;COL;2004;COL;Cali;2025-03-14;Female;Outdoor
 AL;2;WF40;SPE;16.34;;Zagorski;Sophia;USA;2006;USA;Grand Rapids;2025-07-14;Female;Outdoor
 AL;2;WF46;SPE;37.95;;Lozano Mendez;Kenya Nayeli;MEX;2002;FRA;Paris;2025-06-02;Female;Outdoor
+AL;2;WF52;SPE;5.99;;Ens;Nikita;CAN;1988;CAN;Calgary;2025-08-30;Female;Outdoor
 AL;3;WF53;SPE;14.48;;Rodrigues Gomes;Elizabeth;BRA;1965;BRA;Sao Paulo;2025-05-25;Female;Outdoor
 AL;2;WF54;SPE;15.66;;Salazar Rodriguez;Alondra;MEX;1996;FRA;Paris;2025-06-03;Female;Outdoor
 AL;2;WF55;SPE;20.22;;Navarro Hernandez;Maria Guadalupe;MEX;2006;MEX;Guadalajara;2025-05-09;Female;Outdoor

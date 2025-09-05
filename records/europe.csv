@@ -10,7 +10,7 @@ AR;1;MT36;100;0:11.90;-0.5;Shvetsov;Evgenii;RUS;1988;FRA;Lyon;2013-07-22;Male;Ou
 AR;0;MT37;100;0:11.18;0.3;Vdovin;Andrei;RPC;1994;JPN;Tokyo;2021-08-27;Male;Outdoor
 AR;1;MT38;100;0:10.94;0.0;Young;Thomas;GBR;2000;JPN;Tokyo;2021-08-28;Male;Outdoor
 AR;0;MT42;100;0:12.04;-0.5;Prokhorov;Anton;RPC;1992;JPN;Tokyo;2021-08-30;Male;Outdoor
-AR;1;MT44;100;0:11.66;-0.7;Siapo;Felicien;FRA;2003;FRA;Paris;2024-09-01;Male;Outdoor
+AR;1;MT44;100;0:11.46;-0.6;Cicchetti;Marco;ITA;1999;ITA;Grosseto;2025-07-12;Male;Outdoor
 AR;1;MT45;100;0:11.46;0.7;Powell;Kyle;GBR;1996;GBR;Aylesbury;2014-08-07;Male;Outdoor
 AR;1;MT46;100;0:10.61;0.3;Derus;Michal;POL;1990;JPN;Tokyo;2021-08-27;Male;Outdoor
 AR;1;MT47;100;0:10.61;0.3;Derus;Michal;POL;1990;JPN;Tokyo;2021-08-27;Male;Outdoor
@@ -178,7 +178,7 @@ AR;0;MF34;KUG;11.4;;Dubenchuk;Nikita;NPA;1998;FRA;Paris;2024-09-07;Male;Outdoor
 AR;0;MF35;KUG;15.19;;Khabalov;Taimuraz;NPA;1985;FRA;Paris;2024-09-05;Male;Outdoor
 AR;0;MF36;KUG;17.18;;Sviridov;Vladimir;NPA;1990;FRA;Paris;2024-09-04;Male;Outdoor
 AR;1;MF37;KUG;16.8;;Bilius;Mindaugas;LTU;1982;BRA;Rio de Janeiro;2016-09-14;Male;Outdoor
-AR;1;MF38;KUG;15.27;;Doroshenko;Oleksandr;UKR;1981;UAE;Dubai;2019-11-11;Male;Outdoor
+AR;1;MF38;KUG;17.94;;Jenkins;Michael;GBR;2004;GBR;Birmingham;2025-08-02;Male;Outdoor
 AR;1;MF40;KUG;11.6;;Monteiro;Miguel;POR;2000;POR;Pombal;2022-02-27;Male;Outdoor
 AR;1;MF41;KUG;15.07;;Kappel;Niko;GER;1995;GER;Hechingen;2024-05-09;Male;Outdoor
 AR;1;MF42;KUG;17.52;;Davies;Aled;GBR;1991;GBR;London;2017-07-22;Male;Outdoor
@@ -383,7 +383,7 @@ AR;1;WT47;DRE;10.35;0.6;Smaragdi;Styliani;GRE;1995;GRE;Thessaloniki;2022-07-10;F
 AR;1;WF11;KUG;17.32;;Legnante;Assunta;ITA;1978;ITA;Padova;2014-07-06;Female;Outdoor
 AR;1;WF12;KUG;13.68;;Oksem;Sofia;RUS;1994;ITA;Grosseto;2016-06-11;Female;Outdoor
 AR;1;WF13;KUG;13.05;;Sivakova;Tamara;BLR;1965;ESP;Madrid;1998-07-25;Female;Outdoor
-AR;1;WF20;KUG;15.5;;Fortune;Sabrina;GBR;1997;GBR;Birmingham;2025-02-23;Female;Outdoor
+AR;1;WF20;KUG;15.75;;Fortune;Sabrina;GBR;1997;GBR;Birmingham;2025-08-03;Female;Outdoor
 AR;1;WF32;KUG;8;;Moskalenko;Anastasiia;UKR;2000;FRA;Paris;2024-09-04;Female;Outdoor
 AR;1;WF33;KUG;7.81;;Kornobys;Lucyna;POL;1978;UAE;Dubai;2019-11-15;Female;Outdoor
 AR;1;WF34;KUG;8.78;;Kornobys;Lucyna;POL;1978;POL;Bydgoszcz;2021-06-03;Female;Outdoor
