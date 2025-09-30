@@ -154,12 +154,12 @@ WL;;MF12;KUG;15.86;;Ponomarenko;Volodymyr;UKR;1992;FRA;Paris;2025-06-02;Male;Out
 WL;;MF13;KUG;13.13;;Romero Paredes;Ismael;ESP;2005;ESP;Segovia;2025-03-29;Male;Outdoor
 WL;;MF20;KUG;17.28;;Zolkefli;Muhammad Ziyad;MAS;1990;FRA;Paris;2025-06-03;Male;Outdoor
 WL;;MF32;KUG;10.43;;Amchi;Mohamed Nadjib;ALG;1991;TUN;Tunis;2025-06-16;Male;Outdoor
-WL;;MF33;KUG;11.83;;Khrupin;Aleksandr;NPA;1994;MAR;Marrakech;2025-04-26;Male;Outdoor
+WL;;MF33;KUG;11.83;;Khrupin;Aleksandr;RUS;1994;MAR;Marrakech;2025-04-26;Male;Outdoor
 WL;;MF34;KUG;12.01;;Valencia;Mauricio;COL;1987;COL;Cali;2025-05-17;Male;Outdoor
 WL;;MF35;KUG;16.12;;Javanmardi;Seyed Aliasghar;IRI;1990;IRI;Tehran;2025-05-16;Male;Outdoor
 WL;;MF36;KUG;17.14;;Guenichi;Yassine;TUN;1995;TUN;Tunis;2025-06-16;Male;Outdoor
 WL;;MF38;KUG;19.22;;Lemos Rivas;Jose Gregorio;COL;1991;COL;Cali;2025-05-19;Male;Outdoor
-WL;;MF40;KUG;11.36;;Gnezdilov;Denis;NPA;1986;IND;New Delhi;2025-03-13;Male;Outdoor
+WL;;MF40;KUG;11.36;;Gnezdilov;Denis;RUS;1986;IND;New Delhi;2025-03-13;Male;Outdoor
 WL;;MF41;KUG;14.72;;Kappel;Niko;GER;1995;GER;Leichlingen;2025-06-14;Male;Outdoor
 WL;;MF42;KUG;16.51;;Davies;Aled;GBR;1991;GBR;Birmingham;2025-08-02;Male;Outdoor
 WL;;MF43;KUG;7.85;;Brakna;Kamel;ALG;1986;ALG;Oran;2025-07-03;Male;Outdoor
@@ -353,7 +353,7 @@ WL;;WF33;KUG;7.97;;Cota Vera;Gilda Guadalupe;MEX;1989;CZE;Olomouc;2025-07-03;Fem
 WL;;WF34;KUG;8.55;;Kornobys;Lucyna;POL;1978;MAR;Marrakech;2025-04-26;Female;Outdoor
 WL;;WF35;KUG;9.25;;Nicholson;Anna;GBR;1995;GBR;Shildon;2025-05-10;Female;Outdoor
 WL;;WF36;KUG;9.33;;Bouthoorn;Cheyenne;NED;1997;NED;Rotterdam;2025-07-26;Female;Outdoor
-WL;;WF37;KUG;13.08;;Vertinskaia;Irina;NPA;1984;IND;New Delhi;2025-03-12;Female;Outdoor
+WL;;WF37;KUG;13.08;;Vertinskaia;Irina;RUS;1984;IND;New Delhi;2025-03-12;Female;Outdoor
 WL;;WF38;KUG;11.61;;Kruger;Simone;RSA;2005;RSA;Stellenbosch;2025-02-22;Female;Outdoor
 WL;;WF40;KUG;9.17;;Baars;Lara;NED;1996;GER;Osterode am Harz;2025-06-27;Female;Outdoor
 WL;;WF41;KUG;10.38;;Tlili;Raoua;TUN;1989;CZE;Olomouc;2025-07-04;Female;Outdoor
@@ -372,7 +372,7 @@ WL;;WF63;KUG;8.71;;Nouchet;Alexandra;FRA;1998;FRA;saint denis;2025-06-20;Female;
 WL;;WF64;KUG;10.7;;Kotlowska;Faustyna;POL;2001;POL;Szczecin;2025-06-28;Female;Outdoor
 WL;;WF11;DIS;38.19;;Campos;Izabela;BRA;1981;BRA;Rio de Janeiro;2025-07-05;Female;Outdoor
 WL;;WF12;DIS;28.5;;Welepa;Rose;FRA;1986;FRA;MONT DORE;2025-04-25;Female;Outdoor
-WL;;WF13;DIS;31.88;;Dabravolskaya;Lizaveta;NPA;2002;TUN;Tunis;2025-06-16;Female;Outdoor
+WL;;WF13;DIS;31.88;;Dabravolskaya;Lizaveta;BLR;2002;TUN;Tunis;2025-06-16;Female;Outdoor
 WL;;WF32;DIS;11.65;;Gasmi;Mounia;ALG;1990;ALG;Oran;2025-07-01;Female;Outdoor
 WL;;WF33;DIS;18.46;;Hanes;Julia;CAN;1995;CAN;Ottawa;2025-07-30;Female;Outdoor
 WL;;WF34;DIS;19.21;;Kornobys;Lucyna;POL;1978;POL;Wloclawek;2025-07-05;Female;Outdoor
@@ -397,7 +397,7 @@ WL;;WF63;DIS;23.32;;Rogers;Julie;GBR;1998;GBR;Manchester;2025-08-30;Female;Outdo
 WL;;WF64;DIS;38.7;;Kotlowska;Faustyna;POL;2001;POL;Gorzow Wielkopolski;2025-05-24;Female;Outdoor
 WL;;WF11;SPE;17.35;;Legnante;Assunta;ITA;1978;ITA;Grosseto;2025-07-12;Female;Outdoor
 WL;;WF12;SPE;35.71;;Eder;Natalija;AUT;1980;TUN;Tunis;2025-06-16;Female;Outdoor
-WL;;WF13;SPE;37.67;;Dabravolskaya;Lizaveta;NPA;2002;TUN;Tunis;2025-06-16;Female;Outdoor
+WL;;WF13;SPE;37.67;;Dabravolskaya;Lizaveta;BLR;2002;TUN;Tunis;2025-06-16;Female;Outdoor
 WL;;WF33;SPE;16.65;;Hanes;Julia;CAN;1995;CAN;Victoria;2025-06-22;Female;Outdoor
 WL;;WF34;SPE;19.52;;Zou;Lijuan;CHN;1994;UAE;Dubai;2025-02-10;Female;Outdoor
 WL;;WF35;SPE;18.28;;Maliszewska;Klaudia;POL;1992;POL;Wloclawek;2025-07-06;Female;Outdoor
@@ -418,4 +418,4 @@ WL;;WF62;SPE;18.84;;Rosenthal;Lillian;USA;2007;USA;Grand Rapids;2025-07-14;Femal
 WL;;WF64;SPE;20.11;;Ouarghi;Rana;ALG;2003;ALG;Oran;2025-07-01;Female;Outdoor
 WL;;WF31;KEU;22.74;;Kulanthaisamy;Anandhi;IND;1997;IND;Bangalore;2025-07-11;Female;Outdoor
 WL;;WF32;KEU;29.36;;Ibrahmi;Maroua;TUN;1988;MAR;Marrakech;2025-04-26;Female;Outdoor
-WL;;WF51;KEU;24.45;;Gorlova;Elena;NPA;1981;TUN;Tunis;2025-06-16;Female;Outdoor
+WL;;WF51;KEU;24.45;;Gorlova;Elena;RUS;1981;TUN;Tunis;2025-06-16;Female;Outdoor
