@@ -1,23 +1,23 @@
 Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Geschlecht;Umgebung
-AL;5;MT11;100;0:12.09;-0.7;Kim;Cholong;KOR;2001;FRA;Paris;2025-06-02;Male;Outdoor
-AL;5;MT12;100;0:11.22;1.2;Ishiyama;Daiki;JPN;2000;JPN;Matsuyama;2025-04-27;Male;Outdoor
+AL;5;MT11;100;0:11.11;0.5;Di;Dongdong;CHN;1993;IND;New Delhi;2025-10-03;Male;Outdoor
+AL;5;MT12;100;0:10.91;0.9;Kuno;Ryutaro;JPN;1999;IND;New Delhi;2025-09-27;Male;Outdoor
 AL;5;MT13;100;0:10.86;1.9;Fukunaga;Ryota;JPN;1998;JPN;Tottori;2025-06-01;Male;Outdoor
-AL;5;MT33;100;0:23.26;0.0;Yamada;Yoshihiro;JPN;1979;JPN;Tokyo;2025-03-30;Male;Outdoor
+AL;5;MT33;100;0:20.51;1.3;Almoadhen;Ebrahim;BRN;2001;IND;New Delhi;2025-10-01;Male;Outdoor
 AL;5;MT34;100;0:14.56;1.9;Rattana;Chaiwat;THA;1996;SUI;Nottwil;2025-05-24;Male;Outdoor
 AL;5;MT35;100;0:13.76;0.0;Jadhav;Abhishek Babasaheb;IND;1998;IND;New Delhi;2025-03-11;Male;Outdoor
-AL;5;MT36;100;0:12.03;2.0;Matsumoto;Takeru;JPN;2001;JPN;Matsuyama;2025-04-27;Male;Outdoor
-AL;5;MT37;100;0:11.63;-1.2;Alnakhli;Ali;KSA;2000;MAR;Marrakech;2025-04-26;Male;Outdoor
+AL;5;MT36;100;0:11.77;0.0;Deng;Peicheng;CHN;1996;IND;New Delhi;2025-10-03;Male;Outdoor
+AL;5;MT37;100;0:11.28;1.3;Alnakhli;Ali;KSA;2000;IND;New Delhi;2025-09-27;Male;Outdoor
 AL;5;MT38;100;0:13.50;1.3;Devadiga;Sachidananda;IND;2004;UAE;Dubai;2025-02-11;Male;Outdoor
-AL;5;MT42;100;0:12.69;0.2;;Partin;INA;2002;TUN;Tunis;2025-06-16;Male;Outdoor
-AL;5;MT44;100;0:11.18;-0.4;Almasrahi;Naif;KSA;1990;FRA;Paris;2025-06-03;Male;Outdoor
+AL;5;MT42;100;0:12.26;-0.3;;Partin;INA;2002;IND;New Delhi;2025-10-05;Male;Outdoor
+AL;5;MT44;100;0:10.94;0.2;Almasrahi;Naif;KSA;1990;IND;New Delhi;2025-09-30;Male;Outdoor
 AL;5;MT45;100;0:11.36;0.2;Sambongi;Yuya;JPN;2001;JPN;Tokyo;2025-07-06;Male;Outdoor
-AL;5;MT46;100;0:10.91;0.7;Shi;Kangjun;CHN;2002;TUN;Tunis;2025-06-16;Male;Outdoor
+AL;5;MT46;100;0:10.68;0.1;Shi;Kangjun;CHN;2002;IND;New Delhi;2025-09-27;Male;Outdoor
 AL;5;MT47;100;0:10.95;0.2;Suzuki;Yudai;JPN;1998;JPN;Tokyo;2025-07-06;Male;Outdoor
-AL;5;MT51;100;0:26.39;0.0;Alshook;Mohamed;BRN;1991;TUN;Tunis;2025-06-16;Male;Outdoor
+AL;5;MT51;100;0:24.59;-0.2;Alshook;Mohamed;BRN;1991;IND;New Delhi;2025-10-04;Male;Outdoor
 AL;5;MT52;100;0:16.68;1.1;Sato;Tomoki;JPN;1989;SUI;Nottwil;2025-05-24;Male;Outdoor
 AL;5;MT53;100;0:14.26;1.3;Paeyo;Pongsakorn;THA;1996;SUI;Nottwil;2025-05-24;Male;Outdoor
 AL;5;MT54;100;0:13.62;0.0;Paeng-Nuea;Athiwat;THA;2002;SUI;Nottwil;2025-05-24;Male;Outdoor
-AL;5;MT63;100;0:13.09;-0.5;Kondo;Hajime;JPN;2000;IND;New Delhi;2025-03-11;Male;Outdoor
+AL;5;MT63;100;0:12.59;-0.3;Khamta;Phalathip;THA;2008;IND;New Delhi;2025-10-05;Male;Outdoor
 AL;5;MT64;100;0:11.56;1.7;Tamaki;Yuma;JPN;2001;JPN;Matsuyama;2025-04-26;Male;Outdoor
 AL;5;MT71;100;0:36.03;-0.1;Almuharrami;Rashed;UAE;2002;UAE;Sharjah;2025-02-02;Male;Outdoor
 AL;5;MT72;100;0:23.41;-0.6;Almarzooqi;Abdalla;UAE;2006;FRA;Paris;2025-06-02;Male;Outdoor
@@ -27,33 +27,34 @@ AL;5;MT13;200;0:22.01;0.7;Kawakami;Shuta;JPN;1998;JPN;Matsuyama;2025-04-27;Male;
 AL;5;MT34;200;0:27.40;0.9;Kobata;Atsuro;JPN;1993;JPN;Matsuyama;2025-04-27;Male;Outdoor
 AL;5;MT35;200;0:29.58;-0.3;;Vinay;IND;2003;IND;New Delhi;2025-03-13;Male;Outdoor
 AL;5;MT36;200;0:29.09;0.1;Aikenov;Tamerlan;KAZ;2002;MAR;Marrakech;2025-04-26;Male;Outdoor
-AL;5;MT37;200;0:23.89;-0.3;Alnakhli;Ali;KSA;2000;MAR;Marrakech;2025-04-26;Male;Outdoor
+AL;5;MT37;200;0:23.53;-0.4;Alnakhli;Ali;KSA;2000;IND;New Delhi;2025-09-30;Male;Outdoor
 AL;5;MT38;200;0:24.47;-0.3;Banothu;Akira Nandan;IND;2007;MAR;Marrakech;2025-04-26;Male;Outdoor
 AL;5;MT44;200;0:22.66;-0.3;Almasrahi;Naif;KSA;1990;FRA;Paris;2025-06-03;Male;Outdoor
 AL;5;MT45;200;0:23.20;0.9;Sambongi;Yuya;JPN;2001;JPN;Sendai City;2025-06-08;Male;Outdoor
 AL;5;MT46;200;0:24.15;-0.2;Al Muqaibli;Saif;OMA;1996;MAR;Marrakech;2025-04-26;Male;Outdoor
 AL;5;MT47;200;0:22.48;0.9;Suzuki;Yudai;JPN;1998;JPN;Sendai City;2025-06-08;Male;Outdoor
+AL;5;MT51;200;0:48.71;-0.4;Alshook;Mohamed;BRN;1991;IND;New Delhi;2025-10-05;Male;Outdoor
 AL;5;MT52;200;0:30.72;0.9;Ito;Tomoya;JPN;1963;JPN;Matsuyama;2025-04-27;Male;Outdoor
 AL;5;MT53;200;0:29.80;0.0;Al Turki;Fahad;KSA;2005;SUI;Arbon;2025-05-31;Male;Outdoor
 AL;5;MT54;200;0:26.02;0.4;Vahdani;Mohammad;UAE;1979;SUI;Arbon;2025-05-29;Male;Outdoor
 AL;5;MT63;200;0:26.89;0.6;Kondo;Hajime;JPN;2000;JPN;Sendai City;2025-06-08;Male;Outdoor
 AL;5;MT64;200;0:23.28;-0.8;Itani;Shunsuke;JPN;1995;JPN;Sendai City;2025-06-08;Male;Outdoor
-AL;5;MT11;400;0:54.44;;Kim;Cholong;KOR;2001;FRA;Paris;2025-06-04;Male;Outdoor
-AL;5;MT12;400;0:50.96;;Tisuwan;Kissanapong;THA;1999;FRA;Paris;2025-06-04;Male;Outdoor
-AL;5;MT13;400;0:49.31;;Fukunaga;Ryota;JPN;1998;JPN;Matsuyama;2025-04-26;Male;Outdoor
-AL;5;MT20;400;0:48.02;;Sufyani;Idris;KSA;1995;FRA;Paris;2025-06-04;Male;Outdoor
-AL;5;MT34;400;0:48.49;;Rattana;Chaiwat;THA;1996;SUI;Nottwil;2025-05-25;Male;Outdoor
+AL;5;MT11;400;0:52.43;;Ayade;Mohammed;IRQ;1999;IND;New Delhi;2025-09-29;Male;Outdoor
+AL;1;MT12;400;0:49.86;;Khamraev;Fakhriddin;UZB;1989;IND;New Delhi;2025-10-01;Male;Outdoor
+AL;5;MT13;400;0:49.03;;Fukunaga;Ryota;JPN;1998;IND;New Delhi;2025-10-03;Male;Outdoor
+AL;5;MT20;400;0:47.55;;Sufyani;Idris;KSA;1995;IND;New Delhi;2025-09-30;Male;Outdoor
+AL;5;MT34;400;0:47.94;;Rattana;Chaiwat;THA;1996;IND;New Delhi;2025-09-28;Male;Outdoor
 AL;5;MT35;400;1:04.09;;Jadhav;Abhishek Babasaheb;IND;1998;IND;New Delhi;2025-03-12;Male;Outdoor
-AL;5;MT36;400;0:58.15;;Rosni;Ahmad Fizzi;MAS;2000;TUN;Tunis;2025-06-16;Male;Outdoor
+AL;5;MT36;400;0:55.79;;Matsumoto;Takeru;JPN;2001;IND;New Delhi;2025-09-29;Male;Outdoor
 AL;5;MT37;400;0:55.78;;Alzahrani;Thamer;KSA;1988;MAR;Marrakech;2025-04-26;Male;Outdoor
-AL;5;MT38;400;0:53.07;;Banothu;Akira Nandan;IND;2007;MAR;Marrakech;2025-04-26;Male;Outdoor
+AL;5;MT38;400;0:50.55;;Banothu;Akira Nandan;IND;2007;IND;New Delhi;2025-09-30;Male;Outdoor
 AL;5;MT44;400;0:57.99;;Alsana;Nour;KSA;1984;UAE;Sharjah;2025-02-04;Male;Outdoor
 AL;5;MT45;400;1:01.90;;Khlystov;Igor;KAZ;2004;UAE;Dubai;2025-02-12;Male;Outdoor
-AL;5;MT46;400;0:48.78;;Gavit;Dilip Mahadu;IND;2003;IND;New Delhi;2025-03-12;Male;Outdoor
+AL;5;MT46;400;0:48.20;;Gavit;Dilip Mahadu;IND;2003;IND;New Delhi;2025-10-01;Male;Outdoor
 AL;5;MT47;400;0:49.64;;;Jasbeer;IND;1994;IND;New Delhi;2025-03-12;Male;Outdoor
 AL;5;MT52;400;0:53.62;;Sato;Tomoki;JPN;1989;SUI;Arbon;2025-05-29;Male;Outdoor
-AL;5;MT53;400;0:47.13;;Paeyo;Pongsakorn;THA;1996;SUI;Nottwil;2025-05-25;Male;Outdoor
-AL;5;MT54;400;0:45.76;;Paeng-Nuea;Athiwat;THA;2002;SUI;Nottwil;2025-05-25;Male;Outdoor
+AL;5;MT53;400;0:46.81;;Paeyo;Pongsakorn;THA;1996;IND;New Delhi;2025-09-29;Male;Outdoor
+AL;5;MT54;400;0:45.01;;Paeng-Nuea;Athiwat;THA;2002;IND;New Delhi;2025-09-29;Male;Outdoor
 AL;5;MT72;400;1:45.36;;Almarzooqi;Abdalla;UAE;2006;FRA;Paris;2025-06-04;Male;Outdoor
 AL;5;MT11;800;2:04.26;;Wada;Shinya;JPN;1977;JPN;Sendai City;2025-06-08;Male;Outdoor
 AL;5;MT20;800;1:53.06;;Mahutan;Meshal;KSA;1999;FRA;Paris;2025-06-02;Male;Outdoor
@@ -64,15 +65,15 @@ AL;5;MT37;800;2:54.92;;Kusumi;Ryosuke;JPN;2001;JPN;Matsuyama;2025-04-27;Male;Out
 AL;5;MT46;800;2:24.87;;Makshat;Meiirzhan;KAZ;1997;MAR;Marrakech;2025-04-26;Male;Outdoor
 AL;5;MT52;800;2:01.34;;Ito;Tomoya;JPN;1963;JPN;Matsuyama;2025-04-27;Male;Outdoor
 AL;5;MT53;800;1:33.78;;Paeyo;Pongsakorn;THA;1996;SUI;Nottwil;2025-05-23;Male;Outdoor
-AL;5;MT54;800;1:29.47;;Suzuki;Tomoki;JPN;1994;SUI;Arbon;2025-06-01;Male;Outdoor
-AL;5;MT11;1K5;4:10.12;;Wada;Shinya;JPN;1977;JPN;Tokyo;2025-07-12;Male;Outdoor
-AL;5;MT12;1K5;4:08.32;;Maqableh;Nabeel;JOR;1992;TUN;Tunis;2025-06-16;Male;Outdoor
+AL;5;MT54;800;1:27.04;;Jin;Hua;CHN;1999;IND;New Delhi;2025-10-05;Male;Outdoor
+AL;5;MT11;1K5;4:09.63;;Karasawa;Kenya;JPN;1994;IND;New Delhi;2025-09-29;Male;Outdoor
+AL;5;MT12;1K5;4:06.70;;Maqableh;Nabeel;JOR;1992;IND;New Delhi;2025-09-29;Male;Outdoor
 AL;5;MT13;1K5;4:49.40;;Tineyev;Karzhaubay;KAZ;1994;UAE;Dubai;2025-02-12;Male;Outdoor
 AL;5;MT20;1K5;3:51.25;;Iwata;Yuki;JPN;1998;JPN;Sendai City;2025-06-07;Male;Outdoor
 AL;5;MT36;1K5;5:11.55;;Matsumoto;Takeru;JPN;2001;JPN;Tokyo;2025-03-30;Male;Outdoor
 AL;5;MT37;1K5;4:21.33;;Igusa;Takafumi;JPN;1990;JPN;Tokyo;2025-03-30;Male;Outdoor
 AL;5;MT38;1K5;4:40.91;;Rosdi;Muhammad Faiz Haizat;MAS;1997;MAR;Marrakech;2025-04-26;Male;Outdoor
-AL;5;MT46;1K5;4:05.57;;Puwakpitikande;Pradeep;SRI;1998;UAE;Dubai;2025-02-12;Male;Outdoor
+AL;5;MT46;1K5;3:53.77;;Puwakpitikande;Pradeep;SRI;1998;IND;New Delhi;2025-10-04;Male;Outdoor
 AL;5;MT52;1K5;3:19.12;;Sato;Tomoki;JPN;1989;JPN;Sendai City;2025-06-07;Male;Outdoor
 AL;5;MT53;1K5;2:57.36;;Paeyo;Pongsakorn;THA;1996;SUI;Nottwil;2025-05-24;Male;Outdoor
 AL;5;MT54;1K5;2:47.90;;Suzuki;Tomoki;JPN;1994;SUI;Arbon;2025-05-31;Male;Outdoor
@@ -92,191 +93,193 @@ AL;5;MT13;MAR;2:33:17;;Takai;Toshiharu;JPN;1986;JPN;Oita;2025-02-02;Male;Outdoor
 AL;5;MT52;MAR;2:02:04;;Matsumoto;Naoyuki;JPN;1979;JPN;Tokyo;2025-03-02;Male;Outdoor
 AL;5;MT53;MAR;1:39:37;;Matsunaga;Hitoshi;JPN;1972;JPN;Tokyo;2025-03-02;Male;Outdoor
 AL;5;MT54;MAR;1:19:14;;Suzuki;Tomoki;JPN;1994;JPN;Tokyo;2025-03-02;Male;Outdoor
-AL;5;MT44;HOC;1.9;;;Praveen Kumar;IND;2003;IND;Bangalore;2025-07-11;Male;Outdoor
+AL;5;MT42;HOC;1.91;;Kumar;Shailesh;IND;2000;IND;New Delhi;2025-09-27;Male;Outdoor
+AL;1;MT44;HOC;2.03;;Giyazov;Temurbek;UZB;1996;IND;New Delhi;2025-10-04;Male;Outdoor
 AL;5;MT46;HOC;1.55;;Yeung;Siu Ki;HKG;1991;UAE;Dubai;2025-02-13;Male;Outdoor
-AL;5;MT47;HOC;2.08;;;Nishad Kumar;IND;1999;FRA;Paris;2025-06-03;Male;Outdoor
-AL;5;MT11;WEI;4.85;1.3;Igarashi;Shogo;JPN;1980;JPN;Tokyo;2025-03-30;Male;Outdoor
+AL;5;MT47;HOC;2.14;;;Nishad Kumar;IND;1999;IND;New Delhi;2025-10-03;Male;Outdoor
+AL;5;MT11;WEI;6.92;-0.9;Di;Dongdong;CHN;1993;IND;New Delhi;2025-09-27;Male;Outdoor
 AL;5;MT12;WEI;6.79;2.0;Ishiyama;Daiki;JPN;2000;JPN;Matsuyama;2025-04-26;Male;Outdoor
 AL;5;MT13;WEI;7.08;1.5;Fukunaga;Ryota;JPN;1998;JPN;Sendai City;2025-06-07;Male;Outdoor
-AL;5;MT20;WEI;7.2;-1.4;Dawshi;Hassan;KSA;1991;UAE;Dubai;2025-02-10;Male;Outdoor
-AL;5;MT36;WEI;5.49;0.0;Al Harrasi;Taha;OMA;1993;TUN;Tunis;2025-06-16;Male;Outdoor
-AL;5;MT37;WEI;6.19;1.1;Nasri;Muhammad Nazmi;MAS;2003;FRA;Paris;2025-06-04;Male;Outdoor
-AL;5;MT38;WEI;4.52;-0.4;Yamagishi;Hideki;JPN;1988;JPN;Matsuyama;2025-04-26;Male;Outdoor
+AL;5;MT20;WEI;7.67;-0.6;Romly;Abdul Latif;MAS;1997;IND;New Delhi;2025-09-28;Male;Outdoor
+AL;5;MT36;WEI;5.73;-0.7;Deng;Peicheng;CHN;1996;IND;New Delhi;2025-10-05;Male;Outdoor
+AL;5;MT38;WEI;6.53;0.5;Zhong;Huanghao;CHN;1998;IND;New Delhi;2025-10-02;Male;Outdoor
 AL;5;MT42;WEI;5.59;0.5;Gurjar;Mahendra;IND;1998;SUI;Nottwil;2025-05-23;Male;Outdoor
-AL;5;MT44;WEI;6.35;1.5;Gamage;Indika;SRI;1990;UAE;Dubai;2025-02-12;Male;Outdoor
-AL;1;MT46;WEI;6.36;-0.6;Khasanov;Omadbek;UZB;1996;FRA;Paris;2025-06-03;Male;Outdoor
+AL;5;MT44;WEI;6.46;-0.3;Gamage;Indika;SRI;1990;IND;New Delhi;2025-10-02;Male;Outdoor
+AL;5;MT46;WEI;7.19;0.1;Wang;Hao;CHN;1995;IND;New Delhi;2025-09-28;Male;Outdoor
 AL;5;MT47;WEI;6.98;0.7;;Vikas;IND;2002;IND;Bangalore;2025-07-11;Male;Outdoor
 AL;5;MT63;WEI;6.36;1.3;Kondo;Hajime;JPN;2000;JPN;Matsuyama;2025-04-27;Male;Outdoor
-AL;5;MT64;WEI;6.57;1.2;Tamaki;Yuma;JPN;2001;JPN;Matsuyama;2025-04-27;Male;Outdoor
+AL;5;MT64;WEI;7.08;-0.7;Dharmaraj;Solairaj;IND;1994;IND;New Delhi;2025-10-03;Male;Outdoor
 AL;5;MF11;KUG;14.85;;Alipour Darbeid;Amirhossein;IRI;2002;IRI;Tehran;2025-05-16;Male;Outdoor
 AL;5;MF12;KUG;10.05;;Kanayama;Eiki;JPN;1999;JPN;Sendai City;2025-06-08;Male;Outdoor
 AL;5;MF13;KUG;11.44;;Musa;Badrul Hisam;MAS;1993;MAR;Marrakech;2025-04-26;Male;Outdoor
 AL;5;MF20;KUG;17.28;;Zolkefli;Muhammad Ziyad;MAS;1990;FRA;Paris;2025-06-03;Male;Outdoor
-AL;1;MF32;KUG;9.85;;Khodjaev;Jasur;UZB;1994;IND;New Delhi;2025-03-13;Male;Outdoor
+AL;1;MF32;KUG;9.96;;Khodjaev;Jasur;UZB;1994;IND;New Delhi;2025-10-01;Male;Outdoor
 AL;5;MF33;KUG;10.51;;Alnakhli;Hani;KSA;1986;TUN;Tunis;2025-06-16;Male;Outdoor
-AL;5;MF34;KUG;11.96;;Nikoeimajd;Mehran;IRI;1982;IRI;Tehran;2025-05-16;Male;Outdoor
-AL;5;MF35;KUG;16.12;;Javanmardi;Seyed Aliasghar;IRI;1990;IRI;Tehran;2025-05-16;Male;Outdoor
-AL;5;MF36;KUG;14.69;;Mukashbekov;Dastan;KAZ;1990;UAE;Dubai;2025-02-10;Male;Outdoor
-AL;1;MF37;KUG;14.89;;Marufkhujaev;Kudratillokhon;UZB;1999;IND;New Delhi;2025-03-13;Male;Outdoor
+AL;5;MF34;KUG;12.27;;Nikoeimajd;Mehran;IRI;1982;IND;New Delhi;2025-10-05;Male;Outdoor
+AL;5;MF35;KUG;17.17;;Javanmardi;Seyed Aliasghar;IRI;1990;IND;New Delhi;2025-10-03;Male;Outdoor
+AL;5;MF36;KUG;15.22;;Mukashbekov;Dastan;KAZ;1990;IND;New Delhi;2025-10-01;Male;Outdoor
+AL;1;MF37;KUG;15.86;;Yuldashev;Tolibboy;UZB;2003;IND;New Delhi;2025-09-27;Male;Outdoor
 AL;5;MF38;KUG;10.06;;Alrashidi;Khaled;KUW;2011;TUN;Tunis;2025-06-16;Male;Outdoor
-AL;5;MF40;KUG;9.89;;Rongali;Ravi;IND;1996;IND;New Delhi;2025-03-13;Male;Outdoor
+AL;5;MF40;KUG;10.86;;Tnaiash;Garrah;IRQ;1991;IND;New Delhi;2025-09-29;Male;Outdoor
 AL;1;MF41;KUG;12.83;;Omonov;Bobirjon;UZB;2000;TUN;Tunis;2025-06-16;Male;Outdoor
-AL;5;MF42;KUG;14.94;;Sorour;Faisal;KUW;1996;TUN;Tunis;2025-06-16;Male;Outdoor
+AL;5;MF42;KUG;16.28;;Sorour;Faisal;KUW;1996;IND;New Delhi;2025-10-05;Male;Outdoor
 AL;1;MF44;KUG;11.05;;Turakulov;Azizbek;UZB;2006;TUN;Tunis;2025-06-16;Male;Outdoor
 AL;5;MF46;KUG;15.97;;;Parveen;IND;2004;IND;Bangalore;2025-07-11;Male;Outdoor
 AL;5;MF53;KUG;9.1;;Mokhtari Hemami;Alireza;IRI;1977;IRI;Tehran;2025-05-16;Male;Outdoor
 AL;5;MF54;KUG;6.88;;Mesbahi;Abdulla;UAE;1985;UAE;Dubai;2025-02-11;Male;Outdoor
 AL;5;MF55;KUG;11.88;;Zaker;Zafar;IRI;1990;IRI;Tehran;2025-05-16;Male;Outdoor
 AL;5;MF56;KUG;9.97;;Md Saad;Mohd Shahmil;MAS;1986;UAE;Dubai;2025-02-11;Male;Outdoor
-AL;5;MF57;KUG;14.51;;Salamh;Haidr;KSA;2003;TUN;Tunis;2025-06-16;Male;Outdoor
+AL;5;MF57;KUG;16.6;;Khosravi;Yasin;IRI;1992;IND;New Delhi;2025-10-04;Male;Outdoor
 AL;5;MF64;KUG;11.84;;Na;Ersi;CHN;1995;TUN;Tunis;2025-06-16;Male;Outdoor
-AL;5;MF11;DIS;41.68;;Bajoulvand;Hassan;IRI;1985;UAE;Dubai;2025-02-11;Male;Outdoor
+AL;5;MF11;DIS;41.7;;Bajoulvand;Hassan;IRI;1985;IND;New Delhi;2025-10-03;Male;Outdoor
 AL;5;MF12;DIS;28.66;;Orlov;Evgeniy;KAZ;1994;MAR;Marrakech;2025-04-26;Male;Outdoor
 AL;5;MF32;DIS;13.2;;Almazrouei;Eisa;UAE;1982;UAE;Sharjah;2025-02-02;Male;Outdoor
 AL;5;MF33;DIS;29.78;;Alnakhli;Hani;KSA;1986;UAE;Sharjah;2025-02-02;Male;Outdoor
 AL;5;MF34;DIS;25.22;;Alloghani;Mayed;UAE;2001;CZE;Olomouc;2025-07-05;Male;Outdoor
 AL;5;MF35;DIS;32.64;;Zholaman;Yelaman;KAZ;1995;MAR;Marrakech;2025-04-26;Male;Outdoor
 AL;5;MF36;DIS;38.64;;Al Kaabi;Mohammed;UAE;1996;UAE;Sharjah;2025-02-02;Male;Outdoor
-AL;5;MF37;DIS;53.81;;;Haney;IND;2006;IND;Bangalore;2025-07-12;Male;Outdoor
+AL;5;MF37;DIS;54.5;;Shimbo;Yamato;JPN;2000;IND;New Delhi;2025-10-02;Male;Outdoor
 AL;5;MF40;DIS;17.89;;Alsaif;Abdullah;KUW;1994;TUN;Tunis;2025-06-16;Male;Outdoor
 AL;5;MF41;DIS;20.79;;Singaraja;Manoj;IND;1994;TUN;Tunis;2025-06-16;Male;Outdoor
 AL;5;MF42;DIS;48.21;;Sorour;Faisal;KUW;1996;TUN;Tunis;2025-06-16;Male;Outdoor
-AL;5;MF43;DIS;49.09;;Thayat;Sagar;IND;2000;UAE;Dubai;2025-02-12;Male;Outdoor
+AL;5;MF43;DIS;51.93;;Thayat;Sagar;IND;2000;IND;New Delhi;2025-10-03;Male;Outdoor
 AL;5;MF44;DIS;52.01;;;Devender Kumar;IND;1994;IND;New Delhi;2025-03-11;Male;Outdoor
 AL;5;MF46;DIS;22.79;;Kamishita;Tomu;JPN;1990;JPN;Matsuyama;2025-04-26;Male;Outdoor
 AL;5;MF51;DIS;10.26;;;Dharambir;IND;1989;IND;Bangalore;2025-07-12;Male;Outdoor
 AL;5;MF53;DIS;20;;Mokhtari Hemami;Alireza;IRI;1977;IRI;Tehran;2025-05-16;Male;Outdoor
 AL;5;MF54;DIS;24.75;;Mesbahi;Abdulla;UAE;1985;UAE;Dubai;2025-02-13;Male;Outdoor
-AL;5;MF55;DIS;32.16;;Saputra;Riadi;INA;1981;TUN;Tunis;2025-06-16;Male;Outdoor
+AL;5;MF55;DIS;32.62;;Saputra;Riadi;INA;1981;IND;New Delhi;2025-09-30;Male;Outdoor
 AL;5;MF56;DIS;43.35;;Kathuniya;Yogesh;IND;1997;USA;Tempe;2025-05-31;Male;Outdoor
 AL;5;MF57;DIS;45.99;;Kaushik;Atul;IND;1996;IND;Bangalore;2025-07-11;Male;Outdoor
-AL;5;MF64;DIS;41.34;;Kumar;Sharvan;IND;1991;IND;Bangalore;2025-07-12;Male;Outdoor
+AL;5;MF64;DIS;46.23;;Kumar;Pardeep;IND;1999;IND;New Delhi;2025-10-03;Male;Outdoor
 AL;5;MF12;SPE;55.87;;Wakoh;Yuta;JPN;1997;JPN;Sendai City;2025-06-07;Male;Outdoor
-AL;5;MF13;SPE;42.33;;Rathod;Sanjaysinh Mansungji;IND;2000;TUN;Tunis;2025-06-16;Male;Outdoor
+AL;5;MF13;SPE;57.8;;;Manjeet;IND;1992;IND;New Delhi;2025-10-04;Male;Outdoor
 AL;5;MF33;SPE;21.31;;Alnakhli;Hani;KSA;1986;UAE;Dubai;2025-02-12;Male;Outdoor
-AL;5;MF34;SPE;37.67;;Afrooz;Saeid;IRI;1990;UAE;Dubai;2025-02-11;Male;Outdoor
+AL;5;MF34;SPE;41.52;;Afrooz;Saeid;IRI;1990;IND;New Delhi;2025-10-02;Male;Outdoor
 AL;5;MF35;SPE;35.98;;Zholaman;Yelaman;KAZ;1995;MAR;Marrakech;2025-04-26;Male;Outdoor
 AL;5;MF37;SPE;54.83;;;Haney;IND;2006;UAE;Sharjah;2025-02-03;Male;Outdoor
-AL;5;MF38;SPE;39.15;;Yamagishi;Hideki;JPN;1988;JPN;Hiroshima;2025-04-29;Male;Outdoor
+AL;5;MF38;SPE;46.05;;An;Dongquan;CHN;1987;IND;New Delhi;2025-10-01;Male;Outdoor
 AL;5;MF40;SPE;34.58;;Rongali;Ravi;IND;1996;SUI;Nottwil;2025-05-25;Male;Outdoor
-AL;5;MF41;SPE;42.63;;;Navdeep;IND;2000;IND;Bangalore;2025-07-11;Male;Outdoor
+AL;5;MF41;SPE;48.86;;Beit Sayah;Sadegh;IRI;1986;IND;New Delhi;2025-10-05;Male;Outdoor
 AL;5;MF42;SPE;61.17;;Gurjar;Mahendra;IND;1998;SUI;Nottwil;2025-05-25;Male;Outdoor
-AL;5;MF43;SPE;57.57;;Singh;Pushpendra;IND;2000;IND;New Delhi;2025-03-12;Male;Outdoor
-AL;5;MF44;SPE;62.11;;;Sandeep;IND;1996;IND;Bangalore;2025-07-11;Male;Outdoor
-AL;5;MF46;SPE;63.98;;;Rinku;IND;1999;IND;Bangalore;2025-07-11;Male;Outdoor
+AL;5;MF43;SPE;61.94;;Singh;Pushpendra;IND;2000;IND;New Delhi;2025-09-30;Male;Outdoor
+AL;5;MF44;SPE;62.82;;Sargar;Sandip Sanjay;IND;1993;IND;New Delhi;2025-09-30;Male;Outdoor
+AL;5;MF46;SPE;66.37;;;Rinku;IND;1999;IND;New Delhi;2025-09-29;Male;Outdoor
 AL;5;MF53;SPE;13.85;;Serikkaliyev;Makhambet;KAZ;2003;UAE;Dubai;2025-02-12;Male;Outdoor
-AL;5;MF54;SPE;29.46;;Bondori Deraznoei;Erfan;IRI;1999;IRI;Tehran;2025-05-16;Male;Outdoor
+AL;5;MF54;SPE;32.24;;Baziyarshoorijeh;Ali;IRI;1999;IND;New Delhi;2025-10-04;Male;Outdoor
 AL;5;MF55;SPE;35.04;;Zaker;Zafar;IRI;1990;IRI;Tehran;2025-05-16;Male;Outdoor
 AL;5;MF56;SPE;19.94;;;Raman;IND;2005;IND;Bangalore;2025-07-11;Male;Outdoor
-AL;5;MF57;SPE;50.65;;Papi;Amanolah;IRI;1990;IRI;Tehran;2025-05-16;Male;Outdoor
+AL;1;MF57;SPE;52.06;;Odilov;Yorkinbek;UZB;2000;IND;New Delhi;2025-09-28;Male;Outdoor
 AL;5;MF63;SPE;36.35;;Mano;Yuki;JPN;1972;JPN;Sendai City;2025-06-07;Male;Outdoor
 AL;5;MF64;SPE;72.35;;;Sumit;IND;1998;SUI;Nottwil;2025-05-25;Male;Outdoor
-AL;5;MF32;KEU;31.67;;Al Mashaykhi;Mohammed;OMA;1991;IND;New Delhi;2025-03-13;Male;Outdoor
+AL;1;MF32;KEU;32.27;;Abdukhakimov;Abdulazizkhon;UZB;1996;IND;New Delhi;2025-09-28;Male;Outdoor
 AL;5;MF51;KEU;30.37;;;Dharambir;IND;1989;IND;Bangalore;2025-07-12;Male;Outdoor
-AL;5;WT11;100;0:12.45;0.7;Liu;Yiming;CHN;2006;TUN;Tunis;2025-06-16;Female;Outdoor
-AL;5;WT12;100;0:12.41;0.2;;Simran;IND;1999;FRA;Paris;2025-06-02;Female;Outdoor
+AL;5;WT11;100;0:12.11;0.9;Liu;Yiming;CHN;2006;IND;New Delhi;2025-10-01;Female;Outdoor
+AL;5;WT12;100;0:11.95;0.7;;Simran;IND;1999;IND;New Delhi;2025-10-03;Female;Outdoor
 AL;5;WT13;100;0:14.88;-0.2;Kale;Sakshi Eshwar;IND;2005;IND;New Delhi;2025-03-11;Female;Outdoor
-AL;5;WT34;100;0:18.69;1.5;Yoshida;Ayano;JPN;2006;JPN;Tottori;2025-06-01;Female;Outdoor
-AL;5;WT35;100;0:16.12;0.9;Guo;Qianqian;CHN;2004;UAE;Dubai;2025-02-13;Female;Outdoor
-AL;5;WT36;100;0:15.40;1.3;Jeon;Min Jae;KOR;1977;CZE;Olomouc;2025-07-04;Female;Outdoor
-AL;5;WT37;100;0:17.33;-0.8;Moradiya;Bina Shambhubhai;IND;2000;CZE;Olomouc;2025-07-04;Female;Outdoor
-AL;5;WT38;100;0:13.82;0.9;Takamatsu;Yuka;JPN;1993;JPN;Matsuyama;2025-04-27;Female;Outdoor
-AL;5;WT42;100;0:15.11;0.6;Tiarani;Karisma Evi;INA;2001;TUN;Tunis;2025-06-16;Female;Outdoor
+AL;5;WT34;100;0:18.60;-1.0;Lan;Hanyu;CHN;2007;IND;New Delhi;2025-10-01;Female;Outdoor
+AL;5;WT35;100;0:14.24;-0.3;Guo;Qianqian;CHN;2004;IND;New Delhi;2025-10-05;Female;Outdoor
+AL;5;WT36;100;0:14.73;0.4;Jeon;Min Jae;KOR;1977;IND;New Delhi;2025-09-29;Female;Outdoor
+AL;5;WT37;100;0:12.93;0.0;Wen;Xiaoyan;CHN;1997;IND;New Delhi;2025-10-01;Female;Outdoor
+AL;5;WT38;100;0:12.86;0.1;Chen;Zimo;CHN;2000;IND;New Delhi;2025-09-28;Female;Outdoor
+AL;5;WT42;100;0:14.65;0.5;Tiarani;Karisma Evi;INA;2001;IND;New Delhi;2025-10-01;Female;Outdoor
 AL;5;WT44;100;0:14.36;0.6;Wang;Xiahong;CHN;1991;TUN;Tunis;2025-06-16;Female;Outdoor
 AL;5;WT46;100;0:13.17;0.7;Yan;Jing;CHN;2002;TUN;Tunis;2025-06-16;Female;Outdoor
-AL;5;WT47;100;0:12.81;1.3;Nakagawa;Moe;JPN;2003;JPN;Tottori;2025-06-01;Female;Outdoor
+AL;5;WT47;100;0:12.39;-0.6;Sholihah;Nanda Mei;INA;1999;IND;New Delhi;2025-09-29;Female;Outdoor
 AL;5;WT52;100;0:23.13;1.0;Tanaka;Teruyo;JPN;1959;JPN;Mihama;2025-05-18;Female;Outdoor
-AL;5;WT54;100;0:18.00;1.5;Tsuchida;Wakako;JPN;1974;JPN;Tottori;2025-06-01;Female;Outdoor
+AL;5;WT53;100;0:16.57;-0.4;Zhou;Hongzhuan;CHN;1988;IND;New Delhi;2025-10-02;Female;Outdoor
+AL;5;WT54;100;0:16.22;0.1;Zhou;Zhaoqian;CHN;1997;IND;New Delhi;2025-10-02;Female;Outdoor
 AL;5;WT61;100;0:18.07;-0.3;Yuguchi;Erina;JPN;2000;JPN;Tokyo;2025-07-06;Female;Outdoor
 AL;5;WT62;100;0:16.09;1.7;Suleimenova;Aisulu;KAZ;1991;CZE;Olomouc;2025-07-03;Female;Outdoor
 AL;5;WT63;100;0:15.55;0.7;Tozawa;Tomomi;JPN;1999;JPN;Matsuyama;2025-04-26;Female;Outdoor
 AL;5;WT64;100;0:13.65;1.5;Takakuwa;Saki;JPN;1992;JPN;Tottori;2025-06-01;Female;Outdoor
-AL;5;WT71;100;0:23.58;0.4;Alkaabi;Thekra;UAE;2001;TUN;Tunis;2025-06-16;Female;Outdoor
+AL;5;WT71;100;0:19.89;1.2;Alkaabi;Thekra;UAE;2001;IND;New Delhi;2025-09-27;Female;Outdoor
 AL;5;WT11;200;0:25.53;1.8;Liu;Yiming;CHN;2006;TUN;Tunis;2025-06-16;Female;Outdoor
-AL;5;WT12;200;0:25.53;-0.4;;Simran;IND;1999;FRA;Paris;2025-06-03;Female;Outdoor
+AL;5;WT12;200;0:24.46;0.7;;Simran;IND;1999;IND;New Delhi;2025-10-05;Female;Outdoor
 AL;5;WT13;200;0:26.23;0.3;Sasaki;Mana;JPN;1997;JPN;Matsuyama;2025-04-27;Female;Outdoor
 AL;5;WT34;200;0:37.82;0.7;Kitaura;Haruka;JPN;1992;JPN;Mihama;2025-07-27;Female;Outdoor
-AL;5;WT35;200;0:31.50;-0.5;Pal;Preeti;IND;2000;IND;New Delhi;2025-03-13;Female;Outdoor
-AL;5;WT36;200;0:32.03;1.4;Jeon;Min Jae;KOR;1977;CZE;Olomouc;2025-07-03;Female;Outdoor
-AL;5;WT37;200;0:53.71;-1.9;Aryal;Bilisha;NEP;2004;UAE;Dubai;2025-02-10;Female;Outdoor
+AL;5;WT35;200;0:29.50;0.9;Guo;Qianqian;CHN;2004;IND;New Delhi;2025-10-03;Female;Outdoor
+AL;5;WT36;200;0:30.95;1.0;Jeon;Min Jae;KOR;1977;IND;New Delhi;2025-10-03;Female;Outdoor
+AL;5;WT37;200;0:26.70;0.0;Wen;Xiaoyan;CHN;1997;IND;New Delhi;2025-10-05;Female;Outdoor
 AL;5;WT38;200;0:29.66;-1.4;Takamatsu;Yuka;JPN;1993;JPN;Kobe;2025-04-20;Female;Outdoor
 AL;5;WT46;200;0:27.08;-0.1;Yan;Jing;CHN;2002;TUN;Tunis;2025-06-16;Female;Outdoor
-AL;5;WT47;200;0:26.54;0.2;Nakagawa;Moe;JPN;2003;JPN;Sendai City;2025-06-08;Female;Outdoor
+AL;5;WT47;200;0:25.87;0.0;Sholihah;Nanda Mei;INA;1999;IND;New Delhi;2025-10-03;Female;Outdoor
 AL;5;WT62;200;0:34.88;1.6;Suleimenova;Aisulu;KAZ;1991;CZE;Olomouc;2025-07-04;Female;Outdoor
 AL;5;WT64;200;0:29.56;-0.6;Yamashita;Chie;JPN;1997;JPN;Sendai City;2025-06-08;Female;Outdoor
 AL;5;WT11;400;1:07.59;;Killaka;Lalitha;IND;2004;IND;New Delhi;2025-03-12;Female;Outdoor
-AL;1;WT12;400;1:04.81;;Kholbekova;Yokutkhon;UZB;1995;CZE;Olomouc;2025-07-04;Female;Outdoor
+AL;5;WT12;400;0:56.39;;Safarzadeh Ghahderijani;Hajar;IRI;2000;IND;New Delhi;2025-10-01;Female;Outdoor
 AL;5;WT13;400;0:59.32;;Sasaki;Mana;JPN;1997;JPN;Matsuyama;2025-04-26;Female;Outdoor
-AL;5;WT20;400;0:59.41;;Kanno;Niina;JPN;2002;JPN;Sendai City;2025-06-07;Female;Outdoor
+AL;5;WT20;400;0:55.16;;Jeevanji;Deepthi;IND;2003;IND;New Delhi;2025-09-27;Female;Outdoor
 AL;5;WT34;400;1:07.95;;Onodera;Moe;JPN;2003;SUI;Nottwil;2025-05-25;Female;Outdoor
 AL;5;WT37;400;1:47.51;;Tater;Harshita;IND;2000;IND;New Delhi;2025-03-12;Female;Outdoor
-AL;5;WT38;400;1:07.51;;Takamatsu;Yuka;JPN;1993;JPN;Matsuyama;2025-04-26;Female;Outdoor
+AL;5;WT38;400;1:00.14;;Chen;Zimo;CHN;2000;IND;New Delhi;2025-10-05;Female;Outdoor
 AL;5;WT46;400;1:04.23;;Jiang;Yunfei;CHN;2001;TUN;Tunis;2025-06-16;Female;Outdoor
-AL;5;WT47;400;1:07.99;;Bumbadiya;Anjanaben Rohitbhai;IND;2001;IND;New Delhi;2025-03-12;Female;Outdoor
+AL;5;WT47;400;1:00.04;;Bumbadiya;Anjanaben Rohitbhai;IND;2001;IND;New Delhi;2025-10-01;Female;Outdoor
 AL;5;WT52;400;1:22.23;;Tanaka;Teruyo;JPN;1959;JPN;Mihama;2025-05-18;Female;Outdoor
-AL;5;WT53;400;1:01.35;;Takimura;Kazumi;JPN;1983;SUI;Arbon;2025-05-31;Female;Outdoor
-AL;5;WT54;400;1:00.21;;Premphol;Artitaya;THA;2007;SUI;Nottwil;2025-05-25;Female;Outdoor
+AL;5;WT53;400;0:54.31;;Zhou;Hongzhuan;CHN;1988;IND;New Delhi;2025-10-03;Female;Outdoor
+AL;5;WT54;400;0:53.22;;Zhou;Zhaoqian;CHN;1997;IND;New Delhi;2025-10-03;Female;Outdoor
 AL;5;WT13;800;2:49.12;;Kashiwabara;Michi;JPN;1999;JPN;Matsuyama;2025-04-27;Female;Outdoor
 AL;5;WT20;800;2:20.69;;Fujiwara;Yuna;JPN;2002;JPN;Gifu;2025-07-20;Female;Outdoor
-AL;5;WT34;800;2:16.55;;Yoshida;Ayano;JPN;2006;JPN;Sendai City;2025-06-08;Female;Outdoor
-AL;5;WT53;800;2:09.10;;Takimura;Kazumi;JPN;1983;JPN;Sendai City;2025-06-08;Female;Outdoor
-AL;5;WT54;800;1:55.92;;Kina;Tsubasa;JPN;1990;JPN;Mihama;2025-07-12;Female;Outdoor
+AL;5;WT34;800;2:05.14;;Lan;Hanyu;CHN;2007;IND;New Delhi;2025-10-04;Female;Outdoor
+AL;5;WT53;800;1:47.71;;Zhou;Hongzhuan;CHN;1988;IND;New Delhi;2025-09-29;Female;Outdoor
+AL;5;WT54;800;1:49.46;;Zhou;Zhaoqian;CHN;1997;IND;New Delhi;2025-09-29;Female;Outdoor
 AL;5;WT11;1K5;5:39.28;;Killaka;Lalitha;IND;2004;IND;New Delhi;2025-03-11;Female;Outdoor
 AL;5;WT12;1K5;5:15.57;;;Radha Venkatesh;IND;1999;IND;New Delhi;2025-03-11;Female;Outdoor
 AL;5;WT13;1K5;5:34.17;;Kashiwabara;Michi;JPN;1999;JPN;Sendai City;2025-06-07;Female;Outdoor
 AL;5;WT20;1K5;4:45.72;;Fujiwara;Yuna;JPN;2002;JPN;Matsuyama;2025-04-27;Female;Outdoor
 AL;5;WT53;1K5;3:52.16;;Takimura;Kazumi;JPN;1983;SUI;Arbon;2025-05-31;Female;Outdoor
-AL;5;WT54;1K5;3:37.42;;Kina;Tsubasa;JPN;1990;JPN;Mihama;2025-07-12;Female;Outdoor
+AL;5;WT54;1K5;3:17.41;;Zhou;Zhaoqian;CHN;1997;IND;New Delhi;2025-10-01;Female;Outdoor
 AL;5;WT11;5K0;22:31.53;;Konno;Yumiko;JPN;1961;JPN;Sendai City;2025-06-08;Female;Outdoor
 AL;5;WT12;5K0;19:33.70;;Michishita;Misato;JPN;1977;JPN;Sendai City;2025-06-08;Female;Outdoor
 AL;5;WT20;5K0;18:12.21;;Ari;Misaki;JPN;1994;JPN;Gifu;2025-07-20;Female;Outdoor
 AL;5;WT53;5K0;13:37.90;;Takimura;Kazumi;JPN;1983;SUI;Arbon;2025-06-01;Female;Outdoor
-AL;5;WT54;5K0;12:23.42;;Premphol;Artitaya;THA;2007;SUI;Nottwil;2025-05-25;Female;Outdoor
+AL;5;WT54;5K0;12:20.21;;Tian;Yajuan;CHN;1998;IND;New Delhi;2025-09-28;Female;Outdoor
 AL;5;WT53;HAM;1:04:09.0;;Takimura;Kazumi;JPN;1983;JPN;Sendai;2025-05-11;Female;Outdoor
 AL;5;WT54;HAM;58:36.0;;Kina;Tsubasa;JPN;1990;JPN;Sendai;2025-05-11;Female;Outdoor
 AL;5;WT11;MAR;3:11:36;;Inouchi;Natsumi;JPN;1989;JPN;Oita;2025-02-02;Female;Outdoor
 AL;5;WT12;MAR;3:16:56;;Waki;Manami;JPN;1999;JPN;Oita;2025-02-02;Female;Outdoor
 AL;5;WT53;MAR;2:03:52;;Takimura;Kazumi;JPN;1983;JPN;Tokyo;2025-03-02;Female;Outdoor
 AL;5;WT54;MAR;1:37:46;;Zhou;Zhaoqian;CHN;1997;JPN;Tokyo;2025-03-02;Female;Outdoor
-AL;5;WT11;WEI;4.2;1.7;Takada;Chiaki;JPN;1984;JPN;Sendai City;2025-06-07;Female;Outdoor
-AL;1;WT12;WEI;5.39;0.5;Kholbekova;Yokutkhon;UZB;1995;CZE;Olomouc;2025-07-04;Female;Outdoor
+AL;1;WT12;WEI;5.54;1.6;Kholbekova;Yokutkhon;UZB;1995;IND;New Delhi;2025-09-29;Female;Outdoor
 AL;5;WT20;WEI;5.28;0.1;Kawaguchi;Rio;JPN;2002;JPN;Gifu;2025-07-19;Female;Outdoor
-AL;1;WT37;WEI;3.84;1.5;Azimova;Shakhina;UZB;2007;UAE;Dubai;2025-02-13;Female;Outdoor
+AL;5;WT37;WEI;5.32;-0.1;Wen;Xiaoyan;CHN;1997;IND;New Delhi;2025-09-27;Female;Outdoor
+AL;5;WT38;WEI;4.64;0.2;Chen;Zimo;CHN;2000;IND;New Delhi;2025-10-01;Female;Outdoor
 AL;5;WT44;WEI;3.51;0.2;Munniyandi;Bhavani;IND;1992;IND;New Delhi;2025-03-13;Female;Outdoor
-AL;5;WT46;WEI;5.12;0.0;Yan;Jing;CHN;2002;TUN;Tunis;2025-06-16;Female;Outdoor
-AL;5;WT47;WEI;5.04;0.0;Wickramasingha;Janani;SRI;2005;IND;New Delhi;2025-03-12;Female;Outdoor
+AL;5;WT46;WEI;5.74;1.5;Chakkungalparambil Suresh;Nimisha;IND;2001;IND;New Delhi;2025-10-04;Female;Outdoor
+AL;5;WT47;WEI;5.36;1.3;Wickramasingha;Janani;SRI;2005;IND;New Delhi;2025-10-04;Female;Outdoor
 AL;5;WT61;WEI;4.24;1.3;Yuguchi;Erina;JPN;2000;USA;Chula Vista;2025-06-29;Female;Outdoor
 AL;5;WT63;WEI;4.88;1.5;Tozawa;Tomomi;JPN;1999;JPN;Matsuyama;2025-04-27;Female;Outdoor
-AL;5;WT64;WEI;4.89;1.7;Nakanishi;Maya;JPN;1985;JPN;Sendai City;2025-06-08;Female;Outdoor
-AL;5;WF11;KUG;9.95;;Zeng;Ruying;CHN;2001;TUN;Tunis;2025-06-16;Female;Outdoor
-AL;5;WF12;KUG;10.15;;Liu;Ya-Ting;TPE;1991;UAE;Dubai;2025-02-12;Female;Outdoor
+AL;5;WT64;WEI;4.97;-0.9;Nakanishi;Maya;JPN;1985;IND;New Delhi;2025-10-03;Female;Outdoor
+AL;5;WF11;KUG;10.76;;Xue;Enhui;CHN;1982;IND;New Delhi;2025-10-04;Female;Outdoor
+AL;5;WF12;KUG;12.67;;Zhao;Yuping;CHN;1994;IND;New Delhi;2025-10-04;Female;Outdoor
 AL;5;WF13;KUG;3.87;;Alkeebali;Fatema;UAE;1982;UAE;Sharjah;2025-02-02;Female;Outdoor
 AL;5;WF20;KUG;12.81;;Hori;Reina;JPN;2004;JPN;Matsuyama;2025-04-26;Female;Outdoor
 AL;5;WF32;KUG;6.04;;Alktebi;Noura;UAE;1992;UAE;Sharjah;2025-02-04;Female;Outdoor
-AL;5;WF33;KUG;6.55;;Qian;Zao;CHN;2004;TUN;Tunis;2025-06-16;Female;Outdoor
-AL;5;WF34;KUG;8.09;;Zou;Lijuan;CHN;1994;UAE;Dubai;2025-02-13;Female;Outdoor
-AL;1;WF35;KUG;8.76;;Akhmatkhonova;Dilafruzkhon;UZB;1990;CZE;Olomouc;2025-07-03;Female;Outdoor
+AL;5;WF33;KUG;7.56;;Wu;Qing;CHN;1988;IND;New Delhi;2025-10-03;Female;Outdoor
+AL;5;WF34;KUG;9.15;;Zou;Lijuan;CHN;1994;IND;New Delhi;2025-09-30;Female;Outdoor
+AL;5;WF35;KUG;10.43;;Wang;Jun;CHN;1990;IND;New Delhi;2025-10-04;Female;Outdoor
 AL;5;WF36;KUG;5.16;;Fujita;Mariko;JPN;1964;JPN;Matsuyama;2025-04-26;Female;Outdoor
-AL;5;WF37;KUG;8.44;;Kim;Hyeonjeong;KOR;2000;CZE;Olomouc;2025-07-03;Female;Outdoor
-AL;1;WF40;KUG;8.16;;Mukhtorova;Madina;UZB;2006;CZE;Olomouc;2025-07-03;Female;Outdoor
-AL;1;WF41;KUG;9.56;;Khakimova;Kubaro;UZB;2002;IND;New Delhi;2025-03-12;Female;Outdoor
+AL;5;WF37;KUG;12.28;;Mi;Na;CHN;1986;IND;New Delhi;2025-09-28;Female;Outdoor
+AL;1;WF40;KUG;8.99;;Mukhtorova;Madina;UZB;2006;IND;New Delhi;2025-10-05;Female;Outdoor
+AL;1;WF41;KUG;10.17;;Khakimova;Kubaro;UZB;2002;IND;New Delhi;2025-09-27;Female;Outdoor
 AL;5;WF42;KUG;7.05;;Kaburova;Gulderay;KAZ;1986;IND;New Delhi;2025-03-12;Female;Outdoor
-AL;5;WF44;KUG;10.35;;Kabgzan;Leila;IRI;1986;IRI;Tehran;2025-05-14;Female;Outdoor
+AL;5;WF44;KUG;12.81;;Yao;Juan;CHN;1984;IND;New Delhi;2025-10-03;Female;Outdoor
 AL;5;WF45;KUG;8.79;;Tychshenko;Irina;KAZ;1974;CZE;Olomouc;2025-07-04;Female;Outdoor
-AL;1;WF46;KUG;12.13;;Omonova;Karomat;UZB;2005;CZE;Olomouc;2025-07-04;Female;Outdoor
-AL;5;WF54;KUG;6.94;;Salehi;Elham;IRI;1980;IRI;Tehran;2025-05-14;Female;Outdoor
-AL;5;WF55;KUG;7.3;;Alomari;Rooba;BRN;1991;TUN;Tunis;2025-06-16;Female;Outdoor
+AL;1;WF46;KUG;13.07;;Omonova;Karomat;UZB;2005;IND;New Delhi;2025-10-02;Female;Outdoor
+AL;5;WF54;KUG;7.17;;Salehi;Elham;IRI;1980;IND;New Delhi;2025-09-30;Female;Outdoor
+AL;5;WF55;KUG;7.44;;Alomari;Rooba;BRN;1991;IND;New Delhi;2025-10-02;Female;Outdoor
 AL;5;WF56;KUG;6.87;;Alhumaydani;Nadha;KSA;1977;TUN;Tunis;2025-06-16;Female;Outdoor
-AL;5;WF57;KUG;9.77;;;Sharmila;IND;1986;IND;Bangalore;2025-07-12;Female;Outdoor
-AL;5;WF64;KUG;7.76;;;Dayawanti;IND;1990;IND;Bangalore;2025-07-11;Female;Outdoor
-AL;5;WF11;DIS;33.2;;Gharaeifarimani;Kosar;IRI;2005;UAE;Dubai;2025-02-10;Female;Outdoor
+AL;5;WF57;KUG;10.35;;Tian;Yuxin;CHN;1999;IND;New Delhi;2025-10-02;Female;Outdoor
+AL;5;WF64;KUG;7.9;;;Dayawanti;IND;1990;IND;New Delhi;2025-10-03;Female;Outdoor
+AL;5;WF11;DIS;39.51;;Xue;Enhui;CHN;1982;IND;New Delhi;2025-10-01;Female;Outdoor
 AL;5;WF33;DIS;10.41;;Alkhaaldi;Aishah Salem;UAE;1975;UAE;Sharjah;2025-02-03;Female;Outdoor
 AL;1;WF34;DIS;15.64;;Hasanova;Fotima;UZB;2009;CZE;Olomouc;2025-07-04;Female;Outdoor
-AL;5;WF37;DIS;19.38;;;Lakshmi;IND;1993;IND;New Delhi;2025-03-11;Female;Outdoor
-AL;1;WF40;DIS;21.19;;Mukhtorova;Madina;UZB;2006;CZE;Olomouc;2025-07-04;Female;Outdoor
-AL;5;WF41;DIS;27.72;;Li;Wei;CHN;2001;TUN;Tunis;2025-06-16;Female;Outdoor
+AL;5;WF37;DIS;36.53;;Mi;Na;CHN;1986;IND;New Delhi;2025-10-05;Female;Outdoor
+AL;5;WF38;DIS;36.1;;Li;Yingli;CHN;1997;IND;New Delhi;2025-10-05;Female;Outdoor
+AL;5;WF40;DIS;21.4;;Dagvadorj;Saruultugs;MGL;1984;IND;New Delhi;2025-10-03;Female;Outdoor
+AL;1;WF41;DIS;28.83;;Akhmatova;Navruza;UZB;2005;IND;New Delhi;2025-10-03;Female;Outdoor
 AL;5;WF42;DIS;21.93;;Kaburova;Gulderay;KAZ;1986;IND;New Delhi;2025-03-11;Female;Outdoor
-AL;5;WF44;DIS;29.03;;Kabgzan;Leila;IRI;1986;IRI;Tehran;2025-05-14;Female;Outdoor
+AL;5;WF44;DIS;39.23;;Yao;Juan;CHN;1984;IND;New Delhi;2025-09-29;Female;Outdoor
 AL;5;WF45;DIS;22.9;;Tychshenko;Irina;KAZ;1974;CZE;Olomouc;2025-07-04;Female;Outdoor
 AL;5;WF46;DIS;28.32;;Almatrooshi;Mariam;UAE;1986;MAR;Marrakech;2025-04-26;Female;Outdoor
 AL;5;WF51;DIS;4.24;;Sohrabitabar;Farzaneh;IRI;1994;UAE;Dubai;2025-02-12;Female;Outdoor
@@ -285,23 +288,23 @@ AL;5;WF53;DIS;10.71;;Kaab Omeir;Hanan;IRI;1979;IRI;Tehran;2025-05-14;Female;Outd
 AL;5;WF54;DIS;16.46;;Raj;Suvarna;IND;1982;FRA;Paris;2025-06-04;Female;Outdoor
 AL;5;WF55;DIS;24.31;;Alomari;Rooba;BRN;1991;TUN;Tunis;2025-06-16;Female;Outdoor
 AL;5;WF56;DIS;19.92;;Alhumaydani;Nadha;KSA;1977;TUN;Tunis;2025-06-16;Female;Outdoor
-AL;5;WF57;DIS;24.85;;Nguyen;Thi Kieu;VIE;1990;TUN;Tunis;2025-06-16;Female;Outdoor
-AL;5;WF64;DIS;27.38;;;Dayawanti;IND;1990;IND;Bangalore;2025-07-12;Female;Outdoor
+AL;5;WF57;DIS;30.3;;Tian;Yuxin;CHN;1999;IND;New Delhi;2025-09-28;Female;Outdoor
+AL;5;WF64;DIS;27.94;;;Dayawanti;IND;1990;IND;New Delhi;2025-09-29;Female;Outdoor
 AL;5;WF11;SPE;11.48;;Tsujioka;Keiko;JPN;1962;JPN;Gifu;2025-07-19;Female;Outdoor
-AL;5;WF12;SPE;26.9;;Liu;Ya-Ting;TPE;1991;UAE;Dubai;2025-02-13;Female;Outdoor
+AL;5;WF12;SPE;45.22;;Zhao;Yuping;CHN;1994;IND;New Delhi;2025-09-28;Female;Outdoor
 AL;5;WF13;SPE;8.24;;Alkeebali;Fatema;UAE;1982;UAE;Sharjah;2025-02-04;Female;Outdoor
 AL;5;WF33;SPE;15.86;;Qian;Zao;CHN;2004;TUN;Tunis;2025-06-16;Female;Outdoor
-AL;5;WF34;SPE;19.52;;Zou;Lijuan;CHN;1994;UAE;Dubai;2025-02-10;Female;Outdoor
+AL;5;WF34;SPE;21.41;;Zou;Lijuan;CHN;1994;IND;New Delhi;2025-09-29;Female;Outdoor
 AL;5;WF37;SPE;13.72;;Ho;Thanh Thao;VIE;2004;TUN;Tunis;2025-06-16;Female;Outdoor
 AL;5;WF40;SPE;21.63;;Alzeyoudi;Maryam;UAE;1995;CZE;Olomouc;2025-07-03;Female;Outdoor
 AL;5;WF42;SPE;17.37;;Kaburova;Gulderay;KAZ;1986;IND;New Delhi;2025-03-12;Female;Outdoor
 AL;5;WF45;SPE;19.88;;Tychshenko;Irina;KAZ;1974;CZE;Olomouc;2025-07-03;Female;Outdoor
-AL;5;WF46;SPE;38.3;;Huang;Yezi;CHN;2001;TUN;Tunis;2025-06-16;Female;Outdoor
-AL;5;WF54;SPE;15.33;;Salehi;Elham;IRI;1980;IRI;Tehran;2025-05-14;Female;Outdoor
-AL;5;WF55;SPE;17.98;;Parida;Suchitra;IND;1993;FRA;Paris;2025-06-03;Female;Outdoor
+AL;1;WF46;SPE;41.97;;Yigitalieva;Shahinakhon;UZB;2008;IND;New Delhi;2025-09-27;Female;Outdoor
+AL;5;WF54;SPE;17.06;;Salehi;Elham;IRI;1980;IND;New Delhi;2025-10-01;Female;Outdoor
+AL;5;WF55;SPE;18.29;;Parida;Suchitra;IND;1993;IND;New Delhi;2025-10-01;Female;Outdoor
 AL;5;WF56;SPE;22.52;;Moradi Rashnou;Zeinab;IRI;1989;IRI;Tehran;2025-05-14;Female;Outdoor
 AL;5;WF57;SPE;12.98;;Alrasheedy;Siham;UAE;1982;UAE;Sharjah;2025-02-02;Female;Outdoor
 AL;5;WF64;SPE;13.12;;Takado;Fumiko;JPN;1973;JPN;Gifu;2025-07-19;Female;Outdoor
 AL;5;WF31;KEU;22.74;;Kulanthaisamy;Anandhi;IND;1997;IND;Bangalore;2025-07-11;Female;Outdoor
-AL;5;WF32;KEU;20.09;;Alkaabi;Thekra;UAE;2001;UAE;Sharjah;2025-02-02;Female;Outdoor
-AL;5;WF51;KEU;19.77;;Sohrabitabar;Farzaneh;IRI;1994;IRI;Tehran;2025-05-14;Female;Outdoor
+AL;5;WF32;KEU;23.83;;Habibi;Parastoo;IRI;2002;IND;New Delhi;2025-09-30;Female;Outdoor
+AL;5;WF51;KEU;19.8;;Bhyan;Ekta;IND;1985;IND;New Delhi;2025-10-04;Female;Outdoor
