@@ -86,7 +86,10 @@ AL;5;MT13;10K;34:05.45;;Takai;Toshiharu;JPN;1986;JPN;Sendai City;2025-06-07;Male
 AL;5;MT20;10K;31:48.29;;Iwata;Yuki;JPN;1998;JPN;Gifu;2025-07-19;Male;Outdoor
 AL;5;MT53;5S;10:42.0;;Watanabe;Sho;JPN;1991;USA;Boston;2025-04-19;Male;Outdoor
 AL;5;MT54;5S;10:42.0;;Watanabe;Sho;JPN;1991;USA;Boston;2025-04-19;Male;Outdoor
-AL;5;MT54;HAM;47:10.0;;Suzuki;Tomoki;JPN;1994;JPN;Sendai;2025-05-11;Male;Outdoor
+AL;5;MT11;HAM;1:36:15.0;;Takahashi;Yuichi;JPN;1965;JPN;Tokyo;2025-10-19;Male;Outdoor
+AL;5;MT12;HAM;1:10:54.0;;Kumagai;Yutaka;JPN;1987;JPN;Tokyo;2025-10-19;Male;Outdoor
+AL;5;MT53;HAM;52:39.0;;Otsu;Keisuke;JPN;1967;JPN;Tokyo;2025-10-19;Male;Outdoor
+AL;5;MT54;HAM;43:08.0;;Suzuki;Tomoki;JPN;1994;JPN;Tokyo;2025-10-19;Male;Outdoor
 AL;5;MT11;MAR;2:25:50;;Wada;Shinya;JPN;1977;JPN;Oita;2025-02-02;Male;Outdoor
 AL;5;MT12;MAR;2:23:51;;Kumagai;Yutaka;JPN;1987;JPN;Oita;2025-02-02;Male;Outdoor
 AL;5;MT13;MAR;2:33:17;;Takai;Toshiharu;JPN;1986;JPN;Oita;2025-02-02;Male;Outdoor
@@ -234,8 +237,9 @@ AL;5;WT12;5K0;19:33.70;;Michishita;Misato;JPN;1977;JPN;Sendai City;2025-06-08;Fe
 AL;5;WT20;5K0;18:12.21;;Ari;Misaki;JPN;1994;JPN;Gifu;2025-07-20;Female;Outdoor
 AL;5;WT53;5K0;13:37.90;;Takimura;Kazumi;JPN;1983;SUI;Arbon;2025-06-01;Female;Outdoor
 AL;5;WT54;5K0;12:20.21;;Tian;Yajuan;CHN;1998;IND;New Delhi;2025-09-28;Female;Outdoor
-AL;5;WT53;HAM;1:04:09.0;;Takimura;Kazumi;JPN;1983;JPN;Sendai;2025-05-11;Female;Outdoor
-AL;5;WT54;HAM;58:36.0;;Kina;Tsubasa;JPN;1990;JPN;Sendai;2025-05-11;Female;Outdoor
+AL;5;WT11;HAM;1:44:06.0;;Konno;Yumiko;JPN;1961;JPN;Tokyo;2025-10-19;Female;Outdoor
+AL;5;WT12;HAM;1:33:37.0;;Waki;Manami;JPN;1999;JPN;Tokyo;2025-10-19;Female;Outdoor
+AL;5;WT53;HAM;1:00:22.0;;Takimura;Kazumi;JPN;1983;JPN;Tokyo;2025-10-19;Female;Outdoor
 AL;5;WT11;MAR;3:11:36;;Inouchi;Natsumi;JPN;1989;JPN;Oita;2025-02-02;Female;Outdoor
 AL;5;WT12;MAR;3:16:56;;Waki;Manami;JPN;1999;JPN;Oita;2025-02-02;Female;Outdoor
 AL;5;WT53;MAR;2:03:52;;Takimura;Kazumi;JPN;1983;JPN;Tokyo;2025-03-02;Female;Outdoor
