@@ -109,7 +109,7 @@ AL;3;MT12;WEI;7.01;-1.6;Vazquez;Fernando;ARG;1999;IND;New Delhi;2025-09-30;Male;
 AL;2;MT13;WEI;6.95;0.0;Jean-Paul;Isaac;USA;1993;USA;Eugene;2025-08-02;Male;Outdoor
 AL;3;MT20;WEI;7.11;-1.2;Chala Espinoza;Roberto Carlos;ECU;1998;IND;New Delhi;2025-09-28;Male;Outdoor
 AL;2;MT35;WEI;6.29;1.4;Gunter;Dustin;USA;1996;USA;Eugene;2025-08-02;Male;Outdoor
-AL;3;MT36;WEI;5.91;0.9;Almeida Ramos;Aser Mateus;BRA;1991;BRA;Sao Paulo;2025-04-23;Male;Outdoor
+AL;3;MT36;WEI;6;0.5;Parreira Da Silva;Rodrigo;BRA;1994;BRA;São Paulo;2025-08-23;Male;Outdoor
 AL;3;MT37;WEI;6.63;-1.3;Impellizzeri;Brian Lionel;ARG;1998;IND;New Delhi;2025-10-03;Male;Outdoor
 AL;3;MT38;WEI;6.63;0.2;Gomez Coa;Juan Sebastian;COL;1999;COL;Cali;2025-05-17;Male;Outdoor
 AL;3;MT44;WEI;6.45;1.2;Pereira Santos;Romildo;BRA;1999;BRA;Sao Paulo;2025-04-23;Male;Outdoor
@@ -118,6 +118,7 @@ AL;2;MT47;WEI;5.15;0.0;Ayala;Gerber;ESA;2004;MEX;Guadalajara;2025-05-12;Male;Out
 AL;2;MT63;WEI;6.98;1.0;Frech;Ezra;USA;2005;IND;New Delhi;2025-09-29;Male;Outdoor
 AL;2;MT64;WEI;8.22;1.4;Loccident;Derek;USA;1998;USA;Chula Vista;2025-06-29;Male;Outdoor
 AL;3;MF11;KUG;13.44;;Da Silva;Alessandro Rodrigo;BRA;1984;BRA;Sao Paulo;2025-04-23;Male;Outdoor
+AL;3;MF12;KUG;14.95;;Da Silva Pereira;Caio Vinicius;BRA;1980;BRA;São Paulo;2025-08-24;Male;Outdoor
 AL;3;MF13;KUG;9.6;;Silva de Souza;Jorge Luiz;BRA;1978;BRA;Florianópolis;2025-04-12;Male;Outdoor
 AL;3;MF20;KUG;16.37;;Mosquera;Stalin David;ECU;1997;IND;New Delhi;2025-10-01;Male;Outdoor
 AL;2;MF32;KUG;4.89;;Salas Graciano;Jesus Eduardo;MEX;2006;MEX;Guadalajara;2025-05-10;Male;Outdoor
@@ -268,7 +269,7 @@ AL;3;WF20;KUG;13.74;;Mendes;Anais;ECU;2000;IND;New Delhi;2025-09-29;Female;Outdo
 AL;3;WF32;KUG;8.49;;Brito Oliveira;Wanna Helena;BRA;1996;IND;New Delhi;2025-10-02;Female;Outdoor
 AL;2;WF33;KUG;7.97;;Cota Vera;Gilda Guadalupe;MEX;1989;CZE;Olomouc;2025-07-03;Female;Outdoor
 AL;2;WF34;KUG;7.17;;Grauer;Beth;USA;1983;MEX;Guadalajara;2025-05-10;Female;Outdoor
-AL;3;WF35;KUG;8.18;;Oliveira Da Nobrega;Marivana;BRA;1990;BRA;Sao Paulo;2025-07-18;Female;Outdoor
+AL;3;WF35;KUG;8.29;;Oliveira Da Nobrega;Marivana;BRA;1990;BRA;São Paulo;2025-08-23;Female;Outdoor
 AL;2;WF36;KUG;7.51;;Hwang;Kate;USA;1980;IND;New Delhi;2025-09-27;Female;Outdoor
 AL;2;WF37;KUG;10.27;;Hiltz;Carleigh;CAN;1992;IND;New Delhi;2025-09-28;Female;Outdoor
 AL;2;WF38;KUG;10.61;;Foessel;Renee Danielle;CAN;1995;CAN;Windsor;2025-06-15;Female;Outdoor
