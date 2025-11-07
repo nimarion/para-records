@@ -42,7 +42,7 @@ AL;1;MT62;200;0:20.29;2.0;Floors;Johannes;GER;1995;GER;Leverkusen;2025-07-05;Mal
 AL;1;MT63;200;0:27.42;1.2;Passon;Emilien;FRA;2007;FRA;BELFORT;2025-07-13;Male;Outdoor
 AL;1;MT64;200;0:21.60;-0.5;Streng;Felix;GER;1995;IND;New Delhi;2025-10-05;Male;Outdoor
 AL;1;MT71;200;0:42.82;0.9;Krzyzek;Artur;POL;2000;POL;Wloclawek;2025-07-06;Male;Outdoor
-AL;1;MT72;200;0:34.72;0.9;Siejwa;Piotr;POL;2006;POL;Wloclawek;2025-07-06;Male;Outdoor
+AL;1;MT72;200;0:33.47;0.0;Kukielka;Wojciech;POL;2007;POL;Warsaw;2025-08-31;Male;Outdoor
 AL;1;MT11;400;0:51.06;;Adolphe;Timothee;FRA;1989;FRA;SAINT denis;2025-05-29;Male;Outdoor
 AL;1;MT12;400;0:50.71;;Akbulut;Oguz;TUR;1992;IND;New Delhi;2025-10-01;Male;Outdoor
 AL;1;MT13;400;0:48.93;;Marzillier;Max;GER;2001;GER;Leverkusen;2025-07-05;Male;Outdoor
@@ -308,7 +308,7 @@ AL;1;WF40;KUG;9.77;;Baars;Lara;NED;1996;IND;New Delhi;2025-10-05;Female;Outdoor
 AL;1;WF41;KUG;8.52;;Thompson;Amy;GBR;2006;GBR;Loughbrough;2025-06-01;Female;Outdoor
 AL;1;WF44;KUG;12.11;;Oduwaiye;Funmi;GBR;2003;IND;New Delhi;2025-10-03;Female;Outdoor
 AL;1;WF45;KUG;5.07;;Stanescu;Marioara;ROU;1973;ESP;L´Hospitalet de Llobregat, Barcelona;2025-05-17;Female;Outdoor
-AL;1;WF46;KUG;10.99;;Vaske;Kim Marie;GER;2005;GER;Leverkusen;2025-07-05;Female;Outdoor
+AL;1;WF46;KUG;922;;Adamczyk;Kornelia;POL;2001;POL;Zamosc;2025-09-06;Female;Outdoor
 AL;1;WF54;KUG;7.09;;Nezhura;Yuliya;BLR;1975;UAE;Dubai;2025-02-11;Female;Outdoor
 AL;1;WF55;KUG;6.25;;Arsic;Ivana;SRB;1985;SRB;Krusevac;2025-07-19;Female;Outdoor
 AL;1;WF56;KUG;7.24;;Keramyda;Soultana;GRE;1989;GRE;Thessaloniki;2025-06-14;Female;Outdoor
@@ -329,7 +329,7 @@ AL;1;WF40;DIS;25.57;;Sliwinska;Renata;POL;1996;POL;Pila;2025-06-14;Female;Outdoo
 AL;1;WF41;DIS;13.2;;Birch;Abigail;GBR;2003;GBR;Manchester;2025-05-05;Female;Outdoor
 AL;1;WF42;DIS;17.29;;Okoh;Ndidikama;GBR;2002;GBR;Manchester;2025-08-30;Female;Outdoor
 AL;1;WF44;DIS;39.83;;Cronin;Bree;GBR;2003;GBR;Cardiff;2025-06-28;Female;Outdoor
-AL;1;WF46;DIS;27.14;;Adamczyk;Kornelia;POL;2001;POL;Pila;2025-06-14;Female;Outdoor
+AL;1;WF46;DIS;27.27;;Adamczyk;Kornelia;POL;2001;POL;Zamosc;2025-09-06;Female;Outdoor
 AL;1;WF51;DIS;14.16;;Ovsii;Zoia;UKR;1994;IND;New Delhi;2025-09-27;Female;Outdoor
 AL;1;WF54;DIS;9.17;;Kacanu;Eva;CZE;1965;CZE;Pardubice;2025-05-04;Female;Outdoor
 AL;1;WF55;DIS;26.51;;Krumina;Diana;LAT;1986;IND;New Delhi;2025-10-05;Female;Outdoor
@@ -337,13 +337,13 @@ AL;1;WF56;DIS;20.48;;Keramyda;Soultana;GRE;1989;GRE;Thessaloniki;2025-06-14;Fema
 AL;1;WF57;DIS;22.7;;Navarro Rodriguez;Gabriela Michell;ESP;1992;FRA;Paris;2025-06-03;Female;Outdoor
 AL;1;WF62;DIS;6.3;;Bochti;Iliana;GRE;2001;GRE;Thessaloniki;2025-06-14;Female;Outdoor
 AL;1;WF63;DIS;23.32;;Rogers;Julie;GBR;1998;GBR;Manchester;2025-08-30;Female;Outdoor
-AL;1;WF64;DIS;38.96;;Kotlowska;Faustyna;POL;2001;IND;New Delhi;2025-09-29;Female;Outdoor
+AL;1;WF64;DIS;40.56;;Kotlowska;Faustyna;POL;2001;POL;Warsaw;2025-08-30;Female;Outdoor
 AL;1;WF11;SPE;21.54;;Legnante;Assunta;ITA;1978;ITA;Jesolo (VE);2025-10-25;Female;Outdoor
 AL;1;WF12;SPE;37.74;;Kulinich-Sorokina;Anna;RUS;1992;IND;New Delhi;2025-09-28;Female;Outdoor
 AL;1;WF13;SPE;37.67;;Dabravolskaya;Lizaveta;BLR;2002;TUN;Tunis;2025-06-16;Female;Outdoor
 AL;1;WF33;SPE;13.71;;Isakova;Vera;RUS;1997;IND;New Delhi;2025-09-28;Female;Outdoor
 AL;1;WF34;SPE;17.96;;Herrmann;Frances;GER;1989;GER;Cottbus;2025-06-21;Female;Outdoor
-AL;1;WF35;SPE;18.28;;Maliszewska;Klaudia;POL;1992;POL;Wloclawek;2025-07-06;Female;Outdoor
+AL;1;WF35;SPE;21.21;;Maliszewska;Klaudia;POL;1992;POL;Warsaw;2025-08-30;Female;Outdoor
 AL;1;WF37;SPE;16.04;;Van Kerm;Selma;BEL;2006;;Istanbul;2025-07-27;Female;Outdoor
 AL;1;WF40;SPE;12.59;;Latre Sanmartin;Elena;ESP;2006;ESP;Gua;2025-04-13;Female;Outdoor
 AL;1;WF44;SPE;31.97;;Nesse;Ida;NOR;1992;FIN;Turku;2025-08-10;Female;Outdoor
@@ -354,5 +354,5 @@ AL;1;WF55;SPE;26.18;;Krumina;Diana;LAT;1986;IND;New Delhi;2025-10-01;Female;Outd
 AL;1;WF56;SPE;22.02;;Keramyda;Soultana;GRE;1989;IND;New Delhi;2025-10-01;Female;Outdoor
 AL;1;WF57;SPE;10.58;;Jusyte;Goda;LTU;2009;CZE;Olomouc;2025-07-03;Female;Outdoor
 AL;1;WF31;KEU;0.81;;Kvapilova;Eva;CZE;1987;CZE;Olomouc;2025-07-03;Female;Outdoor
-AL;1;WF32;KEU;29.3;;Kozakowska;Roza;POL;1989;IND;New Delhi;2025-09-30;Female;Outdoor
+AL;1;WF32;KEU;29.34;;Kozakowska;Roza;POL;1989;POL;Warsaw;2025-08-31;Female;Outdoor
 AL;1;WF51;KEU;24.45;;Gorlova;Elena;RUS;1981;TUN;Tunis;2025-06-16;Female;Outdoor
