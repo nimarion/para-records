@@ -92,8 +92,10 @@ AL;2;MT53;5S;10:02.0;;Romanchuk;Daniel;USA;1998;USA;Boston;2025-04-19;Male;Outdo
 AL;2;MT54;5S;10:02.0;;Romanchuk;Daniel;USA;1998;USA;Boston;2025-04-19;Male;Outdoor
 AL;2;MT12;10S;41:59.0;;Ramirez;Irwin;USA;1987;USA;Boston;2025-06-22;Male;Outdoor
 AL;2;MT54;10S;21:27.0;;Romanchuk;Daniel;USA;1998;USA;Boston;2025-06-22;Male;Outdoor
+AL;2;MT12;HAM;1:30:44.0;;Ramirez;Irwin;USA;1987;USA;Boston;2025-11-09;Male;Outdoor
 AL;2;MT53;HAM;50:08.0;;Siemann;Brian;USA;1989;USA;Chicago;2025-06-01;Male;Outdoor
 AL;2;MT54;HAM;43:43.0;;Romanchuk;Daniel;USA;1998;USA;Chicago;2025-06-01;Male;Outdoor
+AL;2;MT62;HAM;1:25:59.0;;Reynolds;Brian;USA;1988;USA;Boston;2025-11-09;Male;Outdoor
 AL;3;MT11;MAR;2:56:45;;Davrieux;Daniel;URU;1983;USA;Chicago;2025-10-12;Male;Outdoor
 AL;2;MT12;MAR;3:08:59;;Ramirez;Irwin;USA;1987;USA;Boston;2025-04-21;Male;Outdoor
 AL;2;MT52;MAR;2:40:28;;Farfan Ramirez;Mario;MEX;1992;USA;Duluth;2025-06-21;Male;Outdoor
@@ -245,6 +247,7 @@ AL;2;WT54;5K0;10:50.96;;Scaroni;Susannah;USA;1991;SUI;Nottwil;2025-05-25;Female;
 AL;2;WT53;5S;12:09.0;;McFadden;Tatyana;USA;1989;USA;Boston;2025-04-19;Female;Outdoor
 AL;2;WT54;5S;12:09.0;;McFadden;Tatyana;USA;1989;USA;Boston;2025-04-19;Female;Outdoor
 AL;2;WT54;10S;26:48.0;;McFadden;Tatyana;USA;1989;USA;Boston;2025-06-22;Female;Outdoor
+AL;2;WT53;HAM;1:01:02.0;;Hoang;Yen;USA;1997;USA;Boston;2025-11-09;Female;Outdoor
 AL;2;WT54;HAM;48:50.0;;Scaroni;Susannah;USA;1991;USA;Chicago;2025-06-01;Female;Outdoor
 AL;3;WT12;MAR;2:58:40;;de Jesus Santos;Edneusa;BRA;1976;ESP;Barcelona;2025-03-16;Female;Outdoor
 AL;2;WT34;MAR;2:32:32;;Houston;Eva;USA;2001;USA;Boston;2025-04-21;Female;Outdoor
