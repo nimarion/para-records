@@ -25,7 +25,7 @@ WL;;MT64;100;0:10.63;0.3;Streng;Felix;GER;1995;GER;Leichlingen;2025-06-13;Male;O
 WL;;MT71;100;0:20.71;-0.2;Krzyzek;Artur;POL;2000;POL;Wloclawek;2025-07-05;Male;Outdoor
 WL;;MT72;100;0:14.65;0.2;Calcagni;Carlo Fabio Marcello;ITA;1968;IND;New Delhi;2025-09-30;Male;Outdoor
 WL;;MT11;200;0:22.76;0.3;Adolphe;Timothee;FRA;1989;FRA;Poitiers;2025-06-28;Male;Outdoor
-WL;;MT12;200;0:24.16;0.2;Johnson;David;CAN;1999;CAN;Victoria;2025-05-11;Male;Outdoor
+WL;;MT12;200;0:23.23;0.4;de Oliveira;Marcos Vinicius;BRA;1995;BRA;Sao Paulo;2025-12-02;Male;Outdoor
 WL;;MT13;200;0:22.00;0.9;Suarez Cotilla;York Lazaro;CUB;2001;TUN;Tunis;2025-06-16;Male;Outdoor
 WL;;MT33;200;0:31.99;-1.3;Small;Andrew;GBR;1993;GBR;Aylesbury;2025-08-16;Male;Outdoor
 WL;;MT34;200;0:26.80;0.8;Manni;Henry;FIN;1992;SUI;Arbon;2025-05-29;Male;Outdoor
@@ -105,6 +105,7 @@ WL;;MT12;5K0;14:13.90;;Clifford;Jaryd;AUS;1999;CAN;Vancouver;2025-06-28;Male;Out
 WL;;MT13;5K0;15:01.38;;Oliveira Da Silva;Jean;BRA;1998;BRA;Sao Paulo;2025-04-23;Male;Outdoor
 WL;;MT20;5K0;14:20.14;;Sandilands;Ben;GBR;2003;GBR;Manchester;2025-05-05;Male;Outdoor
 WL;;MT34;5K0;10:01.50;;Ktila;Walid;TUN;1985;UAE;Sharjah;2025-02-04;Male;Outdoor
+WL;;MT37;5K0;19:22.95;;Coelho Da Silva;Francisco Daniel;BRA;1989;BRA;Sao Paulo;2025-12-03;Male;Outdoor
 WL;;MT38;5K0;14:45.79;;Hincksman;Angus;AUS;2005;CAN;Vancouver;2025-06-28;Male;Outdoor
 WL;;MT44;5K0;20:36.57;;Cappelletti;Matteo;ITA;1978;ITA;Jesolo (VE);2025-10-26;Male;Outdoor
 WL;;MT53;5K0;10:26.63;;Siemann;Brian;USA;1989;USA;Champaign;2025-07-01;Male;Outdoor
@@ -191,7 +192,7 @@ WL;;MF13;DIS;43.71;;Silva de Souza;Jorge Luiz;BRA;1978;BRA;Sao Paulo;2025-07-18;
 WL;;MF32;DIS;19.36;;Mehideb;Ahmed;ALG;1995;ALG;Oran;2025-07-03;Male;Outdoor
 WL;;MF33;DIS;29.78;;Alnakhli;Hani;KSA;1986;UAE;Sharjah;2025-02-02;Male;Outdoor
 WL;;MF34;DIS;34.07;;Horacek;Tomas;CZE;1986;CZE;Pardubice;2025-09-21;Male;Outdoor
-WL;;MF35;DIS;32.64;;Zholaman;Yelaman;KAZ;1995;MAR;Marrakech;2025-04-26;Male;Outdoor
+WL;;MF35;DIS;34.21;;Pereira Leao;Pedro;BRA;2005;BRA;Sao Paulo;2025-12-02;Male;Outdoor
 WL;;MF36;DIS;38.64;;Al Kaabi;Mohammed;UAE;1996;UAE;Sharjah;2025-02-02;Male;Outdoor
 WL;;MF37;DIS;56.59;;Lopez Valenzuela;Luis Carlos;MEX;1999;IND;New Delhi;2025-10-02;Male;Outdoor
 WL;;MF38;DIS;56.08;;Jenkins;Michael;GBR;2004;GBR;Cardiff;2025-06-28;Male;Outdoor
@@ -216,7 +217,7 @@ WL;;MF12;SPE;60.27;;Cabrera Llacer;Hector;ESP;1994;IND;New Delhi;2025-10-04;Male
 WL;;MF13;SPE;68.51;;Pembroke;Daniel;GBR;1991;IND;New Delhi;2025-10-04;Male;Outdoor
 WL;;MF33;SPE;21.31;;Alnakhli;Hani;KSA;1986;UAE;Dubai;2025-02-12;Male;Outdoor
 WL;;MF34;SPE;41.52;;Afrooz;Saeid;IRI;1990;IND;New Delhi;2025-10-02;Male;Outdoor
-WL;;MF35;SPE;35.98;;Zholaman;Yelaman;KAZ;1995;MAR;Marrakech;2025-04-26;Male;Outdoor
+WL;;MF35;SPE;43;;Cybulski;Leandro;BRA;1988;BRA;Sao Paulo;2025-12-03;Male;Outdoor
 WL;;MF36;SPE;20.31;;Unate Mendez;Sebastian;COL;1996;COL;Cali;2025-03-15;Male;Outdoor
 WL;;MF37;SPE;54.83;;;Haney;IND;2006;UAE;Sharjah;2025-02-03;Male;Outdoor
 WL;;MF38;SPE;60.94;;Lemos Rivas;Jose Gregorio;COL;1991;IND;New Delhi;2025-10-01;Male;Outdoor
@@ -292,6 +293,7 @@ WL;;WT34;400;0:54.08;;Cockroft;Hannah;GBR;1992;SUI;Arbon;2025-05-29;Female;Outdo
 WL;;WT36;400;1:12.35;;Colley;Tamsin;AUS;2002;AUS;Perth;2025-04-10;Female;Outdoor
 WL;;WT37;400;1:01.18;;Kobzar;Nataliia;UKR;2000;IND;New Delhi;2025-09-28;Female;Outdoor
 WL;;WT38;400;0:59.45;;Palomeque Moreno;Karen Tatiana;COL;1994;IND;New Delhi;2025-10-05;Female;Outdoor
+WL;;WT45;400;1:21.89;;dos Santos Silva;Nanilza;BRA;1986;BRA;Sao Paulo;2025-12-03;Female;Outdoor
 WL;;WT46;400;0:57.78;;Ross;Jule;GER;2006;IND;New Delhi;2025-10-02;Female;Outdoor
 WL;;WT47;400;0:56.17;;Augusto Da Silva;Maria Clara;BRA;2004;IND;New Delhi;2025-10-02;Female;Outdoor
 WL;;WT52;400;1:22.23;;Tanaka;Teruyo;JPN;1959;JPN;Mihama;2025-05-18;Female;Outdoor
@@ -397,7 +399,7 @@ WL;;WF13;DIS;31.88;;Dabravolskaya;Lizaveta;BLR;2002;TUN;Tunis;2025-06-16;Female;
 WL;;WF32;DIS;11.65;;Gasmi;Mounia;ALG;1990;ALG;Oran;2025-07-01;Female;Outdoor
 WL;;WF33;DIS;18.46;;Hanes;Julia;CAN;1995;CAN;Ottawa;2025-07-30;Female;Outdoor
 WL;;WF34;DIS;19.21;;Kornobys;Lucyna;POL;1978;POL;Wloclawek;2025-07-05;Female;Outdoor
-WL;;WF35;DIS;20.01;;Maliszewska;Klaudia;POL;1992;POL;Wloclawek;2025-07-04;Female;Outdoor
+WL;;WF35;DIS;20.39;;Mossmann;Amanda;BRA;2005;BRA;Sao Paulo;2025-12-01;Female;Outdoor
 WL;;WF37;DIS;36.85;;Kruger;Simone;RSA;2005;CZE;Olomouc;2025-07-04;Female;Outdoor
 WL;;WF38;DIS;37.39;;Kruger;Simone;RSA;2005;IND;New Delhi;2025-10-05;Female;Outdoor
 WL;;WF40;DIS;25.57;;Sliwinska;Renata;POL;1996;POL;Pila;2025-06-14;Female;Outdoor
