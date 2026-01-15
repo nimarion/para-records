@@ -34,6 +34,7 @@ AL;6;MT54;400;0:46.72;;Carter;Samuel;AUS;1991;SUI;Arbon;2025-05-31;Male;Outdoor
 AL;6;MT72;400;2:41.91;;Mattinson;Thomas;AUS;2009;DEN;København;2025-07-11;Male;Outdoor
 AL;6;MT20;800;2:01.51;;Milone;Daniel;AUS;2001;IND;New Delhi;2025-10-01;Male;Outdoor
 AL;6;MT34;800;1:38.19;;McCracken;Rheed;AUS;1997;SUI;Arbon;2025-06-01;Male;Outdoor
+AL;6;MT35;800;2:50.24;;Papacostantinou;Maximos;AUS;2008;AUS;Melbourne;2025-12-07;Male;Outdoor
 AL;6;MT37;800;2:09.87;;Reeve;Leopold;AUS;2007;AUS;Perth;2025-04-12;Male;Outdoor
 AL;6;MT38;800;1:52.37;;Langdon;Reece;AUS;1996;AUS;Melbourne;2025-03-27;Male;Outdoor
 AL;6;MT53;800;1:50.62;;Colman;Richard;AUS;1984;AUS;Canberra;2025-01-23;Male;Outdoor
@@ -69,7 +70,7 @@ AL;6;MF56;KUG;9.11;;Dimond;Jonti;NZL;1992;AUS;Canberra;2025-01-26;Male;Outdoor
 AL;6;MF13;DIS;39.36;;Hanning;Corran;NZL;2004;NZL;Hastings;2025-02-01;Male;Outdoor
 AL;6;MF33;DIS;22.05;;Wyatt;Jessee;AUS;1996;AUS;Melbourne;2025-02-23;Male;Outdoor
 AL;6;MF37;DIS;35.96;;Lappin;Zack;NZL;2005;NZL;Dunedin;2025-11-22;Male;Outdoor
-AL;6;MF46;DIS;31.24;;Sahlqvist;Luke;AUS;2008;AUS;Canberra;2025-01-25;Male;Outdoor
+AL;6;MF46;DIS;37.85;;Sahlqvist;Luke;AUS;2008;AUS;Melbourne;2025-12-06;Male;Outdoor
 AL;6;MF56;DIS;19.79;;Dimond;Jonti;NZL;1992;AUS;Canberra;2025-01-27;Male;Outdoor
 AL;6;MF13;SPE;28.43;;Hanning;Corran;NZL;2004;NZL;Wellington;2025-01-20;Male;Outdoor
 AL;6;MF34;SPE;15.71;;Poff;Rorie;NZL;2005;NZL;Dunedin;2025-11-22;Male;Outdoor
@@ -87,7 +88,7 @@ AL;6;WT35;100;0:16.32;1.6;Giddings;Summer;AUS;2002;AUS;Perth;2025-04-12;Female;O
 AL;6;WT36;100;0:13.43;-0.6;Aitchison;Danielle;NZL;2001;IND;New Delhi;2025-09-30;Female;Outdoor
 AL;6;WT37;100;0:13.77;1.3;Snowden;Akeesha;AUS;2005;AUS;Adelaide;2025-03-08;Female;Outdoor
 AL;6;WT38;100;0:12.77;1.6;Clarke;Rhiannon;AUS;2002;AUS;Perth;2025-04-12;Female;Outdoor
-AL;6;WT44;100;0:14.83;-0.8;Elcoate;Makayla;AUS;2011;IND;New Delhi;2025-10-01;Female;Outdoor
+AL;6;WT44;100;0:14.38;0.2;Elcoate;Makayla;AUS;2011;AUS;Melbourne;2025-12-05;Female;Outdoor
 AL;6;WT47;100;0:12.29;-0.6;Grimaldi;Anna;NZL;1997;IND;New Delhi;2025-09-29;Female;Outdoor
 AL;6;WT53;100;0:17.70;1.1;Ballard;Angela;AUS;1982;SUI;Nottwil;2025-05-24;Female;Outdoor
 AL;6;WT54;100;0:17.61;0.0;Fisher;Aimee;AUS;2001;SUI;Nottwil;2025-05-24;Female;Outdoor
@@ -118,7 +119,7 @@ AL;6;WT20;800;2:40.69;;Scott;Belinda;AUS;2001;AUS;Perth;2025-04-12;Female;Outdoo
 AL;6;WT33;800;2:50.58;;Clifton-Bligh;Sarah;AUS;2004;AUS;Canberra;2025-01-23;Female;Outdoor
 AL;6;WT34;800;2:21.76;;Espie;Coco;AUS;2008;SUI;Arbon;2025-06-01;Female;Outdoor
 AL;6;WT36;800;2:49.04;;Colley;Tamsin;AUS;2002;AUS;Sydney;2025-03-20;Female;Outdoor
-AL;6;WT38;800;2:50.63;;Sharp;Layla;AUS;2007;AUS;Sydney;2025-03-16;Female;Outdoor
+AL;6;WT38;800;2:48.96;;Sharp;Layla;AUS;2007;AUS;Melbourne;2025-12-07;Female;Outdoor
 AL;6;WT53;800;1:54.86;;Ballard;Angela;AUS;1982;SUI;Arbon;2025-06-01;Female;Outdoor
 AL;6;WT54;800;2:15.83;;Wright;Gabrielle;NZL;2004;SUI;Arbon;2025-05-29;Female;Outdoor
 AL;6;WT72;800;3:38.18;;Neuenkirchen;Kim;AUS;1967;AUS;Rooty Hill;2025-06-14;Female;Outdoor
@@ -138,12 +139,12 @@ AL;6;WT20;WEI;5.2;1.5;Blacksmith;Telaya;AUS;2007;AUS;Perth;2025-04-10;Female;Out
 AL;6;WT35;WEI;3.27;1.5;Giddings;Summer;AUS;2002;AUS;Perth;2025-04-10;Female;Outdoor
 AL;6;WT37;WEI;4.11;1.5;Mac Alasdair;Niamh;AUS;2005;AUS;Perth;2025-04-10;Female;Outdoor
 AL;6;WT38;WEI;4.22;0.9;Prior;Reese;AUS;2007;AUS;Perth;2025-04-11;Female;Outdoor
-AL;6;WT44;WEI;4.04;-1.1;Elcoate;Makayla;AUS;2011;IND;New Delhi;2025-10-03;Female;Outdoor
+AL;6;WT44;WEI;4.19;0.6;Elcoate;Makayla;AUS;2011;AUS;Melbourne;2025-12-04;Female;Outdoor
 AL;6;WT61;WEI;5.71;1.3;Low;Vanessa;AUS;1990;AUS;Perth;2025-04-10;Female;Outdoor
 AL;6;WT64;WEI;5.14;-0.9;Walsh;Sarah;AUS;1998;IND;New Delhi;2025-10-03;Female;Outdoor
 AL;6;WF32;KUG;6.01;;Little;Rosemary;AUS;1982;AUS;Perth;2025-04-10;Female;Outdoor
 AL;6;WF34;KUG;4.13;;Espie;Coco;AUS;2008;AUS;Canberra;2025-01-23;Female;Outdoor
-AL;6;WF36;KUG;8.3;;Wright;Kirra;AUS;2008;IND;New Delhi;2025-09-27;Female;Outdoor
+AL;6;WF36;KUG;8.41;;Wright;Kirra;AUS;2008;AUS;Melbourne;2025-12-05;Female;Outdoor
 AL;6;WF37;KUG;13.83;;Adams;Lisa;NZL;1990;IND;New Delhi;2025-09-28;Female;Outdoor
 AL;6;WF38;KUG;8.78;;Robertson;Nicole;AUS;2002;AUS;Perth;2025-04-13;Female;Outdoor
 AL;6;WF46;KUG;12.86;;Robinson;Holly;NZL;1994;IND;New Delhi;2025-10-02;Female;Outdoor
