@@ -51,6 +51,7 @@ AL;3;MT35;400;1:05.67;;Acosta Mendez;Julian;COL;2004;COL;Cali;2025-03-15;Male;Ou
 AL;3;MT36;400;0:57.08;;Chavez;Alexis Sebastian;ARG;2002;IND;New Delhi;2025-09-29;Male;Outdoor
 AL;3;MT37;400;0:50.13;;Da Silva Chaves;Bartolomeu;BRA;2001;IND;New Delhi;2025-10-02;Male;Outdoor
 AL;2;MT38;400;0:48.00;;Blackwell;Jaydin;USA;2004;IND;New Delhi;2025-10-01;Male;Outdoor
+AL;3;MT43;400;1:08.93;;Goncalves;Daniel;BRA;2008;BRA;Sao Paulo;2025-12-03;Male;Outdoor
 AL;2;MT44;400;0:59.25;;Donnan;Timothy;USA;2006;USA;Grand Rapids;2025-07-14;Male;Outdoor
 AL;2;MT45;400;0:50.45;;Sample;Rayven;USA;2002;USA;Eugene;2025-08-02;Male;Outdoor
 AL;3;MT46;400;0:49.08;;Lara Rodallega;Luis Fernando;COL;2000;COL;Cali;2025-05-17;Male;Outdoor
@@ -64,7 +65,8 @@ AL;3;MT72;400;1:05.17;;Matos Marques Cunha;Joao;BRA;2007;BRA;Sao Paulo;2025-12-0
 AL;3;MT11;800;2:29.39;;Coelho Da Silva;Josoaldo;BRA;1987;BRA;Sao Paulo;2025-12-02;Male;Outdoor
 AL;2;MT20;800;1:54.05;;Barber;Michael;CAN;2000;CAN;Vancouver;2025-06-28;Male;Outdoor
 AL;2;MT34;800;1:35.78;;Smeenk;Austin;CAN;1997;SUI;Arbon;2025-06-01;Male;Outdoor
-AL;3;MT37;800;2:13.25;;Gomez Pinto;Jhonier Sneider;COL;2000;COL;Cali;2025-03-16;Male;Outdoor
+AL;3;MT35;800;2:41.57;;dos Santos Xavier;Bruno;BRA;1993;BRA;Sao Paulo;2025-12-02;Male;Outdoor
+AL;3;MT37;800;2:13.13;;de Macedo;David Benedito;BRA;1984;BRA;Sao Paulo;2025-12-02;Male;Outdoor
 AL;2;MT38;800;1:59.76;;Stanley;Liam;CAN;1997;CAN;Vancouver;2025-06-28;Male;Outdoor
 AL;2;MT44;800;2:13.89;;Donnan;Timothy;USA;2006;USA;Grand Rapids;2025-07-14;Male;Outdoor
 AL;3;MT46;800;2:09.75;;Ramos Silva;Tiago;BRA;2005;BRA;Sao Paulo;2025-12-02;Male;Outdoor
@@ -76,6 +78,7 @@ AL;3;MT12;1K5;4:03.33;;Oliveira Da Silva;Jean;BRA;1998;IND;New Delhi;2025-09-30;
 AL;2;MT13;1K5;3:47.70;;Gomez;Joel;USA;2003;GER;Weinstadt;2025-06-20;Male;Outdoor
 AL;2;MT20;1K5;3:48.12;;Brannigan;Michael;USA;1996;USA;Eugene;2025-08-02;Male;Outdoor
 AL;2;MT34;1K5;3:03.34;;Smeenk;Austin;CAN;1997;SUI;Arbon;2025-05-31;Male;Outdoor
+AL;3;MT35;1K5;5:39.75;;dos Santos Xavier;Bruno;BRA;1993;BRA;Sao Paulo;2025-12-01;Male;Outdoor
 AL;3;MT37;1K5;4:29.30;;Gomez Pinto;Jhonier Sneider;COL;2000;COL;Cali;2025-03-15;Male;Outdoor
 AL;2;MT38;1K5;3:56.91;;Tucker;Nate;CAN;1995;CAN;Coquitlam;2025-07-05;Male;Outdoor
 AL;2;MT44;1K5;4:33.79;;Donnan;Timothy;USA;2006;USA;Grand Rapids;2025-07-14;Male;Outdoor
@@ -87,7 +90,7 @@ AL;3;MT11;5K0;15:29.73;;Jacques;Yeltsin;BRA;1991;IND;New Delhi;2025-09-27;Male;O
 AL;3;MT12;5K0;15:13.97;;Oliveira Da Silva;Jean;BRA;1998;BRA;Sao Paulo;2025-12-03;Male;Outdoor
 AL;3;MT13;5K0;15:01.38;;Oliveira Da Silva;Jean;BRA;1998;BRA;Sao Paulo;2025-04-23;Male;Outdoor
 AL;2;MT20;5K0;14:33.74;;Brannigan;Michael;USA;1996;USA;Des Moines;2025-04-24;Male;Outdoor
-AL;3;MT37;5K0;19:22.95;;Coelho Da Silva;Francisco Daniel;BRA;1989;BRA;Sao Paulo;2025-12-03;Male;Outdoor
+AL;3;MT37;5K0;17:24.42;;de Macedo;David Benedito;BRA;1984;BRA;Sao Paulo;2025-12-03;Male;Outdoor
 AL;2;MT53;5K0;10:26.63;;Siemann;Brian;USA;1989;USA;Champaign;2025-07-01;Male;Outdoor
 AL;2;MT54;5K0;10:01.74;;Jimenez-Vergara;Miguel;USA;2000;UAE;Sharjah;2025-02-04;Male;Outdoor
 AL;2;MT12;5S;20:09.0;;Ramirez;Irwin;USA;1987;USA;Boston;2025-04-19;Male;Outdoor
@@ -106,6 +109,7 @@ AL;2;MT51;MAR;2:50:16;;Fonseca;Ernesto;CRC;1981;JPN;Oita;2025-11-16;Male;Outdoor
 AL;3;MT52;MAR;2:03:14;;Torres Ortiz;Cristian Eduardo;COL;1981;JPN;Oita;2025-11-16;Male;Outdoor
 AL;2;MT53;MAR;1:28:58;;Lakatos;Brent;CAN;1980;GER;Berlin;2025-09-21;Male;Outdoor
 AL;2;MT54;MAR;1:25:58;;Romanchuk;Daniel;USA;1998;USA;Boston;2025-04-21;Male;Outdoor
+AL;3;MT11;HOC;1.2;;Euripedes Pacheco;Clayton;BRA;1969;BRA;Sao Paulo;2025-12-02;Male;Outdoor
 AL;3;MT42;HOC;1.5;;Moraes Da Costa;Gabriel Euzebio;BRA;2006;BRA;Sao Paulo;2025-04-20;Male;Outdoor
 AL;3;MT44;HOC;1.95;;Uribe Pimentel;Rafael Augusto;VEN;1985;FRA;Paris;2025-06-03;Male;Outdoor
 AL;2;MT46;HOC;2.06;;Townsend;Roderick;USA;1992;USA;Chula Vista;2025-06-29;Male;Outdoor
@@ -139,12 +143,13 @@ AL;3;MF38;KUG;20.38;;Moreno Denis;Levin;COL;1989;IND;New Delhi;2025-10-04;Male;O
 AL;2;MF40;KUG;9.81;;Sanchez Vega;Ruben Nahum;MEX;2001;FRA;Paris;2025-06-03;Male;Outdoor
 AL;2;MF41;KUG;11.86;;Landry;Hagan;USA;1994;USA;Eugene;2025-07-31;Male;Outdoor
 AL;3;MF42;KUG;14.96;;Roberto Floriani;Edenilson;BRA;1990;IND;New Delhi;2025-10-05;Male;Outdoor
+AL;3;MF44;KUG;12.17;;Pereira Da Silva;Edevaldo;BRA;1981;BRA;Sao Paulo;2025-12-01;Male;Outdoor
 AL;2;MF46;KUG;16.68;;Stewart;Greg;CAN;1986;IND;New Delhi;2025-10-03;Male;Outdoor
-AL;3;MF52;KUG;5.82;;Castano Salazar;Carlos Roosselvelt;COL;1984;COL;Cali;2025-03-14;Male;Outdoor
+AL;3;MF52;KUG;8.32;;Freitas;Cleiton;BRA;1991;BRA;Sao Paulo;2025-12-01;Male;Outdoor
 AL;2;MF53;KUG;6.79;;Severn;Scot;USA;1968;USA;Lake Forest & Willamette;2025-06-14;Male;Outdoor
 AL;2;MF54;KUG;11.66;;Salinas Ventura;Johnatan Abel;MEX;1984;IND;New Delhi;2025-09-28;Male;Outdoor
 AL;3;MF55;KUG;11.37;;Santos;Wallace;BRA;1984;BRA;São Paulo;2025-08-23;Male;Outdoor
-AL;3;MF56;KUG;11.42;;Batista dos Santos;Claudiney;BRA;1978;BRA;Sao Paulo;2025-07-13;Male;Outdoor
+AL;3;MF56;KUG;11.48;;Batista dos Santos;Claudiney;BRA;1978;BRA;Sao Paulo;2025-12-01;Male;Outdoor
 AL;3;MF57;KUG;14.82;;Paulino dos Santos;Thiago;BRA;1985;IND;New Delhi;2025-10-04;Male;Outdoor
 AL;3;MF63;KUG;10.95;;Leal;Victor Eduardo;COL;1986;COL;Cali;2025-05-17;Male;Outdoor
 AL;2;MF64;KUG;13.64;;Dorais;Mathieu;CAN;2000;CAN;Ottawa;2025-08-01;Male;Outdoor
@@ -183,7 +188,7 @@ AL;3;MF44;SPE;52.05;;Rodriguez Chirinos;Romy Roger;VEN;1984;TUN;Tunis;2025-06-16
 AL;2;MF46;SPE;63.34;;Varona Gonzalez;Guillermo;CUB;1995;IND;New Delhi;2025-09-29;Male;Outdoor
 AL;2;MF54;SPE;31.05;;Phongsavanh;Justin;USA;1997;IND;New Delhi;2025-10-04;Male;Outdoor
 AL;3;MF55;SPE;31.27;;Varelo de Oliveira;Sandro;BRA;1981;BRA;Sao Paulo;2025-04-25;Male;Outdoor
-AL;3;MF56;SPE;36.03;;Batista dos Santos;Claudiney;BRA;1978;BRA;Sao Paulo;2025-07-18;Male;Outdoor
+AL;3;MF56;SPE;38.54;;Batista dos Santos;Claudiney;BRA;1978;BRA;Sao Paulo;2025-12-02;Male;Outdoor
 AL;3;MF57;SPE;50.1;;Lins Nobre;Cicero Valdiran;BRA;1992;BRA;Sao Paulo;2025-04-23;Male;Outdoor
 AL;3;MF64;SPE;48.38;;Soto Mina;Tomas Felipe;COL;2007;IND;New Delhi;2025-09-30;Male;Outdoor
 AL;3;MF31;KEU;26.15;;Da Silva;Rafael Mateus;BRA;1986;BRA;Sao Paulo;2025-04-26;Male;Outdoor
