@@ -1,17 +1,17 @@
 Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Geschlecht;Umgebung
-AR;6;MT12;100;0:11.16;1.5;Jason;Nathan;AUS;2002;AUS;Perth;2025-04-12;Male;Outdoor
+AR;6;MT12;100;0:11.04;1.0;Jason;Nathan;AUS;2002;IND;New Delhi;2025-09-27;Male;Outdoor
 AR;6;MT13;100;0:10.80;-0.1;Perris;Chad;AUS;1992;FRA;Paris;2024-09-01;Male;Outdoor
 AR;6;MT33;100;0:19.90;0.0;Jones;Lachlan;AUS;1977;USA;Atlanta;1996-08-17;Male;Outdoor
 AR;6;MT34;100;0:14.63;0.0;McCracken;Rheed;AUS;1997;SUI;Arbon;2025-06-01;Male;Outdoor
-AR;6;MT35;100;0:12.71;-1.2;Love;Jackson;AUS;2006;AUS;Canberra;2025-01-26;Male;Outdoor
+AR;6;MT35;100;0:12.34;1.0;Love;Jackson;AUS;2006;IND;New Delhi;2025-10-03;Male;Outdoor
 AR;6;MT36;100;0:11.72;0.7;Turner;James;AUS;1996;UAE;Dubai;2019-11-10;Male;Outdoor
-AR;6;MT37;100;0:12.08;0.6;Smith;Joseph;NZL;1997;FRA;Paris;2023-07-09;Male;Outdoor
+AR;6;MT37;100;0:11.80;1.3;Allen;Samuel;AUS;2007;IND;New Delhi;2025-09-27;Male;Outdoor
 AR;6;MT38;100;0:10.79;0.4;O'Hanlon;Evan;AUS;1988;GBR;London;2012-09-01;Male;Outdoor
-AR;6;MT44;100;0:12.76;1.5;Shippley;Michael;AUS;1992;AUS;Perth;2025-04-12;Male;Outdoor
+AR;6;MT44;100;0:12.68;-0.1;Shippley;Michael;AUS;1992;IND;New Delhi;2025-09-29;Male;Outdoor
 AR;6;MT46;100;0:10.95;1.5;Page;Jaydon;AUS;2004;AUS;Perth;2025-04-12;Male;Outdoor
 AR;6;MT47;100;0:10.95;1.5;Page;Jaydon;AUS;2004;AUS;Perth;2025-04-12;Male;Outdoor
 AR;6;MT51;100;0:29.70;1.1;Bennet;Glen;AUS;;AUS;Sydney;2005-01-28;Male;Outdoor
-AR;6;MT52;100;0:17.26;0.1;McIntosh;Sam;AUS;1990;SUI;Arbon;2025-06-01;Male;Outdoor
+AR;6;MT52;100;0:17.25;0.8;McIntosh;Sam;AUS;1990;IND;New Delhi;2025-10-04;Male;Outdoor
 AR;6;MT53;100;0:15.66;0.5;Colman;Richard;AUS;1984;AUS;Brisbane;2015-03-07;Male;Outdoor
 AR;6;MT54;100;0:13.94;1.1;Carter;Samuel;AUS;1991;UAE;Dubai;2019-11-07;Male;Outdoor
 AR;6;MT63;100;0:12.13;0.6;Reardon;Scott;AUS;1990;QAT;Doha;2015-10-25;Male;Outdoor
@@ -23,9 +23,9 @@ AR;6;MT12;200;0:23.73;1.0;Fitzpatrick;Jonathan;AUS;1986;NED;Assen;2006-09-05;Mal
 AR;6;MT13;200;0:21.82;1.5;Perris;Chad;AUS;1992;QAT;Doha;2015-10-26;Male;Outdoor
 AR;6;MT33;200;0:37.12;0.0;Jones;Lachlan;AUS;1977;GBR;Birmingham;1998-08-10;Male;Outdoor
 AR;6;MT34;200;0:26.38;0.0;McCracken;Rheed;AUS;1997;AUS;Canberra;2019-01-21;Male;Outdoor
-AR;6;MT35;200;0:27.13;-0.2;Netting;Jack;AUS;2001;AUS;Perth;2025-04-13;Male;Outdoor
+AR;6;MT35;200;0:24.71;-0.1;Love;Jackson;AUS;2006;IND;New Delhi;2025-09-30;Male;Outdoor
 AR;6;MT36;200;0:23.80;0.8;Turner;James;AUS;1996;AUS;Canberra;2025-01-27;Male;Outdoor
-AR;6;MT37;200;0:24.45;0.0;Allen;Samuel;AUS;2007;AUS;Perth;2025-04-13;Male;Outdoor
+AR;6;MT37;200;0:23.72;-0.4;Allen;Samuel;AUS;2007;IND;New Delhi;2025-09-30;Male;Outdoor
 AR;6;MT38;200;0:21.82;-0.2;O'Hanlon;Evan;AUS;1988;GBR;London;2012-09-08;Male;Outdoor
 AR;6;MT46;200;0:21.74;0.8;Francis;Heath;AUS;1981;CHN;Beijing;2008-09-09;Male;Outdoor
 AR;6;MT47;200;0:21.74;0.8;Francis;Heath;AUS;1981;CHN;Beijing;2008-09-09;Male;Outdoor
@@ -34,7 +34,7 @@ AR;6;MT52;200;0:33.08;1.5;McIntosh;Sam;AUS;1990;AUS;Canberra;2014-01-21;Male;Out
 AR;6;MT53;200;0:26.67;0.2;Colman;Richard;AUS;1984;GBR;London;2012-09-07;Male;Outdoor
 AR;6;MT54;200;0:24.51;1.6;Carter;Samuel;AUS;1991;SUI;Arbon;2019-06-01;Male;Outdoor
 AR;6;MT63;200;0:25.27;1.1;Reardon;Scott;AUS;1990;QAT;Doha;2015-10-27;Male;Outdoor
-AR;6;MT64;200;0:23.15;0.7;Joynt;Mitchell;NZL;1995;JPN;Kobe;2024-05-25;Male;Outdoor
+AR;6;MT64;200;0:22.98;1.7;Joynt;Mitchell;NZL;1995;IND;New Delhi;2025-10-05;Male;Outdoor
 AR;6;MT71;200;0:54.65;0.0;Mattinson;Thomas;AUS;2009;DEN;Bagsværd;2024-07-12;Male;Outdoor
 AR;6;MT72;200;0:48.61;0.4;Reynolds;Caleb;AUS;2005;DEN;Bagsværd;2024-07-12;Male;Outdoor
 AR;6;MT11;400;0:54.31;;Harpur;Paul;AUS;1979;GRE;Athens;2004-09-25;Male;Outdoor
@@ -57,7 +57,7 @@ AR;6;MT71;400;1:52.91;;Mattinson;Thomas;AUS;2009;DEN;Bagsværd;2024-07-12;Male;O
 AR;6;MT72;400;1:38.97;;Reynolds;Caleb;AUS;2005;DEN;Bagsværd;2024-07-12;Male;Outdoor
 AR;6;MT12;800;2:01.48;;Speed;Ian;AUS;1973;CHN;Beijing;2008-09-08;Male;Outdoor
 AR;6;MT13;800;1:53.90;;Prendergast;Tim;NZL;1979;NZL;Wellington;2003-01-17;Male;Outdoor
-AR;6;MT20;800;2:03.41;;Milone;Daniel;AUS;2001;AUS;Perth;2025-04-12;Male;Outdoor
+AR;6;MT20;800;2:01.51;;Milone;Daniel;AUS;2001;IND;New Delhi;2025-10-01;Male;Outdoor
 AR;6;MT33;800;2:14.50;;Jones;Lachlan;AUS;1977;USA;New London;2005-07-09;Male;Outdoor
 AR;6;MT34;800;1:38.19;;McCracken;Rheed;AUS;1997;SUI;Arbon;2025-06-01;Male;Outdoor
 AR;6;MT35;800;2:51.77;;Drabkin;Ori;AUS;2005;AUS;Sydney;2022-04-03;Male;Outdoor
@@ -107,7 +107,7 @@ AR;6;MT13;WEI;4.99;1.1;Prakash;Ranjesh;FIJ;1989;MAS;Kuala Lumpur;2006-11-27;Male
 AR;6;MT20;WEI;7.19;1.4;Hum;Nicholas;AUS;1993;AUS;Melbourne;2022-03-19;Male;Outdoor
 AR;6;MT36;WEI;5.85;0.1;Stedman;William;NZL;1999;JPN;Kobe;2024-05-25;Male;Outdoor
 AR;6;MT37;WEI;5.98;0.4;Thrupp;Darren;AUS;1966;GRE;Athens;2004-09-20;Male;Outdoor
-AR;6;MT38;WEI;6.16;-0.3;Gesini;Ari;AUS;2001;UAE;Dubai;2019-11-15;Male;Outdoor
+AR;6;MT38;WEI;6.33;1.2;Mayne;Michael;AUS;2004;IND;New Delhi;2025-10-02;Male;Outdoor
 AR;6;MT42;WEI;3.57;0.0;Ferguson;Billy;AUS;;AUS;Brisbane;2003-03-29;Male;Outdoor
 AR;6;MT46;WEI;5.57;1.5;Jordan;Anthony;AUS;2005;AUS;Australia;2021-04-19;Male;Outdoor
 AR;6;MT47;WEI;5.57;1.5;Jordan;Anthony;AUS;2005;AUS;Australia;2021-04-19;Male;Outdoor
@@ -191,7 +191,7 @@ AR;6;WT11;200;0:32.93;0.0;Senikula;Ruci;FIJ;1986;MAS;Kuala Lumpur;2006-11-27;Fem
 AR;6;WT13;200;0:27.73;-0.5;Harbeck;Courtney;AUS;1989;CHN;Beijing;2008-09-13;Female;Outdoor
 AR;6;WT34;200;0:32.83;0.0;Little;Rosemary;AUS;;SUI;Nottwil;2015-05-31;Female;Outdoor
 AR;6;WT35;200;0:27.94;0.4;Holt;Isis;AUS;2001;JPN;Tokyo;2021-08-29;Female;Outdoor
-AR;6;WT36;200;0:27.47;-0.1;Aitchison;Danielle;NZL;2001;JPN;Kobe;2024-05-23;Female;Outdoor
+AR;6;WT36;200;0:27.18;1.0;Aitchison;Danielle;NZL;2001;IND;New Delhi;2025-10-03;Female;Outdoor
 AR;6;WT37;200;0:28.42;-0.3;McIntosh;Lisa;AUS;1982;AUS;Sydney;2000-10-27;Female;Outdoor
 AR;6;WT38;200;0:26.76;-0.5;Clarke;Rhiannon;AUS;2002;IND;New Delhi;2025-03-13;Female;Outdoor
 AR;6;WT44;200;0:28.36;1.1;Horan;Kate;NZL;1975;CHN;Beijing;2008-09-09;Female;Outdoor
@@ -229,7 +229,7 @@ AR;6;WT20;1K5;4:31.54;;Colman;Annabelle;AUS;2004;FRA;Paris;2024-09-06;Female;Out
 AR;6;WT36;1K5;6:00.09;;Colley;Tamsin;AUS;2002;AUS;Perth;2025-04-11;Female;Outdoor
 AR;6;WT53;1K5;3:13.27;;de Rozario;Madison;AUS;1993;SUI;Nottwil;2018-05-26;Female;Outdoor
 AR;6;WT54;1K5;3:13.27;;de Rozario;Madison;AUS;1993;SUI;Nottwil;2018-05-26;Female;Outdoor
-AR;6;WT72;1K5;7:10.24;;Neuenkirchen;Kim;AUS;1967;DEN;Bagsværd;2024-07-12;Female;Outdoor
+AR;6;WT72;1K5;7:10.24;;Neuenkirchen;Kim;AUS;;DEN;Bagsværd;2024-07-12;Female;Outdoor
 AR;6;WT53;5K0;10:59.05;;de Rozario;Madison;AUS;1993;SUI;Nottwil;2019-05-26;Female;Outdoor
 AR;6;WT54;5K0;10:59.05;;de Rozario;Madison;AUS;1993;SUI;Nottwil;2019-05-26;Female;Outdoor
 AR;6;WT13;WEI;5.03;0.8;Gallagher;Jessica;AUS;1986;GBR;London;2012-09-07;Female;Outdoor
@@ -256,7 +256,7 @@ AR;6;WF38;KUG;11.01;;Schmidt;Samantha;AUS;2001;AUS;Australia;2021-04-18;Female;O
 AR;6;WF41;KUG;9.19;;Keefer;Claire;AUS;1995;UAE;Dubai;2019-11-14;Female;Outdoor
 AR;6;WF42;KUG;9.19;;Vatunisolo;Naibili;FIJ;1990;FRA;Paris;2024-09-05;Female;Outdoor
 AR;6;WF43;KUG;8.74;;Clement;Tayla;NZL;1997;NZL;Auckland;2019-03-21;Female;Outdoor
-AR;6;WF46;KUG;12.25;;Robinson;Holly;NZL;1994;JPN;Kobe;2024-05-22;Female;Outdoor
+AR;6;WF46;KUG;12.86;;Robinson;Holly;NZL;1994;IND;New Delhi;2025-10-02;Female;Outdoor
 AR;6;WF52;KUG;2.93;;Wilkinson;Nicole;AUS;;GBR;Birmingham;1998-08-14;Female;Outdoor
 AR;6;WF53;KUG;5.88;;Smith;Cristeen;NZL;;GER;Berlin;1994-07-28;Female;Outdoor
 AR;6;WF54;KUG;5.59;;Poole;Asti;AUS;;MAS;Kuala Lumpur;2006-11-30;Female;Outdoor
@@ -280,7 +280,7 @@ AR;6;WF11;SPE;13.93;;Hitovea;Anna;PNG;1975;KOR;Busan;2002-10-31;Female;Outdoor
 AR;6;WF12;SPE;29.9;;Hampton;Isabelle;AUS;;AUS;Australia;2021-04-17;Female;Outdoor
 AR;6;WF13;SPE;36.04;;Hampton;Isabelle;AUS;;QAT;Doha;2015-10-27;Female;Outdoor
 AR;6;WF33;SPE;10.59;;Moore;Brydee;AUS;;AUS;Brisbane;2015-03-27;Female;Outdoor
-AR;6;WF34;SPE;17.65;;Crees;Dayna;AUS;;FRA;Paris;2024-09-01;Female;Outdoor
+AR;6;WF34;SPE;18.97;;Crees;Dayna;AUS;;IND;New Delhi;2025-09-29;Female;Outdoor
 AR;2;WF35;SPE;7.63;;Kaloni;Timalu;TGA;1965;KOR;Busan;2002-10-31;Female;Outdoor
 AR;6;WF36;SPE;17.35;;Proudfoot;Katherine;AUS;1977;NED;Assen;2006-09-03;Female;Outdoor
 AR;6;WF37;SPE;29.84;;Beikoff;Georgia;AUS;1993;GBR;London;2012-09-08;Female;Outdoor
