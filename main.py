@@ -39,7 +39,7 @@ if __name__ == '__main__':
     with open("ipc_records.xlsx", "wb") as f:
         f.write(resp.content)
 
-    df  = pd.read_excel(io.BytesIO(resp.content), header=0)
+    df  = pd.read_excel(io.BytesIO(resp.content), header=0, engine="openpyxl")
 
     # Remove IPC "Header"
     event_code_index = df[df.eq("Event Code").any(axis=1)].index[0]
