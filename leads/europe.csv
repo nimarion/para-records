@@ -53,6 +53,7 @@ AL;1;MF35;KUG;12.8;;Khabalov;Taimuraz;RUS;1985;IND;New Delhi;2026-03-13;Male;Out
 AL;1;MF36;KUG;10.93;;Zaitsev;Vasilii;RUS;1988;IND;New Delhi;2026-03-13;Male;Outdoor
 AL;1;MF40;KUG;7.28;;Lvou;Aliaksandr;BLR;1991;UAE;Dubai;2026-02-11;Male;Outdoor
 AL;1;MF41;KUG;8.3;;Jimenez Alonso;Alvaro;ESP;2000;ESP;Guadalajara;2026-03-14;Male;Outdoor
+AL;1;MF42;KUG;15.86;;Davies;Aled;GBR;1991;AUS;Melbourne;2026-03-21;Male;Outdoor
 AL;1;MF44;KUG;10.56;;Rutter;Adam James;GBR;2005;GBR;Birmingham;2026-03-14;Male;Outdoor
 AL;1;MF46;KUG;14;;Kaurin;Erik Fabian;CRO;2000;UAE;Dubai;2026-02-13;Male;Outdoor
 AL;1;MF55;KUG;7.85;;Dacal Martinez;Gustavo;ESP;1977;ESP;Guadalajara;2026-03-15;Male;Outdoor
@@ -94,7 +95,7 @@ AL;1;WT12;200;0:28.12;0.3;Gorbacheva;Iana;RUS;2007;UAE;Dubai;2026-02-12;Female;O
 AL;1;WT13;200;0:29.13;1.6;Pungin Esteve;Xiana;ESP;2008;ESP;Segovia;2026-03-15;Female;Outdoor
 AL;1;WT35;200;0:32.22;-0.8;Machulskaia;Karina;RUS;1999;IND;New Delhi;2026-03-13;Female;Outdoor
 AL;1;WT36;200;0:32.97;-1.0;Nicoleitzik;Nicole;GER;1995;UAE;Dubai;2026-02-10;Female;Outdoor
-AL;1;WT38;200;0:27.47;0.7;Down;Maddie;GBR;2007;GBR;Birmingham;2026-03-14;Female;Outdoor
+AL;1;WT38;200;0:27.99;-1.0;Ave;Lindy;GER;1998;UAE;Dubai;2026-02-10;Female;Outdoor
 AL;1;WT11;400;1:09.44;;Varela Mosteiro;Ana;ESP;1994;ESP;Segovia;2026-03-14;Female;Outdoor
 AL;1;WT12;400;1:02.50;;Gorbacheva;Iana;RUS;2007;UAE;Dubai;2026-02-13;Female;Outdoor
 AL;1;WT20;400;1:00.52;;Sainchina;Natalia;RUS;2004;IND;New Delhi;2026-03-12;Female;Outdoor

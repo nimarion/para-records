@@ -3,6 +3,7 @@ AL;3;MT36;100;0:12.00;0.8;Acosta Soto;Omar Jose;COL;2000;COL;Cali;2026-02-26;Mal
 AL;2;MT38;100;0:10.92;1.3;Medrano;Ryan;USA;1997;USA;San Diego;2026-03-20;Male;Outdoor
 AL;2;MT51;100;0:21.18;-0.9;Fournie;Cody;CAN;1989;UAE;Dubai;2026-02-10;Male;Outdoor
 AL;2;MT52;100;0:23.60;-0.9;Holowat Jr;Norbert;USA;1997;UAE;Dubai;2026-02-10;Male;Outdoor
+AL;2;MT53;100;0:17.62;-0.3;Frias Moreno;Jose Alan;MEX;1987;ARG;Neuquen;2026-03-20;Male;Outdoor
 AL;2;MT54;100;0:15.24;1.1;Jimenez-Vergara;Miguel;USA;2000;USA;San Diego;2026-03-20;Male;Outdoor
 AL;3;MT13;200;0:23.00;-0.5;Acosta Manjarres;Yamil David;COL;1997;COL;Cali;2026-02-28;Male;Outdoor
 AL;3;MT37;200;0:24.07;0.5;Suarez Cardona;Yeferson;COL;2002;UAE;Dubai;2026-02-13;Male;Outdoor
@@ -11,9 +12,14 @@ AL;3;MT37;400;0:53.39;;Suarez Cardona;Yeferson;COL;2002;UAE;Dubai;2026-02-10;Mal
 AL;3;MT38;400;0:50.76;;Ramirez Estrada;Jose Albeiro;COL;1996;COL;Cali;2026-02-27;Male;Outdoor
 AL;2;MT47;400;0:52.14;;Best;Korban;USA;2003;USA;San Diego;2026-03-13;Male;Outdoor
 AL;2;MT52;400;1:21.92;;Holowat Jr;Norbert;USA;1997;UAE;Dubai;2026-02-11;Male;Outdoor
+AL;2;MT53;400;0:56.00;;Frias Moreno;Jose Alan;MEX;1987;ARG;Neuquen;2026-03-20;Male;Outdoor
+AL;3;MT54;400;0:51.59;;Silva de Jesus;Carlos Pierre;BRA;1990;ARG;Neuquen;2026-03-20;Male;Outdoor
 AL;2;MT34;800;1:48.48;;Smeenk;Austin;CAN;1997;UAE;Dubai;2026-02-13;Male;Outdoor
+AL;2;MT53;800;1:55.76;;Frias Moreno;Jose Alan;MEX;1987;ARG;Neuquen;2026-03-20;Male;Outdoor
 AL;3;MT54;800;1:45.37;;Rojas Diaz;Javier;COL;1989;COL;Cali;2026-02-28;Male;Outdoor
 AL;2;MT34;1K5;3:22.99;;Smeenk;Austin;CAN;1997;UAE;Dubai;2026-02-10;Male;Outdoor
+AL;2;MT53;1K5;3:42.00;;Frias Moreno;Jose Alan;MEX;1987;ARG;Neuquen;2026-03-20;Male;Outdoor
+AL;3;MT54;1K5;3:38.70;;Silva de Jesus;Carlos Pierre;BRA;1990;ARG;Neuquen;2026-03-20;Male;Outdoor
 AL;3;MT12;5K0;15:05.68;;Moreta Criollo;Sixto Roman;ECU;1992;USA;ORLANDO;2026-03-21;Male;Outdoor
 AL;2;MT54;5K0;11:07.55;;Allen;Jacob;USA;2001;USA;San Diego;2026-03-20;Male;Outdoor
 AL;3;MT36;WEI;5.72;0.6;Acosta Soto;Omar Jose;COL;2000;COL;Cali;2026-02-28;Male;Outdoor
