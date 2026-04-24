@@ -51,9 +51,12 @@ if __name__ == '__main__':
     # Drop every row where vacant is set
     df = df[~df.eq("vacant").any(axis=1)]
 
+    print(df.head())
+
     # Drop all rows where "SDMS ID" is 1 or NaN
-    df = df[~df["SDMS ID"].eq(1)]
-    df = df.dropna(subset=["SDMS ID"])
+    if "SDMS ID" in df.columns:
+        df = df[~df["SDMS ID"].eq(1)]
+        df = df.dropna(subset=["SDMS ID"])
 
     # remove all where Equalled is "="
     if "Equalled" in df.columns:
@@ -115,7 +118,9 @@ if __name__ == '__main__':
 
     if df["taf"].isna().sum() > 0:
         print(df[df["taf"].isna()])
-        raise ValueError("Some disciplines are not mapped")
+        #print(df.loc[df["taf"].isna(), ["discipline"]])
+        df = df.dropna(subset=["taf"])
+        #raise ValueError("Some disciplines are not mapped")
 
     df = df.drop(columns=["discipline"], errors="ignore")
     df = df.rename(columns={"taf": "Bewerb"})
@@ -137,7 +142,9 @@ if __name__ == '__main__':
 
     df["Umgebung"] = "Outdoor"
 
-    df = df.rename(columns={"Family Name": "Name", "Given Name": "Vorname", "Birth": "YOB", "NPC": "Nation", "Date": "Datum", "City": "RORT", "Result": "Leistung", "Record Type": "Code"})
+    df["Result"] = df["Time"].fillna(df["Width"])
+    print(df.head())
+    df = df.rename(columns={"Wind Speed": "Wind", "Family Name": "Name", "Given Name": "Vorname", "Birth": "YOB", "NPC": "Nation", "Date": "Datum", "City": "RORT", "Result": "Leistung", "Record Type": "Code"})
 
     if(args.code):
         df["Code"] = args.code
