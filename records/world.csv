@@ -9748,21 +9748,21 @@ WR;;MF64;SPE;73.29;;;Sumit;IND;1998;CHN;Hangzhou;2023-10-25;Male;Outdoor
 WR;;MF31;KEU;32.88;;Demin;Evgenii;NPA;1989;RUS;Cheboksary;2023-08-12;Male;Outdoor
 WR;;MF32;KEU;46.6;;Bo;Qing;CHN;1998;FRA;Paris;2023-07-10;Male;Outdoor
 WR;;MF51;KEU;36.22;;Taimazov;Musa;NPA;1984;RUS;Cheboksary;2023-08-12;Male;Outdoor
-WR;;MP11;5-K;;;Sevostianov;Sergey;RUS;1960;AUS;Sydney;2000-10-24;Male;Outdoor
-WR;;MP12;5-K;;;Langenhoven;Hilton;RSA;1983;CHN;Beijing;2008-09-12;Male;Outdoor
-WR;;MP13;5-K;;;Kalmykov;Vadim;UKR;1964;RUS;Moscow;1987-09-15;Male;Outdoor
-WR;;MP36;5-K;;;Chasanoff;Tommy;USA;1987;USA;New London;2005-07-06;Male;Outdoor
-WR;;MP38;5-K;;;Vratil;Petr;CZE;1983;USA;New London;2005-07-06;Male;Outdoor
-WR;;MP42;5-K;;;Lombaard;Fanie;RSA;1969;AUS;Sydney;2000-10-22;Male;Outdoor
-WR;;MP44;5-K;;;Campbell;Jeremy;USA;1987;CHN;Beijing;2008-09-11;Male;Outdoor
-WR;;MP51;5-K;;;Schabel;Richard;GBR;1958;SUI;Delemont;2000-08-20;Male;Outdoor
-WR;;MP52;5-K;;;Martin;Peter;NZL;1962;SUI;Jona;2001-08-26;Male;Outdoor
-WR;;MP53;5-K;;;Martin;Peter;NZL;1962;SUI;Jona;2001-08-26;Male;Outdoor
-WR;;MP54;5-K;;;Ling;Yong;CHN;1978;GRE;Athens;2004-09-20;Male;Outdoor
-WR;;MP55;5-K;;;Ling;Yong;CHN;1978;GRE;Athens;2004-09-20;Male;Outdoor
-WR;;MP56;5-K;;;Ling;Yong;CHN;1978;GRE;Athens;2004-09-20;Male;Outdoor
-WR;;MP57;5-K;;;Ling;Yong;CHN;1978;GRE;Athens;2004-09-20;Male;Outdoor
-WR;;MP58;5-K;;;Ling;Yong;CHN;1978;GRE;Athens;2004-09-20;Male;Outdoor
+WR;;MP11;5-K;2,627;;Sevostianov;Sergey;RUS;1960;AUS;Sydney;2000-10-24;Male;Outdoor
+WR;;MP12;5-K;3,403;;Langenhoven;Hilton;RSA;1983;CHN;Beijing;2008-09-12;Male;Outdoor
+WR;;MP13;5-K;3,155;;Kalmykov;Vadim;UKR;1964;RUS;Moscow;1987-09-15;Male;Outdoor
+WR;;MP36;5-K;1,099;;Chasanoff;Tommy;USA;1987;USA;New London;2005-07-06;Male;Outdoor
+WR;;MP38;5-K;1,764;;Vratil;Petr;CZE;1983;USA;New London;2005-07-06;Male;Outdoor
+WR;;MP42;5-K;5,792;;Lombaard;Fanie;RSA;1969;AUS;Sydney;2000-10-22;Male;Outdoor
+WR;;MP44;5-K;4,662;;Campbell;Jeremy;USA;1987;CHN;Beijing;2008-09-11;Male;Outdoor
+WR;;MP51;5-K;4,330;;Schabel;Richard;GBR;1958;SUI;Delemont;2000-08-20;Male;Outdoor
+WR;;MP52;5-K;5,245;;Martin;Peter;NZL;1962;SUI;Jona;2001-08-26;Male;Outdoor
+WR;;MP53;5-K;5,245;;Martin;Peter;NZL;1962;SUI;Jona;2001-08-26;Male;Outdoor
+WR;;MP54;5-K;5,806;;Ling;Yong;CHN;1978;GRE;Athens;2004-09-20;Male;Outdoor
+WR;;MP55;5-K;5,806;;Ling;Yong;CHN;1978;GRE;Athens;2004-09-20;Male;Outdoor
+WR;;MP56;5-K;5,806;;Ling;Yong;CHN;1978;GRE;Athens;2004-09-20;Male;Outdoor
+WR;;MP57;5-K;5,806;;Ling;Yong;CHN;1978;GRE;Athens;2004-09-20;Male;Outdoor
+WR;;MP58;5-K;5,806;;Ling;Yong;CHN;1978;GRE;Athens;2004-09-20;Male;Outdoor
 WR;;WT11;100;0:11.80;0.2;Geber dos Santos;Jerusa;BRA;1982;FRA;Paris;2024-09-02;Female;Outdoor
 WR;;WT12;100;0:11.40;0.2;Durand Elias;Omara;CUB;1991;BRA;Rio de Janeiro;2016-09-09;Female;Outdoor
 WR;;WT13;100;0:11.66;1.4;Soares Da Silva;Rayane;BRA;1997;BRA;Sao Paulo;2025-07-31;Female;Outdoor
@@ -14621,9 +14621,9 @@ WR;;WT54;5S;12:08.0;;Record Mark;;;;;;2026-01-01;Female;Outdoor
 WR;;WT54;10S;21:21.0;;Debrunner;Catherine;SUI;1995;JPN;Oita;2024-11-17;Female;Outdoor
 WR;;WT11;HAM;1:31:41.0;;Inouchi;Natsumi;JPN;1989;JPN;Tokyo;2022-10-16;Female;Outdoor
 WR;;WT12;HAM;1:24:48.0;;Michishita;Misato;JPN;1977;JPN;Tokyo;2023-10-15;Female;Outdoor
+WR;;WT54;HAM;46:51.0;;Debrunner;Catherine;SUI;1995;JPN;Oita City;2023-11-19;Female;Outdoor
 WR;;WT54;HAM;46:51.0;;Scaroni;Susannah;USA;1991;JPN;Oita City;2023-11-19;Female;Outdoor
 WR;;WT54;HAM;46:51.0;;Schaer;Manuela;SUI;1984;JPN;Oita City;2023-11-19;Female;Outdoor
-WR;;WT54;HAM;46:51.0;;Debrunner;Catherine;SUI;1995;JPN;Oita City;2023-11-19;Female;Outdoor
 WR;;WT11;MAR;3:11:13;;Coetzee;Louzanne;RSA;1993;JPN;Tokyo;2021-09-05;Female;Outdoor
 WR;;WT12;MAR;2:48:36;;El Idrissi;Fatima Ezzahra;MAR;1995;FRA;Paris;2024-09-08;Female;Outdoor
 WR;;WT13;MAR;3:13:10;;Record Mark;;;;;;2021-01-01;Female;Outdoor
@@ -14741,14 +14741,14 @@ WR;;WF64;SPE;26.61;;Kotlowska;Faustyna;POL;2001;POL;Cracow;2020-08-23;Female;Out
 WR;;WF31;KEU;21.31;;Frioua;Hind;MAR;1995;FRA;Paris;2022-06-09;Female;Outdoor
 WR;;WF32;KEU;29.36;;Ibrahmi;Maroua;TUN;1988;MAR;Marrakech;2025-04-26;Female;Outdoor
 WR;;WF51;KEU;25.23;;Ovsii;Zoia;UKR;1994;UAE;Dubai;2019-11-11;Female;Outdoor
-WR;;WP11;5-K;;;Willing;Martina;GER;1959;ESP;Barcelona;1992-09-11;Female;Outdoor
-WR;;WP12;5-K;;;Ivekovic Mestrovic;Marija;CRO;1981;FIN;Espoo;2005-08-23;Female;Outdoor
-WR;;WP13;5-K;;;Runyan;Marla;USA;;USA;Atlanta;1996-08-22;Female;Outdoor
-WR;;WP44;5-K;;;Scherney;Andrea;AUT;1966;NED;Assen;2003-06-20;Female;Outdoor
-WR;;WP52;5-K;;;Smith;Cristeen;NZL;;GBR;Stoke Mandeville;1993-08-05;Female;Outdoor
-WR;;WP53;5-K;;;Smith;Cristeen;NZL;;GBR;Stoke Mandeville;1993-08-05;Female;Outdoor
-WR;;WP54;5-K;;;Buggenhagen;Marianne;GER;1953;GER;Berlin;1994-07-27;Female;Outdoor
-WR;;WP55;5-K;;;Buggenhagen;Marianne;GER;1953;GER;Berlin;1994-07-27;Female;Outdoor
-WR;;WP56;5-K;;;Buggenhagen;Marianne;GER;1953;GER;Berlin;1994-07-27;Female;Outdoor
-WR;;WP57;5-K;;;Buggenhagen;Marianne;GER;1953;GER;Berlin;1994-07-27;Female;Outdoor
-WR;;WP58;5-K;;;Buggenhagen;Marianne;GER;1953;GER;Berlin;1994-07-27;Female;Outdoor
+WR;;WP11;5-K;2,182;;Willing;Martina;GER;1959;ESP;Barcelona;1992-09-11;Female;Outdoor
+WR;;WP12;5-K;2,877;;Ivekovic Mestrovic;Marija;CRO;1981;FIN;Espoo;2005-08-23;Female;Outdoor
+WR;;WP13;5-K;3,661;;Runyan;Marla;USA;;USA;Atlanta;1996-08-22;Female;Outdoor
+WR;;WP44;5-K;4,653;;Scherney;Andrea;AUT;1966;NED;Assen;2003-06-20;Female;Outdoor
+WR;;WP52;5-K;5,167;;Smith;Cristeen;NZL;;GBR;Stoke Mandeville;1993-08-05;Female;Outdoor
+WR;;WP53;5-K;5,167;;Smith;Cristeen;NZL;;GBR;Stoke Mandeville;1993-08-05;Female;Outdoor
+WR;;WP54;5-K;5,707;;Buggenhagen;Marianne;GER;1953;GER;Berlin;1994-07-27;Female;Outdoor
+WR;;WP55;5-K;5,707;;Buggenhagen;Marianne;GER;1953;GER;Berlin;1994-07-27;Female;Outdoor
+WR;;WP56;5-K;5,707;;Buggenhagen;Marianne;GER;1953;GER;Berlin;1994-07-27;Female;Outdoor
+WR;;WP57;5-K;5,707;;Buggenhagen;Marianne;GER;1953;GER;Berlin;1994-07-27;Female;Outdoor
+WR;;WP58;5-K;5,707;;Buggenhagen;Marianne;GER;1953;GER;Berlin;1994-07-27;Female;Outdoor

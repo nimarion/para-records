@@ -1,105 +1,105 @@
 Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Geschlecht;Umgebung
-AL;4;MT11;100;0:11.97;1.2;Amba;Francois;CMR;2003;UAE;Dubai;2026-02-12;Male;Outdoor
-AL;4;MT12;100;0:11.13;-0.6;Makatu;Masala;RSA;2006;RSA;Stellenbosch;2026-03-28;Male;Outdoor
-AL;4;MT13;100;0:11.48;2.0;Okora;Jairus Ongeta;KEN;1996;UAE;Dubai;2026-02-12;Male;Outdoor
-AL;4;MT34;100;0:15.39;-1.8;Ktila;Walid;TUN;1985;UAE;Dubai;2026-02-10;Male;Outdoor
-AL;4;MT37;100;0:12.20;1.6;Rich;Ronald;BOT;1999;BOT;Gaborone;2026-03-21;Male;Outdoor
-AL;4;MT38;100;0:12.14;-1.9;Felix;Sadha;RSA;2001;RSA;Johannesburg;2026-03-13;Male;Outdoor
-AL;4;MT44;100;0:11.61;-0.9;Mhlongo;Mpumelelo;RSA;1994;RSA;Stellenbosch;2026-03-30;Male;Outdoor
-AL;4;MT46;100;0:12.33;0.4;Mattia;Abdulai;SLE;2003;RSA;Stellenbosch;2026-03-28;Male;Outdoor
-AL;4;MT47;100;0:11.09;1.7;Addai;Hayford;GHA;2008;UAE;Dubai;2026-02-13;Male;Outdoor
-AL;4;MT54;100;0:15.31;0.1;Botsyo;Nkegbe;GHA;1979;RSA;Stellenbosch;2026-03-30;Male;Outdoor
-AL;4;MT62;100;0:11.47;-1.1;Daniels;Paul;RSA;2002;RSA;Stellenbosch;2026-03-30;Male;Outdoor
-AL;4;MT63;100;0:12.23;-1.1;Mabote;Puseletso Michael;RSA;2005;RSA;Stellenbosch;2026-03-30;Male;Outdoor
-AL;4;MT64;100;0:12.72;0.4;Van Heerden;Jayden;RSA;2009;RSA;Stellenbosch;2026-03-28;Male;Outdoor
-AL;4;MT12;200;0:22.80;0.1;Makatu;Masala;RSA;2006;RSA;Stellenbosch;2026-03-29;Male;Outdoor
-AL;4;MT37;200;0:26.37;0.5;Opiyo;Samson;KEN;1996;UAE;Dubai;2026-02-13;Male;Outdoor
-AL;4;MT38;200;0:28.03;0.5;Muasya;Anthony Nzomo;KEN;1989;UAE;Dubai;2026-02-13;Male;Outdoor
-AL;4;MT44;200;0:24.17;-0.8;Ramadan;Karim;EGY;2000;UAE;Dubai;2026-02-10;Male;Outdoor
-AL;4;MT11;400;0:55.76;;Amba;Francois;CMR;2003;UAE;Dubai;2026-02-13;Male;Outdoor
-AL;4;MT12;400;0:51.75;;Esogon;Brian;KEN;2000;UAE;Dubai;2026-02-13;Male;Outdoor
-AL;4;MT13;400;0:52.45;;Okora;Jairus Ongeta;KEN;1996;UAE;Dubai;2026-02-13;Male;Outdoor
-AL;4;MT34;400;1:39.87;;Ktila;Walid;TUN;1985;UAE;Dubai;2026-02-12;Male;Outdoor
-AL;4;MT38;400;1:02.42;;Muasya;Anthony Nzomo;KEN;1989;UAE;Dubai;2026-02-10;Male;Outdoor
-AL;4;MT46;400;1:05.54;;Fofana;Amidu;SLE;2010;UAE;Dubai;2026-02-12;Male;Outdoor
-AL;4;MT47;400;0:50.77;;Mahlalela;Collen;RSA;1996;UAE;Dubai;2026-02-12;Male;Outdoor
-AL;4;MT53;400;0:51.57;;Khelifi;Mohamed Nidhal;TUN;1996;UAE;Dubai;2026-02-11;Male;Outdoor
-AL;4;MT54;400;0:45.95;;Gharbi;Yassine;TUN;1990;UAE;Dubai;2026-02-11;Male;Outdoor
-AL;4;MT62;400;0:51.67;;Daniels;Paul;RSA;2002;RSA;Stellenbosch;2026-03-31;Male;Outdoor
-AL;4;MT63;400;1:00.74;;Mabote;Puseletso Michael;RSA;2005;RSA;Stellenbosch;2026-03-31;Male;Outdoor
-AL;4;MT34;800;1:47.92;;Ktila;Walid;TUN;1985;UAE;Dubai;2026-02-13;Male;Outdoor
-AL;4;MT38;800;2:15.68;;Espag;Enzo;RSA;2009;RSA;Stellenbosch;2026-03-29;Male;Outdoor
-AL;4;MT53;800;1:45.14;;Khelifi;Mohamed Nidhal;TUN;1996;UAE;Dubai;2026-02-12;Male;Outdoor
-AL;4;MT54;800;1:36.90;;Gharbi;Yassine;TUN;1990;UAE;Dubai;2026-02-12;Male;Outdoor
-AL;4;MT11;1K5;4:21.32;;Kimani;Samwel Mushai;KEN;1989;UAE;Dubai;2026-02-11;Male;Outdoor
-AL;4;MT12;1K5;4:43.34;;Opio;Daniel;UGA;1995;UAE;Dubai;2026-02-11;Male;Outdoor
-AL;4;MT13;1K5;4:10.17;;Lokedi;John;KEN;2000;UAE;Dubai;2026-02-12;Male;Outdoor
-AL;4;MT38;1K5;4:49.00;;Espag;Enzo;RSA;2009;RSA;Stellenbosch;2026-03-30;Male;Outdoor
-AL;4;MT54;1K5;3:05.63;;Gharbi;Yassine;TUN;1990;UAE;Dubai;2026-02-10;Male;Outdoor
-AL;4;MT11;5K0;16:06.11;;Kimani;Samwel Mushai;KEN;1989;UAE;Dubai;2026-02-13;Male;Outdoor
-AL;4;MT12;5K0;18:00.59;;Opio;Daniel;UGA;1995;UAE;Dubai;2026-02-13;Male;Outdoor
-AL;4;MT13;5K0;15:27.65;;Lokedi;John;KEN;2000;UAE;Dubai;2026-02-13;Male;Outdoor
-AL;4;MT38;5K0;19:13.40;;Espag;Enzo;RSA;2009;RSA;Stellenbosch;2026-03-31;Male;Outdoor
-AL;4;MT54;5K0;14:24.74;;Ocira;Richard;UGA;1998;UAE;Dubai;2026-02-13;Male;Outdoor
-AL;4;MT42;HOC;1.6;;Batifi Loumou;Yves Noe;CMR;2002;UAE;Dubai;2026-02-13;Male;Outdoor
-AL;4;MT47;HOC;1.85;;Kansa;Severin;TOG;1997;RSA;Stellenbosch;2026-03-29;Male;Outdoor
-AL;4;MT12;WEI;6.46;-0.4;Njeru;Alex;KEN;1995;UAE;Dubai;2026-02-11;Male;Outdoor
-AL;4;MT37;WEI;5.43;-1.0;Opiyo;Samson;KEN;1996;UAE;Dubai;2026-02-12;Male;Outdoor
-AL;4;MT38;WEI;6.0;0.4;Felix;Sadha;RSA;2001;RSA;Stellenbosch;2026-03-30;Male;Outdoor
-AL;4;MT42;WEI;4.2;-1.7;Batifi Loumou;Yves Noe;CMR;2002;UAE;Dubai;2026-02-12;Male;Outdoor
-AL;4;MT44;WEI;7.1;-0.1;Mhlongo;Mpumelelo;RSA;1994;RSA;Johannesburg;2026-03-13;Male;Outdoor
-AL;4;MT46;WEI;6.76;0.5;Shabib Mahmoud;Abdulrhman Yusuf;EGY;1999;IND;New Delhi;2026-03-12;Male;Outdoor
-AL;4;MT47;WEI;6.57;0.3;Kiprotich;Robert;KEN;2003;UAE;Dubai;2026-02-10;Male;Outdoor
-AL;4;MF11;KUG;10.35;;Chetty;Rajab;KEN;1990;UAE;Dubai;2026-02-10;Male;Outdoor
-AL;4;MF34;KUG;8.27;;Vallentine;Dowayne Alfonso;RSA;1993;RSA;Stellenbosch;2026-03-28;Male;Outdoor
-AL;4;MF36;KUG;16.57;;Guenichi;Yassine;TUN;1995;UAE;Dubai;2026-02-10;Male;Outdoor
-AL;4;MF40;KUG;7.93;;Ghayth;Taha;LBA;2009;UAE;Dubai;2026-02-11;Male;Outdoor
-AL;4;MF42;KUG;9.11;;Molobela;Daniel;RSA;2006;RSA;Stellenbosch;2026-03-28;Male;Outdoor
-AL;4;MF43;KUG;6.19;;Ntlanti;Yamkela;RSA;2006;RSA;Stellenbosch;2026-03-28;Male;Outdoor
-AL;4;MF46;KUG;15.44;;Noemdo;Kerwin;RSA;1994;RSA;Stellenbosch;2026-03-30;Male;Outdoor
-AL;4;MF57;KUG;12.7;;Lekezo Azamdzi;Cedric Idriss;CMR;1992;UAE;Dubai;2026-02-12;Male;Outdoor
-AL;4;MF36;DIS;34.7;;Bahr Ahmed Gassour;Yassien Mohamed Ahmed;EGY;2009;UAE;Dubai;2026-02-10;Male;Outdoor
-AL;4;MF37;DIS;47.14;;Ramadan;Mohamed Mohamed;EGY;1984;UAE;Dubai;2026-02-10;Male;Outdoor
-AL;4;MF42;DIS;32.91;;Molobela;Daniel;RSA;2006;RSA;Stellenbosch;2026-03-30;Male;Outdoor
-AL;4;MF43;DIS;22.74;;Ntlanti;Yamkela;RSA;2006;RSA;Stellenbosch;2026-03-29;Male;Outdoor
-AL;4;MF46;DIS;36.52;;Graaff;Arno;RSA;2007;RSA;Stellenbosch;2026-03-29;Male;Outdoor
-AL;4;MF57;DIS;46.23;;Rajab;Mahmoud;LBA;1985;UAE;Dubai;2026-02-11;Male;Outdoor
-AL;4;MF64;DIS;43.32;;Simon;Lean;RSA;1994;RSA;Stellenbosch;2026-03-28;Male;Outdoor
-AL;4;MF34;SPE;27.27;;Abdelaaty;Mohamed Saeed Ali;EGY;1994;UAE;Dubai;2026-02-11;Male;Outdoor
-AL;4;MF42;SPE;31.41;;Molobela;Daniel;RSA;2006;RSA;Stellenbosch;2026-03-29;Male;Outdoor
-AL;4;MF43;SPE;20.83;;Ntlanti;Yamkela;RSA;2006;RSA;Johannesburg;2026-03-13;Male;Outdoor
-AL;4;MF46;SPE;54.11;;Kemboi;Nathan;KEN;2001;UAE;Dubai;2026-02-10;Male;Outdoor
-AL;4;WT37;100;0:14.00;0.0;James;Sheryl;RSA;1986;RSA;Stellenbosch;2026-03-28;Female;Outdoor
-AL;4;WT44;100;0:15.26;0.4;Felix;Charne;RSA;1986;RSA;Stellenbosch;2026-03-30;Female;Outdoor
-AL;4;WT47;100;0:12.76;0.4;Uwak;Unyime;NGR;1996;RSA;Stellenbosch;2026-03-30;Female;Outdoor
-AL;4;WT54;100;0:16.54;0.4;Alphonse;Noemi;MRI;1995;AUS;Canberra;2026-01-21;Female;Outdoor
-AL;4;WT37;200;0:28.93;-0.5;James;Sheryl;RSA;1986;RSA;Stellenbosch;2026-03-29;Female;Outdoor
-AL;4;WT38;200;0:30.46;-1.7;Nicolaisen;Arina;RSA;2000;RSA;Stellenbosch;2026-03-28;Female;Outdoor
-AL;4;WT47;200;0:26.56;-0.5;Uwak;Unyime;NGR;1996;RSA;Stellenbosch;2026-03-29;Female;Outdoor
-AL;4;WT54;200;0:28.30;0.8;Alphonse;Noemi;MRI;1995;AUS;Canberra;2026-01-23;Female;Outdoor
-AL;4;WT11;400;1:05.18;;Koech;Nancy Chelangat;KEN;1995;UAE;Dubai;2026-02-13;Female;Outdoor
-AL;4;WT13;400;1:08.91;;Ilalo;Monica;UGA;1993;UAE;Dubai;2026-02-13;Female;Outdoor
-AL;4;WT37;400;1:28.06;;Scholtz;Kaylynn;RSA;2002;RSA;Stellenbosch;2026-03-31;Female;Outdoor
-AL;4;WT38;400;1:07.82;;Nicolaisen;Arina;RSA;2000;UAE;Dubai;2026-02-12;Female;Outdoor
-AL;4;WT47;400;1:04.73;;Uwak;Unyime;NGR;1996;RSA;Stellenbosch;2026-03-31;Female;Outdoor
-AL;4;WT54;400;0:54.47;;Alphonse;Noemi;MRI;1995;AUS;Canberra;2026-01-21;Female;Outdoor
-AL;4;WT54;800;1:54.05;;Alphonse;Noemi;MRI;1995;AUS;Canberra;2026-01-23;Female;Outdoor
-AL;4;WT11;1K5;5:13.11;;Koech;Nancy Chelangat;KEN;1995;UAE;Dubai;2026-02-11;Female;Outdoor
-AL;4;WT13;1K5;5:27.37;;Ilalo;Monica;UGA;1993;UAE;Dubai;2026-02-11;Female;Outdoor
-AL;4;WT54;1K5;3:50.74;;Alphonse;Noemi;MRI;1995;RSA;Stellenbosch;2026-03-30;Female;Outdoor
-AL;4;WT11;5K0;19:40.07;;Coetzee;Louzanne;RSA;1993;RSA;Stellenbosch;2026-03-31;Female;Outdoor
-AL;4;WT37;WEI;4.88;1.6;Gouws;Liezel;RSA;1998;RSA;Stellenbosch;2026-03-28;Female;Outdoor
-AL;4;WT47;WEI;4.61;-1.2;Korir;Caren Jemutai;KEN;2007;UAE;Dubai;2026-02-13;Female;Outdoor
-AL;4;WF38;KUG;12.38;;Kruger;Simone;RSA;2005;RSA;Stellenbosch;2026-03-28;Female;Outdoor
-AL;4;WF41;KUG;9.71;;Tlili;Raoua;TUN;1989;UAE;Dubai;2026-02-11;Female;Outdoor
-AL;4;WF44;KUG;9.64;;Agbo;Destiny;NGR;2005;RSA;Stellenbosch;2026-03-30;Female;Outdoor
-AL;4;WF46;KUG;4.94;;Kargbo;Sidimba Elizabeth;SLE;1994;UAE;Dubai;2026-02-11;Female;Outdoor
-AL;4;WF57;KUG;8.66;;Issah;Zinabu;GHA;1980;RSA;Stellenbosch;2026-03-28;Female;Outdoor
-AL;4;WF38;DIS;35.73;;Kruger;Simone;RSA;2005;RSA;Stellenbosch;2026-03-28;Female;Outdoor
-AL;4;WF41;DIS;27.96;;Tlili;Raoua;TUN;1989;UAE;Dubai;2026-02-10;Female;Outdoor
-AL;4;WF44;DIS;32.75;;van der Merwe;Yane;RSA;2000;RSA;Stellenbosch;2026-03-28;Female;Outdoor
-AL;4;WF57;DIS;29.2;;Issah;Zinabu;GHA;1980;UAE;Dubai;2026-02-10;Female;Outdoor
-AL;4;WF12;SPE;34.19;;Wanyoyi;Sheilla;KEN;1998;UAE;Dubai;2026-02-13;Female;Outdoor
-AL;4;WF13;SPE;24.59;;Ilalo;Monica;UGA;1993;UAE;Dubai;2026-02-13;Female;Outdoor
-AL;4;WF44;SPE;30.4;;Agbo;Destiny;NGR;2005;RSA;Stellenbosch;2026-03-31;Female;Outdoor
-AL;4;WF46;SPE;32.03;;Le Roux;Juane;RSA;2007;RSA;Stellenbosch;2026-03-28;Female;Outdoor
+PAL;4;MT11;100;0:11.97;1.2;Amba;Francois;CMR;2003;UAE;Dubai;2026-02-12;Male;Outdoor
+PAL;4;MT12;100;0:11.13;-0.6;Makatu;Masala;RSA;2006;RSA;Stellenbosch;2026-03-28;Male;Outdoor
+PAL;4;MT13;100;0:11.48;2.0;Okora;Jairus Ongeta;KEN;1996;UAE;Dubai;2026-02-12;Male;Outdoor
+PAL;4;MT34;100;0:15.39;-1.8;Ktila;Walid;TUN;1985;UAE;Dubai;2026-02-10;Male;Outdoor
+PAL;4;MT37;100;0:12.20;1.6;Rich;Ronald;BOT;1999;BOT;Gaborone;2026-03-21;Male;Outdoor
+PAL;4;MT38;100;0:12.14;-1.9;Felix;Sadha;RSA;2001;RSA;Johannesburg;2026-03-13;Male;Outdoor
+PAL;4;MT44;100;0:11.61;-0.9;Mhlongo;Mpumelelo;RSA;1994;RSA;Stellenbosch;2026-03-30;Male;Outdoor
+PAL;4;MT46;100;0:12.33;0.4;Mattia;Abdulai;SLE;2003;RSA;Stellenbosch;2026-03-28;Male;Outdoor
+PAL;4;MT47;100;0:11.09;1.7;Addai;Hayford;GHA;2008;UAE;Dubai;2026-02-13;Male;Outdoor
+PAL;4;MT54;100;0:15.31;0.1;Botsyo;Nkegbe;GHA;1979;RSA;Stellenbosch;2026-03-30;Male;Outdoor
+PAL;4;MT62;100;0:11.47;-1.1;Daniels;Paul;RSA;2002;RSA;Stellenbosch;2026-03-30;Male;Outdoor
+PAL;4;MT63;100;0:12.23;-1.1;Mabote;Puseletso Michael;RSA;2005;RSA;Stellenbosch;2026-03-30;Male;Outdoor
+PAL;4;MT64;100;0:12.72;0.4;Van Heerden;Jayden;RSA;2009;RSA;Stellenbosch;2026-03-28;Male;Outdoor
+PAL;4;MT12;200;0:22.80;0.1;Makatu;Masala;RSA;2006;RSA;Stellenbosch;2026-03-29;Male;Outdoor
+PAL;4;MT37;200;0:26.37;0.5;Opiyo;Samson;KEN;1996;UAE;Dubai;2026-02-13;Male;Outdoor
+PAL;4;MT38;200;0:28.03;0.5;Muasya;Anthony Nzomo;KEN;1989;UAE;Dubai;2026-02-13;Male;Outdoor
+PAL;4;MT44;200;0:24.17;-0.8;Ramadan;Karim;EGY;2000;UAE;Dubai;2026-02-10;Male;Outdoor
+PAL;4;MT11;400;0:55.76;;Amba;Francois;CMR;2003;UAE;Dubai;2026-02-13;Male;Outdoor
+PAL;4;MT12;400;0:51.75;;Esogon;Brian;KEN;2000;UAE;Dubai;2026-02-13;Male;Outdoor
+PAL;4;MT13;400;0:52.45;;Okora;Jairus Ongeta;KEN;1996;UAE;Dubai;2026-02-13;Male;Outdoor
+PAL;4;MT34;400;1:39.87;;Ktila;Walid;TUN;1985;UAE;Dubai;2026-02-12;Male;Outdoor
+PAL;4;MT38;400;1:02.42;;Muasya;Anthony Nzomo;KEN;1989;UAE;Dubai;2026-02-10;Male;Outdoor
+PAL;4;MT46;400;1:05.54;;Fofana;Amidu;SLE;2010;UAE;Dubai;2026-02-12;Male;Outdoor
+PAL;4;MT47;400;0:50.77;;Mahlalela;Collen;RSA;1996;UAE;Dubai;2026-02-12;Male;Outdoor
+PAL;4;MT53;400;0:51.57;;Khelifi;Mohamed Nidhal;TUN;1996;UAE;Dubai;2026-02-11;Male;Outdoor
+PAL;4;MT54;400;0:45.95;;Gharbi;Yassine;TUN;1990;UAE;Dubai;2026-02-11;Male;Outdoor
+PAL;4;MT62;400;0:51.67;;Daniels;Paul;RSA;2002;RSA;Stellenbosch;2026-03-31;Male;Outdoor
+PAL;4;MT63;400;1:00.74;;Mabote;Puseletso Michael;RSA;2005;RSA;Stellenbosch;2026-03-31;Male;Outdoor
+PAL;4;MT34;800;1:47.92;;Ktila;Walid;TUN;1985;UAE;Dubai;2026-02-13;Male;Outdoor
+PAL;4;MT38;800;2:15.68;;Espag;Enzo;RSA;2009;RSA;Stellenbosch;2026-03-29;Male;Outdoor
+PAL;4;MT53;800;1:45.14;;Khelifi;Mohamed Nidhal;TUN;1996;UAE;Dubai;2026-02-12;Male;Outdoor
+PAL;4;MT54;800;1:36.90;;Gharbi;Yassine;TUN;1990;UAE;Dubai;2026-02-12;Male;Outdoor
+PAL;4;MT11;1K5;4:21.32;;Kimani;Samwel Mushai;KEN;1989;UAE;Dubai;2026-02-11;Male;Outdoor
+PAL;4;MT12;1K5;4:43.34;;Opio;Daniel;UGA;1995;UAE;Dubai;2026-02-11;Male;Outdoor
+PAL;4;MT13;1K5;4:10.17;;Lokedi;John;KEN;2000;UAE;Dubai;2026-02-12;Male;Outdoor
+PAL;4;MT38;1K5;4:49.00;;Espag;Enzo;RSA;2009;RSA;Stellenbosch;2026-03-30;Male;Outdoor
+PAL;4;MT54;1K5;3:05.63;;Gharbi;Yassine;TUN;1990;UAE;Dubai;2026-02-10;Male;Outdoor
+PAL;4;MT11;5K0;16:06.11;;Kimani;Samwel Mushai;KEN;1989;UAE;Dubai;2026-02-13;Male;Outdoor
+PAL;4;MT12;5K0;18:00.59;;Opio;Daniel;UGA;1995;UAE;Dubai;2026-02-13;Male;Outdoor
+PAL;4;MT13;5K0;15:27.65;;Lokedi;John;KEN;2000;UAE;Dubai;2026-02-13;Male;Outdoor
+PAL;4;MT38;5K0;19:13.40;;Espag;Enzo;RSA;2009;RSA;Stellenbosch;2026-03-31;Male;Outdoor
+PAL;4;MT54;5K0;14:24.74;;Ocira;Richard;UGA;1998;UAE;Dubai;2026-02-13;Male;Outdoor
+PAL;4;MT42;HOC;1.6;;Batifi Loumou;Yves Noe;CMR;2002;UAE;Dubai;2026-02-13;Male;Outdoor
+PAL;4;MT47;HOC;1.85;;Kansa;Severin;TOG;1997;RSA;Stellenbosch;2026-03-29;Male;Outdoor
+PAL;4;MT12;WEI;6.46;-0.4;Njeru;Alex;KEN;1995;UAE;Dubai;2026-02-11;Male;Outdoor
+PAL;4;MT37;WEI;5.43;-1.0;Opiyo;Samson;KEN;1996;UAE;Dubai;2026-02-12;Male;Outdoor
+PAL;4;MT38;WEI;6.0;0.4;Felix;Sadha;RSA;2001;RSA;Stellenbosch;2026-03-30;Male;Outdoor
+PAL;4;MT42;WEI;4.2;-1.7;Batifi Loumou;Yves Noe;CMR;2002;UAE;Dubai;2026-02-12;Male;Outdoor
+PAL;4;MT44;WEI;7.1;-0.1;Mhlongo;Mpumelelo;RSA;1994;RSA;Johannesburg;2026-03-13;Male;Outdoor
+PAL;4;MT46;WEI;6.76;0.5;Shabib Mahmoud;Abdulrhman Yusuf;EGY;1999;IND;New Delhi;2026-03-12;Male;Outdoor
+PAL;4;MT47;WEI;6.57;0.3;Kiprotich;Robert;KEN;2003;UAE;Dubai;2026-02-10;Male;Outdoor
+PAL;4;MF11;KUG;10.35;;Chetty;Rajab;KEN;1990;UAE;Dubai;2026-02-10;Male;Outdoor
+PAL;4;MF34;KUG;8.27;;Vallentine;Dowayne Alfonso;RSA;1993;RSA;Stellenbosch;2026-03-28;Male;Outdoor
+PAL;4;MF36;KUG;16.57;;Guenichi;Yassine;TUN;1995;UAE;Dubai;2026-02-10;Male;Outdoor
+PAL;4;MF40;KUG;7.93;;Ghayth;Taha;LBA;2009;UAE;Dubai;2026-02-11;Male;Outdoor
+PAL;4;MF42;KUG;9.11;;Molobela;Daniel;RSA;2006;RSA;Stellenbosch;2026-03-28;Male;Outdoor
+PAL;4;MF43;KUG;6.19;;Ntlanti;Yamkela;RSA;2006;RSA;Stellenbosch;2026-03-28;Male;Outdoor
+PAL;4;MF46;KUG;15.44;;Noemdo;Kerwin;RSA;1994;RSA;Stellenbosch;2026-03-30;Male;Outdoor
+PAL;4;MF57;KUG;12.7;;Lekezo Azamdzi;Cedric Idriss;CMR;1992;UAE;Dubai;2026-02-12;Male;Outdoor
+PAL;4;MF36;DIS;34.7;;Bahr Ahmed Gassour;Yassien Mohamed Ahmed;EGY;2009;UAE;Dubai;2026-02-10;Male;Outdoor
+PAL;4;MF37;DIS;47.14;;Ramadan;Mohamed Mohamed;EGY;1984;UAE;Dubai;2026-02-10;Male;Outdoor
+PAL;4;MF42;DIS;32.91;;Molobela;Daniel;RSA;2006;RSA;Stellenbosch;2026-03-30;Male;Outdoor
+PAL;4;MF43;DIS;22.74;;Ntlanti;Yamkela;RSA;2006;RSA;Stellenbosch;2026-03-29;Male;Outdoor
+PAL;4;MF46;DIS;36.52;;Graaff;Arno;RSA;2007;RSA;Stellenbosch;2026-03-29;Male;Outdoor
+PAL;4;MF57;DIS;46.23;;Rajab;Mahmoud;LBA;1985;UAE;Dubai;2026-02-11;Male;Outdoor
+PAL;4;MF64;DIS;43.32;;Simon;Lean;RSA;1994;RSA;Stellenbosch;2026-03-28;Male;Outdoor
+PAL;4;MF34;SPE;27.27;;Abdelaaty;Mohamed Saeed Ali;EGY;1994;UAE;Dubai;2026-02-11;Male;Outdoor
+PAL;4;MF42;SPE;31.41;;Molobela;Daniel;RSA;2006;RSA;Stellenbosch;2026-03-29;Male;Outdoor
+PAL;4;MF43;SPE;20.83;;Ntlanti;Yamkela;RSA;2006;RSA;Johannesburg;2026-03-13;Male;Outdoor
+PAL;4;MF46;SPE;54.11;;Kemboi;Nathan;KEN;2001;UAE;Dubai;2026-02-10;Male;Outdoor
+PAL;4;WT37;100;0:14.00;0.0;James;Sheryl;RSA;1986;RSA;Stellenbosch;2026-03-28;Female;Outdoor
+PAL;4;WT44;100;0:15.26;0.4;Felix;Charne;RSA;1986;RSA;Stellenbosch;2026-03-30;Female;Outdoor
+PAL;4;WT47;100;0:12.76;0.4;Uwak;Unyime;NGR;1996;RSA;Stellenbosch;2026-03-30;Female;Outdoor
+PAL;4;WT54;100;0:16.54;0.4;Alphonse;Noemi;MRI;1995;AUS;Canberra;2026-01-21;Female;Outdoor
+PAL;4;WT37;200;0:28.93;-0.5;James;Sheryl;RSA;1986;RSA;Stellenbosch;2026-03-29;Female;Outdoor
+PAL;4;WT38;200;0:30.46;-1.7;Nicolaisen;Arina;RSA;2000;RSA;Stellenbosch;2026-03-28;Female;Outdoor
+PAL;4;WT47;200;0:26.56;-0.5;Uwak;Unyime;NGR;1996;RSA;Stellenbosch;2026-03-29;Female;Outdoor
+PAL;4;WT54;200;0:28.30;0.8;Alphonse;Noemi;MRI;1995;AUS;Canberra;2026-01-23;Female;Outdoor
+PAL;4;WT11;400;1:05.18;;Koech;Nancy Chelangat;KEN;1995;UAE;Dubai;2026-02-13;Female;Outdoor
+PAL;4;WT13;400;1:08.91;;Ilalo;Monica;UGA;1993;UAE;Dubai;2026-02-13;Female;Outdoor
+PAL;4;WT37;400;1:28.06;;Scholtz;Kaylynn;RSA;2002;RSA;Stellenbosch;2026-03-31;Female;Outdoor
+PAL;4;WT38;400;1:07.82;;Nicolaisen;Arina;RSA;2000;UAE;Dubai;2026-02-12;Female;Outdoor
+PAL;4;WT47;400;1:04.73;;Uwak;Unyime;NGR;1996;RSA;Stellenbosch;2026-03-31;Female;Outdoor
+PAL;4;WT54;400;0:54.47;;Alphonse;Noemi;MRI;1995;AUS;Canberra;2026-01-21;Female;Outdoor
+PAL;4;WT54;800;1:54.05;;Alphonse;Noemi;MRI;1995;AUS;Canberra;2026-01-23;Female;Outdoor
+PAL;4;WT11;1K5;5:13.11;;Koech;Nancy Chelangat;KEN;1995;UAE;Dubai;2026-02-11;Female;Outdoor
+PAL;4;WT13;1K5;5:27.37;;Ilalo;Monica;UGA;1993;UAE;Dubai;2026-02-11;Female;Outdoor
+PAL;4;WT54;1K5;3:50.74;;Alphonse;Noemi;MRI;1995;RSA;Stellenbosch;2026-03-30;Female;Outdoor
+PAL;4;WT11;5K0;19:40.07;;Coetzee;Louzanne;RSA;1993;RSA;Stellenbosch;2026-03-31;Female;Outdoor
+PAL;4;WT37;WEI;4.88;1.6;Gouws;Liezel;RSA;1998;RSA;Stellenbosch;2026-03-28;Female;Outdoor
+PAL;4;WT47;WEI;4.61;-1.2;Korir;Caren Jemutai;KEN;2007;UAE;Dubai;2026-02-13;Female;Outdoor
+PAL;4;WF38;KUG;12.38;;Kruger;Simone;RSA;2005;RSA;Stellenbosch;2026-03-28;Female;Outdoor
+PAL;4;WF41;KUG;9.71;;Tlili;Raoua;TUN;1989;UAE;Dubai;2026-02-11;Female;Outdoor
+PAL;4;WF44;KUG;9.64;;Agbo;Destiny;NGR;2005;RSA;Stellenbosch;2026-03-30;Female;Outdoor
+PAL;4;WF46;KUG;4.94;;Kargbo;Sidimba Elizabeth;SLE;1994;UAE;Dubai;2026-02-11;Female;Outdoor
+PAL;4;WF57;KUG;8.66;;Issah;Zinabu;GHA;1980;RSA;Stellenbosch;2026-03-28;Female;Outdoor
+PAL;4;WF38;DIS;35.73;;Kruger;Simone;RSA;2005;RSA;Stellenbosch;2026-03-28;Female;Outdoor
+PAL;4;WF41;DIS;27.96;;Tlili;Raoua;TUN;1989;UAE;Dubai;2026-02-10;Female;Outdoor
+PAL;4;WF44;DIS;32.75;;van der Merwe;Yane;RSA;2000;RSA;Stellenbosch;2026-03-28;Female;Outdoor
+PAL;4;WF57;DIS;29.2;;Issah;Zinabu;GHA;1980;UAE;Dubai;2026-02-10;Female;Outdoor
+PAL;4;WF12;SPE;34.19;;Wanyoyi;Sheilla;KEN;1998;UAE;Dubai;2026-02-13;Female;Outdoor
+PAL;4;WF13;SPE;24.59;;Ilalo;Monica;UGA;1993;UAE;Dubai;2026-02-13;Female;Outdoor
+PAL;4;WF44;SPE;30.4;;Agbo;Destiny;NGR;2005;RSA;Stellenbosch;2026-03-31;Female;Outdoor
+PAL;4;WF46;SPE;32.03;;Le Roux;Juane;RSA;2007;RSA;Stellenbosch;2026-03-28;Female;Outdoor
