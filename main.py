@@ -108,7 +108,7 @@ if __name__ == '__main__':
     df['Birth'] = df['Birth'].fillna(-1).astype(float).astype(int)
     # replace all Birth -1 with NaN
     df['Birth'] = df['Birth'].replace(-1, pd.NA)
-    df = df.drop(columns=["Event Code", "Time (ms)", "SDMS ID", "Gender", "Class", "Equalled", "Points"], errors="ignore")
+    df = df.drop(columns=["Event Code", "Time (ms)", "SDMS ID", "Gender", "Class", "Equalled"], errors="ignore")
     # rename Event Type to discipline
     df = df.rename(columns={"Event Type": "discipline"})
 
@@ -131,7 +131,7 @@ if __name__ == '__main__':
     df = df.drop(columns=["Country"], errors="ignore")
     df = df.rename(columns={"countryCode": "RNAT"})
 
-    if args.code and (args.code == "AL" or args.code == "AR"):
+    if args.code and (args.code == "PAL" or args.code == "PAR"):
         mapping = areaMapping[["Country", "AreaId"]]
         mapping.columns = ["NPC", "AreaId"]
         df = pd.merge(df, mapping, on="NPC", how="left")
@@ -142,8 +142,7 @@ if __name__ == '__main__':
 
     df["Umgebung"] = "Outdoor"
 
-    df["Result"] = df["Time"].fillna(df["Width"])
-    print(df.head())
+    df["Result"] = df["Time"].fillna(df["Width"]).fillna(df["Points"])
     df = df.rename(columns={"Wind Speed": "Wind", "Family Name": "Name", "Given Name": "Vorname", "Birth": "YOB", "NPC": "Nation", "Date": "Datum", "City": "RORT", "Result": "Leistung", "Record Type": "Code"})
 
     if(args.code):
