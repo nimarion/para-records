@@ -1,72 +1,117 @@
 Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Geschlecht;Umgebung
+AL;3;MT11;100;0:12.86;0.7;Nunez;Martin Gonzalo;ARG;2001;ARG;Buenos Aires;2026-04-11;Male;Outdoor
+AL;2;MT12;100;0:10.54;1.8;Malone;Noah;USA;2001;USA;Walnut;2026-04-18;Male;Outdoor
+AL;3;MT13;100;0:11.80;1.8;Pinetti;Franco;ARG;1999;ARG;Buenos Aires;2026-04-11;Male;Outdoor
+AL;3;MT35;100;0:12.10;1.7;Villa;Maximiliano;ARG;2007;ARG;Buenos Aires;2026-04-11;Male;Outdoor
 AL;3;MT36;100;0:12.00;0.8;Acosta Soto;Omar Jose;COL;2000;COL;Cali;2026-02-26;Male;Outdoor
 AL;2;MT38;100;0:10.92;1.3;Medrano;Ryan;USA;1997;USA;San Diego;2026-03-20;Male;Outdoor
-AL;2;MT51;100;0:21.18;-0.9;Fournie;Cody;CAN;1989;UAE;Dubai;2026-02-10;Male;Outdoor
+AL;3;MT46;100;0:11.79;1.8;Villarreal;Braian Nahuel;ARG;1991;ARG;Buenos Aires;2026-04-11;Male;Outdoor
+AL;2;MT47;100;0:11.64;1.6;Richards;Jahmarley Jahmarey;JAM;2004;JAM;Kingston;2026-03-21;Male;Outdoor
+AL;2;MT51;100;0:20.32;0.3;Fournie;Cody;CAN;1989;CAN;Victoria;2026-03-29;Male;Outdoor
 AL;2;MT52;100;0:23.60;-0.9;Holowat Jr;Norbert;USA;1997;UAE;Dubai;2026-02-10;Male;Outdoor
-AL;2;MT53;100;0:17.62;-0.3;Frias Moreno;Jose Alan;MEX;1987;ARG;Neuquen;2026-03-20;Male;Outdoor
+AL;2;MT53;100;0:17.49;0.5;Willand;Wyatt;USA;2004;USA;Tucson;2026-04-11;Male;Outdoor
 AL;2;MT54;100;0:15.24;1.1;Jimenez-Vergara;Miguel;USA;2000;USA;San Diego;2026-03-20;Male;Outdoor
+AL;2;MT63;100;0:12.66;2.0;Jackson;Desmond;USA;1999;USA;Miramar;2026-04-04;Male;Outdoor
+AL;2;MT12;200;0:23.42;1.9;Malone;Noah;USA;2001;USA;Walnut;2026-04-18;Male;Outdoor
 AL;3;MT13;200;0:23.00;-0.5;Acosta Manjarres;Yamil David;COL;1997;COL;Cali;2026-02-28;Male;Outdoor
+AL;2;MT35;200;0:27.08;0.1;Spalla;Austin;USA;2005;USA;San Diego;2026-04-10;Male;Outdoor
 AL;3;MT37;200;0:24.07;0.5;Suarez Cardona;Yeferson;COL;2002;UAE;Dubai;2026-02-13;Male;Outdoor
 AL;2;MT47;200;0:22.55;1.5;Best;Korban;USA;2003;USA;San Diego;2026-03-13;Male;Outdoor
+AL;3;MT11;400;1:03.50;;Tapia;Miguel Osvaldo;ARG;2004;ARG;Buenos Aires;2026-04-11;Male;Outdoor
+AL;2;MT12;400;0:51.95;;Johnson;David;CAN;1999;CAN;Victoria;2026-03-29;Male;Outdoor
+AL;3;MT35;400;0:57.79;;Villa;Maximiliano;ARG;2007;ARG;Buenos Aires;2026-04-11;Male;Outdoor
 AL;3;MT37;400;0:53.39;;Suarez Cardona;Yeferson;COL;2002;UAE;Dubai;2026-02-10;Male;Outdoor
 AL;3;MT38;400;0:50.76;;Ramirez Estrada;Jose Albeiro;COL;1996;COL;Cali;2026-02-27;Male;Outdoor
 AL;2;MT47;400;0:52.14;;Best;Korban;USA;2003;USA;San Diego;2026-03-13;Male;Outdoor
 AL;2;MT52;400;1:21.92;;Holowat Jr;Norbert;USA;1997;UAE;Dubai;2026-02-11;Male;Outdoor
-AL;2;MT53;400;0:56.00;;Frias Moreno;Jose Alan;MEX;1987;ARG;Neuquen;2026-03-20;Male;Outdoor
-AL;3;MT54;400;0:51.59;;Silva de Jesus;Carlos Pierre;BRA;1990;ARG;Neuquen;2026-03-20;Male;Outdoor
+AL;2;MT53;400;0:55.60;;Willand;Wyatt;USA;2004;USA;Tucson;2026-04-11;Male;Outdoor
+AL;3;MT54;400;0:49.01;;Sosa;Gabriel;ARG;1999;ARG;Buenos Aires;2026-04-11;Male;Outdoor
 AL;2;MT34;800;1:48.48;;Smeenk;Austin;CAN;1997;UAE;Dubai;2026-02-13;Male;Outdoor
+AL;2;MT46;800;1:48.80;;Upshaw;Tahmar;USA;2004;USA;Asuza;2026-04-17;Male;Outdoor
 AL;2;MT53;800;1:55.76;;Frias Moreno;Jose Alan;MEX;1987;ARG;Neuquen;2026-03-20;Male;Outdoor
-AL;3;MT54;800;1:45.37;;Rojas Diaz;Javier;COL;1989;COL;Cali;2026-02-28;Male;Outdoor
+AL;2;MT54;800;1:41.12;;Jimenez-Vergara;Miguel;USA;2000;USA;San Diego;2026-04-10;Male;Outdoor
 AL;2;MT34;1K5;3:22.99;;Smeenk;Austin;CAN;1997;UAE;Dubai;2026-02-10;Male;Outdoor
 AL;2;MT53;1K5;3:42.00;;Frias Moreno;Jose Alan;MEX;1987;ARG;Neuquen;2026-03-20;Male;Outdoor
 AL;3;MT54;1K5;3:38.70;;Silva de Jesus;Carlos Pierre;BRA;1990;ARG;Neuquen;2026-03-20;Male;Outdoor
 AL;3;MT12;5K0;15:05.68;;Moreta Criollo;Sixto Roman;ECU;1992;USA;ORLANDO;2026-03-21;Male;Outdoor
+AL;2;MT13;5K0;15:47.55;;Scherf;Noah;USA;1998;USA;Chester;2026-03-27;Male;Outdoor
 AL;2;MT54;5K0;11:07.55;;Allen;Jacob;USA;2001;USA;San Diego;2026-03-20;Male;Outdoor
+AL;3;MT13;WEI;6.58;1.9;Pinetti;Franco;ARG;1999;ARG;Buenos Aires;2026-03-28;Male;Outdoor
 AL;3;MT36;WEI;5.72;0.6;Acosta Soto;Omar Jose;COL;2000;COL;Cali;2026-02-28;Male;Outdoor
 AL;3;MT38;WEI;6.2;-0.6;Gomez Coa;Juan Sebastian;COL;1999;UAE;Dubai;2026-02-12;Male;Outdoor
-AL;2;MT64;WEI;7.61;0.1;Loccident;Derek;USA;1998;USA;San Diego;2026-03-20;Male;Outdoor
+AL;2;MT44;WEI;5.13;2.0;Carey;Annie;USA;2004;USA;Annapolis;2026-04-18;Male;Outdoor
+AL;2;MT46;WEI;6.94;1.1;Wise;Dallas;USA;2000;USA;San Diego;2026-04-10;Male;Outdoor
+AL;2;MT64;WEI;8.09;;Loccident;Derek;USA;1998;USA;Walnut;2026-04-18;Male;Outdoor
 AL;3;MF11;KUG;10.14;;Zambrano Farias;Wilmer Jesus;VEN;1991;ESP;Segovia;2026-03-14;Male;Outdoor
+AL;3;MF12;KUG;13.54;;Parodi;Ignacio;ARG;2000;ARG;Buenos Aires;2026-04-11;Male;Outdoor
 AL;3;MF34;KUG;12.05;;Valencia;Mauricio;COL;1987;UAE;Dubai;2026-02-10;Male;Outdoor
-AL;2;MF55;KUG;9.27;;Knoke;Maitlan;CAN;1988;CAN;Saskatoon;2026-01-10;Male;Outdoor
+AL;2;MF46;KUG;15.7;;Stewart;Greg;CAN;1986;CAN;Victoria;2026-03-29;Male;Outdoor
+AL;2;MF55;KUG;9.55;;Knoke;Maitlan;CAN;1988;CAN;Victoria;2026-03-29;Male;Outdoor
+AL;3;MF57;KUG;12.99;;Gimenez Reynoso;Pablo Damian;ARG;1983;ARG;Buenos Aires;2026-04-11;Male;Outdoor
 AL;3;MF63;KUG;10.58;;Felipa;Carlos;PER;1981;COL;Cali;2026-02-26;Male;Outdoor
 AL;3;MF11;DIS;28.66;;Zambrano Farias;Wilmer Jesus;VEN;1991;ESP;Segovia;2026-03-14;Male;Outdoor
+AL;4;MF43;DIS;56.25;;Stewart;Akeem;TTO;1992;JAM;Kingston;2026-03-21;Male;Outdoor
 AL;3;MF44;DIS;54.33;;Mosquera Neira;Andres Felipe;COL;1985;UAE;Dubai;2026-02-12;Male;Outdoor
-AL;2;MF64;DIS;45.72;;Smith;Derik;USA;2003;USA;San Diego;2026-03-20;Male;Outdoor
+AL;2;MF55;DIS;29.37;;Knoke;Maitlan;CAN;1988;CAN;Victoria;2026-03-29;Male;Outdoor
+AL;2;MF64;DIS;62.43;;Campbell;Jeremy;USA;1987;USA;Ramona;2026-04-12;Male;Outdoor
 AL;3;MF34;SPE;35.77;;Meneses Medina;Diego Fernando;COL;1998;UAE;Dubai;2026-02-11;Male;Outdoor
 AL;3;MF38;SPE;58.96;;Lemos Rivas;Jose Gregorio;COL;1991;UAE;Dubai;2026-02-11;Male;Outdoor
 AL;2;MF44;SPE;37.75;;Diaz Reyes;Ian Carlos;MEX;2005;UAE;Dubai;2026-02-10;Male;Outdoor
 AL;3;MF64;SPE;46.1;;Soto Mina;Tomas Felipe;COL;2007;UAE;Dubai;2026-02-10;Male;Outdoor
 AL;2;MF51;KEU;17.49;;Fournie;Cody;CAN;1989;UAE;Dubai;2026-02-10;Male;Outdoor
 AL;3;WT11;100;0:12.00;0.7;Pabon Mamian;Angie Lizeth;COL;1997;COL;Cali;2026-02-26;Female;Outdoor
+AL;3;WT12;100;0:13.21;1.4;Cerrudo;Candela;ARG;2000;ARG;Buenos Aires;2026-04-11;Female;Outdoor
 AL;2;WT34;100;0:20.04;1.9;Link;Carolanne;USA;1995;AUS;Canberra;2026-01-25;Female;Outdoor
+AL;2;WT36;100;0:15.23;0.8;Hwang;Kate;USA;1980;USA;Warrensburg;2026-04-09;Female;Outdoor
+AL;2;WT37;100;0:15.20;-0.3;Cross;Michelle;USA;2000;USA;Walnut;2026-04-18;Female;Outdoor
 AL;3;WT38;100;0:12.79;1.0;Palomeque Moreno;Karen Tatiana;COL;1994;UAE;Dubai;2026-02-11;Female;Outdoor
 AL;2;WT46;100;0:12.43;1.5;Mason;Brittni;USA;1998;USA;Coral Gables;2026-03-21;Female;Outdoor
 AL;3;WT47;100;0:13.00;1.4;Cubillos Yara;Luisa;COL;1997;COL;Cali;2026-02-26;Female;Outdoor
 AL;2;WT53;100;0:16.32;-1.2;Lewis;Jessica Cooper;BER;1993;UAE;Dubai;2026-02-10;Female;Outdoor
-AL;2;WT54;100;0:17.07;-1.2;Sharma;Nandini;CAN;1997;UAE;Dubai;2026-02-10;Female;Outdoor
+AL;2;WT54;100;0:16.99;0.5;Sharma;Nandini;CAN;1997;CAN;Victoria;2026-03-29;Female;Outdoor
+AL;2;WT64;100;0:13.30;-0.3;Hatz;B;USA;2000;USA;Walnut;2026-04-18;Female;Outdoor
+AL;2;WT72;100;0:18.54;1.9;Grooms;Sayers;USA;2005;USA;Alachua;2026-04-04;Female;Outdoor
 AL;3;WT11;200;0:26.13;2.0;Pabon Mamian;Angie Lizeth;COL;1997;UAE;Dubai;2026-02-12;Female;Outdoor
 AL;2;WT13;200;0:25.79;1.8;Crosby;Kym;USA;1993;USA;San Diego;2026-03-13;Female;Outdoor
 AL;2;WT34;200;0:37.09;-1.9;Link;Carolanne;USA;1995;AUS;Canberra;2026-01-23;Female;Outdoor
 AL;2;WT37;200;0:30.74;1.5;Cross;Michelle;USA;2000;USA;San Diego;2026-03-20;Female;Outdoor
 AL;3;WT38;200;0:26.69;-1.0;Palomeque Moreno;Karen Tatiana;COL;1994;UAE;Dubai;2026-02-10;Female;Outdoor
-AL;3;WT47;200;0:28.00;-1.3;Cubillos Yara;Luisa;COL;1997;COL;Cali;2026-02-28;Female;Outdoor
+AL;3;WT47;200;0:26.83;0.3;Briozzi;Teresita Daiana;ARG;1997;ARG;Buenos Aires;2026-03-28;Female;Outdoor
+AL;2;WT64;200;0:26.37;1.7;Barta;Sydney;USA;2004;USA;Walnut;2026-04-18;Female;Outdoor
 AL;3;WT11;400;0:58.00;;Pabon Mamian;Angie Lizeth;COL;1997;COL;Cali;2026-02-27;Female;Outdoor
+AL;3;WT12;400;1:08.80;;Cerrudo;Candela;ARG;2000;ARG;Buenos Aires;2026-04-11;Female;Outdoor
+AL;2;WT20;400;0:56.74;;Clark;Breanna;USA;1994;USA;Walnut;2026-04-18;Female;Outdoor
 AL;2;WT37;400;0:30.82;;Cross;Michelle;USA;2000;USA;San Diego;2026-03-13;Female;Outdoor
+AL;2;WT38;400;1:08.87;;Guimaraes;Catarina Joao;USA;2004;USA;Walnut;2026-04-18;Female;Outdoor
+AL;3;WT47;400;1:02.70;;Briozzi;Teresita Daiana;ARG;1997;ARG;Buenos Aires;2026-04-11;Female;Outdoor
 AL;2;WT53;400;0:59.78;;Lewis;Jessica Cooper;BER;1993;UAE;Dubai;2026-02-11;Female;Outdoor
 AL;2;WT54;400;0:58.69;;Sharma;Nandini;CAN;1997;UAE;Dubai;2026-02-11;Female;Outdoor
 AL;2;WT20;800;2:23.38;;Bounds;Kaitlin;USA;1991;USA;Arkadelphia;2026-03-14;Female;Outdoor
+AL;2;WT53;800;2:14.91;;Stein;Chelsea;USA;2003;USA;Tucson;2026-04-11;Female;Outdoor
 AL;2;WT54;800;2:03.12;;Crew;Isabel;USA;2009;USA;Seguin;2026-03-21;Female;Outdoor
 AL;2;WT20;1K5;4:40.02;;Bounds;Kaitlin;USA;1991;USA;Conway;2026-02-27;Female;Outdoor
 AL;2;WT54;1K5;3:45.79;;Sharma;Nandini;CAN;1997;UAE;Dubai;2026-02-10;Female;Outdoor
 AL;2;WT54;MAR;1:41:15;;McFadden;Tatyana;USA;1989;JPN;Tokyo;2026-03-01;Female;Outdoor
+AL;3;WT11;WEI;4.32;1.3;Casse;Sofia Valentina;ARG;2006;ARG;Buenos Aires;2026-03-28;Female;Outdoor
+AL;3;WT12;WEI;4.93;0.7;Cerrudo;Candela;ARG;2000;ARG;Buenos Aires;2026-03-28;Female;Outdoor
+AL;2;WT38;WEI;4.02;0.6;Guimaraes;Catarina Joao;USA;2004;USA;San Diego;2026-04-04;Female;Outdoor
+AL;2;WT64;WEI;5.26;1.3;Hatz;B;USA;2000;USA;San Diego;2026-04-04;Female;Outdoor
 AL;2;WF33;KUG;5.74;;O'Brien;Kate Elizabeth;CAN;1988;UAE;Dubai;2026-02-12;Female;Outdoor
+AL;2;WF36;KUG;8.37;;Hwang;Kate;USA;1980;USA;Warrensburg;2026-04-10;Female;Outdoor
 AL;3;WF41;KUG;9.08;;Buitrago Ariza;Mayerli;COL;1986;UAE;Dubai;2026-02-11;Female;Outdoor
-AL;2;WF44;KUG;11.94;;Heyison;Samantha;USA;2005;USA;High Point;2026-03-21;Female;Outdoor
+AL;2;WF44;KUG;12.06;;Heyison;Samantha;USA;2005;USA;Durham;2026-04-11;Female;Outdoor
+AL;2;WF46;KUG;10.17;;Kanas;Danielle;USA;2005;USA;San Diego;2026-04-10;Female;Outdoor
 AL;3;WF55;KUG;6.81;;Castano Salazar;Erica Maria;COL;1985;COL;Cali;2026-02-26;Female;Outdoor
+AL;2;WF56;KUG;6.56;;Robichaud;Christel;CAN;1992;CAN;Victoria;2026-03-29;Female;Outdoor
 AL;2;WF57;KUG;6.02;;Norek;Claire;CAN;2005;UAE;Dubai;2026-02-13;Female;Outdoor
+AL;2;WF64;KUG;9.95;;Guerrero;Alicia;USA;2003;USA;San Diego;2026-04-10;Female;Outdoor
+AL;3;WF11;DIS;18.46;;Molina;Aldana Devora Yamile;ARG;1980;ARG;Buenos Aires;2026-03-28;Female;Outdoor
 AL;2;WF44;DIS;41.05;;Heyison;Samantha;USA;2005;USA;High Point;2026-03-21;Female;Outdoor
 AL;3;WF55;DIS;23.21;;Castano Salazar;Erica Maria;COL;1985;UAE;Dubai;2026-02-12;Female;Outdoor
+AL;2;WF56;DIS;16.08;;Robichaud;Christel;CAN;1992;CAN;Victoria;2026-03-29;Female;Outdoor
 AL;2;WF57;DIS;16.32;;Norek;Claire;CAN;2005;UAE;Dubai;2026-02-10;Female;Outdoor
+AL;2;WF64;DIS;30.0;;Guerrero;Alicia;USA;2003;USA;San Diego;2026-04-09;Female;Outdoor
 AL;3;WF13;SPE;30.01;;Blandon Escobar;Yasiris;COL;1996;UAE;Dubai;2026-02-13;Female;Outdoor
 AL;3;WF34;SPE;13.94;;Rodriguez Martinez;Maria Alejandra;COL;1993;COL;Cali;2026-02-28;Female;Outdoor
+AL;2;WF46;SPE;26.66;;Kanas;Danielle;USA;2005;USA;San Diego;2026-04-09;Female;Outdoor
 AL;3;WF55;SPE;16.08;;Castano Salazar;Erica Maria;COL;1985;COL;Cali;2026-02-28;Female;Outdoor

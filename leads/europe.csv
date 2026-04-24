@@ -3,6 +3,7 @@ AL;1;MT11;100;0:11.39;1.2;Boettger;Marcel;GER;1993;UAE;Dubai;2026-02-12;Male;Out
 AL;1;MT12;100;0:10.72;1.3;Kashafali;Salum Ageze;NOR;1993;UAE;Dubai;2026-02-12;Male;Outdoor
 AL;1;MT13;100;0:11.45;0.4;Sirera Molina;Joan;ESP;2005;ESP;Segovia;2026-03-14;Male;Outdoor
 AL;1;MT35;100;0:12.48;1.9;Keyworth;Kyle;GBR;1997;UAE;Dubai;2026-02-11;Male;Outdoor
+AL;1;MT37;100;0:12.42;1.6;Koalick;Franz Michaeal;GER;1999;RSA;Stellenbosch;2026-03-30;Male;Outdoor
 AL;1;MT38;100;0:11.53;1.4;Chan;Karim;GBR;2000;GBR;Birmingham;2026-03-14;Male;Outdoor
 AL;1;MT44;100;0:11.54;0.2;Hannah;Ryan;GBR;1994;UAE;Dubai;2026-02-11;Male;Outdoor
 AL;1;MT46;100;0:11.80;1.1;Savelev;Daler;RUS;1993;UAE;Dubai;2026-02-11;Male;Outdoor
@@ -11,8 +12,9 @@ AL;1;MT52;100;0:17.52;-0.9;Carabin;Maxime;BEL;2000;UAE;Dubai;2026-02-10;Male;Out
 AL;1;MT53;100;0:19.29;-0.9;Perrineau Daley;Marcus;GBR;1989;UAE;Dubai;2026-02-10;Male;Outdoor
 AL;1;MT54;100;0:14.28;-0.6;Balde;Mamudo;POR;2005;UAE;Dubai;2026-02-10;Male;Outdoor
 AL;1;MT64;100;0:12.21;0.2;Murray;Euan Montgomerie;GBR;2007;UAE;Dubai;2026-02-11;Male;Outdoor
+AL;1;MT13;200;0:22.71;-1.2;Marzillier;Max;GER;2001;RSA;Stellenbosch;2026-03-28;Male;Outdoor
 AL;1;MT35;200;0:26.43;0.5;Keyworth;Kyle;GBR;1997;UAE;Dubai;2026-02-13;Male;Outdoor
-AL;1;MT37;200;0:31.44;0.5;Kocek;Dorian;CRO;2008;UAE;Dubai;2026-02-13;Male;Outdoor
+AL;1;MT37;200;0:25.65;-0.5;Koalick;Franz Michaeal;GER;1999;RSA;Stellenbosch;2026-03-29;Male;Outdoor
 AL;1;MT44;200;0:23.82;-0.8;Hannah;Ryan;GBR;1994;UAE;Dubai;2026-02-10;Male;Outdoor
 AL;1;MT46;200;0:24.63;-0.8;Savelev;Daler;RUS;1993;UAE;Dubai;2026-02-10;Male;Outdoor
 AL;1;MT51;200;0:37.60;1.4;Habsch;Roger;BEL;1979;UAE;Dubai;2026-02-12;Male;Outdoor
@@ -20,7 +22,7 @@ AL;1;MT54;200;0:30.43;1.6;Quintero Macias;Jose Manuel;ESP;1998;ESP;Guadalajara;2
 AL;1;MT64;200;0:25.05;-0.8;Murray;Euan Montgomerie;GBR;2007;UAE;Dubai;2026-02-10;Male;Outdoor
 AL;1;MT11;400;0:54.07;;Descarrega Puigdevall;Gerard;ESP;1994;ESP;Segovia;2026-03-14;Male;Outdoor
 AL;1;MT12;400;0:52.51;;Ruiz Garcia;Diego;ESP;2006;ESP;Segovia;2026-03-14;Male;Outdoor
-AL;1;MT13;400;0:51.52;;Mikhailov;Artur;RUS;2006;UAE;Dubai;2026-02-13;Male;Outdoor
+AL;1;MT13;400;0:50.54;;Marzillier;Max;GER;2001;RSA;Stellenbosch;2026-03-31;Male;Outdoor
 AL;1;MT20;400;0:49.20;;Makarov;Sergei;RUS;2003;IND;New Delhi;2026-03-12;Male;Outdoor
 AL;1;MT38;400;0:59.58;;Gonzalez Borras;Oscar;ESP;1999;ESP;Guadalajara;2026-03-15;Male;Outdoor
 AL;1;MT46;400;0:52.19;;Pedro;Ivan;POR;2004;UAE;Dubai;2026-02-12;Male;Outdoor
@@ -39,11 +41,12 @@ AL;1;MT54;1K5;3:53.89;;Quintero Macias;Jose Manuel;ESP;1998;ESP;Guadalajara;2026
 AL;1;MT12;MAR;2:28:56;;Clobert;Martin;BEL;1993;JPN;Tokyo;2026-03-01;Male;Outdoor
 AL;1;MT54;MAR;1:21:09;;Hug;Marcel;SUI;1986;JPN;Tokyo;2026-03-01;Male;Outdoor
 AL;1;MT47;HOC;1.72;;Perez Martinez;Daniel;ESP;1995;ESP;Guadalajara;2026-03-14;Male;Outdoor
+AL;1;MT11;WEI;5.38;;Dalla Mana;Riccardo;ITA;2006;ITA;Ancona;2026-02-21;Male;Outdoor
 AL;1;MT12;WEI;6.31;0.1;Sauchuk;Ihar;BLR;2003;UAE;Dubai;2026-02-11;Male;Outdoor
 AL;1;MT13;WEI;6.79;1.4;Sverd;Vegard Dragsund;NOR;1999;UAE;Dubai;2026-02-10;Male;Outdoor
 AL;1;MT20;WEI;5.31;-0.3;Mattacks;Joel;GBR;2002;UAE;Dubai;2026-02-10;Male;Outdoor
 AL;1;MT38;WEI;5.24;1.1;Kostin;Vladislav;RUS;2004;IND;New Delhi;2026-03-12;Male;Outdoor
-AL;1;MT44;WEI;6.51;-1.6;Bartashevich;Dzmitry;BLR;1999;UAE;Dubai;2026-02-12;Male;Outdoor
+AL;1;MT44;WEI;6.81;;Cicchetti;Marco;ITA;1999;ITA;Ancona;2026-02-21;Male;Outdoor
 AL;1;MF11;KUG;12.96;;del Amo Cano;Alvaro;ESP;1990;ESP;Segovia;2026-03-14;Male;Outdoor
 AL;1;MF13;KUG;14.62;;Romero Paredes;Ismael;ESP;2005;ESP;Segovia;2026-03-14;Male;Outdoor
 AL;1;MF20;KUG;10.39;;Silva;Leonardo;POR;2008;UAE;Dubai;2026-02-10;Male;Outdoor
@@ -55,11 +58,11 @@ AL;1;MF40;KUG;7.28;;Lvou;Aliaksandr;BLR;1991;UAE;Dubai;2026-02-11;Male;Outdoor
 AL;1;MF41;KUG;8.3;;Jimenez Alonso;Alvaro;ESP;2000;ESP;Guadalajara;2026-03-14;Male;Outdoor
 AL;1;MF42;KUG;15.86;;Davies;Aled;GBR;1991;AUS;Melbourne;2026-03-21;Male;Outdoor
 AL;1;MF44;KUG;10.56;;Rutter;Adam James;GBR;2005;GBR;Birmingham;2026-03-14;Male;Outdoor
-AL;1;MF46;KUG;14;;Kaurin;Erik Fabian;CRO;2000;UAE;Dubai;2026-02-13;Male;Outdoor
+AL;1;MF46;KUG;14.0;;Kaurin;Erik Fabian;CRO;2000;UAE;Dubai;2026-02-13;Male;Outdoor
 AL;1;MF55;KUG;7.85;;Dacal Martinez;Gustavo;ESP;1977;ESP;Guadalajara;2026-03-15;Male;Outdoor
 AL;1;MF56;KUG;7.64;;Delgado Requesens;Igor;ESP;1990;ESP;Guadalajara;2026-03-15;Male;Outdoor
 AL;1;MF57;KUG;13.32;;Haydari;Hamid;TUR;1991;UAE;Dubai;2026-02-12;Male;Outdoor
-AL;1;MF64;KUG;10.6;;Tonetto;Lorenzo;ITA;1974;ITA;Ancona;2026-02-21;Male;Outdoor
+AL;1;MF64;KUG;10.6;;Tonetto;Atletica;ITA;1974;ITA;Ancona;2026-02-21;Male;Outdoor
 AL;1;MF11;DIS;39.93;;Tapia;Oney;ITA;1976;ITA;Ancona;2026-02-20;Male;Outdoor
 AL;1;MF13;DIS;38.89;;Romero Paredes;Ismael;ESP;2005;ESP;Segovia;2026-03-14;Male;Outdoor
 AL;1;MF41;DIS;22.41;;Jimenez Alonso;Alvaro;ESP;2000;ESP;Guadalajara;2026-03-15;Male;Outdoor
@@ -70,7 +73,7 @@ AL;1;MF53;DIS;10.99;;Viet;Stefan;BUL;1995;UAE;Dubai;2026-02-13;Male;Outdoor
 AL;1;MF54;DIS;21.1;;Zupanovic;Marin;CRO;1978;UAE;Dubai;2026-02-12;Male;Outdoor
 AL;1;MF56;DIS;23.77;;Delgado Requesens;Igor;ESP;1990;ESP;Guadalajara;2026-03-14;Male;Outdoor
 AL;1;MF57;DIS;41.55;;Petrous;Jaroslav;CZE;1977;UAE;Dubai;2026-02-11;Male;Outdoor
-AL;1;MF64;DIS;41.75;;Tonetto;Lorenzo;ITA;1974;ITA;Ancona;2026-02-20;Male;Outdoor
+AL;1;MF64;DIS;41.75;;Tonetto;Atletica;ITA;1974;ITA;Ancona;2026-02-20;Male;Outdoor
 AL;1;MF34;SPE;27.58;;Horacek;Tomas;CZE;1986;UAE;Dubai;2026-02-11;Male;Outdoor
 AL;1;MF40;SPE;15.41;;Lvou;Aliaksandr;BLR;1991;UAE;Dubai;2026-02-10;Male;Outdoor
 AL;1;MF41;SPE;16.1;;Jimenez Alonso;Alvaro;ESP;2000;ESP;Guadalajara;2026-03-15;Male;Outdoor
@@ -88,7 +91,8 @@ AL;1;WT35;100;0:17.38;0.6;Machulskaia;Karina;RUS;1999;IND;New Delhi;2026-03-11;F
 AL;1;WT36;100;0:15.47;1.7;Nicoleitzik;Nicole;GER;1995;UAE;Dubai;2026-02-11;Female;Outdoor
 AL;1;WT37;100;0:16.25;0.6;Mataeva;Margarita;RUS;2009;IND;New Delhi;2026-03-11;Female;Outdoor
 AL;1;WT38;100;0:13.43;1.0;Ave;Lindy;GER;1998;UAE;Dubai;2026-02-11;Female;Outdoor
-AL;1;WT47;100;0:13.17;0.4;Scott;Becca;GBR;2006;GBR;Birmingham;2026-03-14;Female;Outdoor
+AL;1;WT44;100;0:14.05;0.0;Bensusan;Irmgard;GER;1991;RSA;Stellenbosch;2026-03-28;Female;Outdoor
+AL;1;WT47;100;0:13.14;;Scott;Becca;GBR;2006;GBR;Birmingham;2026-03-14;Female;Outdoor
 AL;1;WT53;100;0:16.78;-1.2;Dogangun;Hamide;TUR;1993;UAE;Dubai;2026-02-10;Female;Outdoor
 AL;1;WT54;100;0:16.74;-1.2;Supurgeci;Zubeyde;TUR;1993;UAE;Dubai;2026-02-10;Female;Outdoor
 AL;1;WT12;200;0:28.12;0.3;Gorbacheva;Iana;RUS;2007;UAE;Dubai;2026-02-12;Female;Outdoor
@@ -111,22 +115,23 @@ AL;1;WT12;MAR;3:01:50;;Guisado Rodriguez;Susana;ESP;1981;ESP;Sevilla;2026-02-15;
 AL;1;WT53;MAR;1:37:15;;Debrunner;Catherine;SUI;1995;JPN;Tokyo;2026-03-01;Female;Outdoor
 AL;1;WT54;MAR;1:41:13;;Rainbow-Cooper;Eden;GBR;2001;JPN;Tokyo;2026-03-01;Female;Outdoor
 AL;1;WT11;WEI;4.49;0.6;Averchenkova;Valeriia;RUS;2007;IND;New Delhi;2026-03-13;Female;Outdoor
-AL;1;WT12;WEI;4.89;0.1;Mueller-Rottgardt;Katrin;GER;1982;UAE;Dubai;2026-02-11;Female;Outdoor
+AL;1;WT12;WEI;4.98;;Inga;Antonella;ITA;1995;ITA;Ancona;2026-02-21;Female;Outdoor
 AL;1;WT13;WEI;4.16;1.9;Pungin Esteve;Xiana;ESP;2008;ESP;Segovia;2026-03-14;Female;Outdoor
 AL;1;WT20;WEI;5.5;1.0;Stepanenkova;Valentina;RUS;1998;IND;New Delhi;2026-03-13;Female;Outdoor
 AL;1;WT37;WEI;4.15;-1.2;Mataeva;Margarita;RUS;2009;IND;New Delhi;2026-03-13;Female;Outdoor
-AL;1;WT38;WEI;4.09;1.3;Dodds;Elizabeth Adeline;GBR;2007;GBR;Birmingham;2026-03-14;Female;Outdoor
-AL;1;WT63;WEI;4.44;0.9;Vila Bargiela;Desiree;ESP;1998;ESP;Guadalajara;2026-03-14;Female;Outdoor
+AL;1;WT38;WEI;5.15;1.8;Moos;Nele;GER;2001;RSA;Stellenbosch;2026-03-28;Female;Outdoor
+AL;1;WT63;WEI;4.79;;Sabatini;Ambra;ITA;2002;ITA;Ancona;2026-02-21;Female;Outdoor
 AL;1;WF11;KUG;11.44;;Legnante;Assunta;ITA;1978;ITA;Ancona;2026-02-20;Female;Outdoor
 AL;1;WF12;KUG;12.46;;Prokofyeva;Marta;RUS;1987;IND;New Delhi;2026-03-12;Female;Outdoor
 AL;1;WF13;KUG;9.46;;Heras Mateu;Paula;ESP;1995;ESP;Segovia;2026-03-14;Female;Outdoor
 AL;1;WF20;KUG;10.74;;Mendes;Carla;POR;2007;UAE;Dubai;2026-02-12;Female;Outdoor
 AL;1;WF33;KUG;3.83;;Gouveia;Elisabete;POR;2003;POR;Torres Vedras;2026-02-22;Female;Outdoor
-AL;1;WF34;KUG;7.44;;Kosche;Charleen;GER;2001;UAE;Dubai;2026-02-13;Female;Outdoor
+AL;1;WF34;KUG;7.63;;Kosche;Charleen;GER;2001;RSA;Stellenbosch;2026-03-28;Female;Outdoor
 AL;1;WF35;KUG;8.6;;Luxova;Anna;CZE;1997;UAE;Dubai;2026-02-13;Female;Outdoor
 AL;1;WF38;KUG;10.06;;Leck;Rachel Jane Caroline;GBR;1996;UAE;Dubai;2026-02-13;Female;Outdoor
 AL;1;WF40;KUG;5.78;;Latre Sanmartin;Elena;ESP;2006;ESP;Guadalajara;2026-03-14;Female;Outdoor
-AL;1;WF46;KUG;10.14;;Krog;Martina;CRO;1994;UAE;Dubai;2026-02-11;Female;Outdoor
+AL;1;WF44;KUG;10.06;;Nesse;Ida;NOR;1992;NOR;Oslo;2026-04-11;Female;Outdoor
+AL;1;WF46;KUG;10.73;;Vaske;Kim Marie;GER;2005;RSA;Stellenbosch;2026-03-30;Female;Outdoor
 AL;1;WF54;KUG;6.58;;Nezhura;Yuliya;BLR;1975;UAE;Dubai;2026-02-11;Female;Outdoor
 AL;1;WF55;KUG;8.36;;Baigulova;Svetlana;RUS;1994;UAE;Dubai;2026-02-11;Female;Outdoor
 AL;1;WF56;KUG;6.64;;Brdar;Zeljka;CRO;1984;UAE;Dubai;2026-02-13;Female;Outdoor
@@ -143,11 +148,11 @@ AL;1;WF54;DIS;10.43;;Nezhura;Yuliya;BLR;1975;UAE;Dubai;2026-02-12;Female;Outdoor
 AL;1;WF55;DIS;23.31;;Baigulova;Svetlana;RUS;1994;UAE;Dubai;2026-02-12;Female;Outdoor
 AL;1;WF57;DIS;30.19;;Aimasheva;Avrora;RUS;2003;UAE;Dubai;2026-02-10;Female;Outdoor
 AL;1;WF11;SPE;19.92;;Legnante;Assunta;ITA;1978;ITA;Ancona;2026-02-21;Female;Outdoor
-AL;1;WF12;SPE;25.54;;Rus Martinez;Laura;ESP;2000;GER;Offenburg;2026-02-01;Female;Outdoor
+AL;1;WF12;SPE;26.18;;Rus Martinez;Laura;ESP;2000;ESP;Segovia;2026-03-14;Female;Outdoor
 AL;1;WF13;SPE;34.11;;Dabravolskaya;Lizaveta;BLR;2002;UAE;Dubai;2026-02-13;Female;Outdoor
-AL;1;WF34;SPE;14.49;;Lipatnikova;Galina;RUS;1984;IND;New Delhi;2026-03-12;Female;Outdoor
+AL;1;WF34;SPE;16.73;;Herrmann;Frances;GER;1989;RSA;Stellenbosch;2026-03-29;Female;Outdoor
 AL;1;WF40;SPE;12.18;;Latre Sanmartin;Elena;ESP;2006;ESP;Guadalajara;2026-03-15;Female;Outdoor
-AL;1;WF46;SPE;29.43;;Frasquet Y Sanchez;Cintia;ESP;2004;ESP;Guadalajara;2026-03-15;Female;Outdoor
+AL;1;WF46;SPE;37.87;;Petersen;Lise;GER;2005;RSA;Stellenbosch;2026-03-28;Female;Outdoor
 AL;1;WF54;SPE;14.33;;Nezhura;Yuliya;BLR;1975;UAE;Dubai;2026-02-10;Female;Outdoor
 AL;1;WF55;SPE;17.71;;Keramyda;Soultana;GRE;1989;UAE;Dubai;2026-02-10;Female;Outdoor
 AL;1;WF56;SPE;14.96;;Brdar;Zeljka;CRO;1984;UAE;Dubai;2026-02-10;Female;Outdoor
