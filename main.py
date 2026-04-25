@@ -78,28 +78,30 @@ if __name__ == '__main__':
     split_rows = []
     for index, row in df.iterrows():
         class_value = row['Class']
-        if '-' in class_value:
-            classes = class_value.split('-')
-            type = class_value[0]
-            classes = ["".join(filter(str.isdigit, c)) for c in classes]
-            start = int(classes[0])
-            end = int(classes[1])
-            for i in range(start, end + 1):
+        prefix = class_value[0]   # T
+
+        # split by /
+        parts = class_value.split('/')
+
+        for part in parts:
+            # if no prefix in later parts, add it
+            if not part[0].isalpha():
+                part = prefix + part
+
+            if '-' in part:
+                start_end = part[1:].split('-')   # remove T
+                start = int(start_end[0])
+                end = int(start_end[1])
+
+                for i in range(start, end + 1):
+                    new_row = row.copy()
+                    new_row['Class'] = prefix + str(i)
+                    split_rows.append(new_row)
+
+            else:
                 new_row = row.copy()
-                new_row['Class'] = type + str(i)
+                new_row['Class'] = part
                 split_rows.append(new_row)
-        elif '/' in class_value:
-            type = class_value[0]
-            classes = class_value.split('/')
-            for new_class in classes:
-                new_row = row.copy()
-                if(new_class[0] == type):
-                    new_row['Class'] = new_class
-                else:
-                    new_row['Class'] = type + new_class
-                split_rows.append(new_row)
-        else: 
-            split_rows.append(row)
 
     df = pd.DataFrame(split_rows)
 
