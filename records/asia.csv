@@ -383,8 +383,8 @@ PAR;5;WT54;10S;22:45.0;;Tsuchida;Wakako;JPN;1974;JPN;Oita City;2022-11-20;Female
 PAR;5;WT54;10S;22:45.0;;Nakamine;Tsubasa;JPN;1990;JPN;Oita City;2022-11-20;Female;Outdoor
 PAR;5;WT11;HAM;1:31:41.0;;Inouchi;Natsumi;JPN;1989;JPN;Tokyo;2022-10-16;Female;Outdoor
 PAR;5;WT12;HAM;1:24:48.0;;Michishita;Misato;JPN;1977;JPN;Tokyo;2023-10-15;Female;Outdoor
-PAR;5;WT54;HAM;47:55.0;;Tsuchida;Wakako;JPN;1974;JPN;Oita City;2022-11-20;Female;Outdoor
 PAR;5;WT54;HAM;47:55.0;;Nakamine;Tsubasa;JPN;1990;JPN;Oita City;2022-11-20;Female;Outdoor
+PAR;5;WT54;HAM;47:55.0;;Tsuchida;Wakako;JPN;1974;JPN;Oita City;2022-11-20;Female;Outdoor
 PAR;5;WT11;MAR;3:11:36;;Inouchi;Natsumi;JPN;1989;JPN;Oita;2025-02-02;Female;Outdoor
 PAR;5;WT12;MAR;2:54:13;;Michishita;Misato;JPN;1977;JPN;Hofu City;2020-12-20;Female;Outdoor
 PAR;0;WT13;MAR;3:13:10;;Record Mark;;;;;;2021-01-01;Female;Outdoor
@@ -481,3 +481,4 @@ PAR;0;WF64;SPE;13.12;;Record Mark;;;;;;2026-01-01;Female;Outdoor
 PAR;0;WF31;KEU;22.74;;Record Mark;;;;;;2026-01-01;Female;Outdoor
 PAR;5;WF32;KEU;26.29;;Habibi;Parastoo;IRI;2002;FRA;Paris;2024-08-31;Female;Outdoor
 PAR;5;WF51;KEU;21.66;;Bhyan;Ekta;IND;1985;CHN;Hangzhou;2023-10-24;Female;Outdoor
+PAR;5;X;4X1;0:45.07;;People's Republic of China;;CHN;;FRA;Paris;2024-09-06;;Outdoor
