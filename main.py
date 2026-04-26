@@ -67,8 +67,17 @@ if __name__ == '__main__':
         df["Event Type"] = df["Event Type"].str.split(" ", n=1).str[1]
 
     if "Event" in df.columns:
-        df["Class"] = df["Event"].str.split().str[-1]
-        df["Event Type"] = df["Event"].str.split().str[1:-1].str.join(" ")
+        # 4x100 m Universal Relay is a special case, because it has no class and the event type is 4x100 m
+        mask = df["Event"] == "4x100 m Universal Relay"
+        df.loc[mask, "Class"] = "X"
+        df.loc[mask, "Event Type"] = "4x100 m"
+
+        # Handle all other rows
+        df.loc[~mask, "Class"] = df.loc[~mask, "Event"].str.split().str[-1]
+        df.loc[~mask, "Event Type"] = (
+            df.loc[~mask, "Event"].str.split().str[1:-1].str.join(" ")
+        )
+
         df = df.drop(columns=["Event"])
 
     if "Rank" in df.columns:
@@ -105,7 +114,12 @@ if __name__ == '__main__':
 
     df = pd.DataFrame(split_rows)
 
-    df["Klasse"] = df["Gender"].astype(str)  + df["Class"]
+    df["Klasse"] = df.apply(
+        lambda row: row["Class"]
+        if str(row["Class"]).upper() == "X"
+        else str(row["Gender"]) + str(row["Class"]),
+        axis=1
+    )
     df["Geschlecht"] = df["Gender"].map({"M": "Male", "W": "Female"})
     df['Birth'] = df['Birth'].fillna(-1).astype(float).astype(int)
     # replace all Birth -1 with NaN
@@ -120,9 +134,9 @@ if __name__ == '__main__':
 
     if df["taf"].isna().sum() > 0:
         print(df[df["taf"].isna()])
-        #print(df.loc[df["taf"].isna(), ["discipline"]])
+        print(df.loc[df["taf"].isna(), ["discipline", "Klasse"]])
         df = df.dropna(subset=["taf"])
-        #raise ValueError("Some disciplines are not mapped")
+        raise ValueError("Some disciplines are not mapped")
 
     df = df.drop(columns=["discipline"], errors="ignore")
     df = df.rename(columns={"taf": "Bewerb"})
