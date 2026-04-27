@@ -36,6 +36,11 @@ PAL;7;MT54;1K5;3:38.70;;Silva de Jesus;Carlos Pierre;BRA;1990;ARG;Neuquen;2026-0
 PAL;7;MT12;5K0;15:05.68;;Moreta Criollo;Sixto Roman;ECU;1992;USA;ORLANDO;2026-03-21;Male;Outdoor
 PAL;7;MT13;5K0;15:47.55;;Scherf;Noah;USA;1998;USA;Chester;2026-03-27;Male;Outdoor
 PAL;7;MT54;5K0;11:07.55;;Allen;Jacob;USA;2001;USA;San Diego;2026-03-20;Male;Outdoor
+PAL;7;MT53;5S;10:28.0;;Romanchuk;Daniel;USA;1998;USA;Boston;2026-04-18;Male;Outdoor
+PAL;7;MT54;5S;10:28.0;;Romanchuk;Daniel;USA;1998;USA;Boston;2026-04-18;Male;Outdoor
+PAL;7;MT52;MAR;2:25:28;;Holowat Jr;Norbert;USA;1997;USA;Boston;2026-04-20;Male;Outdoor
+PAL;7;MT53;MAR;1:34:28;;Aguilar Zepeda;Fidel Arnoldo;MEX;1977;USA;Boston;2026-04-20;Male;Outdoor
+PAL;7;MT54;MAR;1:22:44;;Romanchuk;Daniel;USA;1998;USA;Boston;2026-04-20;Male;Outdoor
 PAL;7;MT13;WEI;6.58;1.9;Pinetti;Franco;ARG;1999;ARG;Buenos Aires;2026-03-28;Male;Outdoor
 PAL;7;MT36;WEI;5.72;0.6;Acosta Soto;Omar Jose;COL;2000;COL;Cali;2026-02-28;Male;Outdoor
 PAL;7;MT38;WEI;6.2;-0.6;Gomez Coa;Juan Sebastian;COL;1999;UAE;Dubai;2026-02-12;Male;Outdoor
@@ -91,7 +96,10 @@ PAL;7;WT53;800;2:14.91;;Stein;Chelsea;USA;2003;USA;Tucson;2026-04-11;Female;Outd
 PAL;7;WT54;800;2:03.12;;Crew;Isabel;USA;2009;USA;Seguin;2026-03-21;Female;Outdoor
 PAL;7;WT20;1K5;4:40.02;;Bounds;Kaitlin;USA;1991;USA;Conway;2026-02-27;Female;Outdoor
 PAL;7;WT54;1K5;3:45.79;;Sharma;Nandini;CAN;1997;UAE;Dubai;2026-02-10;Female;Outdoor
-PAL;7;WT54;MAR;1:41:15;;McFadden;Tatyana;USA;1989;JPN;Tokyo;2026-03-01;Female;Outdoor
+PAL;7;WT53;5S;12:29.0;;McFadden;Tatyana;USA;1989;USA;Boston;2026-04-18;Female;Outdoor
+PAL;7;WT54;5S;12:29.0;;McFadden;Tatyana;USA;1989;USA;Boston;2026-04-18;Female;Outdoor
+PAL;7;WT53;MAR;1:54:38;;Stein;Chelsea;USA;2003;USA;Boston;2026-04-20;Female;Outdoor
+PAL;7;WT54;MAR;1:36:43;;McFadden;Tatyana;USA;1989;USA;Boston;2026-04-20;Female;Outdoor
 PAL;7;WT11;WEI;4.32;1.3;Casse;Sofia Valentina;ARG;2006;ARG;Buenos Aires;2026-03-28;Female;Outdoor
 PAL;7;WT12;WEI;4.93;0.7;Cerrudo;Candela;ARG;2000;ARG;Buenos Aires;2026-03-28;Female;Outdoor
 PAL;7;WT38;WEI;4.02;0.6;Guimaraes;Catarina Joao;USA;2004;USA;San Diego;2026-04-04;Female;Outdoor
