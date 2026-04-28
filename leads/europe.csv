@@ -10,7 +10,7 @@ PAL;1;MT46;100;0:11.80;1.1;Savelev;Daler;RUS;1993;UAE;Dubai;2026-02-11;Male;Outd
 PAL;1;MT51;100;0:20.39;-0.9;Habsch;Roger;BEL;1979;UAE;Dubai;2026-02-10;Male;Outdoor
 PAL;1;MT52;100;0:17.52;-0.9;Carabin;Maxime;BEL;2000;UAE;Dubai;2026-02-10;Male;Outdoor
 PAL;1;MT53;100;0:19.29;-0.9;Perrineau Daley;Marcus;GBR;1989;UAE;Dubai;2026-02-10;Male;Outdoor
-PAL;1;MT54;100;0:14.28;-0.6;Balde;Mamudo;POR;2005;UAE;Dubai;2026-02-10;Male;Outdoor
+PAL;1;MT54;100;0:14.03;0.7;Balde;Mamudo;POR;2005;POR;Lisboa;2026-04-25;Male;Outdoor
 PAL;1;MT64;100;0:12.21;0.2;Murray;Euan Montgomerie;GBR;2007;UAE;Dubai;2026-02-11;Male;Outdoor
 PAL;1;MT13;200;0:22.71;-1.2;Marzillier;Max;GER;2001;RSA;Stellenbosch;2026-03-28;Male;Outdoor
 PAL;1;MT35;200;0:26.43;0.5;Keyworth;Kyle;GBR;1997;UAE;Dubai;2026-02-13;Male;Outdoor
@@ -37,6 +37,7 @@ PAL;1;MT12;1K5;4:15.74;;Marisavljevic;Darko;SRB;2001;IND;New Delhi;2026-03-11;Ma
 PAL;1;MT13;1K5;4:08.09;;Mikhailov;Artur;RUS;2006;UAE;Dubai;2026-02-12;Male;Outdoor
 PAL;1;MT20;1K5;3:56.01;;Voloshin;Vladilen;RUS;2000;IND;New Delhi;2026-03-11;Male;Outdoor
 PAL;1;MT37;1K5;4:31.00;;Kochurov;Vadim;RUS;2001;UAE;Dubai;2026-02-12;Male;Outdoor
+PAL;1;MT38;1K5;4:27.78;;Pereira Monteiro;Ruben;POR;2001;POR;Lisboa;2026-04-25;Male;Outdoor
 PAL;1;MT54;1K5;3:53.89;;Quintero Macias;Jose Manuel;ESP;1998;ESP;Guadalajara;2026-03-15;Male;Outdoor
 PAL;1;MT53;5S;10:25.0;;Hug;Marcel;SUI;1986;USA;Boston;2026-04-18;Male;Outdoor
 PAL;1;MT54;5S;10:25.0;;Hug;Marcel;SUI;1986;USA;Boston;2026-04-18;Male;Outdoor
@@ -58,7 +59,7 @@ PAL;1;MF32;KUG;8.02;;Correia;Olavio;POR;1992;UAE;Dubai;2026-02-10;Male;Outdoor
 PAL;1;MF34;KUG;10.03;;Gazzaev;Aslan;RUS;1995;IND;New Delhi;2026-03-13;Male;Outdoor
 PAL;1;MF35;KUG;12.8;;Khabalov;Taimuraz;RUS;1985;IND;New Delhi;2026-03-13;Male;Outdoor
 PAL;1;MF36;KUG;10.93;;Zaitsev;Vasilii;RUS;1988;IND;New Delhi;2026-03-13;Male;Outdoor
-PAL;1;MF40;KUG;7.28;;Lvou;Aliaksandr;BLR;1991;UAE;Dubai;2026-02-11;Male;Outdoor
+PAL;1;MF40;KUG;10.9;;Monteiro;Miguel;POR;2000;POR;Lisboa;2026-04-25;Male;Outdoor
 PAL;1;MF41;KUG;8.3;;Jimenez Alonso;Alvaro;ESP;2000;ESP;Guadalajara;2026-03-14;Male;Outdoor
 PAL;1;MF42;KUG;15.86;;Davies;Aled;GBR;1991;AUS;Melbourne;2026-03-21;Male;Outdoor
 PAL;1;MF44;KUG;10.56;;Rutter;Adam James;GBR;2005;GBR;Birmingham;2026-03-14;Male;Outdoor
