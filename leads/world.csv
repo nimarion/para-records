@@ -129,11 +129,11 @@ WL;;MF54;KUG;7.86;;;Laxit;IND;2004;IND;New Delhi;2026-03-13;Male;Outdoor
 WL;;MF55;KUG;10.83;;Sayyad;Sahil Salim;IND;1998;IND;New Delhi;2026-03-13;Male;Outdoor
 WL;;MF56;KUG;10.65;;Huang;Jung-Chia;TPE;1995;UAE;Dubai;2026-02-12;Male;Outdoor
 WL;;MF57;KUG;14.45;;Juyal;Shubham;IND;1996;IND;New Delhi;2026-03-13;Male;Outdoor
-WL;;MF63;KUG;11.78;;Yadav;Himanshu;IND;1995;IND;New Delhi;2026-03-12;Male;Outdoor
+WL;;MF63;KUG;13.39;;Schober;Georg;AUT;1989;CZE;Prague;2026-04-18;Male;Outdoor
 WL;;MF64;KUG;10.6;;Tonetto;Atletica;ITA;1974;ITA;Ancona;2026-02-21;Male;Outdoor
 WL;;MF11;DIS;39.93;;Tapia;Oney;ITA;1976;ITA;Ancona;2026-02-20;Male;Outdoor
 WL;;MF13;DIS;38.89;;Romero Paredes;Ismael;ESP;2005;ESP;Segovia;2026-03-14;Male;Outdoor
-WL;;MF32;DIS;6.77;;Al Qasmi;Mohammed;OMA;1998;OMA;Muscat;2026-02-05;Male;Outdoor
+WL;;MF32;DIS;15.28;;Serbus;Frantisek;CZE;1985;CZE;Prague;2026-04-18;Male;Outdoor
 WL;;MF33;DIS;29.1;;Alnakhli;Hani;KSA;1986;OMA;Muscat;2026-02-05;Male;Outdoor
 WL;;MF34;DIS;33.69;;Hindi;Ahmad;JOR;1995;OMA;Muscat;2026-02-03;Male;Outdoor
 WL;;MF36;DIS;38.49;;Al Kaabi;Mohammed;UAE;1996;OMA;Muscat;2026-02-04;Male;Outdoor
@@ -152,6 +152,7 @@ WL;;MF54;DIS;21.93;;Mesbahi;Abdulla;UAE;1985;OMA;Muscat;2026-02-05;Male;Outdoor
 WL;;MF55;DIS;36.83;;Sayyad;Sahil Salim;IND;1998;IND;New Delhi;2026-03-12;Male;Outdoor
 WL;;MF56;DIS;42.22;;Kathuniya;Yogesh;IND;1997;UAE;Dubai;2026-02-11;Male;Outdoor
 WL;;MF57;DIS;46.23;;Rajab;Mahmoud;LBA;1985;UAE;Dubai;2026-02-11;Male;Outdoor
+WL;;MF63;DIS;32.26;;Adamcik;Martin;CZE;2000;CZE;Prague;2026-04-18;Male;Outdoor
 WL;;MF64;DIS;62.43;;Campbell;Jeremy;USA;1987;USA;Ramona;2026-04-12;Male;Outdoor
 WL;;MF11;SPE;24.16;;Alkhurayb;Ziyad;KSA;1996;OMA;Muscat;2026-02-03;Male;Outdoor
 WL;;MF12;SPE;53.82;;Wakoh;Yuta;JPN;1997;JPN;Tokyo;2026-03-21;Male;Outdoor
@@ -267,7 +268,7 @@ WL;;WF20;KUG;12.39;;Hori;Reina;JPN;2004;JPN;Mihama;2026-04-19;Female;Outdoor
 WL;;WF32;KUG;5.67;;Clifton-Bligh;Sarah;AUS;2004;AUS;Canberra;2026-01-22;Female;Outdoor
 WL;;WF33;KUG;5.79;;Aljneibi;Sara;UAE;1992;UAE;Dubai;2026-02-12;Female;Outdoor
 WL;;WF34;KUG;7.75;;Jadhav;Bhagyashri Madhavrao;IND;1985;UAE;Dubai;2026-02-13;Female;Outdoor
-WL;;WF35;KUG;8.6;;Luxova;Anna;CZE;1997;UAE;Dubai;2026-02-13;Female;Outdoor
+WL;;WF35;KUG;8.7;;Luxova;Anna;CZE;1997;CZE;Prague;2026-04-18;Female;Outdoor
 WL;;WF36;KUG;8.46;;Wright;Kirra;AUS;2008;AUS;Canberra;2026-01-26;Female;Outdoor
 WL;;WF37;KUG;13.25;;Adams;Lisa;NZL;1990;NZL;Christchurch;2026-02-21;Female;Outdoor
 WL;;WF38;KUG;12.38;;Kruger;Simone;RSA;2005;RSA;Stellenbosch;2026-03-28;Female;Outdoor
@@ -277,12 +278,13 @@ WL;;WF44;KUG;12.06;;Heyison;Samantha;USA;2005;USA;Durham;2026-04-11;Female;Outdo
 WL;;WF46;KUG;12.59;;Robinson;Holly;NZL;1994;AUS;Sydney;2026-04-12;Female;Outdoor
 WL;;WF54;KUG;6.58;;Nezhura;Yuliya;BLR;1975;UAE;Dubai;2026-02-11;Female;Outdoor
 WL;;WF55;KUG;8.36;;Baigulova;Svetlana;RUS;1994;UAE;Dubai;2026-02-11;Female;Outdoor
-WL;;WF56;KUG;6.85;;Sharma;Poonam;IND;1992;IND;New Delhi;2026-03-11;Female;Outdoor
+WL;;WF56;KUG;6.9;;Adamkova;Miroslava;CZE;1975;CZE;Prague;2026-04-18;Female;Outdoor
 WL;;WF57;KUG;9.27;;;Sharmila;IND;1986;AUS;Canberra;2026-01-22;Female;Outdoor
 WL;;WF64;KUG;9.95;;Guerrero;Alicia;USA;2003;USA;San Diego;2026-04-10;Female;Outdoor
 WL;;WF11;DIS;28.37;;Legnante;Assunta;ITA;1978;ITA;Ancona;2026-02-21;Female;Outdoor
 WL;;WF12;DIS;29.6;;Prokofyeva;Marta;RUS;1987;IND;New Delhi;2026-03-11;Female;Outdoor
 WL;;WF13;DIS;20.45;;Heras Mateu;Paula;ESP;1995;ESP;Segovia;2026-03-15;Female;Outdoor
+WL;;WF32;DIS;8.12;;Marcanikova;Anna;CZE;1995;CZE;Prague;2026-04-18;Female;Outdoor
 WL;;WF33;DIS;9.84;;Masoud;Sara Hamdi;QAT;1986;OMA;Muscat;2026-02-04;Female;Outdoor
 WL;;WF34;DIS;14.63;;Al Thwai;Hadeel;KSA;1994;OMA;Muscat;2026-02-04;Female;Outdoor
 WL;;WF37;DIS;27.28;;Gardiner-Hall;Charli;NZL;2007;NZL;Auckland;2026-03-05;Female;Outdoor
