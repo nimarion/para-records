@@ -20,7 +20,8 @@ PAL;5;MT34;200;0:27.25;0.1;Arshid;Ali Radi;QAT;2004;OMA;Muscat;2026-02-04;Male;O
 PAL;5;MT35;200;0:28.18;0.6;;Vinay;IND;2003;IND;New Delhi;2026-03-13;Male;Outdoor
 PAL;5;MT37;200;0:24.10;0.7;Bhatt;Rakeshbhai;IND;2001;IND;New Delhi;2026-03-13;Male;Outdoor
 PAL;5;MT44;200;0:24.90;0.5;Alsana;Nour;KSA;1984;OMA;Muscat;2026-02-04;Male;Outdoor
-PAL;5;MT46;200;0:22.71;1.6;Juft;Nader;IRQ;2002;OMA;Muscat;2026-02-04;Male;Outdoor
+PAL;5;MT46;200;0:22.62;0.5;Ishida;Kakeru;JPN;1999;JPN;Fukuroi;2026-05-03;Male;Outdoor
+PAL;5;MT47;200;0:22.65;0.5;Suzuki;Yudai;JPN;1998;JPN;Fukuroi;2026-05-03;Male;Outdoor
 PAL;5;MT52;200;0:31.71;-0.5;Ito;Tomoya;JPN;1963;JPN;Mihama;2026-04-18;Male;Outdoor
 PAL;5;MT53;200;0:29.72;-1.5;Alqurashi;Abdulrahman;KSA;1997;OMA;Muscat;2026-02-04;Male;Outdoor
 PAL;5;MT54;200;0:27.39;0.2;Vahdani;Mohammad;UAE;1979;OMA;Muscat;2026-02-04;Male;Outdoor
@@ -28,8 +29,8 @@ PAL;5;MT63;200;0:29.21;-1.4;Inagaki;Katsuaki;JPN;1992;JPN;Mihama;2026-04-18;Male
 PAL;5;MT64;200;0:23.40;0.9;Oshima;Kengo;JPN;2000;JPN;Tokyo;2026-03-21;Male;Outdoor
 PAL;5;MT11;400;0:57.86;;;Madan;IND;2000;IND;New Delhi;2026-03-12;Male;Outdoor
 PAL;5;MT12;400;0:51.37;;Tisuwan;Kissanapong;THA;1999;UAE;Dubai;2026-02-13;Male;Outdoor
-PAL;5;MT13;400;0:51.88;;Bhatt;Subodh;IND;2002;IND;New Delhi;2026-03-12;Male;Outdoor
-PAL;5;MT20;400;0:50.45;;Watanabe;Kuma;JPN;2007;UAE;Dubai;2026-02-13;Male;Outdoor
+PAL;5;MT13;400;0:49.55;;Fukunaga;Ryota;JPN;1998;JPN;Fukuroi;2026-05-03;Male;Outdoor
+PAL;5;MT20;400;0:49.08;;Usuki;Daigo;JPN;2004;JPN;Fukuroi;2026-05-03;Male;Outdoor
 PAL;5;MT34;400;0:51.52;;Othman;Mohamad;UAE;2004;UAE;Dubai;2026-02-12;Male;Outdoor
 PAL;5;MT36;400;1:03.53;;;Chirag;IND;2001;UAE;Dubai;2026-02-10;Male;Outdoor
 PAL;5;MT37;400;0:56.98;;Alzahrani;Thamer;KSA;1988;OMA;Muscat;2026-02-03;Male;Outdoor
@@ -160,8 +161,8 @@ PAL;5;WT38;200;0:30.69;0.8;Takemura;Ayumi;JPN;1999;JPN;Tokyo;2026-03-21;Female;O
 PAL;5;WT46;200;0:30.30;1.0;Valasamgari;Bhavani;IND;1995;IND;New Delhi;2026-03-13;Female;Outdoor
 PAL;5;WT11;400;1:07.52;;Valasanaini;Ravanni;IND;2007;UAE;Dubai;2026-02-13;Female;Outdoor
 PAL;5;WT12;400;0:56.75;;Damor;Tejalben Amraji;IND;2002;UAE;Dubai;2026-02-13;Female;Outdoor
-PAL;5;WT13;400;1:00.96;;Sasaki;Mana;JPN;1997;JPN;Miyazaki;2026-03-21;Female;Outdoor
-PAL;5;WT20;400;1:01.19;;Kanno;Niina;JPN;2002;JPN;Tokyo;2026-03-21;Female;Outdoor
+PAL;5;WT13;400;1:00.11;;Sasaki;Mana;JPN;1997;JPN;Fukuroi;2026-05-03;Female;Outdoor
+PAL;5;WT20;400;1:00.12;;Kanno;Niina;JPN;2002;JPN;Fukuroi;2026-05-03;Female;Outdoor
 PAL;5;WT34;400;1:08.04;;Onodera;Moe;JPN;2003;JPN;Mihama;2026-04-18;Female;Outdoor
 PAL;5;WT37;400;1:13.83;;Moradiya;Bina Shambhubhai;IND;2000;IND;New Delhi;2026-03-12;Female;Outdoor
 PAL;5;WT38;400;1:12.30;;Takemura;Ayumi;JPN;1999;JPN;Tokyo;2026-03-21;Female;Outdoor
