@@ -5,11 +5,11 @@ WR;;MT13;100;0:10.37;0.8;Kashafali;Salum Ageze;NOR;1993;NOR;Oslo;2023-06-15;Male
 WR;;MT32;100;0:23.25;0.0;Mcdonagh;Martin;IRL;1976;GBR;Nottingham;1999-08-13;Male;Outdoor
 WR;;MT33;100;0:16.24;0.0;Stephen;John;TAN;;TAN;Dar es Salaam;2003-06-13;Male;Outdoor
 WR;;MT34;100;0:14.46;0.6;Ktila;Walid;TUN;1985;SUI;Arbon;2019-06-01;Male;Outdoor
-WR;;MT35;100;0:11.39;0.0;Safronov;Dmitrii;RUS;1995;JPN;Tokyo;2021-08-30;Male;Outdoor
+WR;;MT35;100;0:11.39;0.0;Safronov;Dmitrii;RPC;1995;JPN;Tokyo;2021-08-30;Male;Outdoor
 WR;;MT36;100;0:11.72;0.7;Turner;James;AUS;1996;UAE;Dubai;2019-11-10;Male;Outdoor
 WR;;MT37;100;0:10.95;0.3;Mayhugh;Nick;USA;1996;JPN;Tokyo;2021-08-27;Male;Outdoor
 WR;;MT38;100;0:10.64;0.9;Blackwell;Jaydin;USA;2004;FRA;Paris;2024-08-31;Male;Outdoor
-WR;;MT42;100;0:12.04;-0.5;Prokhorov;Anton;RUS;1992;JPN;Tokyo;2021-08-30;Male;Outdoor
+WR;;MT42;100;0:12.04;-0.5;Prokhorov;Anton;RPC;1992;JPN;Tokyo;2021-08-30;Male;Outdoor
 WR;;MT43;100;0:17.00;-0.9;Stamatiadis;Achileas;GRE;1992;MAR;Marrakech;2025-04-26;Male;Outdoor
 WR;;MT44;100;0:10.94;0.2;Almasrahi;Naif;KSA;1990;IND;New Delhi;2025-09-30;Male;Outdoor
 WR;;MT45;100;0:10.94;0.2;Nascimento;Yohansson;BRA;1987;GBR;London;2012-09-06;Male;Outdoor
@@ -31,7 +31,7 @@ WR;;MT13;200;0:21.05;1.7;Smyth;Jason;IRL;1987;FRA;Lyon;2013-07-21;Male;Outdoor
 WR;;MT32;200;0:46.81;0.0;Mcdonagh;Martin;IRL;1976;GBR;Nottingham;2001-07-28;Male;Outdoor
 WR;;MT33;200;0:29.00;1.0;Almutairi;Ahmad;KUW;1994;SUI;Nottwil;2017-06-02;Male;Outdoor
 WR;;MT34;200;0:25.91;0.5;Ktila;Walid;TUN;1985;SUI;Arbon;2019-06-01;Male;Outdoor
-WR;;MT35;200;0:23.00;0.3;Safronov;Dmitrii;RUS;1995;JPN;Tokyo;2021-09-04;Male;Outdoor
+WR;;MT35;200;0:23.00;0.3;Safronov;Dmitrii;RPC;1995;JPN;Tokyo;2021-09-04;Male;Outdoor
 WR;;MT36;200;0:23.80;0.8;Turner;James;AUS;1996;AUS;Canberra;2025-01-27;Male;Outdoor
 WR;;MT37;200;0:21.91;1.0;Mayhugh;Nick;USA;1996;JPN;Tokyo;2021-09-04;Male;Outdoor
 WR;;MT38;200;0:21.82;-0.2;O'Hanlon;Evan;AUS;1988;GBR;London;2012-09-08;Male;Outdoor
@@ -58,7 +58,7 @@ WR;;MT33;400;0:57.05;;Almutairi;Ahmad;KUW;1994;UAE;Sharjah;2023-02-22;Male;Outdo
 WR;;MT34;400;0:47.94;;Rattana;Chaiwat;THA;1996;IND;New Delhi;2025-09-28;Male;Outdoor
 WR;;MT35;400;0:56.61;;Safronov;Dmitrii;RUS;1995;SUI;Nottwil;2014-05-18;Male;Outdoor
 WR;;MT36;400;0:51.54;;Turner;James;AUS;1996;FRA;Paris;2024-09-03;Male;Outdoor
-WR;;MT37;400;0:49.34;;Vdovin;Andrei;RUS;1994;JPN;Tokyo;2021-09-01;Male;Outdoor
+WR;;MT37;400;0:49.34;;Vdovin;Andrei;RPC;1994;JPN;Tokyo;2021-09-01;Male;Outdoor
 WR;;MT38;400;0:48.00;;Blackwell;Jaydin;USA;2004;IND;New Delhi;2025-10-01;Male;Outdoor
 WR;;MT43;400;1:22.08;;Stamatiadis;Achileas;GRE;1992;GRE;Thessaloniki;2024-06-01;Male;Outdoor
 WR;;MT44;400;0:52.81;;Alsana;Nour;KSA;1984;CHN;Hangzhou;2023-10-24;Male;Outdoor
@@ -201,8 +201,8 @@ WR;;MT46;HAM;1:09:33.0;;Olsen;Christian;DEN;1993;DEN;Copenhagen;2022-09-14;Male;
 WR;;MT51;HAM;1:08:21.0;;Mestre;Helder;POR;1967;POR;Lisbon;2017-03-19;Male;Outdoor
 WR;;MT52;HAM;51:44.0;;Sato;Tomoki;JPN;1989;JPN;Oita City;2022-11-20;Male;Outdoor
 WR;;MT52;HAM;51:44.0;;Ueyonabaru;Hirokazu;JPN;1971;JPN;Oita City;2022-12-20;Male;Outdoor
-WR;;MT54;HAM;38:32.0;;Suzuki;Tomoki;JPN;1994;JPN;Oita City;2021-11-21;Male;Outdoor
 WR;;MT54;HAM;38:32.0;;Hug;Marcel;SUI;1986;JPN;Oita City;2021-11-21;Male;Outdoor
+WR;;MT54;HAM;38:32.0;;Suzuki;Tomoki;JPN;1994;JPN;Oita City;2021-11-21;Male;Outdoor
 WR;;MT11;MAR;2:23:27;;Wada;Shinya;JPN;1977;JPN;Oita;2024-02-04;Male;Outdoor
 WR;;MT12;MAR;2:19:08;;Clifford;Jaryd;AUS;1999;AUS;Sydney;2021-04-25;Male;Outdoor
 WR;;MT13;MAR;2:22:55;;Talbot;Carlos;USA;1957;KOR;Seoul;1988-10-24;Male;Outdoor
@@ -266,7 +266,7 @@ WR;;MF45;KUG;7.73;;Record Mark;;;;;;2022-01-01;Male;Outdoor
 WR;;MF46;KUG;16.8;;Cinnamo;Joshua;USA;1981;UAE;Dubai;2019-11-15;Male;Outdoor
 WR;;MF52;KUG;11.74;;Rocha;Andre;BRA;1977;BRA;São Paulo;2017-10-28;Male;Outdoor
 WR;;MF53;KUG;9.66;;Ochkhikidze;Giga;GEO;1990;FRA;Paris;2024-09-01;Male;Outdoor
-WR;;MF54;KUG;12.06;;Sokulskii;Sergei;RUS;1985;JPN;Tokyo;2021-08-27;Male;Outdoor
+WR;;MF54;KUG;12.06;;Sokulskii;Sergei;RPC;1985;JPN;Tokyo;2021-08-27;Male;Outdoor
 WR;;MF55;KUG;12.94;;Ruzhdi;Ruzhdi;BUL;1991;IND;New Delhi;2025-09-28;Male;Outdoor
 WR;;MF56;KUG;13.49;;Musayev;Olokhan;AZE;1979;CHN;Beijing;2008-09-15;Male;Outdoor
 WR;;MF57;KUG;16.6;;Khosravi;Yasin;IRI;1992;IND;New Delhi;2025-10-04;Male;Outdoor
@@ -325,9 +325,9 @@ WR;;MF57;SPE;53.3;;Khalvandi;Muhammet;TUR;1990;IND;New Delhi;2025-09-28;Male;Out
 WR;;MF62;SPE;35.08;;Tourkochoritis;Konstantinos;GRE;2001;IND;New Delhi;2025-09-30;Male;Outdoor
 WR;;MF63;SPE;59.77;;Sveinsson;Helgi;ISL;1979;ITA;Rieti;2017-05-06;Male;Outdoor
 WR;;MF64;SPE;73.29;;;Sumit;IND;1998;CHN;Hangzhou;2023-10-25;Male;Outdoor
-WR;;MF31;KEU;32.88;;Demin;Evgenii;RUS;1989;RUS;Cheboksary;2023-08-12;Male;Outdoor
+WR;;MF31;KEU;32.88;;Demin;Evgenii;RPC;1989;RUS;Cheboksary;2023-08-12;Male;Outdoor
 WR;;MF32;KEU;46.6;;Bo;Qing;CHN;1998;FRA;Paris;2023-07-10;Male;Outdoor
-WR;;MF51;KEU;36.22;;Taimazov;Musa;RUS;1984;RUS;Cheboksary;2023-08-12;Male;Outdoor
+WR;;MF51;KEU;36.22;;Taimazov;Musa;RPC;1984;RUS;Cheboksary;2023-08-12;Male;Outdoor
 WR;;MP11;5-K;2,627;;Sevostianov;Sergey;RUS;1960;AUS;Sydney;2000-10-24;Male;Outdoor
 WR;;MP12;5-K;3,403;;Langenhoven;Hilton;RSA;1983;CHN;Beijing;2008-09-12;Male;Outdoor
 WR;;MP13;5-K;3,155;;Kalmykov;Vadim;UKR;1964;RUS;Moscow;1987-09-15;Male;Outdoor
@@ -491,9 +491,9 @@ WR;;WT54;5S;12:08.0;;Record Mark;;;;;;2026-01-01;Female;Outdoor
 WR;;WT54;10S;21:21.0;;Debrunner;Catherine;SUI;1995;JPN;Oita;2024-11-17;Female;Outdoor
 WR;;WT11;HAM;1:31:41.0;;Inouchi;Natsumi;JPN;1989;JPN;Tokyo;2022-10-16;Female;Outdoor
 WR;;WT12;HAM;1:24:48.0;;Michishita;Misato;JPN;1977;JPN;Tokyo;2023-10-15;Female;Outdoor
+WR;;WT54;HAM;46:51.0;;Schaer;Manuela;SUI;1984;JPN;Oita City;2023-11-19;Female;Outdoor
 WR;;WT54;HAM;46:51.0;;Debrunner;Catherine;SUI;1995;JPN;Oita City;2023-11-19;Female;Outdoor
 WR;;WT54;HAM;46:51.0;;Scaroni;Susannah;USA;1991;JPN;Oita City;2023-11-19;Female;Outdoor
-WR;;WT54;HAM;46:51.0;;Schaer;Manuela;SUI;1984;JPN;Oita City;2023-11-19;Female;Outdoor
 WR;;WT11;MAR;3:11:13;;Coetzee;Louzanne;RSA;1993;JPN;Tokyo;2021-09-05;Female;Outdoor
 WR;;WT12;MAR;2:48:36;;El Idrissi;Fatima Ezzahra;MAR;1995;FRA;Paris;2024-09-08;Female;Outdoor
 WR;;WT13;MAR;3:13:10;;Record Mark;;;;;;2021-01-01;Female;Outdoor

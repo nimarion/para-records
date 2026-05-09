@@ -4,12 +4,12 @@ PR;;MT12;100;0:10.43;0.2;Kashafali;Salum Ageze;NOR;1993;JPN;Tokyo;2021-08-29;Mal
 PR;;MT13;100;0:10.42;-0.1;Athmani;Skander Djamil;ALG;1992;FRA;Paris;2024-09-01;Male;Outdoor
 PR;;MT33;100;0:16.61;0.8;Almutairi;Ahmad;KUW;1994;BRA;Rio de Janeiro;2016-09-10;Male;Outdoor
 PR;;MT34;100;0:14.76;-0.8;Rattana;Chaiwat;THA;1996;FRA;Paris;2024-09-02;Male;Outdoor
-PR;;MT35;100;0:11.39;0.0;Safronov;Dmitrii;RUS;1995;JPN;Tokyo;2021-08-30;Male;Outdoor
+PR;;MT35;100;0:11.39;0.0;Safronov;Dmitrii;RPC;1995;JPN;Tokyo;2021-08-30;Male;Outdoor
 PR;;MT36;100;0:11.85;-0.1;Deng;Peicheng;CHN;1996;JPN;Tokyo;2021-09-04;Male;Outdoor
 PR;;MT36;100;0:11.85;0.8;Turner;James;AUS;1996;FRA;Paris;2024-09-07;Male;Outdoor
 PR;;MT37;100;0:10.95;0.3;Mayhugh;Nick;USA;1996;JPN;Tokyo;2021-08-27;Male;Outdoor
 PR;;MT38;100;0:10.64;0.9;Blackwell;Jaydin;USA;2004;FRA;Paris;2024-08-31;Male;Outdoor
-PR;;MT42;100;0:12.04;-0.5;Prokhorov;Anton;RUS;1992;JPN;Tokyo;2021-08-30;Male;Outdoor
+PR;;MT42;100;0:12.04;-0.5;Prokhorov;Anton;RPC;1992;JPN;Tokyo;2021-08-30;Male;Outdoor
 PR;;MT44;100;0:11.03;0.3;Mhlongo;Mpumelelo;RSA;1994;JPN;Tokyo;2021-08-30;Male;Outdoor
 PR;;MT45;100;0:10.94;0.2;Nascimento;Yohansson;BRA;1987;GBR;London;2012-09-06;Male;Outdoor
 PR;;MT47;100;0:10.53;0.3;Ferreira dos Santos;Petrucio;BRA;1996;JPN;Tokyo;2021-08-27;Male;Outdoor
@@ -27,7 +27,7 @@ PR;;MT12;200;0:21.56;1.0;Michalski;Mateusz;POL;1987;GBR;London;2012-09-08;Male;O
 PR;;MT13;200;0:21.05;-0.3;Smyth;Jason;IRL;1987;GBR;London;2012-09-07;Male;Outdoor
 PR;;MT33;200;0:31.02;-0.3;Almutairi;Ahmad;KUW;1994;GBR;London;2012-09-04;Male;Outdoor
 PR;;MT34;200;0:27.98;-0.3;Ktila;Walid;TUN;1985;GBR;London;2012-09-04;Male;Outdoor
-PR;;MT35;200;0:23.00;0.3;Safronov;Dmitrii;RUS;1995;JPN;Tokyo;2021-09-04;Male;Outdoor
+PR;;MT35;200;0:23.00;0.3;Safronov;Dmitrii;RPC;1995;JPN;Tokyo;2021-09-04;Male;Outdoor
 PR;;MT36;200;0:24.65;-0.2;So;Wa Wai;HKG;1981;CHN;Beijing;2008-09-15;Male;Outdoor
 PR;;MT37;200;0:21.91;1.0;Mayhugh;Nick;USA;1996;JPN;Tokyo;2021-09-04;Male;Outdoor
 PR;;MT38;200;0:21.82;-0.2;O'Hanlon;Evan;AUS;1988;GBR;London;2012-09-08;Male;Outdoor
@@ -48,7 +48,7 @@ PR;;MT33;400;1:03.77;;Jones;Lachlan;AUS;1977;AUS;Sydney;2000-10-24;Male;Outdoor
 PR;;MT34;400;0:54.17;;Maeba;Kazuya;JPN;;AUS;Sydney;2000-10-26;Male;Outdoor
 PR;;MT35;400;1:06.30;;Rivero;J;ESP;;USA;Atlanta;1996-08-21;Male;Outdoor
 PR;;MT36;400;0:51.54;;Turner;James;AUS;1996;FRA;Paris;2024-09-03;Male;Outdoor
-PR;;MT37;400;0:49.34;;Vdovin;Andrei;RUS;1994;JPN;Tokyo;2021-09-01;Male;Outdoor
+PR;;MT37;400;0:49.34;;Vdovin;Andrei;RPC;1994;JPN;Tokyo;2021-09-01;Male;Outdoor
 PR;;MT38;400;0:48.49;;Blackwell;Jaydin;USA;2004;FRA;Paris;2024-09-03;Male;Outdoor
 PR;;MT45;400;0:49.21;;Nascimento;Yohansson;BRA;1987;GBR;London;2012-09-04;Male;Outdoor
 PR;;MT47;400;0:46.65;;El Haddaoui;Aymane;MAR;2000;FRA;Paris;2024-09-07;Male;Outdoor
@@ -195,7 +195,7 @@ PR;;MF42;KUG;15.97;;Davies;Aled;GBR;1991;BRA;Rio de Janeiro;2016-09-12;Male;Outd
 PR;;MF46;KUG;16.75;;Stewart;Greg;CAN;1986;JPN;Tokyo;2021-09-01;Male;Outdoor
 PR;;MF52;KUG;10.23;;Apinis;Aigars;LAT;1973;GBR;London;2012-08-31;Male;Outdoor
 PR;;MF53;KUG;9.66;;Ochkhikidze;Giga;GEO;1990;FRA;Paris;2024-09-01;Male;Outdoor
-PR;;MF54;KUG;12.06;;Sokulskii;Sergei;RUS;1985;JPN;Tokyo;2021-08-27;Male;Outdoor
+PR;;MF54;KUG;12.06;;Sokulskii;Sergei;RPC;1985;JPN;Tokyo;2021-08-27;Male;Outdoor
 PR;;MF55;KUG;12.63;;Santos;Wallace;BRA;1984;JPN;Tokyo;2021-08-27;Male;Outdoor
 PR;;MF56;KUG;13.49;;Musayev;Olokhan;AZE;1979;CHN;Beijing;2008-09-15;Male;Outdoor
 PR;;MF57;KUG;15.96;;Khosravi;Yasin;IRI;1992;FRA;Paris;2024-09-06;Male;Outdoor
@@ -241,7 +241,7 @@ PR;;MF57;SPE;51.42;;Heidari;Hamed;AZE;1991;JPN;Tokyo;2021-08-28;Male;Outdoor
 PR;;MF63;SPE;53.96;;Sveinsson;Helgi;ISL;1979;BRA;Rio de Janeiro;2016-09-09;Male;Outdoor
 PR;;MF64;SPE;70.59;;;Sumit;IND;1998;FRA;Paris;2024-09-02;Male;Outdoor
 PR;;MF32;KEU;45.39;;Liu;Li;CHN;1986;JPN;Tokyo;2021-08-28;Male;Outdoor
-PR;;MF51;KEU;35.42;;Taimazov;Musa;RUS;1984;JPN;Tokyo;2021-09-01;Male;Outdoor
+PR;;MF51;KEU;35.42;;Taimazov;Musa;RPC;1984;JPN;Tokyo;2021-09-01;Male;Outdoor
 PR;;MP11;5-K;2,627;;Sevostianov;Sergey;RUS;1960;AUS;Sydney;2000-10-24;Male;Outdoor
 PR;;MP12;5-K;3,403;;Langenhoven;Hilton;RSA;1983;CHN;Beijing;2008-09-12;Male;Outdoor
 PR;;MP13;5-K;3,050;;Delesalle;Jason;CAN;1972;USA;Atlanta;1996-08-23;Male;Outdoor

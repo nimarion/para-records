@@ -110,7 +110,7 @@ PAL;5;MF55;KUG;10.83;;Sayyad;Sahil Salim;IND;1998;IND;New Delhi;2026-03-13;Male;
 PAL;5;MF56;KUG;10.65;;Huang;Jung-Chia;TPE;1995;UAE;Dubai;2026-02-12;Male;Outdoor
 PAL;5;MF57;KUG;14.45;;Juyal;Shubham;IND;1996;IND;New Delhi;2026-03-13;Male;Outdoor
 PAL;5;MF63;KUG;11.78;;Yadav;Himanshu;IND;1995;IND;New Delhi;2026-03-12;Male;Outdoor
-PAL;5;MF11;DIS;34.3;;Ghangas;Monu;IND;1993;IND;New Delhi;2026-03-11;Male;Outdoor
+PAL;5;MF11;DIS;37.45;;Zhang;Daoxu;CHN;1993;MAR;Rabat;2026-04-24;Male;Outdoor
 PAL;5;MF32;DIS;6.77;;Al Qasmi;Mohammed;OMA;1998;OMA;Muscat;2026-02-05;Male;Outdoor
 PAL;5;MF33;DIS;29.1;;Alnakhli;Hani;KSA;1986;OMA;Muscat;2026-02-05;Male;Outdoor
 PAL;5;MF34;DIS;33.69;;Hindi;Ahmad;JOR;1995;OMA;Muscat;2026-02-03;Male;Outdoor
@@ -121,7 +121,7 @@ PAL;5;MF41;DIS;24.0;;Abdulraheem;Kovan;IRQ;1988;OMA;Muscat;2026-02-04;Male;Outdo
 PAL;5;MF44;DIS;49.26;;;Rakesh;IND;1996;IND;New Delhi;2026-03-11;Male;Outdoor
 PAL;5;MF51;DIS;9.06;;Kottinti;Pydiramu;IND;1977;UAE;Dubai;2026-02-13;Male;Outdoor
 PAL;5;MF52;DIS;13.15;;Chiang;You-Chen;TPE;1986;UAE;Dubai;2026-02-13;Male;Outdoor
-PAL;5;MF53;DIS;12.82;;Huang;Kai-Lun;TPE;1997;UAE;Dubai;2026-02-13;Male;Outdoor
+PAL;5;MF53;DIS;15.67;;Serikkaliyev;Makhambet;KAZ;2003;MAR;Rabat;2026-04-25;Male;Outdoor
 PAL;5;MF54;DIS;21.93;;Mesbahi;Abdulla;UAE;1985;OMA;Muscat;2026-02-05;Male;Outdoor
 PAL;5;MF55;DIS;36.83;;Sayyad;Sahil Salim;IND;1998;IND;New Delhi;2026-03-12;Male;Outdoor
 PAL;5;MF56;DIS;42.22;;Kathuniya;Yogesh;IND;1997;UAE;Dubai;2026-02-11;Male;Outdoor
@@ -130,12 +130,12 @@ PAL;5;MF64;DIS;48.72;;Kumar;Pardeep;IND;1999;IND;New Delhi;2026-03-11;Male;Outdo
 PAL;5;MF11;SPE;24.16;;Alkhurayb;Ziyad;KSA;1996;OMA;Muscat;2026-02-03;Male;Outdoor
 PAL;5;MF12;SPE;53.82;;Wakoh;Yuta;JPN;1997;JPN;Tokyo;2026-03-21;Male;Outdoor
 PAL;5;MF13;SPE;57.86;;;Manjeet;IND;1992;IND;New Delhi;2026-03-12;Male;Outdoor
-PAL;5;MF33;SPE;20.2;;Alnakhli;Hani;KSA;1986;OMA;Muscat;2026-02-04;Male;Outdoor
+PAL;5;MF33;SPE;20.35;;Alnakhli;Hani;KSA;1986;MAR;Rabat;2026-04-25;Male;Outdoor
 PAL;5;MF34;SPE;35.98;;Khafaji;Hussein;IRQ;1997;MAR;Rabat;2026-04-24;Male;Outdoor
 PAL;5;MF37;SPE;31.28;;Akiyama;Masaki;JPN;1965;JPN;Mihama;2026-04-18;Male;Outdoor
 PAL;5;MF38;SPE;39.5;;Yamagishi;Hideki;JPN;1988;JPN;Mihama;2026-04-18;Male;Outdoor
 PAL;5;MF40;SPE;37.5;;Naas;Ahmed;IRQ;1992;OMA;Muscat;2026-02-05;Male;Outdoor
-PAL;5;MF41;SPE;41.64;;;Navdeep;IND;2000;UAE;Dubai;2026-02-10;Male;Outdoor
+PAL;5;MF41;SPE;42.16;;;Ansyari;INA;2004;MAR;Rabat;2026-04-25;Male;Outdoor
 PAL;5;MF42;SPE;53.66;;Sakkappan;Gurubaskarasethupathi;IND;1998;UAE;Dubai;2026-02-10;Male;Outdoor
 PAL;5;MF43;SPE;56.91;;Singh;Pushpendra;IND;2000;IND;New Delhi;2026-03-12;Male;Outdoor
 PAL;5;MF44;SPE;50.48;;Ram;Poonma;IND;2000;UAE;Dubai;2026-02-10;Male;Outdoor
@@ -227,21 +227,22 @@ PAL;5;WF55;KUG;6.05;;Parida;Suchitra;IND;1993;IND;New Delhi;2026-03-11;Female;Ou
 PAL;5;WF56;KUG;6.85;;Sharma;Poonam;IND;1992;IND;New Delhi;2026-03-11;Female;Outdoor
 PAL;5;WF57;KUG;9.27;;;Sharmila;IND;1986;AUS;Canberra;2026-01-22;Female;Outdoor
 PAL;5;WF64;KUG;8.05;;;Dayawanti;IND;1990;IND;New Delhi;2026-03-12;Female;Outdoor
-PAL;5;WF11;DIS;22.78;;Mishra;Nidhi;IND;1993;IND;New Delhi;2026-03-11;Female;Outdoor
+PAL;5;WF11;DIS;33.11;;Zeng;Ruying;CHN;2001;MAR;Rabat;2026-04-23;Female;Outdoor
 PAL;5;WF33;DIS;9.84;;Masoud;Sara Hamdi;QAT;1986;OMA;Muscat;2026-02-04;Female;Outdoor
 PAL;5;WF34;DIS;14.63;;Al Thwai;Hadeel;KSA;1994;OMA;Muscat;2026-02-04;Female;Outdoor
 PAL;5;WF37;DIS;22.47;;;Lakshmi;IND;1993;IND;New Delhi;2026-03-12;Female;Outdoor
 PAL;5;WF40;DIS;20.47;;Alzeyoudi;Maryam;UAE;1995;UAE;Dubai;2026-02-10;Female;Outdoor
+PAL;5;WF44;DIS;28.19;;Priyanti;Lia;INA;1995;MAR;Rabat;2026-04-23;Female;Outdoor
 PAL;5;WF46;DIS;25.38;;Almatrooshi;Mariam;UAE;1986;OMA;Muscat;2026-02-03;Female;Outdoor
 PAL;5;WF52;DIS;6.02;;Sran;Jaspreet Kaur;IND;1981;IND;New Delhi;2026-03-13;Female;Outdoor
 PAL;5;WF54;DIS;16.68;;Raj;Suvarna;IND;1982;AUS;Canberra;2026-01-22;Female;Outdoor
 PAL;5;WF55;DIS;19.24;;Joshi;Garima;IND;1998;IND;New Delhi;2026-03-13;Female;Outdoor
-PAL;6;WF56;DIS;18.2;;Samyibek Kyzy;Adina;KGZ;1997;UAE;Dubai;2026-02-11;Female;Outdoor
+PAL;6;WF56;DIS;18.99;;Samyibek Kyzy;Adina;KGZ;1997;MAR;Rabat;2026-04-25;Female;Outdoor
 PAL;5;WF57;DIS;22.7;;;Sharmila;IND;1986;AUS;Canberra;2026-01-22;Female;Outdoor
 PAL;5;WF64;DIS;28.7;;;Dayawanti;IND;1990;IND;New Delhi;2026-03-12;Female;Outdoor
 PAL;5;WF12;SPE;24.16;;Liu;Ya-Ting;TPE;1991;UAE;Dubai;2026-02-13;Female;Outdoor
 PAL;5;WF13;SPE;16.96;;Wang;Jili;CHN;1998;MAR;Rabat;2026-04-24;Female;Outdoor
-PAL;5;WF33;SPE;11.93;;Rani;Dipika;IND;2003;IND;New Delhi;2026-03-12;Female;Outdoor
+PAL;5;WF33;SPE;15.81;;Qian;Zao;CHN;2004;MAR;Rabat;2026-04-25;Female;Outdoor
 PAL;5;WF34;SPE;14.13;;Jadhav;Bhagyashri Madhavrao;IND;1985;UAE;Dubai;2026-02-10;Female;Outdoor
 PAL;5;WF40;SPE;10.6;;Alzeyoudi;Maryam;UAE;1995;OMA;Muscat;2026-02-05;Female;Outdoor
 PAL;5;WF46;SPE;39.38;;Huang;Yezi;CHN;2001;MAR;Rabat;2026-04-24;Female;Outdoor

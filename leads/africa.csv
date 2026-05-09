@@ -77,16 +77,22 @@ PAL;4;MF43;KUG;6.19;;Ntlanti;Yamkela;RSA;2006;RSA;Stellenbosch;2026-03-28;Male;O
 PAL;4;MF46;KUG;15.44;;Noemdo;Kerwin;RSA;1994;RSA;Stellenbosch;2026-03-30;Male;Outdoor
 PAL;4;MF55;KUG;5.82;;Et-Tahery;Mohammed Amine;MAR;2010;MAR;Rabat;2026-04-25;Male;Outdoor
 PAL;4;MF57;KUG;13.33;;Diop;Talla;SEN;1997;MAR;Rabat;2026-04-25;Male;Outdoor
+PAL;4;MF11;DIS;29.49;;Soltane;Amir;TUN;1991;MAR;Rabat;2026-04-24;Male;Outdoor
 PAL;4;MF36;DIS;34.7;;Bahr Ahmed Gassour;Yassien Mohamed Ahmed;EGY;2009;UAE;Dubai;2026-02-10;Male;Outdoor
 PAL;4;MF37;DIS;47.14;;Ramadan;Mohamed Mohamed;EGY;1984;UAE;Dubai;2026-02-10;Male;Outdoor
-PAL;4;MF42;DIS;32.91;;Molobela;Daniel;RSA;2006;RSA;Stellenbosch;2026-03-30;Male;Outdoor
+PAL;4;MF42;DIS;36.48;;Ashteebah;Waleed;LBA;1980;MAR;Rabat;2026-04-23;Male;Outdoor
 PAL;4;MF43;DIS;22.74;;Ntlanti;Yamkela;RSA;2006;RSA;Stellenbosch;2026-03-29;Male;Outdoor
 PAL;4;MF46;DIS;36.52;;Graaff;Arno;RSA;2007;RSA;Stellenbosch;2026-03-29;Male;Outdoor
+PAL;4;MF55;DIS;20.19;;Ba;Boubacar;SEN;1983;MAR;Rabat;2026-04-23;Male;Outdoor
 PAL;4;MF57;DIS;46.23;;Rajab;Mahmoud;LBA;1985;UAE;Dubai;2026-02-11;Male;Outdoor
 PAL;4;MF64;DIS;43.32;;Simon;Lean;RSA;1994;RSA;Stellenbosch;2026-03-28;Male;Outdoor
+PAL;4;MF33;SPE;14.13;;El Moustaid;Samir;MAR;1988;MAR;Rabat;2026-04-25;Male;Outdoor
 PAL;4;MF34;SPE;27.27;;Abdelaaty;Mohamed Saeed Ali;EGY;1994;UAE;Dubai;2026-02-11;Male;Outdoor
+PAL;4;MF40;SPE;12.65;;Essabri;Mohammed;MAR;2006;MAR;Rabat;2026-04-25;Male;Outdoor
+PAL;4;MF41;SPE;21.86;;Ayebale;Lino;UGA;2004;MAR;Rabat;2026-04-25;Male;Outdoor
 PAL;4;MF42;SPE;31.41;;Molobela;Daniel;RSA;2006;RSA;Stellenbosch;2026-03-29;Male;Outdoor
 PAL;4;MF43;SPE;20.83;;Ntlanti;Yamkela;RSA;2006;RSA;Johannesburg;2026-03-13;Male;Outdoor
+PAL;4;MF44;SPE;58.4;;Ez Zouhri;Zakariae;MAR;1999;MAR;Rabat;2026-04-25;Male;Outdoor
 PAL;4;MF46;SPE;54.11;;Kemboi;Nathan;KEN;2001;UAE;Dubai;2026-02-10;Male;Outdoor
 PAL;4;MF55;SPE;13.22;;Et-Tahery;Mohammed Amine;MAR;2010;MAR;Rabat;2026-04-24;Male;Outdoor
 PAL;4;MF57;SPE;37.22;;Diop;Talla;SEN;1997;MAR;Rabat;2026-04-24;Male;Outdoor
@@ -133,11 +139,14 @@ PAL;4;WF55;KUG;6.64;;El Kaoui;Norelhouda;MAR;1983;MAR;Rabat;2026-04-23;Female;Ou
 PAL;4;WF56;KUG;5.22;;Coulibaly;Mariam;MLI;1982;MAR;Rabat;2026-04-23;Female;Outdoor
 PAL;4;WF57;KUG;8.66;;Issah;Zinabu;GHA;1980;RSA;Stellenbosch;2026-03-28;Female;Outdoor
 PAL;4;WF38;DIS;35.73;;Kruger;Simone;RSA;2005;RSA;Stellenbosch;2026-03-28;Female;Outdoor
-PAL;4;WF41;DIS;27.96;;Tlili;Raoua;TUN;1989;UAE;Dubai;2026-02-10;Female;Outdoor
+PAL;4;WF41;DIS;33.88;;Tlili;Raoua;TUN;1989;MAR;Rabat;2026-04-23;Female;Outdoor
 PAL;4;WF44;DIS;32.75;;van der Merwe;Yane;RSA;2000;RSA;Stellenbosch;2026-03-28;Female;Outdoor
+PAL;4;WF55;DIS;22.61;;El Kaoui;Norelhouda;MAR;1983;MAR;Rabat;2026-04-25;Female;Outdoor
+PAL;4;WF56;DIS;14.72;;Coulibaly;Mariam;MLI;1982;MAR;Rabat;2026-04-25;Female;Outdoor
 PAL;4;WF57;DIS;29.2;;Issah;Zinabu;GHA;1980;UAE;Dubai;2026-02-10;Female;Outdoor
 PAL;4;WF12;SPE;34.19;;Wanyoyi;Sheilla;KEN;1998;UAE;Dubai;2026-02-13;Female;Outdoor
 PAL;4;WF13;SPE;24.59;;Ilalo;Monica;UGA;1993;UAE;Dubai;2026-02-13;Female;Outdoor
+PAL;4;WF33;SPE;9.74;;Elfaroui;Hanane;MAR;2000;MAR;Rabat;2026-04-25;Female;Outdoor
 PAL;4;WF34;SPE;15.42;;Ben Jemaa;Yousra;TUN;1986;MAR;Rabat;2026-04-24;Female;Outdoor
 PAL;4;WF44;SPE;30.4;;Agbo;Destiny;NGR;2005;RSA;Stellenbosch;2026-03-31;Female;Outdoor
 PAL;4;WF46;SPE;32.03;;Le Roux;Juane;RSA;2007;RSA;Stellenbosch;2026-03-28;Female;Outdoor
