@@ -62,7 +62,7 @@ PAL;1;MT12;WEI;6.31;0.1;Sauchuk;Ihar;BLR;2003;UAE;Dubai;2026-02-11;Male;Outdoor
 PAL;1;MT13;WEI;6.79;1.4;Sverd;Vegard Dragsund;NOR;1999;UAE;Dubai;2026-02-10;Male;Outdoor
 PAL;1;MT20;WEI;5.31;-0.3;Mattacks;Joel;GBR;2002;UAE;Dubai;2026-02-10;Male;Outdoor
 PAL;1;MT36;WEI;5.42;-0.2;Gorbach;Dmitrii;RUS;1996;MAR;Rabat;2026-04-24;Male;Outdoor
-PAL;1;MT38;WEI;5.24;1.1;Kostin;Vladislav;RUS;2004;IND;New Delhi;2026-03-12;Male;Outdoor
+PAL;1;MT38;WEI;6.13;1.2;Thommen;Elijah;SUI;2005;SUI;Olten;2026-05-09;Male;Outdoor
 PAL;1;MT44;WEI;6.81;;Cicchetti;Marco;ITA;1999;ITA;Ancona;2026-02-21;Male;Outdoor
 PAL;1;MT47;WEI;5.9;-0.1;Ilgaz;Abdullah;TUR;1998;MAR;Rabat;2026-04-25;Male;Outdoor
 PAL;1;MT61;WEI;5.86;1.0;Gulec;Hamza;TUR;2001;MAR;Rabat;2026-04-24;Male;Outdoor
@@ -132,6 +132,7 @@ PAL;1;WT44;100;0:14.05;0.0;Bensusan;Irmgard;GER;1991;RSA;Stellenbosch;2026-03-28
 PAL;1;WT47;100;0:13.14;;Scott;Becca;GBR;2006;GBR;Birmingham;2026-03-14;Female;Outdoor
 PAL;1;WT53;100;0:16.78;-1.2;Dogangun;Hamide;TUR;1993;UAE;Dubai;2026-02-10;Female;Outdoor
 PAL;1;WT54;100;0:15.55;0.8;Bayekula;Lea;BEL;1995;BEL;Oordegem;2026-05-01;Female;Outdoor
+PAL;1;WT63;100;0:18.86;0.7;Spack;Sophie;SUI;2010;SUI;Olten;2026-05-09;Female;Outdoor
 PAL;1;WT72;100;0:18.20;-1.1;Overgaard;Andrea Stokholm;DEN;1997;DEN;Glostrup;2026-04-26;Female;Outdoor
 PAL;1;WT11;200;0:27.49;1.0;Garcia Falagan;Alba;ESP;2002;ESP;Segovia;2026-04-26;Female;Outdoor
 PAL;1;WT12;200;0:27.44;1.5;Kilinc Cirakoglu;Sevda;TUR;1993;MAR;Rabat;2026-04-24;Female;Outdoor
@@ -156,7 +157,7 @@ PAL;1;WT72;400;1:20.87;;Overgaard;Andrea Stokholm;DEN;1997;DEN;Glostrup;2026-04-
 PAL;1;WT33;800;2:57.70;;Goens;Cecile;BEL;2003;BEL;Brugge;2026-05-02;Female;Outdoor
 PAL;1;WT53;800;2:40.90;;Stragier;Joke;BEL;2006;BEL;Brugge;2026-05-02;Female;Outdoor
 PAL;1;WT54;800;2:06.20;;Robertson;Joanna Laura;GBR;1998;AUS;Canberra;2026-01-23;Female;Outdoor
-PAL;1;WT11;1K5;5:48.98;;Pena Bernaldo de Quiros;Lucia;ESP;2010;ESP;Torrevieja;2026-04-18;Female;Outdoor
+PAL;1;WT11;1K5;5:13.78;;Varela Mosteiro;Ana;ESP;1994;ESP;Pontevedra;2026-05-06;Female;Outdoor
 PAL;1;WT12;1K5;4:51.61;;Oses Ayucar;Izaskun;ESP;1984;MAR;Rabat;2026-04-25;Female;Outdoor
 PAL;1;WT13;1K5;4:46.73;;Guclu;Hatice;TUR;2005;MAR;Rabat;2026-04-25;Female;Outdoor
 PAL;1;WT20;1K5;4:59.32;;Absolonova;Pavlina;CZE;2004;MAR;Rabat;2026-04-25;Female;Outdoor

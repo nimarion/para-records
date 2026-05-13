@@ -20,6 +20,7 @@ PAL;7;MT72;100;0:15.94;-2.8;Matos Marques Cunha;Joao;BRA;2007;BRA;Sao Paulo;2026
 PAL;7;MT12;200;0:23.42;1.9;Malone;Noah;USA;2001;USA;Walnut;2026-04-18;Male;Outdoor
 PAL;7;MT13;200;0:23.00;-0.5;Acosta Manjarres;Yamil David;COL;1997;COL;Cali;2026-02-28;Male;Outdoor
 PAL;7;MT35;200;0:23.55;-1.3;Caetano Nascimento;Henrique;BRA;1999;BRA;Sao Paulo;2026-04-02;Male;Outdoor
+PAL;7;MT36;200;0:30.04;1.7;Winter;Sam;USA;2005;USA;Fargo;2026-05-08;Male;Outdoor
 PAL;7;MT37;200;0:22.80;-1.3;Da Silva Chaves;Bartolomeu;BRA;2001;BRA;Sao Paulo;2026-04-02;Male;Outdoor
 PAL;7;MT44;200;0:23.40;0.9;de Lima;Matheus;BRA;2003;MAR;Rabat;2026-04-24;Male;Outdoor
 PAL;7;MT47;200;0:22.55;1.5;Best;Korban;USA;2003;USA;San Diego;2026-03-13;Male;Outdoor
@@ -37,7 +38,7 @@ PAL;7;MT47;400;0:48.28;;de Moraes;Thomaz Ruan;BRA;2001;MAR;Rabat;2026-04-25;Male
 PAL;7;MT52;400;1:21.92;;Holowat Jr;Norbert;USA;1997;UAE;Dubai;2026-02-11;Male;Outdoor
 PAL;7;MT53;400;0:53.90;;Fernandes Da Silva;Ariosvaldo;BRA;1976;BRA;Sao Paulo;2026-04-01;Male;Outdoor
 PAL;7;MT54;400;0:48.12;;de Melo;Leonardo;BRA;1995;BRA;Sao Paulo;2026-04-01;Male;Outdoor
-PAL;7;MT62;400;0:55.09;;Batista Cardoso Campos;Joao Vitor;BRA;2002;BRA;Sao Paulo;2026-04-01;Male;Outdoor
+PAL;7;MT62;400;0:46.45;;Woodhall;Hunter;USA;1999;USA;Manhattan;2026-05-08;Male;Outdoor
 PAL;7;MT72;400;1:11.17;;Marques Krieger Quintino;Vinicius;BRA;2006;BRA;Sao Paulo;2026-04-01;Male;Outdoor
 PAL;7;MT34;800;1:48.48;;Smeenk;Austin;CAN;1997;UAE;Dubai;2026-02-13;Male;Outdoor
 PAL;7;MT46;800;1:48.80;;Upshaw;Tahmar;USA;2004;USA;Asuza;2026-04-17;Male;Outdoor
@@ -115,7 +116,7 @@ PAL;7;WT47;100;0:12.53;0.2;Augusto Da Silva;Maria Clara;BRA;2004;MAR;Rabat;2026-
 PAL;7;WT53;100;0:16.32;-1.2;Lewis;Jessica Cooper;BER;1993;UAE;Dubai;2026-02-10;Female;Outdoor
 PAL;7;WT54;100;0:16.99;0.5;Sharma;Nandini;CAN;1997;CAN;Victoria;2026-03-29;Female;Outdoor
 PAL;7;WT62;100;0:15.66;0.2;Rosenthal;Lillian;USA;2007;USA;Appleton;2026-05-01;Female;Outdoor
-PAL;7;WT64;100;0:13.30;-0.3;Hatz;B;USA;2000;USA;Walnut;2026-04-18;Female;Outdoor
+PAL;7;WT64;100;0:13.20;1.5;Barta;Sydney;USA;2004;USA;Stanford;2026-05-01;Female;Outdoor
 PAL;7;WT72;100;0:18.54;1.9;Grooms;Sayers;USA;2005;USA;Alachua;2026-04-04;Female;Outdoor
 PAL;7;WT11;200;0:25.50;0.2;Geber dos Santos;Jerusa;BRA;1982;MAR;Rabat;2026-04-24;Female;Outdoor
 PAL;7;WT12;200;0:24.73;-2.9;Gomes de Aguiar;Lorraine;BRA;1997;BRA;Sao Paulo;2026-04-02;Female;Outdoor
@@ -156,7 +157,7 @@ PAL;7;WT20;WEI;5.79;-0.5;Cassiano Da Silva;Zileide;BRA;1998;MAR;Rabat;2026-04-23
 PAL;7;WT37;WEI;3.33;0.1;Da Silva Ferreira;Evelyn Carolinne;BRA;2005;BRA;Sao Paulo;2026-04-02;Female;Outdoor
 PAL;7;WT38;WEI;4.2;1.7;Rissling;Tianna;CAN;1993;CAN;Calgary;2026-05-03;Female;Outdoor
 PAL;7;WT42;WEI;3.81;1.7;Da Silva;Ana Claudia Maria;BRA;1987;BRA;Sao Paulo;2026-04-02;Female;Outdoor
-PAL;7;WT62;WEI;3.9;0.0;Rosenthal;Lillian;USA;2007;USA;Appleton;2026-05-01;Female;Outdoor
+PAL;7;WT62;WEI;3.92;0.0;Rosenthal;Lillian;USA;2007;USA;De Pere;2026-04-25;Female;Outdoor
 PAL;7;WT64;WEI;5.26;1.3;Hatz;B;USA;2000;USA;San Diego;2026-04-04;Female;Outdoor
 PAL;7;WF11;KUG;10.04;;Campos;Izabela;BRA;1981;BRA;Sao Paulo;2026-04-01;Female;Outdoor
 PAL;7;WF20;KUG;11.78;;Caetano Alves;Vanessa;BRA;2000;BRA;Sao Paulo;2026-04-01;Female;Outdoor
