@@ -88,6 +88,7 @@ WL;;MT38;5K0;19:13.40;;Espag;Enzo;RSA;2009;RSA;Stellenbosch;2026-03-31;Male;Outd
 WL;;MT54;5K0;10:49.38;;Alrajehi;Faisal;KUW;1998;UAE;Dubai;2026-02-13;Male;Outdoor
 WL;;MT53;5S;10:25.0;;Hug;Marcel;SUI;1986;USA;Boston;2026-04-18;Male;Outdoor
 WL;;MT54;5S;10:25.0;;Hug;Marcel;SUI;1986;USA;Boston;2026-04-18;Male;Outdoor
+WL;;MT54;HAM;46:33.0;;Yoshida;Ryota;JPN;1981;JPN;Sendai;2026-05-10;Male;Outdoor
 WL;;MT11;MAR;2:24:58;;Wada;Shinya;JPN;1977;JPN;Oita;2026-02-01;Male;Outdoor
 WL;;MT12;MAR;2:23:39;;Boukhili;Wajdi;TUN;1998;USA;Boston;2026-04-20;Male;Outdoor
 WL;;MT38;MAR;2:58:04;;Kenzie;Deon;AUS;1996;USA;Boston;2026-04-20;Male;Outdoor
@@ -256,12 +257,13 @@ WL;;WT20;5K0;17:02.28;;Colman;Annabelle;AUS;2004;AUS;Sydney;2026-04-12;Female;Ou
 WL;;WT54;5K0;11:46.24;;Nakamine;Tsubasa;JPN;1990;JPN;Mihama;2026-04-18;Female;Outdoor
 WL;;WT53;5S;12:29.0;;McFadden;Tatyana;USA;1989;USA;Boston;2026-04-18;Female;Outdoor
 WL;;WT54;5S;12:29.0;;McFadden;Tatyana;USA;1989;USA;Boston;2026-04-18;Female;Outdoor
+WL;;WT54;HAM;58:31.0;;Nakamine;Tsubasa;JPN;1990;JPN;Sendai;2026-05-10;Female;Outdoor
 WL;;WT11;MAR;3:25:09;;Kondo;Hiroko;JPN;1966;JPN;Oita;2026-02-01;Female;Outdoor
 WL;;WT12;MAR;3:01:50;;Guisado Rodriguez;Susana;ESP;1981;ESP;Sevilla;2026-02-15;Female;Outdoor
 WL;;WT53;MAR;1:37:15;;Debrunner;Catherine;SUI;1995;JPN;Tokyo;2026-03-01;Female;Outdoor
 WL;;WT54;MAR;1:30:51;;Rainbow-Cooper;Eden;GBR;2001;USA;Boston;2026-04-20;Female;Outdoor
-WL;;WT11;WEI;5.1;0.5;Tuychieva;Gulnora;UZB;2008;MAR;Rabat;2026-04-25;Female;Outdoor
-WL;;WT12;WEI;4.98;;Inga;Antonella;ITA;1995;ITA;Ancona;2026-02-21;Female;Outdoor
+WL;;WT11;WEI;4.55;0.0;Deng;Fang;CHN;2001;MAR;Rabat;2026-04-25;Female;Outdoor
+WL;;WT12;WEI;5.1;0.5;Olimjonova;Khusniya;UZB;2009;MAR;Rabat;2026-04-25;Female;Outdoor
 WL;;WT13;WEI;4.16;1.9;Pungin Esteve;Xiana;ESP;2008;ESP;Segovia;2026-03-14;Female;Outdoor
 WL;;WT20;WEI;5.79;-0.5;Cassiano Da Silva;Zileide;BRA;1998;MAR;Rabat;2026-04-23;Female;Outdoor
 WL;;WT35;WEI;3.45;0.1;Giddings;Summer;AUS;2002;AUS;Canberra;2026-01-25;Female;Outdoor
