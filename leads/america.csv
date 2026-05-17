@@ -40,6 +40,7 @@ PAL;7;MT53;400;0:53.90;;Fernandes Da Silva;Ariosvaldo;BRA;1976;BRA;Sao Paulo;202
 PAL;7;MT54;400;0:48.12;;de Melo;Leonardo;BRA;1995;BRA;Sao Paulo;2026-04-01;Male;Outdoor
 PAL;7;MT62;400;0:46.45;;Woodhall;Hunter;USA;1999;USA;Manhattan;2026-05-08;Male;Outdoor
 PAL;7;MT72;400;1:11.17;;Marques Krieger Quintino;Vinicius;BRA;2006;BRA;Sao Paulo;2026-04-01;Male;Outdoor
+PAL;7;MT20;800;1:55.60;;Barber;Michael;CAN;2000;CAN;Burnaby;2026-05-09;Male;Outdoor
 PAL;7;MT34;800;1:48.48;;Smeenk;Austin;CAN;1997;UAE;Dubai;2026-02-13;Male;Outdoor
 PAL;7;MT46;800;1:48.80;;Upshaw;Tahmar;USA;2004;USA;Asuza;2026-04-17;Male;Outdoor
 PAL;7;MT53;800;1:55.76;;Frias Moreno;Jose Alan;MEX;1987;ARG;Neuquen;2026-03-20;Male;Outdoor
@@ -49,6 +50,7 @@ PAL;7;MT12;1K5;4:10.30;;Moraes Da Silva M Amorim;Leonardo;BRA;1987;BRA;Sao Paulo
 PAL;7;MT13;1K5;4:14.05;;Neri;Nicholas;CAN;1998;MAR;Rabat;2026-04-25;Male;Outdoor
 PAL;7;MT34;1K5;3:22.99;;Smeenk;Austin;CAN;1997;UAE;Dubai;2026-02-10;Male;Outdoor
 PAL;7;MT37;1K5;5:57.72;;Coelho Da Silva;Francisco Daniel;BRA;1989;BRA;Sao Paulo;2026-04-01;Male;Outdoor
+PAL;7;MT38;1K5;4:08.10;;Stanley;Liam;CAN;1997;CAN;Victoria;2026-05-09;Male;Outdoor
 PAL;7;MT53;1K5;3:42.00;;Frias Moreno;Jose Alan;MEX;1987;ARG;Neuquen;2026-03-20;Male;Outdoor
 PAL;7;MT54;1K5;3:38.70;;Silva de Jesus;Carlos Pierre;BRA;1990;ARG;Neuquen;2026-03-20;Male;Outdoor
 PAL;7;MT12;5K0;15:05.68;;Moreta Criollo;Sixto Roman;ECU;1992;USA;ORLANDO;2026-03-21;Male;Outdoor
@@ -61,6 +63,7 @@ PAL;7;MT52;MAR;2:25:28;;Holowat Jr;Norbert;USA;1997;USA;Boston;2026-04-20;Male;O
 PAL;7;MT53;MAR;1:34:28;;Aguilar Zepeda;Fidel Arnoldo;MEX;1977;USA;Boston;2026-04-20;Male;Outdoor
 PAL;7;MT54;MAR;1:22:44;;Romanchuk;Daniel;USA;1998;USA;Boston;2026-04-20;Male;Outdoor
 PAL;7;MT13;WEI;6.83;0.7;Andrade dos Reis;Paulo Henrique;BRA;1998;MAR;Rabat;2026-04-23;Male;Outdoor
+PAL;7;MT20;WEI;7.24;0.3;Vucsics;Noah;CAN;2000;CAN;Calgary;2026-05-09;Male;Outdoor
 PAL;7;MT36;WEI;5.72;0.6;Acosta Soto;Omar Jose;COL;2000;COL;Cali;2026-02-28;Male;Outdoor
 PAL;7;MT37;WEI;6.13;1.1;Evangelista Cardoso;Mateus;BRA;1994;MAR;Rabat;2026-04-24;Male;Outdoor
 PAL;7;MT38;WEI;6.28;0.8;de Oliveira Viana;Leandro;BRA;2005;BRA;Sao Paulo;2026-04-01;Male;Outdoor
@@ -171,6 +174,7 @@ PAL;7;WF38;KUG;10.64;;Foessel;Renee Danielle;CAN;1995;CAN;Toronto;2026-05-03;Fem
 PAL;7;WF41;KUG;9.38;;Buitrago Ariza;Mayerli;COL;1986;MAR;Rabat;2026-04-24;Female;Outdoor
 PAL;7;WF44;KUG;12.06;;Heyison;Samantha;USA;2005;USA;Durham;2026-04-11;Female;Outdoor
 PAL;7;WF46;KUG;12.07;;Malkamaki;Noelle;USA;2001;USA;Des Moines;2026-04-24;Female;Outdoor
+PAL;7;WF52;KUG;3.64;;Ens;Nikita;CAN;1988;CAN;Regina;2026-05-09;Female;Outdoor
 PAL;7;WF53;KUG;7.22;;Rodrigues Gomes;Elizabeth;BRA;1965;MAR;Rabat;2026-04-23;Female;Outdoor
 PAL;7;WF55;KUG;6.81;;Castano Salazar;Erica Maria;COL;1985;COL;Cali;2026-02-26;Female;Outdoor
 PAL;7;WF56;KUG;6.74;;Ortuno;Amalia;CRC;1985;MAR;Rabat;2026-04-23;Female;Outdoor
@@ -181,6 +185,7 @@ PAL;7;WF37;DIS;26.05;;Santos de Souza Coelho;Shirlene;BRA;1981;BRA;Sao Paulo;202
 PAL;7;WF38;DIS;38.69;;Saldarriaga Hernandez;Xiomara;COL;2004;MAR;Rabat;2026-04-23;Female;Outdoor
 PAL;7;WF41;DIS;22.46;;Martins Neves;Sofia Mariana;BRA;1988;BRA;Sao Paulo;2026-04-01;Female;Outdoor
 PAL;7;WF44;DIS;41.05;;Heyison;Samantha;USA;2005;USA;High Point;2026-03-21;Female;Outdoor
+PAL;7;WF52;DIS;7.14;;Ens;Nikita;CAN;1988;CAN;Regina;2026-05-09;Female;Outdoor
 PAL;7;WF53;DIS;16.34;;Rodrigues Gomes;Elizabeth;BRA;1965;BRA;Sao Paulo;2026-04-01;Female;Outdoor
 PAL;7;WF55;DIS;23.21;;Castano Salazar;Erica Maria;COL;1985;UAE;Dubai;2026-02-12;Female;Outdoor
 PAL;7;WF56;DIS;19.19;;Rocha Machado;Raissa;BRA;1996;MAR;Rabat;2026-04-25;Female;Outdoor
@@ -191,6 +196,7 @@ PAL;7;WF34;SPE;13.94;;Rodriguez Martinez;Maria Alejandra;COL;1993;COL;Cali;2026-
 PAL;7;WF37;SPE;15.31;;Calovini;Laura;CAN;2001;CAN;Toronto;2026-05-03;Female;Outdoor
 PAL;7;WF38;SPE;25.45;;Foessel;Renee Danielle;CAN;1995;CAN;Toronto;2026-05-03;Female;Outdoor
 PAL;7;WF46;SPE;26.66;;Kanas;Danielle;USA;2005;USA;San Diego;2026-04-09;Female;Outdoor
+PAL;7;WF52;SPE;6.14;;Ens;Nikita;CAN;1988;CAN;Regina;2026-05-08;Female;Outdoor
 PAL;7;WF53;SPE;13.46;;Rodrigues Gomes;Elizabeth;BRA;1965;BRA;Sao Paulo;2026-04-02;Female;Outdoor
 PAL;7;WF55;SPE;16.08;;Castano Salazar;Erica Maria;COL;1985;COL;Cali;2026-02-28;Female;Outdoor
 PAL;7;WF56;SPE;22.27;;Rocha Machado;Raissa;BRA;1996;BRA;Sao Paulo;2026-04-02;Female;Outdoor
