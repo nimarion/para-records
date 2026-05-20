@@ -82,7 +82,7 @@ PAR;6;MT34;1K5;3:30.12;;McCracken;Rheed;AUS;1997;AUS;Canberra;2012-01-22;Male;Ou
 PAR;6;MT35;1K5;5:52.09;;Harrison;Guy;NZL;2001;AUS;Sydney;2019-04-01;Male;Outdoor
 PAR;6;MT36;1K5;4:56.93;;Berry;Daniel;AUS;1991;NZL;Christchurch;2011-01-23;Male;Outdoor
 PAR;6;MT37;1K5;4:14.47;;Scott;Brad;AUS;1988;GBR;London;2012-09-03;Male;Outdoor
-PAR;6;MT38;1K5;3:46.83;;Langdon;Reece;AUS;1996;AUS;Perth;2025-04-10;Male;Outdoor
+PAR;6;MT38;1K5;3:46.71;;Hincksman;Angus;AUS;2005;AUS;Sydney;2026-04-09;Male;Outdoor
 PAR;6;MT46;1K5;3:50.45;;Roeger;Michael;AUS;1988;JPN;Kobe;2024-05-24;Male;Outdoor
 PAR;6;MT51;1K5;5:01.49;;Blattman;Fabian;AUS;1958;AUS;Sydney;1998-01-28;Male;Outdoor
 PAR;6;MT52;1K5;3:59.15;;Jones;Lachlan;AUS;1977;GRE;Athens;2004-09-23;Male;Outdoor
@@ -155,12 +155,12 @@ PAR;6;MF40;KUG;5.11;;Chisholm;Josh;NZL;2000;AUS;Canberra;2024-01-26;Male;Outdoor
 PAR;0;MF41;KUG;10.65;;Record Mark;;;;;;2020-01-01;Male;Outdoor
 PAR;0;MF43;KUG;7.32;;Record Mark;;;;;;2017-01-01;Male;Outdoor
 PAR;6;MF44;KUG;13.95;;Raison;Paul;AUS;1977;NED;Assen;2006-09-03;Male;Outdoor
-PAR;6;MF46;KUG;12.87;;O'Halloran;Lee;AUS;1997;AUS;Perth;2025-04-12;Male;Outdoor
+PAR;6;MF46;KUG;14.72;;O'Halloran;Lee;AUS;1997;AUS;Sydney;2026-04-11;Male;Outdoor
 PAR;6;MF52;KUG;9.34;;Martin;Peter;NZL;1962;GRE;Athens;2004-09-22;Male;Outdoor
 PAR;6;MF54;KUG;9.28;;Wallrodt;Bruce;AUS;1951;AUS;Canberra;2003-02-22;Male;Outdoor
 PAR;6;MF55;KUG;9.6;;Giddy;Terry;AUS;1950;AUS;Canberra;2003-02-22;Male;Outdoor
-PAR;6;MF56;KUG;9.87;;Stitfall;Bryan;AUS;1984;AUS;Perth;2003-10-18;Male;Outdoor
-PAR;0;MF57;KUG;8.78;;Record Mark;;;;;;2015-01-01;Male;Outdoor
+PAR;6;MF56;KUG;9.96;;Sheppard;Matthew;AUS;1988;AUS;Sydney;2026-04-09;Male;Outdoor
+PAR;6;MF57;KUG;9.8;;Martin;Stephen;AUS;1993;AUS;Sydney;2026-04-09;Male;Outdoor
 PAR;6;MF63;KUG;11.17;;Flavell;Joe;NZL;1977;NZL;Christchurch;2011-01-25;Male;Outdoor
 PAR;0;MF64;KUG;9.68;;Record Mark;;;;;;2020-01-01;Male;Outdoor
 PAR;6;MF11;DIS;18.51;;Theodore;Ben;PNG;1966;KOR;Busan;2002-10-29;Male;Outdoor
@@ -171,12 +171,12 @@ PAR;6;MF34;DIS;19.46;;Denniston;Mac;NZL;2006;NZL;Dunedin;2025-03-08;Male;Outdoor
 PAR;0;MF35;DIS;28.69;;Record Mark;;;;;;2016-01-01;Male;Outdoor
 PAR;6;MF36;DIS;29.19;;Larionow;Nicholas;AUS;1980;AUS;Geelong;2003-02-16;Male;Outdoor
 PAR;6;MF37;DIS;53.61;;Henly;Guy;AUS;1987;AUS;Brisbane;2015-03-07;Male;Outdoor
-PAR;6;MF38;DIS;38.52;;Anderson;Corey;AUS;2000;AUS;Sydney;2019-04-01;Male;Outdoor
+PAR;6;MF38;DIS;39.32;;Everett;Mark;AUS;2009;AUS;Sydney;2026-04-09;Male;Outdoor
 PAR;6;MF42;DIS;29.0;;Mobbs;Shannon;AUS;;MAS;Kuala Lumpur;2006-11-26;Male;Outdoor
 PAR;0;MF43;DIS;20.07;;Record Mark;;;;;;2017-01-01;Male;Outdoor
 PAR;6;MF44;DIS;52.16;;Kirk;Daniel;AUS;1982;GBR;London;2017-07-16;Male;Outdoor
 PAR;0;MF45;DIS;12.48;;Record Mark;;;;;;2019-01-01;Male;Outdoor
-PAR;6;MF46;DIS;35.79;;Mellor;Eric;AUS;1983;KOR;Busan;2002-10-28;Male;Outdoor
+PAR;6;MF46;DIS;39.25;;O'Halloran;Lee;AUS;1997;AUS;Sydney;2026-04-09;Male;Outdoor
 PAR;6;MF52;DIS;16.81;;Farr;Rod;AUS;1967;NED;Assen;2006-09-04;Male;Outdoor
 PAR;6;MF54;DIS;21.17;;Wallrodt;Bruce;AUS;1951;AUS;Perth;2003-02-07;Male;Outdoor
 PAR;6;MF55;DIS;14.97;;Dippon;Bill;PNG;1952;KOR;Busan;2002-10-30;Male;Outdoor
@@ -219,7 +219,7 @@ PAR;6;WT13;100;0:13.03;-0.6;Harbeck;Courtney;AUS;1989;CHN;Beijing;2008-09-16;Fem
 PAR;0;WT33;100;0:21.56;0.9;Record Mark;;;;;;2020-01-01;Female;Outdoor
 PAR;6;WT34;100;0:18.59;2.0;Little;Rosemary;AUS;1982;SUI;Nottwil;2015-05-30;Female;Outdoor
 PAR;6;WT35;100;0:13.13;1.2;Holt;Isis;AUS;2001;JPN;Tokyo;2021-08-27;Female;Outdoor
-PAR;6;WT36;100;0:13.41;0.8;Aitchison;Danielle;NZL;2001;NZL;Wellington;2024-03-15;Female;Outdoor
+PAR;6;WT36;100;0:13.23;0.1;Aitchison;Danielle;NZL;2001;AUS;Sydney;2026-04-11;Female;Outdoor
 PAR;6;WT37;100;0:13.88;0.0;McIntosh;Lisa;AUS;1982;AUS;Sydney;2000-10-25;Female;Outdoor
 PAR;6;WT38;100;0:12.72;0.8;Clarke;Rhiannon;AUS;2002;FRA;Paris;2024-08-31;Female;Outdoor
 PAR;6;WT44;100;0:14.01;-0.2;Horan;Kate;NZL;1975;CHN;Beijing;2008-09-14;Female;Outdoor
@@ -249,7 +249,7 @@ PAR;6;WT53;200;0:28.95;0.0;Ballard;Angela;AUS;1982;SUI;Nottwil;2015-05-31;Female
 PAR;6;WT54;200;0:28.72;0.0;Ault-Connell;Eliza;AUS;1981;AUS;Canberra;2019-01-21;Female;Outdoor
 PAR;6;WT63;200;0:35.98;-2.4;Cartwright;Kelly;AUS;1989;AUS;Adelaide;2012-01-28;Female;Outdoor
 PAR;6;WT64;200;0:28.60;-0.1;Steven;Anna;NZL;2000;JPN;Tokyo;2021-08-31;Female;Outdoor
-PAR;6;WT72;200;0:41.25;1.8;Neuenkirchen;Kim;AUS;1967;AUS;Canberra;2024-01-26;Female;Outdoor
+PAR;6;WT72;200;0:36.74;1.6;Strong;Maria;AUS;1971;AUS;Sydney;2026-04-12;Female;Outdoor
 PAR;0;WT11;400;1:03.77;;Record Mark;;;;;;2020-01-01;Female;Outdoor
 PAR;6;WT13;400;1:05.00;;Hollow-Williams;Lara;AUS;1981;AUS;Brisbane;2003-11-14;Female;Outdoor
 PAR;6;WT20;400;0:57.96;;Blacksmith;Telaya;AUS;2007;FRA;Paris;2024-09-02;Female;Outdoor
@@ -285,7 +285,7 @@ PAR;6;WT36;1K5;6:00.09;;Colley;Tamsin;AUS;2002;AUS;Perth;2025-04-11;Female;Outdo
 PAR;0;WT46;1K5;5:13.48;;Record Mark;;;;;;2016-01-01;Female;Outdoor
 PAR;6;WT54;1K5;3:13.27;;de Rozario;Madison;AUS;1993;SUI;Nottwil;2018-05-26;Female;Outdoor
 PAR;6;WT72;1K5;7:10.24;;Neuenkirchen;Kim;AUS;1967;DEN;Bagsværd;2024-07-12;Female;Outdoor
-PAR;0;WT20;5K0;24:18.44;;Record Mark;;;;;;2020-01-01;Female;Outdoor
+PAR;6;WT20;5K0;17:02.28;;Colman;Annabelle;AUS;2004;AUS;Sydney;2026-04-12;Female;Outdoor
 PAR;0;WT34;5K0;17:20.63;;Record Mark;;;;;;2026-01-01;Female;Outdoor
 PAR;6;WT54;5K0;10:59.05;;de Rozario;Madison;AUS;1993;SUI;Nottwil;2019-05-26;Female;Outdoor
 PAR;6;WT35;4X1;0:55.09;;Elkington-Jones, Pardy, Cleaver, Holt;;AUS;;BRA;Rio de Janeiro;2016-09-15;Female;Outdoor
@@ -304,8 +304,8 @@ PAR;6;WT20;WEI;5.21;0.1;Blacksmith;Telaya;AUS;2007;FRA;Paris;2024-09-06;Female;O
 PAR;6;WT35;WEI;3.45;0.1;Giddings;Summer;AUS;2002;AUS;Canberra;2026-01-25;Female;Outdoor
 PAR;6;WT36;WEI;4.01;0.4;Craswell;Abby;AUS;2004;AUS;Australia;2021-04-19;Female;Outdoor
 PAR;6;WT37;WEI;4.92;0.0;McIntosh;Lisa;AUS;1982;AUS;Canberra;2001-04-06;Female;Outdoor
-PAR;6;WT38;WEI;4.62;0.4;Doyle;Taylor;AUS;1992;BRA;Rio de Janeiro;2016-09-11;Female;Outdoor
-PAR;0;WT44;WEI;4.19;0.6;Record Mark;;;;;;2026-01-01;Female;Outdoor
+PAR;6;WT38;WEI;4.76;0.2;Sharp;Layla;AUS;2007;AUS;Sydney;2026-04-10;Female;Outdoor
+PAR;6;WT44;WEI;4.44;0.8;Elcoate;Makayla;AUS;2011;AUS;Sydney;2026-04-10;Female;Outdoor
 PAR;6;WT47;WEI;6.01;0.8;Beattie;Carlee;AUS;1982;AUS;Sydney;2013-03-09;Female;Outdoor
 PAR;6;WT61;WEI;5.71;1.3;Low;Vanessa;AUS;1990;AUS;Perth;2025-04-10;Female;Outdoor
 PAR;6;WT63;WEI;4.38;-0.5;Cartwright;Kelly;AUS;1989;GBR;London;2012-09-02;Female;Outdoor
