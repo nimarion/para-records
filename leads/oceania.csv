@@ -1,7 +1,7 @@
 Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Geschlecht;Umgebung
 PAL;6;MT12;100;0:11.28;2.0;Jason;Nathan;AUS;2002;AUS;Perth;2026-02-14;Male;Outdoor
 PAL;6;MT13;100;0:10.87;2.0;Perris;Chad;AUS;1992;AUS;Perth;2026-02-14;Male;Outdoor
-PAL;6;MT34;100;0:15.14;0.7;McCracken;Rheed;AUS;1997;AUS;Canberra;2026-01-21;Male;Outdoor
+PAL;6;MT34;100;0:14.83;0.9;McCracken;Rheed;AUS;1997;SUI;Arbon;2026-05-17;Male;Outdoor
 PAL;6;MT35;100;0:12.89;1.1;Fairweather;Jordan;AUS;2004;AUS;Canberra;2026-01-25;Male;Outdoor
 PAL;6;MT36;100;0:12.29;-0.1;Stedman;William;NZL;1999;AUS;Sydney;2026-04-11;Male;Outdoor
 PAL;6;MT37;100;0:11.84;1.1;Allen;Samuel;AUS;2007;AUS;Canberra;2026-01-25;Male;Outdoor
@@ -29,7 +29,7 @@ PAL;6;MT47;400;0:53.60;;Page;Jaydon;AUS;2004;AUS;Canberra;2026-02-28;Male;Outdoo
 PAL;6;MT54;400;0:48.34;;Carter;Samuel;AUS;1991;AUS;Canberra;2026-01-21;Male;Outdoor
 PAL;6;MT72;400;1:37.90;;Mattinson;Thomas;AUS;2009;AUS;Canberra;2026-01-21;Male;Outdoor
 PAL;6;MT20;800;2:04.55;;Barwell;Zachary;AUS;2007;AUS;Sydney;2026-04-11;Male;Outdoor
-PAL;6;MT34;800;1:44.35;;McCracken;Rheed;AUS;1997;AUS;Canberra;2026-01-22;Male;Outdoor
+PAL;6;MT34;800;1:42.80;;McCracken;Rheed;AUS;1997;SUI;Arbon;2026-05-17;Male;Outdoor
 PAL;6;MT37;800;2:23.72;;Reeve;Leopold;AUS;2007;AUS;Melbourne;2026-03-21;Male;Outdoor
 PAL;6;MT38;800;1:52.07;;Langdon;Reece;AUS;1996;AUS;Melbourne;2026-03-05;Male;Outdoor
 PAL;6;MT53;800;2:06.25;;Colman;Richard;AUS;1984;AUS;Canberra;2026-01-22;Male;Outdoor
@@ -77,7 +77,7 @@ PAL;6;MF57;SPE;29.17;;Bunge;Jerome;PNG;1982;AUS;Brisbane;2026-03-14;Male;Outdoor
 PAL;6;MF32;KEU;12.43;;Mattinson;Thomas;AUS;2009;AUS;Canberra;2026-01-22;Male;Outdoor
 PAL;6;WT13;100;0:14.60;0.3;Ellis;Amy;NZL;2006;NZL;Hamilton;2026-02-14;Female;Outdoor
 PAL;6;WT33;100;0:22.63;-0.5;Clifton-Bligh;Sarah;AUS;2004;AUS;Canberra;2026-01-21;Female;Outdoor
-PAL;6;WT34;100;0:21.42;-0.5;Espie;Coco;AUS;2008;AUS;Canberra;2026-01-21;Female;Outdoor
+PAL;6;WT34;100;0:20.63;1.1;Espie;Coco;AUS;2008;SUI;Arbon;2026-05-17;Female;Outdoor
 PAL;6;WT35;100;0:16.24;1.8;Giddings;Summer;AUS;2002;AUS;Sydney;2026-03-08;Female;Outdoor
 PAL;6;WT36;100;0:13.23;0.1;Aitchison;Danielle;NZL;2001;AUS;Sydney;2026-04-11;Female;Outdoor
 PAL;6;WT37;100;0:14.16;1.6;Snowden;Akeesha;AUS;2005;AUS;Adelaide;2026-03-07;Female;Outdoor
@@ -100,7 +100,7 @@ PAL;6;WT54;200;0:31.93;0.8;Fisher;Aimee;AUS;2001;AUS;Canberra;2026-01-23;Female;
 PAL;6;WT72;200;0:35.69;-1.3;Strong;Maria;AUS;1971;AUS;Canberra;2026-01-23;Female;Outdoor
 PAL;6;WT20;400;0:58.76;;Blacksmith;Telaya;AUS;2007;AUS;Sydney;2026-03-12;Female;Outdoor
 PAL;6;WT33;400;1:31.15;;Clifton-Bligh;Sarah;AUS;2004;AUS;Canberra;2026-01-21;Female;Outdoor
-PAL;6;WT34;400;1:13.53;;Espie;Coco;AUS;2008;AUS;Canberra;2026-01-21;Female;Outdoor
+PAL;6;WT34;400;1:12.58;;Espie;Coco;AUS;2008;SUI;Arbon;2026-05-14;Female;Outdoor
 PAL;6;WT36;400;1:13.37;;Colley;Tamsin;AUS;2002;AUS;Sydney;2026-04-09;Female;Outdoor
 PAL;6;WT37;400;1:09.20;;Snowden;Akeesha;AUS;2005;AUS;Sydney;2026-04-09;Female;Outdoor
 PAL;6;WT38;400;1:04.82;;Sharp;Layla;AUS;2007;AUS;Canberra;2026-01-25;Female;Outdoor
@@ -108,14 +108,14 @@ PAL;6;WT53;400;1:00.33;;Ballard;Angela;AUS;1982;AUS;Canberra;2026-01-21;Female;O
 PAL;6;WT54;400;1:00.93;;Ault-Connell;Eliza;AUS;1981;AUS;Canberra;2026-03-14;Female;Outdoor
 PAL;6;WT72;400;1:09.33;;Strong;Maria;AUS;1971;AUS;Canberra;2026-01-25;Female;Outdoor
 PAL;6;WT20;800;2:20.37;;Colman;Annabelle;AUS;2004;AUS;Melbourne;2026-03-21;Female;Outdoor
-PAL;6;WT33;800;2:48.05;;Clifton-Bligh;Sarah;AUS;2004;AUS;Canberra;2026-01-23;Female;Outdoor
-PAL;6;WT34;800;2:31.05;;Espie;Coco;AUS;2008;AUS;Canberra;2026-01-22;Female;Outdoor
+PAL;6;WT33;800;2:39.22;;Clifton-Bligh;Sarah;AUS;2004;SUI;Arbon;2026-05-17;Female;Outdoor
+PAL;6;WT34;800;2:22.19;;Espie;Coco;AUS;2008;SUI;Arbon;2026-05-17;Female;Outdoor
 PAL;6;WT36;800;2:53.15;;Colley;Tamsin;AUS;2002;AUS;Sydney;2026-04-11;Female;Outdoor
 PAL;6;WT53;800;2:06.42;;Ballard;Angela;AUS;1982;AUS;Canberra;2026-01-23;Female;Outdoor
-PAL;6;WT54;800;2:12.78;;Dingley;Mikaela;AUS;1994;AUS;Canberra;2026-01-23;Female;Outdoor
+PAL;6;WT54;800;2:08.21;;Wright;Gabrielle;NZL;2004;SUI;Arbon;2026-05-17;Female;Outdoor
 PAL;6;WT72;800;2:33.09;;Strong;Maria;AUS;1971;AUS;Canberra;2026-01-22;Female;Outdoor
 PAL;6;WT20;1K5;4:38.53;;Colman;Annabelle;AUS;2004;AUS;Sydney;2026-04-10;Female;Outdoor
-PAL;6;WT33;1K5;5:39.18;;Clifton-Bligh;Sarah;AUS;2004;AUS;Canberra;2026-01-22;Female;Outdoor
+PAL;6;WT33;1K5;5:18.39;;Clifton-Bligh;Sarah;AUS;2004;SUI;Arbon;2026-05-16;Female;Outdoor
 PAL;6;WT34;1K5;4:44.96;;Espie;Coco;AUS;2008;AUS;Canberra;2026-01-22;Female;Outdoor
 PAL;6;WT53;1K5;4:05.53;;Ballard;Angela;AUS;1982;AUS;Canberra;2026-01-22;Female;Outdoor
 PAL;6;WT54;1K5;3:53.38;;Ault-Connell;Eliza;AUS;1981;AUS;Canberra;2026-03-14;Female;Outdoor
