@@ -19,7 +19,7 @@ PAL;4;MT36;200;0:26.04;0.5;Zakary;Youssef;MAR;2000;MAR;Rabat;2026-04-24;Male;Out
 PAL;4;MT37;200;0:26.37;0.5;Opiyo;Samson;KEN;1996;UAE;Dubai;2026-02-13;Male;Outdoor
 PAL;4;MT38;200;0:28.03;0.5;Muasya;Anthony Nzomo;KEN;1989;UAE;Dubai;2026-02-13;Male;Outdoor
 PAL;4;MT44;200;0:24.17;-0.8;Ramadan;Karim;EGY;2000;UAE;Dubai;2026-02-10;Male;Outdoor
-PAL;4;MT46;200;0:25.07;;Niyibizi;Emmanuel;RWA;1997;MAR;Rabat;2026-04-24;Male;Outdoor
+PAL;4;MT46;200;0:25.07;-0.4;Niyibizi;Emmanuel;RWA;1997;MAR;Rabat;2026-04-24;Male;Outdoor
 PAL;4;MT47;200;0:22.62;1.4;Addai;Hayford;GHA;2008;MAR;Rabat;2026-04-24;Male;Outdoor
 PAL;4;MT11;400;0:53.59;;Bekale Mvondo;Stephane;CMR;2002;MAR;Rabat;2026-04-25;Male;Outdoor
 PAL;4;MT12;400;0:50.63;;Afri;Mahdi;MAR;1996;MAR;Rabat;2026-04-25;Male;Outdoor
@@ -64,7 +64,7 @@ PAL;4;MT42;WEI;4.2;-1.7;Batifi Loumou;Yves Noe;CMR;2002;UAE;Dubai;2026-02-12;Mal
 PAL;4;MT44;WEI;7.1;-0.1;Mhlongo;Mpumelelo;RSA;1994;RSA;Johannesburg;2026-03-13;Male;Outdoor
 PAL;4;MT46;WEI;6.76;0.5;Shabib Mahmoud;Abdulrhman Yusuf;EGY;1999;IND;New Delhi;2026-03-12;Male;Outdoor
 PAL;4;MT47;WEI;6.57;0.3;Kiprotich;Robert;KEN;2003;UAE;Dubai;2026-02-10;Male;Outdoor
-PAL;4;MF11;KUG;11.55;;Soltane;Amir;TUN;1991;MAR;Rabat;2026-04-25;Male;Outdoor
+PAL;4;MF11;KUG;11.34;;Soltane;Amir;TUN;1991;MAR;Rabat;2026-04-25;Male;Outdoor
 PAL;4;MF32;KUG;8.04;;Mersal;Mohamed Yassir;MAR;2005;MAR;Rabat;2026-04-23;Male;Outdoor
 PAL;4;MF33;KUG;11.48;;Derhem;Zakariae;MAR;1990;MAR;Rabat;2026-04-23;Male;Outdoor
 PAL;4;MF34;KUG;8.27;;Vallentine;Dowayne Alfonso;RSA;1993;RSA;Stellenbosch;2026-03-28;Male;Outdoor
@@ -126,6 +126,7 @@ PAL;4;WT54;1K5;3:33.85;;Alphonse;Noemi;MRI;1995;SUI;Arbon;2026-05-16;Female;Outd
 PAL;4;WT11;5K0;19:40.07;;Coetzee;Louzanne;RSA;1993;RSA;Stellenbosch;2026-03-31;Female;Outdoor
 PAL;4;WT53;5S;16:20.0;;Babalola;Hannah;NGR;1988;USA;Boston;2026-04-18;Female;Outdoor
 PAL;4;WT54;5S;16:20.0;;Babalola;Hannah;NGR;1988;USA;Boston;2026-04-18;Female;Outdoor
+PAL;4;WT11;MAR;3:17:11;;Coetzee;Louzanne;RSA;1993;RSA;Cape Town;2026-05-24;Female;Outdoor
 PAL;4;WT54;MAR;2:00:19;;Alphonse;Noemi;MRI;1995;USA;Boston;2026-04-20;Female;Outdoor
 PAL;4;WT37;WEI;4.88;1.6;Gouws;Liezel;RSA;1998;RSA;Stellenbosch;2026-03-28;Female;Outdoor
 PAL;4;WT47;WEI;4.61;-1.2;Korir;Caren Jemutai;KEN;2007;UAE;Dubai;2026-02-13;Female;Outdoor
