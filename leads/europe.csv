@@ -5,10 +5,11 @@ PAL;1;MT13;100;0:11.13;0.2;Sverd;Vegard Dragsund;NOR;1999;NOR;Moelv;2026-05-25;M
 PAL;1;MT34;100;0:15.74;0.9;Manni;Henry;FIN;1992;SUI;Arbon;2026-05-17;Male;Outdoor
 PAL;1;MT35;100;0:12.48;1.9;Keyworth;Kyle;GBR;1997;UAE;Dubai;2026-02-11;Male;Outdoor
 PAL;1;MT36;100;0:13.49;0.2;Gorbach;Dmitrii;RUS;1996;MAR;Rabat;2026-04-23;Male;Outdoor
-PAL;1;MT37;100;0:12.37;-1.2;Byrne;Charlie;IRL;2004;IRL;Clonmel;2026-05-02;Male;Outdoor
+PAL;1;MT37;100;0:12.33;1.9;Koalick;Franz Michaeal;GER;1999;ESP;L´Hospitalet de Llobregat, Barcelona;2026-05-16;Male;Outdoor
 PAL;1;MT38;100;0:11.53;1.4;Chan;Karim;GBR;2000;GBR;Birmingham;2026-03-14;Male;Outdoor
 PAL;1;MT44;100;0:11.54;0.2;Hannah;Ryan;GBR;1994;UAE;Dubai;2026-02-11;Male;Outdoor
 PAL;1;MT46;100;0:11.80;1.1;Savelev;Daler;RUS;1993;UAE;Dubai;2026-02-11;Male;Outdoor
+PAL;1;MT47;100;0:11.43;1.1;Gomila Quetglas;Pere Antoni;ESP;1998;ESP;L´Hospitalet de Llobregat, Barcelona;2026-05-16;Male;Outdoor
 PAL;1;MT51;100;0:19.82;-0.3;Habsch;Roger;BEL;1979;SUI;Arbon;2026-05-17;Male;Outdoor
 PAL;1;MT52;100;0:16.28;0.2;Carabin;Maxime;BEL;2000;SUI;Arbon;2026-05-17;Male;Outdoor
 PAL;1;MT53;100;0:15.33;0.0;Fairbank;Pierre;FRA;1971;SUI;Arbon;2026-05-17;Male;Outdoor
@@ -19,17 +20,19 @@ PAL;1;MT12;200;0:27.28;-1.5;Janouch;Oliver;CZE;2007;CZE;Prague;2026-04-18;Male;O
 PAL;1;MT13;200;0:22.71;-1.2;Marzillier;Max;GER;2001;RSA;Stellenbosch;2026-03-28;Male;Outdoor
 PAL;1;MT34;200;0:27.96;0.2;Manni;Henry;FIN;1992;SUI;Arbon;2026-05-14;Male;Outdoor
 PAL;1;MT35;200;0:26.43;0.5;Keyworth;Kyle;GBR;1997;UAE;Dubai;2026-02-13;Male;Outdoor
-PAL;1;MT36;200;0:31.72;0.5;Petria;Mircea Marian;ROU;1990;MAR;Rabat;2026-04-24;Male;Outdoor
-PAL;1;MT37;200;0:25.65;-0.5;Koalick;Franz Michaeal;GER;1999;RSA;Stellenbosch;2026-03-29;Male;Outdoor
+PAL;1;MT36;200;0:29.45;-1.7;Protonotarios;Loukas Ioannis;GRE;1991;ESP;L´Hospitalet de Llobregat, Barcelona;2026-05-16;Male;Outdoor
+PAL;1;MT37;200;0:25.45;-1.7;Koalick;Franz Michaeal;GER;1999;ESP;L´Hospitalet de Llobregat, Barcelona;2026-05-16;Male;Outdoor
+PAL;1;MT38;200;0:25.07;-1.7;Calado Simoes;Leandro;GER;2009;ESP;L´Hospitalet de Llobregat, Barcelona;2026-05-16;Male;Outdoor
 PAL;1;MT44;200;0:23.82;-0.8;Hannah;Ryan;GBR;1994;UAE;Dubai;2026-02-10;Male;Outdoor
 PAL;1;MT46;200;0:24.63;-0.8;Savelev;Daler;RUS;1993;UAE;Dubai;2026-02-10;Male;Outdoor
+PAL;1;MT47;200;0:30.08;-1.0;Madronero Ramon;David;ESP;1999;ESP;L´Hospitalet de Llobregat, Barcelona;2026-05-16;Male;Outdoor
 PAL;1;MT51;200;0:37.60;1.4;Habsch;Roger;BEL;1979;UAE;Dubai;2026-02-12;Male;Outdoor
 PAL;1;MT52;200;0:41.05;0.6;Thorsell;Jonathan;SWE;1998;SWE;Västerås;2026-05-10;Male;Outdoor
 PAL;1;MT53;200;0:27.71;0.3;Balbaert;Johannes;BEL;2007;BEL;Oordegem;2026-05-01;Male;Outdoor
 PAL;1;MT54;200;0:24.43;1.5;Balde;Mamudo;POR;2005;SUI;Arbon;2026-05-16;Male;Outdoor
 PAL;1;MT64;200;0:25.05;-0.8;Murray;Euan Montgomerie;GBR;2007;UAE;Dubai;2026-02-10;Male;Outdoor
 PAL;1;MT72;200;0:40.90;1.8;Colling;Axel;SWE;2007;SWE;Västerås;2026-05-10;Male;Outdoor
-PAL;1;MT11;400;0:53.43;;Uceda Novas;Eduardo Manuel;ESP;2001;ESP;Segovia;2026-04-25;Male;Outdoor
+PAL;1;MT11;400;0:52.14;;Descarrega Puigdevall;Gerard;ESP;1994;ESP;L´Hospitalet de Llobregat, Barcelona;2026-05-16;Male;Outdoor
 PAL;1;MT12;400;0:51.57;;Ruiz Garcia;Diego;ESP;2006;ESP;Segovia;2026-04-25;Male;Outdoor
 PAL;1;MT13;400;0:50.54;;Marzillier;Max;GER;2001;RSA;Stellenbosch;2026-03-31;Male;Outdoor
 PAL;1;MT20;400;0:49.20;;Makarov;Sergei;RUS;2003;IND;New Delhi;2026-03-12;Male;Outdoor
@@ -72,14 +75,15 @@ PAL;1;MT47;HOC;1.95;;Ilgaz;Abdullah;TUR;1998;MAR;Rabat;2026-04-23;Male;Outdoor
 PAL;1;MT11;WEI;5.42;0.7;Dalla Mana;Riccardo;ITA;2006;MAR;Rabat;2026-04-25;Male;Outdoor
 PAL;1;MT12;WEI;6.81;1.3;Sauchuk;Ihar;BLR;2003;MAR;Rabat;2026-04-25;Male;Outdoor
 PAL;1;MT13;WEI;7.12;0.6;Sverd;Vegard Dragsund;NOR;1999;NOR;Tønsberg;2026-05-15;Male;Outdoor
-PAL;1;MT20;WEI;5.31;-0.3;Mattacks;Joel;GBR;2002;UAE;Dubai;2026-02-10;Male;Outdoor
+PAL;1;MT20;WEI;6.83;1.4;Prodromou;Athanasios;GRE;1994;GRE;Thessaloniki;2026-05-24;Male;Outdoor
 PAL;1;MT35;WEI;4.62;1.1;Noll;Szilveszter;HUN;2002;HUN;Budapest;2026-05-24;Male;Outdoor
 PAL;1;MT36;WEI;5.42;-0.2;Gorbach;Dmitrii;RUS;1996;MAR;Rabat;2026-04-24;Male;Outdoor
-PAL;1;MT37;WEI;;0.0;Janderberg;Albin;SWE;1999;SWE;Västerås;2026-05-10;Male;Outdoor
+PAL;1;MT37;WEI;5.49;1.8;Bertrand;Valentin;FRA;1995;ESP;L´Hospitalet de Llobregat, Barcelona;2026-05-16;Male;Outdoor
 PAL;1;MT38;WEI;6.13;1.2;Thommen;Elijah;SUI;2005;SUI;Olten;2026-05-09;Male;Outdoor
 PAL;1;MT44;WEI;6.81;;Cicchetti;Marco;ITA;1999;ITA;Ancona;2026-02-21;Male;Outdoor
-PAL;1;MT47;WEI;5.9;-0.1;Ilgaz;Abdullah;TUR;1998;MAR;Rabat;2026-04-25;Male;Outdoor
+PAL;1;MT47;WEI;5.96;1.5;Gomila Quetglas;Pere Antoni;ESP;1998;ESP;L´Hospitalet de Llobregat, Barcelona;2026-05-16;Male;Outdoor
 PAL;1;MT61;WEI;5.86;1.0;Gulec;Hamza;TUR;2001;MAR;Rabat;2026-04-24;Male;Outdoor
+PAL;1;MT64;WEI;7.17;1.0;Pavade;Dimitri;FRA;1989;ESP;L´Hospitalet de Llobregat, Barcelona;2026-05-16;Male;Outdoor
 PAL;1;MF11;KUG;13.95;;del Amo Cano;Alvaro;ESP;1990;ESP;Manresa;2026-04-25;Male;Outdoor
 PAL;1;MF12;KUG;13.38;;Dimitrijevic;Stefan;SRB;1989;CZE;Pardubice;2026-05-03;Male;Outdoor
 PAL;1;MF13;KUG;14.62;;Romero Paredes;Ismael;ESP;2005;ESP;Segovia;2026-03-14;Male;Outdoor
@@ -119,6 +123,7 @@ PAL;1;MF54;DIS;21.1;;Zupanovic;Marin;CRO;1978;UAE;Dubai;2026-02-12;Male;Outdoor
 PAL;1;MF55;DIS;22.96;;Rotter;Michal;CZE;1981;CZE;Pardubice;2026-05-03;Male;Outdoor
 PAL;1;MF56;DIS;38.32;;Laczko;Dusan;SVK;1983;CZE;Pardubice;2026-05-03;Male;Outdoor
 PAL;1;MF57;DIS;41.67;;Petrous;Jaroslav;CZE;1977;MAR;Rabat;2026-04-24;Male;Outdoor
+PAL;1;MF62;DIS;30.91;;Sevdikalis;Ioannis;GRE;1991;GRE;Thessaloniki;2026-05-24;Male;Outdoor
 PAL;1;MF63;DIS;34.47;;Adamcik;Martin;CZE;2000;CZE;Pardubice;2026-05-03;Male;Outdoor
 PAL;1;MF64;DIS;54.06;;Katanusic;Ivan;CRO;1991;MAR;Rabat;2026-04-23;Male;Outdoor
 PAL;1;MF13;SPE;30.54;;Chiarlone;Matteo;ITA;2007;MAR;Rabat;2026-04-25;Male;Outdoor
@@ -141,14 +146,14 @@ PAL;1;WT13;100;0:12.80;1.8;Iglesias Forneiro;Adiaratou;ESP;1999;ESP;Segovia;2026
 PAL;1;WT33;100;0:22.05;0.8;Goens;Cecile;BEL;2003;BEL;Oordegem;2026-05-01;Female;Outdoor
 PAL;1;WT34;100;0:17.76;1.1;Adenegan;Kare;GBR;2000;SUI;Arbon;2026-05-17;Female;Outdoor
 PAL;1;WT35;100;0:17.38;0.6;Machulskaia;Karina;RUS;1999;IND;New Delhi;2026-03-11;Female;Outdoor
-PAL;1;WT36;100;0:15.47;1.7;Nicoleitzik;Nicole;GER;1995;UAE;Dubai;2026-02-11;Female;Outdoor
+PAL;1;WT36;100;0:15.25;0.4;Bouthoorn;Cheyenne;NED;1997;ESP;L´Hospitalet de Llobregat, Barcelona;2026-05-16;Female;Outdoor
 PAL;1;WT37;100;0:16.25;0.6;Mataeva;Margarita;RUS;2009;IND;New Delhi;2026-03-11;Female;Outdoor
-PAL;1;WT38;100;0:13.25;1.1;Ave;Lindy;GER;1998;GER;Rostock;2026-05-02;Female;Outdoor
+PAL;1;WT38;100;0:12.80;0.5;Schaefer;Pauline Berit;GER;2009;ESP;L´Hospitalet de Llobregat, Barcelona;2026-05-16;Female;Outdoor
 PAL;1;WT44;100;0:14.05;0.0;Bensusan;Irmgard;GER;1991;RSA;Stellenbosch;2026-03-28;Female;Outdoor
 PAL;1;WT47;100;0:13.14;;Scott;Becca;GBR;2006;GBR;Birmingham;2026-03-14;Female;Outdoor
 PAL;1;WT53;100;0:16.78;-1.2;Dogangun;Hamide;TUR;1993;UAE;Dubai;2026-02-10;Female;Outdoor
 PAL;1;WT54;100;0:15.55;0.8;Bayekula;Lea;BEL;1995;BEL;Oordegem;2026-05-01;Female;Outdoor
-PAL;1;WT63;100;0:18.86;0.7;Spack;Sophie;SUI;2010;SUI;Olten;2026-05-09;Female;Outdoor
+PAL;1;WT63;100;0:15.46;0.4;Kratter;Elena;SUI;1996;ESP;L´Hospitalet de Llobregat, Barcelona;2026-05-16;Female;Outdoor
 PAL;1;WT71;100;0:30.37;0.5;Vaihinger;Marika;SWE;1988;SWE;Västerås;2026-05-10;Female;Outdoor
 PAL;1;WT72;100;0:18.20;-1.1;Overgaard;Andrea Stokholm;DEN;1997;DEN;Glostrup;2026-04-26;Female;Outdoor
 PAL;1;WT11;200;0:27.49;1.0;Garcia Falagan;Alba;ESP;2002;ESP;Segovia;2026-04-26;Female;Outdoor
@@ -157,8 +162,9 @@ PAL;1;WT13;200;0:25.84;1.0;Iglesias Forneiro;Adiaratou;ESP;1999;ESP;Segovia;2026
 PAL;1;WT33;200;0:41.92;0.3;Goens;Cecile;BEL;2003;BEL;Oordegem;2026-05-01;Female;Outdoor
 PAL;1;WT34;200;0:35.87;0.0;Henseler;Tanja;SUI;1997;SUI;Arbon;2026-05-14;Female;Outdoor
 PAL;1;WT35;200;0:32.22;-0.8;Machulskaia;Karina;RUS;1999;IND;New Delhi;2026-03-13;Female;Outdoor
-PAL;1;WT36;200;0:32.90;0.7;Vysotskaia;Evgeniia;RUS;2002;MAR;Rabat;2026-04-24;Female;Outdoor
+PAL;1;WT36;200;0:31.95;-1.5;Bouthoorn;Cheyenne;NED;1997;ESP;L´Hospitalet de Llobregat, Barcelona;2026-05-16;Female;Outdoor
 PAL;1;WT38;200;0:27.98;0.4;Ave;Lindy;GER;1998;GER;Rostock;2026-05-02;Female;Outdoor
+PAL;1;WT46;200;0:25.92;-2.2;Ross;Jule;GER;2006;ESP;L´Hospitalet de Llobregat, Barcelona;2026-05-16;Female;Outdoor
 PAL;1;WT47;200;0:27.02;0.5;Brown;Sally;IRL;1995;GBR;Loughborough;2026-04-18;Female;Outdoor
 PAL;1;WT53;200;0:38.61;0.3;Stragier;Joke;BEL;2006;BEL;Oordegem;2026-05-01;Female;Outdoor
 PAL;1;WT54;200;0:26.96;0.3;Bayekula;Lea;BEL;1995;BEL;Oordegem;2026-05-01;Female;Outdoor
@@ -183,24 +189,25 @@ PAL;1;WT12;1K5;4:51.61;;Oses Ayucar;Izaskun;ESP;1984;MAR;Rabat;2026-04-25;Female
 PAL;1;WT13;1K5;4:46.73;;Guclu;Hatice;TUR;2005;MAR;Rabat;2026-04-25;Female;Outdoor
 PAL;1;WT20;1K5;4:59.32;;Absolonova;Pavlina;CZE;2004;MAR;Rabat;2026-04-25;Female;Outdoor
 PAL;1;WT54;1K5;3:13.82;;Rainbow-Cooper;Eden;GBR;2001;SUI;Arbon;2026-05-16;Female;Outdoor
+PAL;1;WT12;5K0;21:18.98;;Paredes Rodriguez;Maria Del Carmen;ESP;1963;ESP;Tarragona;2026-05-23;Female;Outdoor
 PAL;1;WT54;5K0;11:11.86;;Eachus;Patricia;SUI;1989;SUI;Arbon;2026-05-17;Female;Outdoor
 PAL;1;WT53;5S;13:19.0;;Rainbow-Cooper;Eden;GBR;2001;USA;Boston;2026-04-18;Female;Outdoor
 PAL;1;WT54;5S;13:19.0;;Rainbow-Cooper;Eden;GBR;2001;USA;Boston;2026-04-18;Female;Outdoor
 PAL;1;WT12;MAR;3:01:50;;Guisado Rodriguez;Susana;ESP;1981;ESP;Sevilla;2026-02-15;Female;Outdoor
 PAL;1;WT53;MAR;1:37:15;;Debrunner;Catherine;SUI;1995;JPN;Tokyo;2026-03-01;Female;Outdoor
 PAL;1;WT54;MAR;1:30:51;;Rainbow-Cooper;Eden;GBR;2001;USA;Boston;2026-04-20;Female;Outdoor
-PAL;1;WT11;WEI;4.49;0.6;Averchenkova;Valeriia;RUS;2007;IND;New Delhi;2026-03-13;Female;Outdoor
+PAL;1;WT11;WEI;4.74;1.4;Garcia Falagan;Alba;ESP;2002;ESP;L´Hospitalet de Llobregat, Barcelona;2026-05-16;Female;Outdoor
 PAL;1;WT12;WEI;4.98;;Inga;Antonella;ITA;1995;ITA;Ancona;2026-02-21;Female;Outdoor
 PAL;1;WT13;WEI;4.16;1.9;Pungin Esteve;Xiana;ESP;2008;ESP;Segovia;2026-03-14;Female;Outdoor
 PAL;1;WT20;WEI;5.5;1.0;Stepanenkova;Valentina;RUS;1998;IND;New Delhi;2026-03-13;Female;Outdoor
 PAL;1;WT35;WEI;;0.0;Westling;Ellen;SWE;2007;SWE;Västerås;2026-05-10;Female;Outdoor
 PAL;1;WT37;WEI;4.15;-1.2;Mataeva;Margarita;RUS;2009;IND;New Delhi;2026-03-13;Female;Outdoor
 PAL;1;WT38;WEI;5.15;1.8;Moos;Nele;GER;2001;RSA;Stellenbosch;2026-03-28;Female;Outdoor
-PAL;1;WT47;WEI;4.55;0.8;Boudnikova;Ada;CZE;2008;CZE;Prague;2026-04-18;Female;Outdoor
+PAL;1;WT47;WEI;5.37;0.8;Smaragdi;Styliani;GRE;1995;GRE;Thessaloniki;2026-05-24;Female;Outdoor
 PAL;1;WT63;WEI;4.79;;Sabatini;Ambra;ITA;2002;ITA;Ancona;2026-02-21;Female;Outdoor
 PAL;1;WF11;KUG;11.44;;Legnante;Assunta;ITA;1978;ITA;Ancona;2026-02-20;Female;Outdoor
 PAL;1;WF12;KUG;12.46;;Prokofyeva;Marta;RUS;1987;IND;New Delhi;2026-03-12;Female;Outdoor
-PAL;1;WF13;KUG;9.46;;Heras Mateu;Paula;ESP;1995;ESP;Segovia;2026-03-14;Female;Outdoor
+PAL;1;WF13;KUG;9.95;;Zamora Arnau;Maria;ESP;2006;ESP;Tarragona;2026-05-23;Female;Outdoor
 PAL;1;WF20;KUG;10.74;;Mendes;Carla;POR;2007;UAE;Dubai;2026-02-12;Female;Outdoor
 PAL;1;WF32;KUG;5.04;;Majernikova;Lea;SVK;2006;CZE;Prague;2026-04-18;Female;Outdoor
 PAL;1;WF33;KUG;4.22;;Gouveia;Elisabete;POR;2003;POR;Torres Vedras;2026-05-10;Female;Outdoor
@@ -219,7 +226,7 @@ PAL;1;WF57;KUG;8.71;;Navarro Rodriguez;Gabriela Michell;ESP;1992;ESP;Guadalajara
 PAL;1;WF64;KUG;9.08;;Pinar Batalla;Fiona;ESP;2003;ESP;Guadalajara;2026-03-14;Female;Outdoor
 PAL;1;WF11;DIS;28.37;;Legnante;Assunta;ITA;1978;ITA;Ancona;2026-02-21;Female;Outdoor
 PAL;1;WF12;DIS;29.6;;Prokofyeva;Marta;RUS;1987;IND;New Delhi;2026-03-11;Female;Outdoor
-PAL;1;WF13;DIS;20.45;;Heras Mateu;Paula;ESP;1995;ESP;Segovia;2026-03-15;Female;Outdoor
+PAL;1;WF13;DIS;24.92;;Zamora Arnau;Maria;ESP;2006;ESP;L´Hospitalet de Llobregat, Barcelona;2026-05-16;Female;Outdoor
 PAL;1;WF32;DIS;8.12;;Marcanikova;Anna;CZE;1995;CZE;Prague;2026-04-18;Female;Outdoor
 PAL;1;WF37;DIS;25.79;;Berna;Eva;CZE;1986;CZE;Pardubice;2026-05-03;Female;Outdoor
 PAL;1;WF38;DIS;29.36;;Leck;Rachel Jane Caroline;GBR;1996;UAE;Dubai;2026-02-10;Female;Outdoor

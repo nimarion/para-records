@@ -103,7 +103,7 @@ PAR;0;MT63;1K5;5:35.49;;Record Mark;;;;;;2026-01-01;Male;Outdoor
 PAR;5;MT72;1K5;8:54.54;;Shen;Chia-Yu;TPE;2002;DEN;Bagsværd;2024-07-12;Male;Outdoor
 PAR;5;MT11;5K0;14:51.48;;Karasawa;Kenya;JPN;1994;FRA;Paris;2024-08-30;Male;Outdoor
 PAR;5;MT12;5K0;14:48.89;;Horikoshi;Tadashi;JPN;1988;GBR;London;2012-09-03;Male;Outdoor
-PAR;5;MT13;5K0;15:44.29;;Takai;Toshiharu;JPN;1986;JPN;Kumagaya;2019-05-19;Male;Outdoor
+PAR;5;MT13;5K0;14:03.45;;Shimazu;Yudai;JPN;2000;MAR;Rabat;2026-04-24;Male;Outdoor
 PAR;5;MT20;5K0;14:33.71;;Togawa;Yuji;JPN;1996;JPN;Kanazawa City;2022-06-05;Male;Outdoor
 PAR;5;MT34;5K0;12:33.72;;Maeba;Kazuya;JPN;;GBR;Birmingham;1998-08-14;Male;Outdoor
 PAR;5;MT36;5K0;18:42.89;;Choi;Yong-Jin;KOR;1967;KOR;Busan;2002-10-30;Male;Outdoor
@@ -383,8 +383,8 @@ PAR;5;WT54;10S;22:45.0;;Tsuchida;Wakako;JPN;1974;JPN;Oita City;2022-11-20;Female
 PAR;5;WT54;10S;22:45.0;;Nakamine;Tsubasa;JPN;1990;JPN;Oita City;2022-11-20;Female;Outdoor
 PAR;5;WT11;HAM;1:31:41.0;;Inouchi;Natsumi;JPN;1989;JPN;Tokyo;2022-10-16;Female;Outdoor
 PAR;5;WT12;HAM;1:24:48.0;;Michishita;Misato;JPN;1977;JPN;Tokyo;2023-10-15;Female;Outdoor
-PAR;5;WT54;HAM;47:55.0;;Tsuchida;Wakako;JPN;1974;JPN;Oita City;2022-11-20;Female;Outdoor
 PAR;5;WT54;HAM;47:55.0;;Nakamine;Tsubasa;JPN;1990;JPN;Oita City;2022-11-20;Female;Outdoor
+PAR;5;WT54;HAM;47:55.0;;Tsuchida;Wakako;JPN;1974;JPN;Oita City;2022-11-20;Female;Outdoor
 PAR;5;WT11;MAR;3:11:36;;Inouchi;Natsumi;JPN;1989;JPN;Oita;2025-02-02;Female;Outdoor
 PAR;5;WT12;MAR;2:54:13;;Michishita;Misato;JPN;1977;JPN;Hofu City;2020-12-20;Female;Outdoor
 PAR;0;WT13;MAR;3:13:10;;Record Mark;;;;;;2021-01-01;Female;Outdoor
@@ -460,7 +460,7 @@ PAR;5;WF64;DIS;27.94;;;Dayawanti;IND;1990;IND;New Delhi;2025-09-29;Female;Outdoo
 PAR;5;WF11;SPE;28.21;;Zhong;Huimin;CHN;1994;CHN;Tianjin;2019-08-30;Female;Outdoor
 PAR;5;WF12;SPE;47.06;;Zhao;Yuping;CHN;1994;FRA;Paris;2024-08-31;Female;Outdoor
 PAR;1;WF13;SPE;44.58;;Kayumova;Nozimakhon;UZB;1992;BRA;Rio de Janeiro;2016-09-17;Female;Outdoor
-PAR;5;WF33;SPE;15.78;;Qian;Zao;CHN;2004;FRA;Paris;2023-07-11;Female;Outdoor
+PAR;5;WF33;SPE;15.81;;Qian;Zao;CHN;2004;MAR;Rabat;2026-04-25;Female;Outdoor
 PAR;5;WF34;SPE;22.73;;Zou;Lijuan;CHN;1994;CHN;Guangzhou;2025-12-10;Female;Outdoor
 PAR;5;WF35;SPE;28.44;;Wang;Jun;CHN;1990;CHN;Beijing;2017-05-13;Female;Outdoor
 PAR;5;WF36;SPE;29.55;;Wu;Qing;CHN;1988;UAE;Sharjah;2011-12-02;Female;Outdoor

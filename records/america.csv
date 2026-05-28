@@ -33,7 +33,7 @@ PAR;7;MT35;200;0:23.55;-1.3;Caetano Nascimento;Henrique;BRA;1999;BRA;Sao Paulo;2
 PAR;7;MT36;200;0:25.19;-0.2;Parreira Da Silva;Rodrigo;BRA;1994;GBR;London;2017-07-17;Male;Outdoor
 PAR;7;MT37;200;0:21.91;1.0;Mayhugh;Nick;USA;1996;JPN;Tokyo;2021-09-04;Male;Outdoor
 PAR;7;MT38;200;0:22.91;0.4;Hooker Velasquez;Dixon De Jesus;COL;1994;GBR;London;2017-07-18;Male;Outdoor
-PAR;7;MT44;200;0:24.12;-0.9;Vives Suarez;Yamel Luis;CUB;1998;MAR;Marrakech;2024-04-27;Male;Outdoor
+PAR;7;MT44;200;0:23.40;0.9;de Lima;Matheus;BRA;2003;MAR;Rabat;2026-04-24;Male;Outdoor
 PAR;7;MT45;200;0:21.91;0.2;Nascimento;Yohansson;BRA;1987;FRA;Lyon;2013-07-22;Male;Outdoor
 PAR;7;MT47;200;0:20.83;1.5;Ferreira dos Santos;Petrucio;BRA;1996;BRA;Sao Paulo;2022-04-01;Male;Outdoor
 PAR;7;MT51;200;0:36.91;0.4;Navarro Sanchez;Edgar Cesareo;MEX;1971;SUI;Arbon;2019-06-01;Male;Outdoor
@@ -290,7 +290,7 @@ PAR;7;WT13;100;0:11.66;1.4;Soares Da Silva;Rayane;BRA;1997;BRA;Sao Paulo;2025-07
 PAR;7;WT33;100;0:21.59;-0.4;Messer;Kristen;USA;1987;GBR;London;2012-08-31;Female;Outdoor
 PAR;7;WT34;100;0:18.43;0.0;Halko;Alexa;USA;2000;GBR;London;2017-07-14;Female;Outdoor
 PAR;7;WT34;100;0:18.43;0.2;Houston;Eva;USA;2001;SUI;Nottwil;2024-06-08;Female;Outdoor
-PAR;7;WT35;100;0:15.78;1.4;Salinaro;Brianna;USA;1998;USA;Miramar;2024-07-20;Female;Outdoor
+PAR;7;WT35;100;0:14.63;0.2;Lima de Araujo;Maria Clara;BRA;2011;MAR;Rabat;2026-04-23;Female;Outdoor
 PAR;7;WT36;100;0:14.01;0.7;Oliveira Cruz;Tascitha;BRA;1993;BRA;São Paulo;2019-04-25;Female;Outdoor
 PAR;7;WT37;100;0:12.82;1.0;Palomeque Moreno;Karen Tatiana;COL;1994;FRA;Paris;2023-07-13;Female;Outdoor
 PAR;7;WT38;100;0:12.26;0.8;Palomeque Moreno;Karen Tatiana;COL;1994;FRA;Paris;2024-08-31;Female;Outdoor
@@ -462,7 +462,7 @@ PAR;0;WF34;DIS;16.75;;Record Mark;;;;;;2015-01-01;Female;Outdoor
 PAR;7;WF35;DIS;23.73;;Oliveira Da Nobrega;Marivana;BRA;1990;GBR;London;2012-08-31;Female;Outdoor
 PAR;7;WF36;DIS;22.79;;Hernandez Florian;Martha Liliana;COL;1988;COL;Medellín;2016-11-25;Female;Outdoor
 PAR;7;WF37;DIS;33.91;;Santos de Souza Coelho;Shirlene;BRA;1981;BRA;Rio de Janeiro;2016-09-17;Female;Outdoor
-PAR;7;WF38;DIS;38.36;;Saldarriaga Hernandez;Xiomara;COL;2004;FRA;Paris;2024-09-06;Female;Outdoor
+PAR;7;WF38;DIS;38.69;;Saldarriaga Hernandez;Xiomara;COL;2004;MAR;Rabat;2026-04-23;Female;Outdoor
 PAR;7;WF40;DIS;23.39;;Mejia Hernandez;Pauleth;MEX;2004;MEX;Xalapa;2024-04-06;Female;Outdoor
 PAR;7;WF41;DIS;30.89;;Lopez Macas;Estefany Gisela;ECU;1992;FRA;Paris;2024-09-04;Female;Outdoor
 PAR;7;WF42;DIS;24.85;;Callahan;Catherine;USA;1965;USA;St. Paul, Minnesota;2015-06-20;Female;Outdoor
