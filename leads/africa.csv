@@ -2,14 +2,14 @@ Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Ges
 PAL;4;MT11;100;0:11.40;1.1;Bekale Mvondo;Stephane;CMR;2002;MAR;Rabat;2026-04-23;Male;Outdoor
 PAL;4;MT12;100;0:11.13;-0.6;Makatu;Masala;RSA;2006;RSA;Stellenbosch;2026-03-28;Male;Outdoor
 PAL;4;MT13;100;0:11.48;2.0;Okora;Jairus Ongeta;KEN;1996;UAE;Dubai;2026-02-12;Male;Outdoor
-PAL;4;MT34;100;0:14.78;0.9;Ktila;Walid;TUN;1985;SUI;Arbon;2026-05-17;Male;Outdoor
+PAL;4;MT34;100;0:14.77;1.2;Ktila;Walid;TUN;1985;SUI;Nottwil;2026-05-23;Male;Outdoor
 PAL;4;MT36;100;0:12.59;-0.2;Zakary;Youssef;MAR;2000;MAR;Rabat;2026-04-23;Male;Outdoor
 PAL;4;MT37;100;0:12.20;1.6;Rich;Ronald;BOT;1999;BOT;Gaborone;2026-03-21;Male;Outdoor
-PAL;4;MT38;100;0:12.14;-1.9;Felix;Sadha;RSA;2001;RSA;Johannesburg;2026-03-13;Male;Outdoor
+PAL;4;MT38;100;0:11.91;1.0;Prosper;Mitchell;MRI;2000;SUI;Nottwil;2026-05-23;Male;Outdoor
 PAL;4;MT44;100;0:11.61;-0.9;Mhlongo;Mpumelelo;RSA;1994;RSA;Stellenbosch;2026-03-30;Male;Outdoor
 PAL;4;MT46;100;0:12.04;-0.1;Attekebrai;Emmanuel Michel;CIV;2004;MAR;Rabat;2026-04-23;Male;Outdoor
 PAL;4;MT47;100;0:10.75;1.3;El Haddaoui;Aymane;MAR;2000;MAR;Rabat;2026-04-23;Male;Outdoor
-PAL;4;MT53;100;0:14.97;0.0;Khelifi;Mohamed Nidhal;TUN;1996;SUI;Arbon;2026-05-17;Male;Outdoor
+PAL;4;MT53;100;0:14.86;1.7;Khelifi;Mohamed Nidhal;TUN;1996;SUI;Nottwil;2026-05-23;Male;Outdoor
 PAL;4;MT54;100;0:15.31;0.1;Botsyo;Nkegbe;GHA;1979;RSA;Stellenbosch;2026-03-30;Male;Outdoor
 PAL;4;MT62;100;0:11.47;-1.1;Daniels;Paul;RSA;2002;RSA;Stellenbosch;2026-03-30;Male;Outdoor
 PAL;4;MT63;100;0:12.23;-1.1;Mabote;Puseletso Michael;RSA;2005;RSA;Stellenbosch;2026-03-30;Male;Outdoor
@@ -104,7 +104,7 @@ PAL;4;WT37;100;0:14.00;0.0;James;Sheryl;RSA;1986;RSA;Stellenbosch;2026-03-28;Fem
 PAL;4;WT44;100;0:15.26;0.4;Felix;Charne;RSA;1986;RSA;Stellenbosch;2026-03-30;Female;Outdoor
 PAL;4;WT46;100;0:14.03;0.2;Uwiduhaye;Clementine;RWA;1995;MAR;Rabat;2026-04-23;Female;Outdoor
 PAL;4;WT47;100;0:12.76;0.4;Uwak;Unyime;NGR;1996;RSA;Stellenbosch;2026-03-30;Female;Outdoor
-PAL;4;WT54;100;0:16.38;-0.1;Alphonse;Noemi;MRI;1995;SUI;Arbon;2026-05-17;Female;Outdoor
+PAL;4;WT54;100;0:16.27;0.4;Alphonse;Noemi;MRI;1995;SUI;Nottwil;2026-05-23;Female;Outdoor
 PAL;4;WT11;200;0:27.13;0.2;Moko;Juliana Ngleya;ANG;2000;MAR;Rabat;2026-04-24;Female;Outdoor
 PAL;4;WT37;200;0:28.93;-0.5;James;Sheryl;RSA;1986;RSA;Stellenbosch;2026-03-29;Female;Outdoor
 PAL;4;WT38;200;0:30.46;-1.7;Nicolaisen;Arina;RSA;2000;RSA;Stellenbosch;2026-03-28;Female;Outdoor

@@ -12,14 +12,14 @@ PAL;5;MT42;100;0:12.61;0.3;;Partin;INA;2002;MAR;Rabat;2026-04-23;Male;Outdoor
 PAL;5;MT44;100;0:11.08;-0.9;Almasrahi;Naif;KSA;1990;MAR;Rabat;2026-04-23;Male;Outdoor
 PAL;5;MT45;100;0:11.46;-0.9;Sambongi;Yuya;JPN;2001;JPN;Nagoya;2026-05-16;Male;Outdoor
 PAL;5;MT46;100;0:10.89;-0.9;Ishida;Kakeru;JPN;1999;JPN;Nagoya;2026-05-16;Male;Outdoor
-PAL;5;MT47;100;0:10.90;-0.2;Suzuki;Yudai;JPN;1998;JPN;Nagoya;2026-05-16;Male;Outdoor
+PAL;5;MT47;100;0:10.77;0.2;Suzuki;Yudai;JPN;1998;SUI;Nottwil;2026-05-22;Male;Outdoor
 PAL;5;MT51;100;0:28.43;-1.7;Nagasaki;Yuya;JPN;1982;JPN;Mihama;2026-04-18;Male;Outdoor
-PAL;5;MT52;100;0:16.85;0.2;Sato;Tomoki;JPN;1989;SUI;Arbon;2026-05-17;Male;Outdoor
-PAL;5;MT53;100;0:15.01;0.0;Alqurashi;Abdulrahman;KSA;1997;SUI;Arbon;2026-05-17;Male;Outdoor
-PAL;5;MT54;100;0:14.39;1.5;Ikoma;Tomoki;JPN;1992;AUS;Canberra;2026-01-23;Male;Outdoor
+PAL;5;MT52;100;0:16.57;0.9;Sato;Tomoki;JPN;1989;SUI;Nottwil;2026-05-23;Male;Outdoor
+PAL;5;MT53;100;0:14.23;1.7;Paeyo;Pongsakorn;THA;1996;SUI;Nottwil;2026-05-23;Male;Outdoor
+PAL;5;MT54;100;0:13.54;0.9;Paeng-Nuea;Athiwat;THA;2002;SUI;Nottwil;2026-05-23;Male;Outdoor
 PAL;5;MT63;100;0:12.92;0.8;Kondo;Hajime;JPN;2000;JPN;Nagoya;2026-05-16;Male;Outdoor
 PAL;5;MT64;100;0:11.11;-0.3;Oshima;Kengo;JPN;2000;JPN;Nagoya;2026-05-16;Male;Outdoor
-PAL;5;MT72;100;0:19.00;0.5;Althagafi;Abdulrahman;KSA;2006;SUI;Arbon;2026-05-14;Male;Outdoor
+PAL;5;MT72;100;0:18.51;0.9;Althagafi;Abdulrahman;KSA;2006;SUI;Nottwil;2026-05-23;Male;Outdoor
 PAL;5;MT11;200;0:27.29;-0.6;Suzuki;Hidetoshi;JPN;1975;JPN;Nagoya;2026-05-17;Male;Outdoor
 PAL;5;MT12;200;0:26.09;0.5;Shikata;Haruki;JPN;2006;JPN;Nagoya;2026-05-17;Male;Outdoor
 PAL;5;MT13;200;0:21.93;0.5;Kawakami;Shuta;JPN;1998;JPN;Nagoya;2026-05-17;Male;Outdoor
@@ -160,9 +160,9 @@ PAL;5;MF64;SPE;69.25;;;Sumit;IND;1998;IND;New Delhi;2026-03-12;Male;Outdoor
 PAL;1;MF32;KEU;36.88;;Kodirov;Khurshid;UZB;2006;UAE;Dubai;2026-02-13;Male;Outdoor
 PAL;5;MF51;KEU;29.13;;;Dharambir;IND;1989;UAE;Dubai;2026-02-10;Male;Outdoor
 PAL;5;WT11;100;0:13.44;0.1;Shirahama;Akiko;JPN;1981;JPN;Nagoya;2026-05-17;Female;Outdoor
-PAL;5;WT12;100;0:13.30;-0.2;Qiu;Yingying;CHN;1999;MAR;Rabat;2026-04-23;Female;Outdoor
+PAL;1;WT12;100;0:13.19;0.8;Olimjonova;Khusniya;UZB;2009;SUI;Nottwil;2026-05-23;Female;Outdoor
 PAL;5;WT13;100;0:13.05;1.8;Zhu;Lin;CHN;1995;MAR;Rabat;2026-04-23;Female;Outdoor
-PAL;5;WT34;100;0:18.36;0.7;Yoshida;Ayano;JPN;2006;JPN;Nagoya;2026-05-16;Female;Outdoor
+PAL;5;WT34;100;0:17.97;0.7;Li;Xiaoman;CHN;2009;SUI;Nottwil;2026-05-23;Female;Outdoor
 PAL;5;WT35;100;0:14.32;1.7;Pal;Preeti;IND;2000;UAE;Dubai;2026-02-11;Female;Outdoor
 PAL;5;WT36;100;0:15.32;0.2;Parinus;Rozabell Rozell;MAS;2006;MAR;Rabat;2026-04-23;Female;Outdoor
 PAL;5;WT37;100;0:14.20;1.9;Wardina;Helin;INA;2003;MAR;Rabat;2026-04-23;Female;Outdoor
@@ -170,7 +170,8 @@ PAL;5;WT38;100;0:14.15;0.3;Takamatsu;Yuka;JPN;1993;JPN;Nagoya;2026-05-16;Female;
 PAL;5;WT46;100;0:13.26;0.9;Chakkungalparambil Suresh;Nimisha;IND;2001;IND;New Delhi;2026-03-11;Female;Outdoor
 PAL;5;WT47;100;0:12.80;0.2;Shan;Jie;CHN;2000;MAR;Rabat;2026-04-23;Female;Outdoor
 PAL;5;WT52;100;0:23.24;1.1;Tanaka;Teruyo;JPN;1959;JPN;Nagoya;2026-05-16;Female;Outdoor
-PAL;5;WT54;100;0:17.81;0.0;Nakao;Arisa;JPN;1987;SUI;Arbon;2026-05-14;Female;Outdoor
+PAL;5;WT53;100;0:16.84;1.0;Zhou;Hongzhuan;CHN;1988;SUI;Nottwil;2026-05-23;Female;Outdoor
+PAL;5;WT54;100;0:16.11;0.4;Zhou;Zhaoqian;CHN;1997;SUI;Nottwil;2026-05-23;Female;Outdoor
 PAL;5;WT63;100;0:15.95;0.5;Tozawa;Tomomi;JPN;1999;JPN;Nagoya;2026-05-16;Female;Outdoor
 PAL;5;WT64;100;0:13.86;0.5;Takakuwa;Saki;JPN;1992;JPN;Nagoya;2026-05-16;Female;Outdoor
 PAL;1;WT11;200;0:29.02;0.2;Saydullaeva;Nozima;UZB;2008;SUI;Nottwil;2026-05-21;Female;Outdoor
