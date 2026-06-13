@@ -192,8 +192,8 @@ WR;;MT13;10S;36:58.0;;Record Mark;;;;;;2021-01-01;Male;Outdoor
 WR;;MT46;10S;38:39.0;;Record Mark;;;;;;2024-01-01;Male;Outdoor
 WR;;MT51;10S;34:46.0;;Du Preez;Pieter;RSA;1980;JPN;Oita City;2022-11-20;Male;Outdoor
 WR;;MT52;10S;24:34.0;;Sato;Tomoki;JPN;1989;JPN;Oita City;2022-11-20;Male;Outdoor
-WR;;MT54;10S;18:10.0;;Hug;Marcel;SUI;1986;JPN;Oita City;2021-11-21;Male;Outdoor
 WR;;MT54;10S;18:10.0;;Suzuki;Tomoki;JPN;1994;JPN;Oita City;2021-11-21;Male;Outdoor
+WR;;MT54;10S;18:10.0;;Hug;Marcel;SUI;1986;JPN;Oita City;2021-11-21;Male;Outdoor
 WR;;MT62;10S;38:40.0;;Reynolds;Brian;USA;1988;USA;Boston;2025-06-22;Male;Outdoor
 WR;;MT11;HAM;1:08:30.0;;Karasawa;Kenya;JPN;1994;JPN;Tokyo;2022-10-16;Male;Outdoor
 WR;;MT12;HAM;1:09:33.0;;Kumagai;Yutaka;JPN;1987;JPN;Tokyo;2024-10-20;Male;Outdoor
@@ -201,8 +201,8 @@ WR;;MT46;HAM;1:09:33.0;;Olsen;Christian;DEN;1993;DEN;Copenhagen;2022-09-14;Male;
 WR;;MT51;HAM;1:08:21.0;;Mestre;Helder;POR;1967;POR;Lisbon;2017-03-19;Male;Outdoor
 WR;;MT52;HAM;51:44.0;;Sato;Tomoki;JPN;1989;JPN;Oita City;2022-11-20;Male;Outdoor
 WR;;MT52;HAM;51:44.0;;Ueyonabaru;Hirokazu;JPN;1971;JPN;Oita City;2022-12-20;Male;Outdoor
-WR;;MT54;HAM;38:32.0;;Hug;Marcel;SUI;1986;JPN;Oita City;2021-11-21;Male;Outdoor
 WR;;MT54;HAM;38:32.0;;Suzuki;Tomoki;JPN;1994;JPN;Oita City;2021-11-21;Male;Outdoor
+WR;;MT54;HAM;38:32.0;;Hug;Marcel;SUI;1986;JPN;Oita City;2021-11-21;Male;Outdoor
 WR;;MT11;MAR;2:23:27;;Wada;Shinya;JPN;1977;JPN;Oita;2024-02-04;Male;Outdoor
 WR;;MT12;MAR;2:19:08;;Clifford;Jaryd;AUS;1999;AUS;Sydney;2021-04-25;Male;Outdoor
 WR;;MT13;MAR;2:22:55;;Talbot;Carlos;USA;1957;KOR;Seoul;1988-10-24;Male;Outdoor
@@ -289,7 +289,7 @@ WR;;MF42;DIS;54.14;;Davies;Aled;GBR;1991;ITA;Grosseto;2016-06-14;Male;Outdoor
 WR;;MF43;DIS;63.7;;Stewart;Akeem;TTO;1992;PER;Lima;2019-08-27;Male;Outdoor
 WR;;MF44;DIS;64.26;;Blair;David;USA;1975;USA;Tucson, AZ;2021-05-20;Male;Outdoor
 WR;;MF45;DIS;12.48;;Record Mark;;;;;;2019-01-01;Male;Outdoor
-WR;;MF46;DIS;52.85;;Kaurin;Erik Fabian;CRO;2000;CRO;Zagreb;2024-07-14;Male;Outdoor
+WR;;MF46;DIS;52.94;;Kaurin;Erik Fabian;CRO;2000;CRO;Pula;2026-06-06;Male;Outdoor
 WR;;MF51;DIS;13.66;;Berrahal;Mohamed;ALG;1979;TUN;Tunis;2025-06-16;Male;Outdoor
 WR;;MF52;DIS;27.06;;Ganeshamoorthy;Rigivan;ITA;1999;FRA;Paris;2024-09-02;Male;Outdoor
 WR;;MF53;DIS;26.62;;Oi;Toshie;JPN;1948;JPN;Okayama;2006-09-30;Male;Outdoor
