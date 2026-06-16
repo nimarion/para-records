@@ -22,7 +22,7 @@ PAR;1;MT61;100;0:12.73;0.9;Lacin;Ali;GER;1988;GER;Berlin;2020-07-03;Male;Outdoor
 PAR;1;MT62;100;0:10.54;1.6;Floors;Johannes;GER;1995;UAE;Dubai;2019-11-10;Male;Outdoor
 PAR;1;MT63;100;0:12.02;1.0;Schaefer;Leon;GER;1997;GER;Leverkusen;2024-07-06;Male;Outdoor
 PAR;1;MT64;100;0:10.63;0.3;Streng;Felix;GER;1995;GER;Leichlingen;2025-06-13;Male;Outdoor
-PAR;1;MT71;100;0:20.41;1.1;Wolos;Bartosz;POL;2009;SUI;Nottwil;2026-05-23;Male;Outdoor
+PAR;1;MT71;100;0:20.70;0.0;Krzyzek;Artur;POL;2000;POL;Warsaw;2026-05-16;Male;Outdoor
 PAR;1;MT72;100;0:14.61;0.9;Calcagni;Carlo Fabio Marcello;ITA;1968;SUI;Nottwil;2026-05-23;Male;Outdoor
 PAR;1;MT11;200;0:22.79;-0.7;Ghavelas;Athanasios;GRE;1999;GRE;Heraklion Crete;2022-05-22;Male;Outdoor
 PAR;1;MT12;200;0:21.56;1.0;Michalski;Mateusz;POL;1987;GBR;London;2012-09-08;Male;Outdoor
@@ -48,7 +48,7 @@ PAR;0;MT61;200;0:23.72;-0.2;Record Mark;;;;;;2019-01-01;Male;Outdoor
 PAR;1;MT62;200;0:20.29;2.0;Floors;Johannes;GER;1995;GER;Leverkusen;2025-07-05;Male;Outdoor
 PAR;1;MT63;200;0:26.27;1.4;Schaefer;Leon;GER;1997;SUI;Nottwil;2023-05-25;Male;Outdoor
 PAR;1;MT64;200;0:21.36;-0.3;Manu;Maxcel Amo;ITA;1992;FRA;Paris;2023-07-17;Male;Outdoor
-PAR;1;MT71;200;0:41.67;-1.2;Wolos;Bartosz;POL;2009;SUI;Nottwil;2026-05-21;Male;Outdoor
+PAR;1;MT71;200;0:42.82;0.9;Krzyzek;Artur;POL;2000;POL;Wloclawek;2025-07-06;Male;Outdoor
 PAR;1;MT72;200;0:29.32;0.8;Calcagni;Carlo Fabio Marcello;ITA;1968;SUI;Nottwil;2026-05-21;Male;Outdoor
 PAR;1;MT11;400;0:50.03;;Adolphe;Timothee;FRA;1989;FRA;Paris;2024-06-14;Male;Outdoor
 PAR;1;MT12;400;0:47.47;;Yildirim;Serkan;TUR;1991;JPN;Kobe;2024-05-23;Male;Outdoor
@@ -343,7 +343,7 @@ PAR;1;WT62;100;0:12.02;0.3;Jong;Fleur;NED;1995;NED;Hengelo;2025-08-03;Female;Out
 PAR;1;WT63;100;0:13.98;0.6;Sabatini;Ambra;ITA;2002;FRA;Paris;2023-07-13;Female;Outdoor
 PAR;1;WT64;100;0:12.46;1.1;Alkemade;Kimberly;NED;1990;SUI;Nottwil;2024-06-07;Female;Outdoor
 PAR;1;WT71;100;0:20.08;1.7;Morkus;Bella;LTU;1967;DEN;København;2025-07-10;Female;Outdoor
-PAR;1;WT72;100;0:16.82;-0.6;Andruszkiewicz;Magdalena;POL;1989;IND;New Delhi;2025-09-30;Female;Outdoor
+PAR;1;WT72;100;0:16.75;0.0;Andruszkiewicz;Magdalena;POL;1989;POL;Warsaw;2026-05-16;Female;Outdoor
 PAR;1;WT11;200;0:24.44;-0.4;Clegg;Libby;GBR;1990;GBR;London;2016-07-23;Female;Outdoor
 PAR;1;WT12;200;0:23.65;0.1;Boturchuk;Oksana;UKR;1984;BRA;Rio de Janeiro;2016-09-12;Female;Outdoor
 PAR;1;WT13;200;0:24.40;-0.3;Iglesias Forneiro;Adiaratou;ESP;1999;ESP;Leganes;2022-06-17;Female;Outdoor
@@ -384,7 +384,7 @@ PAR;1;WT54;400;0:50.50;;Bayekula;Lea;BEL;1995;IND;New Delhi;2025-10-03;Female;Ou
 PAR;1;WT63;400;1:24.12;;Haenen;Gitte;BEL;1986;SUI;Nottwil;2018-05-27;Female;Outdoor
 PAR;1;WT64;400;0:59.27;;Le Fur;Marie-Amelie;FRA;1988;BRA;Rio de Janeiro;2016-09-12;Female;Outdoor
 PAR;1;WT71;400;2:07.81;;Vaihinger;Marika;SWE;1988;NOR;Lillestrøm;2023-08-19;Female;Outdoor
-PAR;1;WT72;400;1:12.38;;Overgaard;Andrea Stokholm;DEN;1997;SUI;Nottwil;2026-05-22;Female;Outdoor
+PAR;1;WT72;400;1:13.32;;Andruszkiewicz;Magdalena;POL;1989;FRA;Paris;2025-06-04;Female;Outdoor
 PAR;1;WT11;800;2:17.66;;Hinton;Tracey;GBR;1970;CAN;Quebec;2003-08-11;Female;Outdoor
 PAR;1;WT12;800;2:04.96;;El Hannouni;Assia;FRA;1981;CHN;Beijing;2008-09-09;Female;Outdoor
 PAR;1;WT13;800;2:29.26;;Adali;Asli;TUR;1998;UAE;Dubai;2018-03-13;Female;Outdoor
@@ -449,8 +449,8 @@ PAR;0;WT54;5S;12:08.0;;Record Mark;;;;;;2026-01-01;Female;Outdoor
 PAR;1;WT54;10S;21:21.0;;Debrunner;Catherine;SUI;1995;JPN;Oita;2024-11-17;Female;Outdoor
 PAR;0;WT11;HAM;1:36:35.0;;Record Mark;;;;;;2016-01-01;Female;Outdoor
 PAR;0;WT12;HAM;1:25:59.0;;Record Mark;;;;;;2019-01-01;Female;Outdoor
-PAR;1;WT54;HAM;46:51.0;;Schaer;Manuela;SUI;1984;JPN;Oita City;2023-11-19;Female;Outdoor
 PAR;1;WT54;HAM;46:51.0;;Debrunner;Catherine;SUI;1995;JPN;Oita City;2023-11-19;Female;Outdoor
+PAR;1;WT54;HAM;46:51.0;;Schaer;Manuela;SUI;1984;JPN;Oita City;2023-11-19;Female;Outdoor
 PAR;0;WT11;MAR;3:18:37;;Record Mark;;;;;;2020-01-01;Female;Outdoor
 PAR;1;WT12;MAR;2:54:36;;Congost;Elena;ESP;1987;ESP;Valencia;2025-12-07;Female;Outdoor
 PAR;1;WT54;MAR;1:34:16;;Debrunner;Catherine;SUI;1995;GER;Berlin;2023-09-24;Female;Outdoor
