@@ -21,20 +21,22 @@ PAL;1;MT64;100;0:10.91;1.2;Peacock;Jonnie;GBR;1993;GBR;Loughborough;2026-05-27;M
 PAL;1;MT71;100;0:20.70;0.0;Krzyzek;Artur;POL;2000;POL;Warsaw;2026-05-16;Male;Outdoor
 PAL;1;MT72;100;0:14.61;0.9;Calcagni;Carlo Fabio Marcello;ITA;1968;SUI;Nottwil;2026-05-23;Male;Outdoor
 PAL;1;MT11;200;0:27.29;-0.4;Zelinger;Binyamin Zvi;ISR;2005;SUI;Nottwil;2026-05-21;Male;Outdoor
-PAL;1;MT12;200;0:23.73;-0.4;Diane;Saliou;ITA;2003;SUI;Nottwil;2026-05-21;Male;Outdoor
+PAL;1;MT12;200;0:23.20;1.1;Diane;Saliou;ITA;2003;ITA;Giussano (MB);2026-06-13;Male;Outdoor
 PAL;1;MT13;200;0:22.71;-1.2;Marzillier;Max;GER;2001;RSA;Stellenbosch;2026-03-28;Male;Outdoor
+PAL;1;MT33;200;0:41.66;-0.6;Zani;Nicholas;ITA;1999;ITA;Giussano (MB);2026-06-13;Male;Outdoor
 PAL;1;MT34;200;0:26.90;0.5;Manni;Henry;FIN;1992;SUI;Nottwil;2026-05-21;Male;Outdoor
 PAL;1;MT35;200;0:26.43;0.5;Keyworth;Kyle;GBR;1997;UAE;Dubai;2026-02-13;Male;Outdoor
 PAL;1;MT36;200;0:25.30;0.9;Khachaturian;David;ARM;2002;SUI;Nottwil;2026-05-21;Male;Outdoor
-PAL;1;MT37;200;0:25.04;-0.1;Cavallero;Edoardo;ITA;2005;SUI;Nottwil;2026-05-21;Male;Outdoor
+PAL;1;MT37;200;0:24.80;0.4;Cavallero;Edoardo;ITA;2005;ITA;Giussano (MB);2026-06-13;Male;Outdoor
 PAL;1;MT38;200;0:24.13;0.9;Young;Thomas;GBR;2000;SUI;Nottwil;2026-05-21;Male;Outdoor
 PAL;1;MT44;200;0:23.82;-0.8;Hannah;Ryan;GBR;1994;UAE;Dubai;2026-02-10;Male;Outdoor
 PAL;1;MT46;200;0:23.35;1.7;Hoehne;Julian Noah;GER;2007;SUI;Nottwil;2026-05-21;Male;Outdoor
-PAL;1;MT47;200;0:25.97;1.0;Cvetkovic;Ivan;SRB;1993;SRB;Krusevac;2026-05-09;Male;Outdoor
+PAL;1;MT47;200;0:22.83;1.1;Bagaini;Riccardo;ITA;2000;ITA;Giussano (MB);2026-06-13;Male;Outdoor
 PAL;1;MT51;200;0:37.23;0.2;Habsch;Roger;BEL;1979;SUI;Nottwil;2026-05-21;Male;Outdoor
 PAL;1;MT52;200;0:41.05;0.6;Thorsell;Jonathan;SWE;1998;SWE;Västerås;2026-05-10;Male;Outdoor
 PAL;1;MT53;200;0:27.45;0.3;Balbaert;Johannes;BEL;2007;SUI;Nottwil;2026-05-21;Male;Outdoor
 PAL;1;MT54;200;0:24.43;1.5;Balde;Mamudo;POR;2005;SUI;Arbon;2026-05-16;Male;Outdoor
+PAL;1;MT62;200;0:24.12;1.1;Morana;Davide Bartolo;ITA;1993;ITA;Giussano (MB);2026-06-13;Male;Outdoor
 PAL;1;MT64;200;0:23.01;-0.7;Vloet;Levi;NED;1996;SUI;Nottwil;2026-05-21;Male;Outdoor
 PAL;1;MT71;200;0:45.50;0.0;Krzyzek;Artur;POL;2000;POL;Warsaw;2026-05-16;Male;Outdoor
 PAL;1;MT72;200;0:29.32;0.8;Calcagni;Carlo Fabio Marcello;ITA;1968;SUI;Nottwil;2026-05-21;Male;Outdoor
@@ -42,15 +44,17 @@ PAL;1;MT11;400;0:52.14;;Descarrega Puigdevall;Gerard;ESP;1994;ESP;L´Hospitalet 
 PAL;1;MT12;400;0:51.57;;Ruiz Garcia;Diego;ESP;2006;ESP;Segovia;2026-04-25;Male;Outdoor
 PAL;1;MT13;400;0:50.54;;Marzillier;Max;GER;2001;RSA;Stellenbosch;2026-03-31;Male;Outdoor
 PAL;1;MT20;400;0:48.40;;Dieng;Ndiaga;ITA;1999;SUI;Nottwil;2026-05-22;Male;Outdoor
+PAL;1;MT33;400;1:15.84;;Zani;Nicholas;ITA;1999;ITA;Giussano (MB);2026-06-13;Male;Outdoor
 PAL;1;MT34;400;0:50.27;;Manni;Henry;FIN;1992;SUI;Nottwil;2026-05-22;Male;Outdoor
 PAL;1;MT36;400;1:00.39;;Khachaturian;David;ARM;2002;SUI;Nottwil;2026-05-22;Male;Outdoor
 PAL;1;MT37;400;0:53.44;;Martin de Miguel;Hector;ESP;2003;ESP;Guadalajara;2026-03-15;Male;Outdoor
 PAL;1;MT38;400;0:50.44;;Poggiani;Ange Bertin;ITA;2003;MAR;Rabat;2026-04-25;Male;Outdoor
 PAL;1;MT46;400;0:52.01;;Hoehne;Julian Noah;GER;2007;SUI;Nottwil;2026-05-22;Male;Outdoor
-PAL;1;MT47;400;0:50.78;;Bagaini;Riccardo;ITA;2000;SUI;Nottwil;2026-05-22;Male;Outdoor
+PAL;1;MT47;400;0:50.69;;Bagaini;Riccardo;ITA;2000;ITA;Giussano (MB);2026-06-13;Male;Outdoor
 PAL;1;MT52;400;0:53.18;;Carabin;Maxime;BEL;2000;SUI;Arbon;2026-05-14;Male;Outdoor
 PAL;1;MT53;400;0:50.69;;Fairbank;Pierre;FRA;1971;SUI;Nottwil;2026-05-22;Male;Outdoor
 PAL;1;MT54;400;0:45.67;;Balde;Mamudo;POR;2005;SUI;Nottwil;2026-05-22;Male;Outdoor
+PAL;1;MT62;400;0:57.65;;Morana;Davide Bartolo;ITA;1993;ITA;Giussano (MB);2026-06-13;Male;Outdoor
 PAL;1;MT71;400;2:10.23;;Avramidis;Ioannis;GRE;2002;SRB;Krusevac;2026-05-10;Male;Outdoor
 PAL;1;MT72;400;1:00.40;;Calcagni;Carlo Fabio Marcello;ITA;1968;SUI;Nottwil;2026-05-22;Male;Outdoor
 PAL;1;MT11;800;2:20.39;;Olaso Hernandez;Ander;ESP;2007;ESP;Segovia;2026-03-15;Male;Outdoor
@@ -207,7 +211,7 @@ PAL;1;WT53;200;0:26.44;0.6;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2026-05-21;F
 PAL;1;WT54;200;0:26.96;0.3;Bayekula;Lea;BEL;1995;BEL;Oordegem;2026-05-01;Female;Outdoor
 PAL;1;WT72;200;0:34.76;1.0;Overgaard;Andrea Stokholm;DEN;1997;SUI;Nottwil;2026-05-21;Female;Outdoor
 PAL;1;WT11;400;1:08.39;;Cagiran;Merve Nur;TUR;2007;MAR;Rabat;2026-04-25;Female;Outdoor
-PAL;1;WT12;400;1:02.50;;Gorbacheva;Iana;RUS;2007;UAE;Dubai;2026-02-13;Female;Outdoor
+PAL;1;WT12;400;1:00.99;;Petrillo;Valentina;ITA;1973;ITA;Giussano (MB);2026-06-13;Female;Outdoor
 PAL;1;WT13;400;0:55.80;;Duarte;Carolina;POR;1990;POR;Lisboa;2026-06-10;Female;Outdoor
 PAL;1;WT20;400;1:00.52;;Sainchina;Natalia;RUS;2004;IND;New Delhi;2026-03-12;Female;Outdoor
 PAL;1;WT33;400;1:25.49;;Goens;Cecile;BEL;2003;BEL;Oordegem;2026-05-01;Female;Outdoor
@@ -249,9 +253,9 @@ PAL;1;WT35;WEI;;0.0;Westling;Ellen;SWE;2007;SWE;Västerås;2026-05-10;Female;Out
 PAL;1;WT37;WEI;4.15;-1.2;Mataeva;Margarita;RUS;2009;IND;New Delhi;2026-03-13;Female;Outdoor
 PAL;1;WT38;WEI;5.15;1.8;Moos;Nele;GER;2001;RSA;Stellenbosch;2026-03-28;Female;Outdoor
 PAL;1;WT47;WEI;5.75;-0.1;Noerremark;Bjoerk;DEN;2002;DEN;Frederiksberg;2026-06-06;Female;Outdoor
-PAL;1;WT62;WEI;6.88;0.0;Jong;Fleur;NED;1995;AUT;Innsbruck;2026-06-13;Female;Outdoor
+PAL;1;WT62;WEI;6.88;0.0;Jong;Fleur;NED;1995;AUT;Innsbruck;2026-10-13;Female;Outdoor
 PAL;1;WT63;WEI;5.29;0.0;Kratter;Elena;SUI;1996;GER;Essen;2026-06-20;Female;Outdoor
-PAL;1;WT64;WEI;5.0;-0.7;Filippi;Giuliana Chiara;ITA;2005;SUI;Nottwil;2026-05-23;Female;Outdoor
+PAL;1;WT64;WEI;5.04;1.2;Filippi;Giuliana Chiara;ITA;2005;ITA;Sasso Marconi (BO);2026-06-17;Female;Outdoor
 PAL;1;WF11;KUG;11.44;;Legnante;Assunta;ITA;1978;ITA;Ancona;2026-02-20;Female;Outdoor
 PAL;1;WF12;KUG;12.46;;Prokofyeva;Marta;RUS;1987;IND;New Delhi;2026-03-12;Female;Outdoor
 PAL;1;WF13;KUG;9.95;;Zamora Arnau;Maria;ESP;2006;ESP;Tarragona;2026-05-23;Female;Outdoor
