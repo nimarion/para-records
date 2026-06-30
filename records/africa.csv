@@ -10,7 +10,7 @@ PAR;4;MT37;100;0:11.42;0.2;Du Toit;Charl;RSA;1993;BRA;Rio de Janeiro;2016-09-10;
 PAR;4;MT38;100;0:11.11;0.4;Buis;Dyan;RSA;1990;GBR;London;2012-09-01;Male;Outdoor
 PAR;4;MT44;100;0:11.00;1.1;Mhlongo;Mpumelelo;RSA;1994;UAE;Dubai;2019-11-11;Male;Outdoor
 PAR;4;MT45;100;0:11.05;0.0;Lanshima;Vitalis;NGR;1982;USA;Atlanta;2006-07-01;Male;Outdoor
-PAR;4;MT47;100;0:10.69;0.5;El Haddaoui;Aymane;MAR;2000;FRA;Paris;2024-08-30;Male;Outdoor
+PAR;4;MT47;100;0:10.65;0.9;El Haddaoui;Aymane;MAR;2000;TUN;Tunis;2026-06-16;Male;Outdoor
 PAR;4;MT51;100;0:20.96;0.7;Berrahal;Mohamed;ALG;1979;SUI;Nottwil;2016-05-26;Male;Outdoor
 PAR;4;MT52;100;0:17.89;0.2;Beack;Brandon;RSA;1995;SUI;Arbon;2019-06-01;Male;Outdoor
 PAR;4;MT53;100;0:14.81;1.4;Khelifi;Mohamed Nidhal;TUN;1996;UAE;Dubai;2024-02-13;Male;Outdoor
@@ -161,7 +161,7 @@ PAR;4;MT61;WEI;7.17;-0.4;Mahlangu;Ntando;RSA;2002;JPN;Tokyo;2021-08-28;Male;Outd
 PAR;4;MT63;WEI;7.01;0.4;Mabote;Puseletso Michael;RSA;2005;IND;New Delhi;2025-09-29;Male;Outdoor
 PAR;4;MT11;DRE;12.59;-0.8;Bentria;Firas;ALG;1986;FRA;Lyon;2013-07-24;Male;Outdoor
 PAR;4;MT47;DRE;12.72;-0.5;Kadaoui;Mansour;ALG;1990;UAE;Sharjah;2014-02-28;Male;Outdoor
-PAR;4;MF11;KUG;11.34;;Soltane;Amir;TUN;1991;MAR;Rabat;2026-04-25;Male;Outdoor
+PAR;4;MF11;KUG;11.93;;Soltane;Amir;TUN;1991;TUN;Tunis;2026-06-16;Male;Outdoor
 PAR;4;MF12;KUG;13.16;;Blom;Hermanus;RSA;1986;FRA;Paris;2024-08-31;Male;Outdoor
 PAR;4;MF13;KUG;13.2;;Yahiaoui;Hakim;ALG;1973;MAR;Marrakech;2005-05-08;Male;Outdoor
 PAR;4;MF20;KUG;11.99;;Fatnasi;Mohamed Ali;TUN;1983;GBR;London;2012-09-07;Male;Outdoor
@@ -169,11 +169,11 @@ PAR;4;MF32;KUG;12.11;;Ferhah;Walid;ALG;1992;UAE;Sharjah;2022-03-15;Male;Outdoor
 PAR;4;MF33;KUG;12.03;;Derhem;Zakariae;MAR;1990;MAR;Marrakech;2024-04-26;Male;Outdoor
 PAR;4;MF34;KUG;11.7;;Nouiri;Azeddine;MAR;1986;FRA;Paris;2024-09-07;Male;Outdoor
 PAR;4;MF35;KUG;11.4;;Bensedira;Youssouf;ALG;1985;TUN;Tunis;2021-03-18;Male;Outdoor
-PAR;4;MF36;KUG;16.93;;Guenichi;Yassine;TUN;1995;IND;New Delhi;2025-10-01;Male;Outdoor
+PAR;4;MF36;KUG;17.09;;Guenichi;Yassine;TUN;1995;TUN;Tunis;2026-06-16;Male;Outdoor
 PAR;4;MF37;KUG;15.59;;Ben Moslah;Ahmed;TUN;1995;FRA;Paris;2023-07-09;Male;Outdoor
 PAR;4;MF38;KUG;15.58;;Abdelwareth;Ibrahim Ahmed;EGY;1988;NZL;Christchurch;2011-01-27;Male;Outdoor
 PAR;4;MF40;KUG;9.99;;Thabit;Redouane;MAR;1993;TUN;Tunis;2022-06-28;Male;Outdoor
-PAR;4;MF41;KUG;10.74;;Amara;Mohamed;TUN;1986;BRA;Rio de Janeiro;2016-09-08;Male;Outdoor
+PAR;4;MF41;KUG;11.22;;Lakom;Aymen;TUN;2006;TUN;Tunis;2026-06-17;Male;Outdoor
 PAR;4;MF42;KUG;12.58;;Tchuisseu Tchapo;William;CMR;1986;ITA;Jesolo;2022-05-08;Male;Outdoor
 PAR;0;MF43;KUG;7.85;;Record Mark;;;;;;2026-01-01;Male;Outdoor
 PAR;4;MF44;KUG;15.65;;Abdelwareth;Ibrahim Ahmed;EGY;1988;GBR;London;2017-07-23;Male;Outdoor
@@ -209,7 +209,7 @@ PAR;4;MF53;DIS;25.96;;Hassan;Mohamed  Elsayed;EGY;1974;NGR;Abuja;2003-10-15;Male
 PAR;4;MF54;DIS;23.08;;Du-Preez;Ivan;RSA;;RSA;Germiston;2003-03-22;Male;Outdoor
 PAR;4;MF55;DIS;31.15;;Salibi;Abdelhak;MAR;1981;GER;Berlin;2016-07-17;Male;Outdoor
 PAR;4;MF56;DIS;41.51;;Ali Ibrahim;Ibrahim Badr Mohamed;EGY;1974;UAE;Dubai;2013-03-24;Male;Outdoor
-PAR;4;MF57;DIS;46.73;;Rajab;Mahmoud;LBA;1985;IND;New Delhi;2025-10-02;Male;Outdoor
+PAR;4;MF57;DIS;47.9;;Rajab;Mahmoud;LBA;1985;TUN;Tunis;2026-06-19;Male;Outdoor
 PAR;4;MF63;DIS;31.65;;Pillay;Tyrone;RSA;1980;RSA;Ekhuruleni;2022-03-20;Male;Outdoor
 PAR;4;MF64;DIS;46.39;;Simon;Lean;RSA;1994;GBR;Glasgow;2014-07-28;Male;Outdoor
 PAR;4;MF11;SPE;32.7;;Ambani;Alex;KEN;;KEN;Nairobi;2003-07-25;Male;Outdoor
