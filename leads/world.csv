@@ -43,7 +43,7 @@ WL;;MT62;200;0:24.12;1.1;Morana;Davide Bartolo;ITA;1993;ITA;Giussano (MB);2026-0
 WL;;MT63;200;0:29.21;-1.4;Inagaki;Katsuaki;JPN;1992;JPN;Mihama;2026-04-18;Male;Outdoor
 WL;;MT64;200;0:22.62;-1.3;Fortes;Wallison Andre;BRA;1996;BRA;Sao Paulo;2026-04-02;Male;Outdoor
 WL;;MT71;200;0:43.18;1.0;Krzyzek;Artur;POL;2000;LTU;Druskininkai;2026-06-20;Male;Outdoor
-WL;;MT72;200;0:29.32;0.8;Calcagni;Carlo Fabio Marcello;ITA;1968;SUI;Nottwil;2026-05-21;Male;Outdoor
+WL;;MT72;200;0:21.13;0.4;Tegnelund;Gustav;SWE;2002;SWE;Göteborg;2026-06-25;Male;Outdoor
 WL;;MT11;400;0:52.14;;Descarrega Puigdevall;Gerard;ESP;1994;ESP;L´Hospitalet de Llobregat, Barcelona;2026-05-16;Male;Outdoor
 WL;;MT12;400;0:50.12;;Tyagi;Chirag;IND;2001;IND;Bangalore;2026-05-27;Male;Outdoor
 WL;;MT13;400;0:49.55;;Fukunaga;Ryota;JPN;1998;JPN;Fukuroi;2026-05-03;Male;Outdoor
@@ -108,6 +108,7 @@ WL;;MT62;5K0;16:38.30;;Malakopoulos;Stylianos;GRE;1996;SUI;Nottwil;2026-05-21;Ma
 WL;;MT54;10K;19:24.64;;Hug;Marcel;SUI;1986;SUI;Arbon;2026-05-16;Male;Outdoor
 WL;;MT53;5S;10:25.0;;Hug;Marcel;SUI;1986;USA;Boston;2026-04-18;Male;Outdoor
 WL;;MT54;5S;10:25.0;;Hug;Marcel;SUI;1986;USA;Boston;2026-04-18;Male;Outdoor
+WL;;MT54;10S;19:53.0;;Romanchuk;Daniel;USA;1998;USA;Boston;2026-06-21;Male;Outdoor
 WL;;MT53;HAM;47:20.0;;Siemann;Brian;USA;1989;USA;Chicago;2026-06-07;Male;Outdoor
 WL;;MT54;HAM;41:54.0;;Romanchuk;Daniel;USA;1998;USA;Chicago;2026-06-07;Male;Outdoor
 WL;;MT11;MAR;2:24:58;;Wada;Shinya;JPN;1977;JPN;Oita;2026-02-01;Male;Outdoor
@@ -267,6 +268,7 @@ WL;;WT52;400;1:22.01;;Tanaka;Teruyo;JPN;1959;JPN;Nagoya;2026-05-16;Female;Outdoo
 WL;;WT53;400;0:49.77;;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2026-05-22;Female;Outdoor
 WL;;WT54;400;0:50.05;;McFadden;Tatyana;USA;1989;SUI;Arbon;2026-05-14;Female;Outdoor
 WL;;WT64;400;1:15.96;;Chavez;Chloe;USA;2006;USA;Edmond;2026-06-13;Female;Outdoor
+WL;;WT71;400;2:13.81;;Vaihinger;Marika;SWE;1988;SWE;Göteborg;2026-06-25;Female;Outdoor
 WL;;WT72;400;1:09.33;;Strong;Maria;AUS;1971;AUS;Canberra;2026-01-25;Female;Outdoor
 WL;;WT11;800;2:45.84;;Pena Bernaldo de Quiros;Lucia;ESP;2010;ESP;Segovia;2026-06-14;Female;Outdoor
 WL;;WT12;800;3:18.03;;de La Cruz;Darlenys;DOM;2001;SUI;Nottwil;2026-05-21;Female;Outdoor
@@ -295,6 +297,9 @@ WL;;WT53;5K0;10:43.06;;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2026-05-22;Femal
 WL;;WT54;5K0;11:00.22;;Zhou;Zhaoqian;CHN;1997;SUI;Nottwil;2026-05-22;Female;Outdoor
 WL;;WT53;5S;12:29.0;;McFadden;Tatyana;USA;1989;USA;Boston;2026-04-18;Female;Outdoor
 WL;;WT54;5S;12:29.0;;McFadden;Tatyana;USA;1989;USA;Boston;2026-04-18;Female;Outdoor
+WL;;WT36;10S;48:39.0;;Burbach;Cristina;USA;1974;USA;Boston;2026-06-21;Female;Outdoor
+WL;;WT53;10S;27:28.0;;Hoang;Yen;USA;1997;USA;Boston;2026-06-21;Female;Outdoor
+WL;;WT54;10S;23:59.0;;McFadden;Tatyana;USA;1989;USA;Boston;2026-06-21;Female;Outdoor
 WL;;WT53;HAM;56:04.0;;Hoang;Yen;USA;1997;USA;Chicago;2026-06-07;Female;Outdoor
 WL;;WT54;HAM;50:27.0;;McFadden;Tatyana;USA;1989;USA;Chicago;2026-06-07;Female;Outdoor
 WL;;WT11;MAR;3:17:11;;Coetzee;Louzanne;RSA;1993;RSA;Cape Town;2026-05-24;Female;Outdoor
