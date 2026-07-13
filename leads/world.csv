@@ -42,7 +42,7 @@ WL;;MT54;200;0:24.01;-1.0;Paeng-Nuea;Athiwat;THA;2002;SUI;Nottwil;2026-05-21;Mal
 WL;;MT62;200;0:21.66;0.5;Hendriks;Olivier;NED;2003;NED;Leiden;2026-06-13;Male;Outdoor
 WL;;MT63;200;0:29.21;-1.4;Inagaki;Katsuaki;JPN;1992;JPN;Mihama;2026-04-18;Male;Outdoor
 WL;;MT64;200;0:22.43;0.1;Loragno;Francesco;ITA;2003;ITA;Grosseto;2026-07-05;Male;Outdoor
-WL;;MT71;200;0:43.18;1.0;Krzyzek;Artur;POL;2000;LTU;Druskininkai;2026-06-20;Male;Outdoor
+WL;;MT71;200;0:42.85;0.8;Krzyzek;Artur;POL;2000;POL;Gorzow Wlkp;2026-05-24;Male;Outdoor
 WL;;MT72;200;0:21.13;0.4;Tegnelund;Gustav;SWE;2002;SWE;Göteborg;2026-06-25;Male;Outdoor
 WL;;MT11;400;0:52.14;;Descarrega Puigdevall;Gerard;ESP;1994;ESP;L´Hospitalet de Llobregat, Barcelona;2026-05-16;Male;Outdoor
 WL;;MT12;400;0:50.12;;Tyagi;Chirag;IND;2001;IND;Bangalore;2026-05-27;Male;Outdoor
@@ -132,7 +132,7 @@ WL;;MT20;WEI;7.24;0.3;Vucsics;Noah;CAN;2000;CAN;Calgary;2026-05-09;Male;Outdoor
 WL;;MT35;WEI;4.8;-0.6;Maubourguet;Yannis;FRA;2004;FRA;Poitiers;2026-04-26;Male;Outdoor
 WL;;MT36;WEI;5.72;0.6;Acosta Soto;Omar Jose;COL;2000;COL;Cali;2026-02-28;Male;Outdoor
 WL;;MT37;WEI;6.29;-0.1;Nasri;Muhammad Nazmi;MAS;2003;MAR;Rabat;2026-04-24;Male;Outdoor
-WL;;MT38;WEI;6.62;-0.7;Chan;Karim;GBR;2000;SUI;Nottwil;2026-05-21;Male;Outdoor
+WL;;MT38;WEI;6.91;0.2;Sienkiewicz;Bartosz;POL;2001;POL;Gorzow Wlkp;2026-05-23;Male;Outdoor
 WL;;MT42;WEI;5.74;1.2;Gurjar;Mahendra;IND;1998;IND;Bangalore;2026-05-28;Male;Outdoor
 WL;;MT44;WEI;7.1;-0.1;Mhlongo;Mpumelelo;RSA;1994;RSA;Johannesburg;2026-03-13;Male;Outdoor
 WL;;MT45;WEI;4.71;-1.2;Khlystov;Igor;KAZ;2004;MAR;Rabat;2026-04-25;Male;Outdoor
@@ -237,7 +237,7 @@ WL;;WT62;100;0:12.25;0.3;Jong;Fleur;NED;1995;BEL;Oordegem;2026-06-06;Female;Outd
 WL;;WT63;100;0:14.55;0.6;Sabatini;Ambra;ITA;2002;ITA;Lignano Sabbiadoro (UD);2026-07-08;Female;Outdoor
 WL;;WT64;100;0:12.87;0.6;Hatz;B;USA;2000;USA;Azusa;2026-05-08;Female;Outdoor
 WL;;WT71;100;0:21.19;0.2;Alkaabi;Thekra;UAE;2001;TUN;Tunis;2026-06-17;Female;Outdoor
-WL;;WT72;100;0:16.75;0.0;Andruszkiewicz;Magdalena;POL;1989;POL;Warsaw;2026-05-16;Female;Outdoor
+WL;;WT72;100;0:16.73;1.6;Andruszkiewicz;Magdalena;POL;1989;POL;Gorzow Wlkp;2026-05-23;Female;Outdoor
 WL;;WT11;200;0:25.50;0.2;Geber dos Santos;Jerusa;BRA;1982;MAR;Rabat;2026-04-24;Female;Outdoor
 WL;;WT12;200;0:24.73;-2.9;Gomes de Aguiar;Lorraine;BRA;1997;BRA;Sao Paulo;2026-04-02;Female;Outdoor
 WL;;WT13;200;0:24.75;0.8;Comerford;Orla;IRL;1997;NOR;Oslo;2026-06-24;Female;Outdoor
@@ -331,7 +331,7 @@ WL;;WF13;KUG;11.67;;Wang;Jili;CHN;1998;MAR;Rabat;2026-04-25;Female;Outdoor
 WL;;WF20;KUG;15.42;;Fortune;Sabrina;GBR;1997;GBR;Loughborough;2026-05-17;Female;Outdoor
 WL;;WF32;KUG;8.31;;Brito Oliveira;Wanna Helena;BRA;1996;BRA;Sao Paulo;2026-06-12;Female;Outdoor
 WL;;WF33;KUG;8.55;;Cota Vera;Gilda Guadalupe;MEX;1989;USA;Tempe;2026-05-29;Female;Outdoor
-WL;;WF34;KUG;8.12;;Kosche;Charleen;GER;2001;GER;Freital;2026-06-20;Female;Outdoor
+WL;;WF34;KUG;8.23;;Kornobys;Lucyna;POL;1978;POL;Gorzow Wlkp;2026-05-23;Female;Outdoor
 WL;;WF35;KUG;12.4;;Pomazan;Mariia;UKR;1988;TUN;Tunis;2026-06-18;Female;Outdoor
 WL;;WF36;KUG;9.07;;Hwang;Kate;USA;1980;USA;Cottleville;2026-05-16;Female;Outdoor
 WL;;WF37;KUG;13.61;;Adams;Lisa;NZL;1990;AUS;Darwin;2026-05-20;Female;Outdoor
@@ -378,6 +378,7 @@ WL;;WF12;SPE;37.95;;Demirkapu;Serap;TUR;2000;MAR;Rabat;2026-04-24;Female;Outdoor
 WL;;WF13;SPE;38.42;;Dabravolskaya;Lizaveta;BLR;2002;TUN;Tunis;2026-06-17;Female;Outdoor
 WL;;WF33;SPE;19.03;;Hanes;Julia;CAN;1995;CAN;Sherwood Park;2026-07-04;Female;Outdoor
 WL;;WF34;SPE;17.35;;Herrmann;Frances;GER;1989;GER;Halle (Saale);2026-05-16;Female;Outdoor
+WL;;WF35;SPE;19.42;;Maliszewska;Klaudia;POL;1992;POL;Gorzow Wlkp;2026-05-24;Female;Outdoor
 WL;;WF37;SPE;15.31;;Calovini;Laura;CAN;2001;CAN;Toronto;2026-05-03;Female;Outdoor
 WL;;WF38;SPE;25.45;;Foessel;Renee Danielle;CAN;1995;CAN;Toronto;2026-05-03;Female;Outdoor
 WL;;WF40;SPE;14.86;;Zagorski;Sophia;USA;2006;USA;Tempe;2026-05-29;Female;Outdoor

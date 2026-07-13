@@ -13,7 +13,7 @@ PAL;5;MT44;100;0:11.08;-0.9;Almasrahi;Naif;KSA;1990;MAR;Rabat;2026-04-23;Male;Ou
 PAL;5;MT45;100;0:11.28;1.0;Sambongi;Yuya;JPN;2001;JPN;Ishikawa;2026-06-13;Male;Outdoor
 PAL;5;MT46;100;0:10.64;0.1;Gavit;Dilip Mahadu;IND;2003;IND;Bangalore;2026-05-26;Male;Outdoor
 PAL;5;MT47;100;0:10.63;0.1;Morssinganakath;Mohammed Basil;IND;2005;IND;Bangalore;2026-05-26;Male;Outdoor
-PAL;5;MT51;100;0:27.35;1.8;Nagasaki;Yuya;JPN;1982;JPN;Ishikawa;2026-06-14;Male;Outdoor
+PAL;5;MT51;100;0:22.91;0.1;Alshook;Mohamed;BRN;1991;BRN;Manama;2026-06-07;Male;Outdoor
 PAL;5;MT52;100;0:16.56;0.9;Sato;Tomoki;JPN;1989;SUI;Nottwil;2026-05-23;Male;Outdoor
 PAL;5;MT53;100;0:14.23;1.7;Paeyo;Pongsakorn;THA;1996;SUI;Nottwil;2026-05-23;Male;Outdoor
 PAL;5;MT54;100;0:13.54;0.9;Paeng-Nuea;Athiwat;THA;2002;SUI;Nottwil;2026-05-23;Male;Outdoor
@@ -261,7 +261,7 @@ PAL;5;WF44;KUG;10.04;;Priyanti;Lia;INA;1995;TUN;Tunis;2026-06-18;Female;Outdoor
 PAL;5;WF45;KUG;8.93;;Tychshenko;Irina;KAZ;1974;TUN;Tunis;2026-06-18;Female;Outdoor
 PAL;5;WF46;KUG;11.56;;Zhang;Jiamin;CHN;2000;MAR;Rabat;2026-04-25;Female;Outdoor
 PAL;5;WF54;KUG;6.33;;Jayachandran;Keerthika;IND;1996;IND;Bangalore;2026-05-26;Female;Outdoor
-PAL;5;WF55;KUG;6.2;;Parida;Suchitra;IND;1993;IND;Bangalore;2026-05-26;Female;Outdoor
+PAL;5;WF55;KUG;7.46;;Alomari;Rooba;BRN;1991;BRN;Manama;2026-06-07;Female;Outdoor
 PAL;5;WF56;KUG;7.7;;Lai;Xiaojuan;CHN;1996;TUN;Tunis;2026-06-19;Female;Outdoor
 PAL;5;WF57;KUG;9.86;;;Sharmila;IND;1986;IND;Bangalore;2026-05-26;Female;Outdoor
 PAL;5;WF64;KUG;9.09;;;Dayawanti;IND;1990;IND;Bangalore;2026-05-27;Female;Outdoor
@@ -278,7 +278,7 @@ PAL;5;WF51;DIS;7.02;;Bhyan;Ekta;IND;1985;IND;Bangalore;2026-05-28;Female;Outdoor
 PAL;5;WF52;DIS;6.25;;Sran;Jaspreet Kaur;IND;1981;IND;Bangalore;2026-05-28;Female;Outdoor
 PAL;5;WF53;DIS;9.83;;Lakhani;Kanchan;IND;1984;IND;Bangalore;2026-05-28;Female;Outdoor
 PAL;5;WF54;DIS;16.68;;Raj;Suvarna;IND;1982;AUS;Canberra;2026-01-22;Female;Outdoor
-PAL;5;WF55;DIS;21.36;;;Karamjyoti;IND;1987;IND;Bangalore;2026-05-27;Female;Outdoor
+PAL;5;WF55;DIS;22.21;;Alomari;Rooba;BRN;1991;BRN;Manama;2026-06-07;Female;Outdoor
 PAL;5;WF56;DIS;22.55;;Lai;Xiaojuan;CHN;1996;TUN;Tunis;2026-06-17;Female;Outdoor
 PAL;5;WF57;DIS;25.98;;Nguyen;Thi Hai;VIE;1985;TUN;Tunis;2026-06-19;Female;Outdoor
 PAL;5;WF64;DIS;31.8;;Wei;Jia;CHN;2007;TUN;Tunis;2026-06-19;Female;Outdoor
