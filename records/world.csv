@@ -106,7 +106,7 @@ WR;;MT33;1K5;4:21.39;;Jones;Lachlan;AUS;1977;USA;New London;2005-07-07;Male;Outd
 WR;;MT34;1K5;2:57.13;;Ktila;Walid;TUN;1985;UAE;Sharjah;2025-02-03;Male;Outdoor
 WR;;MT35;1K5;4:52.33;;Paintin;Matthew;USA;2001;USA;Westminster, CO;2022-07-22;Male;Outdoor
 WR;;MT36;1K5;4:32.89;;Arefyev;Artem;RUS;1984;FRA;Lyon;2013-07-24;Male;Outdoor
-WR;;MT37;1K5;3:58.17;;Tissaoui;Amen Allah;TUN;2004;IND;New Delhi;2025-10-05;Male;Outdoor
+WR;;MT37;1K5;3:49.89;;Tissaoui;Amen Allah;TUN;2004;USA;Portland;2026-06-21;Male;Outdoor
 WR;;MT38;1K5;3:46.71;;Hincksman;Angus;AUS;2005;AUS;Sydney;2026-04-09;Male;Outdoor
 WR;;MT44;1K5;4:24.67;;Record Mark;;;;;;2020-01-01;Male;Outdoor
 WR;;MT45;1K5;4:08.26;;Meza Zempoaltecatl;Pedro;MEX;1975;GRE;Athens;2004-09-20;Male;Outdoor
@@ -134,7 +134,7 @@ WR;;MT52;5K0;12:27.54;;Sato;Tomoki;JPN;1989;AUS;Canberra;2019-01-22;Male;Outdoor
 WR;;MT54;5K0;9:13.81;;Hug;Marcel;SUI;1986;UAE;Dubai;2024-02-15;Male;Outdoor
 WR;;MT11;10K;31:37.25;;Wanyoike;Henry;KEN;1974;GRE;Athens;2004-09-19;Male;Outdoor
 WR;;MT12;10K;29:38.85;;Chentouf;El Amin;MAR;1981;FRA;Lyon;2013-07-23;Male;Outdoor
-WR;;MT13;10K;31:41.85;;Gomez;Said;PAN;1964;ESP;Madrid;1998-07-20;Male;Outdoor
+WR;;MT13;10K;28:51.00;;Shimazu;Yudai;JPN;2000;JPN;Abashiri City;2026-07-08;Male;Outdoor
 WR;;MT20;10K;30:37.49;;Iwata;Yuki;JPN;1998;JPN;Chiba City;2022-03-13;Male;Outdoor
 WR;;MT36;10K;49:10.04;;Pierce;Conner;USA;1999;CAN;Victoria;2022-03-05;Male;Outdoor
 WR;;MT37;10K;32:49.50;;Vienberg;Christoffer;DEN;1994;DEN;Aalborg;2019-06-22;Male;Outdoor
@@ -491,9 +491,9 @@ WR;;WT54;5S;12:08.0;;Record Mark;;;;;;2026-01-01;Female;Outdoor
 WR;;WT54;10S;21:21.0;;Debrunner;Catherine;SUI;1995;JPN;Oita;2024-11-17;Female;Outdoor
 WR;;WT11;HAM;1:31:41.0;;Inouchi;Natsumi;JPN;1989;JPN;Tokyo;2022-10-16;Female;Outdoor
 WR;;WT12;HAM;1:24:48.0;;Michishita;Misato;JPN;1977;JPN;Tokyo;2023-10-15;Female;Outdoor
+WR;;WT54;HAM;46:51.0;;Debrunner;Catherine;SUI;1995;JPN;Oita City;2023-11-19;Female;Outdoor
 WR;;WT54;HAM;46:51.0;;Scaroni;Susannah;USA;1991;JPN;Oita City;2023-11-19;Female;Outdoor
 WR;;WT54;HAM;46:51.0;;Schaer;Manuela;SUI;1984;JPN;Oita City;2023-11-19;Female;Outdoor
-WR;;WT54;HAM;46:51.0;;Debrunner;Catherine;SUI;1995;JPN;Oita City;2023-11-19;Female;Outdoor
 WR;;WT11;MAR;3:11:13;;Coetzee;Louzanne;RSA;1993;JPN;Tokyo;2021-09-05;Female;Outdoor
 WR;;WT12;MAR;2:48:36;;El Idrissi;Fatima Ezzahra;MAR;1995;FRA;Paris;2024-09-08;Female;Outdoor
 WR;;WT13;MAR;3:13:10;;Record Mark;;;;;;2021-01-01;Female;Outdoor
