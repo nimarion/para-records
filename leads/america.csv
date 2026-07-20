@@ -19,7 +19,7 @@ PAL;7;MT64;100;0:11.33;-1.0;Gore;Jonathan;USA;1994;USA;Winter Garden;2026-06-20;
 PAL;7;MT71;100;0:22.74;-0.8;Cabral;Vinicius Augusto;BRA;2001;BRA;Sao Paulo;2026-04-01;Male;Outdoor
 PAL;7;MT72;100;0:15.22;0.9;Matos Marques Cunha;Joao;BRA;2007;SUI;Nottwil;2026-05-23;Male;Outdoor
 PAL;7;MT12;200;0:23.42;1.9;Malone;Noah;USA;2001;USA;Walnut;2026-04-18;Male;Outdoor
-PAL;7;MT13;200;0:23.00;-0.5;Acosta Manjarres;Yamil David;COL;1997;COL;Cali;2026-02-28;Male;Outdoor
+PAL;7;MT13;200;0:23.21;-0.5;Acosta Manjarres;Yamil David;COL;1997;COL;Cali;2026-02-28;Male;Outdoor
 PAL;7;MT34;200;0:35.67;-3.0;Powell;Weston;USA;2008;USA;San Antonio;2026-04-24;Male;Outdoor
 PAL;7;MT35;200;0:23.55;-1.3;Caetano Nascimento;Henrique;BRA;1999;BRA;Sao Paulo;2026-04-02;Male;Outdoor
 PAL;7;MT36;200;0:30.04;1.7;Winter;Sam;USA;2005;USA;Fargo;2026-05-08;Male;Outdoor
@@ -87,6 +87,7 @@ PAL;7;MT52;MAR;2:25:28;;Holowat Jr;Norbert;USA;1997;USA;Boston;2026-04-20;Male;O
 PAL;7;MT53;MAR;1:34:28;;Aguilar Zepeda;Fidel Arnoldo;MEX;1977;USA;Boston;2026-04-20;Male;Outdoor
 PAL;7;MT54;MAR;1:22:44;;Romanchuk;Daniel;USA;1998;USA;Boston;2026-04-20;Male;Outdoor
 PAL;7;MT42;HOC;1.8;;Astacio;Wagner;DOM;2003;SUI;Nottwil;2026-05-22;Male;Outdoor
+PAL;7;MT44;HOC;1.97;;Uribe Pimentel;Rafael Augusto;VEN;1985;ESP;Torrent;2026-05-02;Male;Outdoor
 PAL;7;MT46;HOC;1.95;;Wise;Dallas;USA;2000;TUN;Tunis;2026-06-19;Male;Outdoor
 PAL;7;MT64;HOC;1.9;;Loccident;Derek;USA;1998;TUN;Tunis;2026-06-19;Male;Outdoor
 PAL;7;MT13;WEI;6.83;0.7;Andrade dos Reis;Paulo Henrique;BRA;1998;MAR;Rabat;2026-04-23;Male;Outdoor
@@ -139,7 +140,7 @@ PAL;7;MF56;SPE;40.18;;Batista dos Santos;Claudiney;BRA;1978;BRA;Sao Paulo;2026-0
 PAL;7;MF57;SPE;47.77;;Lins Nobre;Cicero Valdiran;BRA;1992;BRA;Sao Paulo;2026-04-01;Male;Outdoor
 PAL;7;MF64;SPE;49.42;;Soto Mina;Tomas Felipe;COL;2007;MAR;Rabat;2026-04-25;Male;Outdoor
 PAL;7;MF51;KEU;21.78;;Bolivar;Eric;PER;1979;ESP;Basauri;2026-05-31;Male;Outdoor
-PAL;7;WT11;100;0:12.00;0.7;Pabon Mamian;Angie Lizeth;COL;1997;COL;Cali;2026-02-26;Female;Outdoor
+PAL;7;WT11;100;0:12.23;-0.5;Geber dos Santos;Jerusa;BRA;1982;MAR;Rabat;2026-04-23;Female;Outdoor
 PAL;7;WT12;100;0:12.21;-0.2;Barros Da Silva;Clara Daniele;BRA;1998;MAR;Rabat;2026-04-23;Female;Outdoor
 PAL;7;WT13;100;0:11.90;0.0;Soares Da Silva;Rayane;BRA;1997;BRA;Sao Paulo;2026-04-01;Female;Outdoor
 PAL;7;WT34;100;0:18.46;1.8;Williamson;Linden;USA;2001;CZE;Olomouc;2026-07-04;Female;Outdoor
@@ -169,7 +170,7 @@ PAL;7;WT46;200;0:25.42;0.3;Mason;Brittni;USA;1998;SUI;Nottwil;2026-05-21;Female;
 PAL;7;WT53;200;0:27.98;0.6;Lewis;Jessica Cooper;BER;1993;SUI;Nottwil;2026-05-21;Female;Outdoor
 PAL;7;WT54;200;0:33.14;-0.3;Crew;Isabel;USA;2009;SUI;Nottwil;2026-05-21;Female;Outdoor
 PAL;7;WT64;200;0:26.37;1.7;Barta;Sydney;USA;2004;USA;Walnut;2026-04-18;Female;Outdoor
-PAL;7;WT11;400;0:58.00;;Pabon Mamian;Angie Lizeth;COL;1997;COL;Cali;2026-02-27;Female;Outdoor
+PAL;7;WT11;400;0:57.92;;Pabon Mamian;Angie Lizeth;COL;1997;COL;Cali;2026-02-27;Female;Outdoor
 PAL;7;WT12;400;0:57.69;;Gomes de Aguiar;Lorraine;BRA;1997;MAR;Rabat;2026-04-25;Female;Outdoor
 PAL;7;WT13;400;0:56.61;;Soares Da Silva;Rayane;BRA;1997;BRA;Sao Paulo;2026-04-01;Female;Outdoor
 PAL;7;WT20;400;0:56.74;;Clark;Breanna;USA;1994;USA;Walnut;2026-04-18;Female;Outdoor
@@ -227,9 +228,9 @@ PAL;7;WF36;KUG;9.07;;Hwang;Kate;USA;1980;USA;Cottleville;2026-05-16;Female;Outdo
 PAL;7;WF37;KUG;10.59;;Hiltz;Carleigh;CAN;1992;SUI;Thalwil;2026-07-05;Female;Outdoor
 PAL;7;WF38;KUG;11.31;;Saldarriaga Hernandez;Xiomara;COL;2004;ESP;L´Hospitalet de Llobregat, Barcelona;2026-05-16;Female;Outdoor
 PAL;7;WF40;KUG;5.55;;Zagorski;Sophia;USA;2006;USA;Tempe;2026-05-29;Female;Outdoor
-PAL;7;WF41;KUG;9.74;;Bolton;Charlotte;CAN;2003;CAN;London;2026-05-31;Female;Outdoor
+PAL;7;WF41;KUG;10.02;;Bolton;Charlotte;CAN;2003;CAN;Toronto;2026-06-30;Female;Outdoor
 PAL;7;WF44;KUG;12.06;;Heyison;Samantha;USA;2005;USA;Durham;2026-04-11;Female;Outdoor
-PAL;7;WF46;KUG;12.55;;Pegg;Katie;CAN;2004;CAN;Calgary;2026-06-27;Female;Outdoor
+PAL;7;WF46;KUG;12.73;;Pegg;Katie;CAN;2004;GER;Stuggart;2026-07-11;Female;Outdoor
 PAL;7;WF52;KUG;3.76;;Ens;Nikita;CAN;1988;CAN;Saskatoon;2026-06-13;Female;Outdoor
 PAL;7;WF53;KUG;7.22;;Rodrigues Gomes;Elizabeth;BRA;1965;MAR;Rabat;2026-04-23;Female;Outdoor
 PAL;7;WF54;KUG;5.65;;Sousa;Poliana;BRA;1986;BRA;Sao Paulo;2026-06-12;Female;Outdoor
