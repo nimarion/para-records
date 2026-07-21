@@ -1,5 +1,5 @@
 Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Geschlecht;Umgebung
-WL;;MT11;100;0:11.24;1.0;Quarcoo;George;CAN;1994;SUI;Nottwil;2026-05-22;Male;Outdoor
+WL;;MT11;100;0:11.16;1.0;Boettger;Marcel;GER;1993;GER;Dresden;2026-06-27;Male;Outdoor
 WL;;MT12;100;0:10.52;1.9;Kashafali;Salum Ageze;NOR;1993;NOR;Lillehammer;2026-06-21;Male;Outdoor
 WL;;MT13;100;0:10.84;-0.2;Sverd;Vegard Dragsund;NOR;1999;NOR;Lillehammer;2026-06-21;Male;Outdoor
 WL;;MT33;100;0:20.93;1.0;Zani;Nicholas;ITA;1999;SUI;Nottwil;2026-05-23;Male;Outdoor
@@ -265,9 +265,9 @@ WL;;WT33;400;1:25.49;;Goens;Cecile;BEL;2003;BEL;Oordegem;2026-05-01;Female;Outdo
 WL;;WT34;400;0:59.37;;Li;Xiaoman;CHN;2009;SUI;Nottwil;2026-05-22;Female;Outdoor
 WL;;WT36;400;1:13.37;;Colley;Tamsin;AUS;2002;AUS;Sydney;2026-04-09;Female;Outdoor
 WL;;WT37;400;1:02.20;;Kobzar;Nataliia;UKR;2000;TUN;Tunis;2026-06-18;Female;Outdoor
-WL;;WT38;400;1:02.20;;Sutton;Lana;IRL;1998;GBR;Bedford;2026-06-06;Female;Outdoor
+WL;;WT38;400;1:01.10;;Moos;Nele;GER;2001;GER;Dresden;2026-06-28;Female;Outdoor
 WL;;WT44;400;1:10.44;;Gilmour;Lucy;AUS;2010;AUS;Darwin;2026-05-20;Female;Outdoor
-WL;;WT46;400;1:00.30;;Ross;Jule;GER;2006;GER;Mönchengladbach;2026-06-14;Female;Outdoor
+WL;;WT46;400;0:58.94;;Ross;Jule;GER;2006;GER;Dresden;2026-06-28;Female;Outdoor
 WL;;WT47;400;0:57.49;;Augusto Da Silva;Maria Clara;BRA;2004;BRA;Sao Paulo;2026-06-12;Female;Outdoor
 WL;;WT52;400;1:22.01;;Tanaka;Teruyo;JPN;1959;JPN;Nagoya;2026-05-16;Female;Outdoor
 WL;;WT53;400;0:49.77;;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2026-05-22;Female;Outdoor
@@ -353,7 +353,6 @@ WL;;WF52;KUG;3.76;;Ens;Nikita;CAN;1988;CAN;Saskatoon;2026-06-13;Female;Outdoor
 WL;;WF53;KUG;7.22;;Rodrigues Gomes;Elizabeth;BRA;1965;MAR;Rabat;2026-04-23;Female;Outdoor
 WL;;WF54;KUG;6.58;;Nezhura;Yuliya;BLR;1975;UAE;Dubai;2026-02-11;Female;Outdoor
 WL;;WF55;KUG;8.36;;Baigulova;Svetlana;RUS;1994;UAE;Dubai;2026-02-11;Female;Outdoor
-WL;;WF56;KUG;7.7;;Lai;Xiaojuan;CHN;1996;TUN;Tunis;2026-06-19;Female;Outdoor
 WL;;WF57;KUG;10.43;;Saifi;Nassima;ALG;1988;CZE;Olomouc;2026-07-02;Female;Outdoor
 WL;;WF62;KUG;8.73;;Hergotic;Karla;CRO;2005;CZE;Olomouc;2026-07-02;Female;Outdoor
 WL;;WF63;KUG;10.04;;Nouchet;Alexandra;FRA;1998;SUI;Nottwil;2026-05-21;Female;Outdoor
