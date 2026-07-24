@@ -22,7 +22,7 @@ WR;;MT61;100;0:12.73;0.9;Lacin;Ali;GER;1988;GER;Berlin;2020-07-03;Male;Outdoor
 WR;;MT62;100;0:10.54;1.6;Floors;Johannes;GER;1995;UAE;Dubai;2019-11-10;Male;Outdoor
 WR;;MT63;100;0:11.95;1.9;Goncalves Rodrigues;Vinicius;BRA;1994;BRA;São Paulo;2019-04-25;Male;Outdoor
 WR;;MT64;100;0:10.61;1.4;Browne;Richard;USA;1991;QAT;Doha;2015-10-29;Male;Outdoor
-WR;;MT71;100;0:20.70;0.0;Krzyzek;Artur;POL;2000;POL;Warsaw;2026-05-16;Male;Outdoor
+WR;;MT71;100;0:20.37;1.3;Krzyzek;Artur;POL;2000;POL;Zamosc;2026-06-26;Male;Outdoor
 WR;;MT72;100;0:14.61;0.9;Calcagni;Carlo Fabio Marcello;ITA;1968;SUI;Nottwil;2026-05-23;Male;Outdoor
 WR;;MT11;200;0:22.41;1.6;Brown;David;USA;1992;USA;Walnut, California;2014-04-18;Male;Outdoor
 WR;;MT12;200;0:21.55;0.8;Malone;Noah;USA;2001;USA;Terre Haute, IN;2021-05-07;Male;Outdoor
@@ -47,7 +47,7 @@ WR;;MT61;200;0:23.03;0.6;Mahlangu;Ntando;RSA;2002;SUI;Nottwil;2019-08-01;Male;Ou
 WR;;MT62;200;0:20.29;2.0;Floors;Johannes;GER;1995;GER;Leverkusen;2025-07-05;Male;Outdoor
 WR;;MT63;200;0:25.12;0.3;Mabote;Puseletso Michael;RSA;2005;RSA;Bloemfontein;2024-03-24;Male;Outdoor
 WR;;MT64;200;0:21.27;0.9;Browne;Richard;USA;1991;QAT;Doha;2015-10-25;Male;Outdoor
-WR;;MT71;200;0:42.82;0.9;Krzyzek;Artur;POL;2000;POL;Wloclawek;2025-07-06;Male;Outdoor
+WR;;MT71;200;0:41.99;1.9;Krzyzek;Artur;POL;2000;POL;Zamosc;2026-06-28;Male;Outdoor
 WR;;MT72;200;0:29.32;0.8;Calcagni;Carlo Fabio Marcello;ITA;1968;SUI;Nottwil;2026-05-21;Male;Outdoor
 WR;;MT11;400;0:49.82;;Mendes Da Silva;Daniel;BRA;1979;MEX;Guadalajara;2011-11-18;Male;Outdoor
 WR;;MT12;400;0:47.47;;Yildirim;Serkan;TUR;1991;JPN;Kobe;2024-05-23;Male;Outdoor
@@ -192,8 +192,8 @@ WR;;MT13;10S;36:58.0;;Record Mark;;;;;;2021-01-01;Male;Outdoor
 WR;;MT46;10S;38:39.0;;Record Mark;;;;;;2024-01-01;Male;Outdoor
 WR;;MT51;10S;34:46.0;;Du Preez;Pieter;RSA;1980;JPN;Oita City;2022-11-20;Male;Outdoor
 WR;;MT52;10S;24:34.0;;Sato;Tomoki;JPN;1989;JPN;Oita City;2022-11-20;Male;Outdoor
-WR;;MT54;10S;18:10.0;;Hug;Marcel;SUI;1986;JPN;Oita City;2021-11-21;Male;Outdoor
 WR;;MT54;10S;18:10.0;;Suzuki;Tomoki;JPN;1994;JPN;Oita City;2021-11-21;Male;Outdoor
+WR;;MT54;10S;18:10.0;;Hug;Marcel;SUI;1986;JPN;Oita City;2021-11-21;Male;Outdoor
 WR;;MT62;10S;37:29.0;;Reynolds;Brian;USA;1988;USA;Boston;2026-06-21;Male;Outdoor
 WR;;MT11;HAM;1:08:30.0;;Karasawa;Kenya;JPN;1994;JPN;Tokyo;2022-10-16;Male;Outdoor
 WR;;MT12;HAM;1:09:33.0;;Kumagai;Yutaka;JPN;1987;JPN;Tokyo;2024-10-20;Male;Outdoor
@@ -201,8 +201,8 @@ WR;;MT46;HAM;1:09:33.0;;Olsen;Christian;DEN;1993;DEN;Copenhagen;2022-09-14;Male;
 WR;;MT51;HAM;1:08:21.0;;Mestre;Helder;POR;1967;POR;Lisbon;2017-03-19;Male;Outdoor
 WR;;MT52;HAM;51:44.0;;Sato;Tomoki;JPN;1989;JPN;Oita City;2022-11-20;Male;Outdoor
 WR;;MT52;HAM;51:44.0;;Ueyonabaru;Hirokazu;JPN;1971;JPN;Oita City;2022-12-20;Male;Outdoor
-WR;;MT54;HAM;38:32.0;;Hug;Marcel;SUI;1986;JPN;Oita City;2021-11-21;Male;Outdoor
 WR;;MT54;HAM;38:32.0;;Suzuki;Tomoki;JPN;1994;JPN;Oita City;2021-11-21;Male;Outdoor
+WR;;MT54;HAM;38:32.0;;Hug;Marcel;SUI;1986;JPN;Oita City;2021-11-21;Male;Outdoor
 WR;;MT11;MAR;2:23:27;;Wada;Shinya;JPN;1977;JPN;Oita;2024-02-04;Male;Outdoor
 WR;;MT12;MAR;2:19:08;;Clifford;Jaryd;AUS;1999;AUS;Sydney;2021-04-25;Male;Outdoor
 WR;;MT13;MAR;2:22:55;;Talbot;Carlos;USA;1957;KOR;Seoul;1988-10-24;Male;Outdoor
@@ -607,9 +607,9 @@ WR;;WF56;SPE;24.8;;Rocha Machado;Raissa;BRA;1996;BRA;Sao Paulo;2022-03-13;Female
 WR;;WF57;SPE;25.95;;Djelal;Safia;ALG;1983;UAE;Dubai;2017-03-21;Female;Outdoor
 WR;;WF62;SPE;18.84;;Record Mark;;;;;;2026-01-01;Female;Outdoor
 WR;;WF63;SPE;13.74;;Record Mark;;;;;;2019-01-01;Female;Outdoor
-WR;;WF64;SPE;26.61;;Kotlowska;Faustyna;POL;2001;POL;Cracow;2020-08-23;Female;Outdoor
+WR;;WF64;SPE;27.0;;Kotlowska;Faustyna;POL;2001;POL;Zamosc;2026-06-28;Female;Outdoor
 WR;;WF31;KEU;21.31;;Frioua;Hind;MAR;1995;FRA;Paris;2022-06-09;Female;Outdoor
-WR;;WF32;KEU;29.36;;Ibrahmi;Maroua;TUN;1988;MAR;Marrakech;2025-04-26;Female;Outdoor
+WR;;WF32;KEU;30.0;;Kozakowska;Roza;POL;1989;POL;Zamosc;2026-06-26;Female;Outdoor
 WR;;WF51;KEU;25.23;;Ovsii;Zoia;UKR;1994;UAE;Dubai;2019-11-11;Female;Outdoor
 WR;;WP11;5-K;2,182;;Willing;Martina;GER;1959;ESP;Barcelona;1992-09-11;Female;Outdoor
 WR;;WP12;5-K;2,877;;Ivekovic Mestrovic;Marija;CRO;1981;FIN;Espoo;2005-08-23;Female;Outdoor

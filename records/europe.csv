@@ -22,7 +22,7 @@ PAR;1;MT61;100;0:12.73;0.9;Lacin;Ali;GER;1988;GER;Berlin;2020-07-03;Male;Outdoor
 PAR;1;MT62;100;0:10.54;1.6;Floors;Johannes;GER;1995;UAE;Dubai;2019-11-10;Male;Outdoor
 PAR;1;MT63;100;0:12.02;1.0;Schaefer;Leon;GER;1997;GER;Leverkusen;2024-07-06;Male;Outdoor
 PAR;1;MT64;100;0:10.63;0.3;Streng;Felix;GER;1995;GER;Leichlingen;2025-06-13;Male;Outdoor
-PAR;1;MT71;100;0:20.70;0.0;Krzyzek;Artur;POL;2000;POL;Warsaw;2026-05-16;Male;Outdoor
+PAR;1;MT71;100;0:20.37;1.3;Krzyzek;Artur;POL;2000;POL;Zamosc;2026-06-26;Male;Outdoor
 PAR;1;MT72;100;0:14.61;0.9;Calcagni;Carlo Fabio Marcello;ITA;1968;SUI;Nottwil;2026-05-23;Male;Outdoor
 PAR;1;MT11;200;0:22.79;-0.7;Ghavelas;Athanasios;GRE;1999;GRE;Heraklion Crete;2022-05-22;Male;Outdoor
 PAR;1;MT12;200;0:21.56;1.0;Michalski;Mateusz;POL;1987;GBR;London;2012-09-08;Male;Outdoor
@@ -48,7 +48,7 @@ PAR;0;MT61;200;0:23.72;-0.2;Record Mark;;;;;;2019-01-01;Male;Outdoor
 PAR;1;MT62;200;0:20.29;2.0;Floors;Johannes;GER;1995;GER;Leverkusen;2025-07-05;Male;Outdoor
 PAR;1;MT63;200;0:26.27;1.4;Schaefer;Leon;GER;1997;SUI;Nottwil;2023-05-25;Male;Outdoor
 PAR;1;MT64;200;0:21.36;-0.3;Manu;Maxcel Amo;ITA;1992;FRA;Paris;2023-07-17;Male;Outdoor
-PAR;1;MT71;200;0:42.82;0.9;Krzyzek;Artur;POL;2000;POL;Wloclawek;2025-07-06;Male;Outdoor
+PAR;1;MT71;200;0:41.99;1.9;Krzyzek;Artur;POL;2000;POL;Zamosc;2026-06-28;Male;Outdoor
 PAR;1;MT72;200;0:29.32;0.8;Calcagni;Carlo Fabio Marcello;ITA;1968;SUI;Nottwil;2026-05-21;Male;Outdoor
 PAR;1;MT11;400;0:50.03;;Adolphe;Timothee;FRA;1989;FRA;Paris;2024-06-14;Male;Outdoor
 PAR;1;MT12;400;0:47.47;;Yildirim;Serkan;TUR;1991;JPN;Kobe;2024-05-23;Male;Outdoor
@@ -554,9 +554,9 @@ PAR;1;WF55;SPE;27.07;;Dadzite;Diana;LAT;1986;GBR;London;2017-07-17;Female;Outdoo
 PAR;1;WF56;SPE;24.03;;Willing;Martina;GER;1959;GER;Berlin;2008-06-13;Female;Outdoor
 PAR;1;WF57;SPE;18.53;;Keramyda;Soultana;GRE;1989;GRE;Thessaloniki;2023-05-11;Female;Outdoor
 PAR;0;WF63;SPE;13.74;;Record Mark;;;;;;2019-01-01;Female;Outdoor
-PAR;1;WF64;SPE;26.61;;Kotlowska;Faustyna;POL;2001;POL;Cracow;2020-08-23;Female;Outdoor
+PAR;1;WF64;SPE;27.0;;Kotlowska;Faustyna;POL;2001;POL;Zamosc;2026-06-28;Female;Outdoor
 PAR;0;WF31;KEU;8.04;;Record Mark;;;;;;2017-01-01;Female;Outdoor
-PAR;1;WF32;KEU;29.3;;Kozakowska;Roza;POL;1989;IND;New Delhi;2025-09-30;Female;Outdoor
+PAR;1;WF32;KEU;30.0;;Kozakowska;Roza;POL;1989;POL;Zamosc;2026-06-26;Female;Outdoor
 PAR;1;WF51;KEU;25.23;;Ovsii;Zoia;UKR;1994;UAE;Dubai;2019-11-11;Female;Outdoor
 PAR;1;WP11;5-K;2,182;;Willing;Martina;GER;1959;ESP;Barcelona;1992-09-11;Female;Outdoor
 PAR;1;WP12;5-K;2,877;;Ivekovic Mestrovic;Marija;CRO;1981;FIN;Espoo;2005-08-23;Female;Outdoor
