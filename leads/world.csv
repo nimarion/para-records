@@ -124,9 +124,9 @@ WL;;MT11;HOC;1.28;;Mitrovic;Perica;ITA;1974;ITA;Grosseto;2026-07-04;Male;Outdoor
 WL;;MT44;HOC;2.01;;Broom-Edwards;Jonathan;GBR;1988;GBR;Loughborough;2026-05-17;Male;Outdoor
 WL;;MT46;HOC;1.95;;Wise;Dallas;USA;2000;TUN;Tunis;2026-06-19;Male;Outdoor
 WL;;MT47;HOC;2.05;;;Nishad Kumar;IND;1999;IND;Bangalore;2026-05-27;Male;Outdoor
-WL;;MT63;HOC;1.45;;Khumphong;Kantinan;THA;2000;IND;Bangalore;2026-05-27;Male;Outdoor
+WL;;MT63;HOC;1.6;;Passon;Emilien;FRA;2007;FRA;Maison Alfort;2026-06-27;Male;Outdoor
 WL;;MT64;HOC;1.9;;Loccident;Derek;USA;1998;TUN;Tunis;2026-06-19;Male;Outdoor
-WL;;MT11;WEI;5.47;1.0;Gurjar;Manoj Kumar;IND;2005;IND;Bangalore;2026-05-28;Male;Outdoor
+WL;;MT11;WEI;5.85;0.4;Pallier;Ronan;FRA;1970;FRA;Maison Alfort;2026-06-27;Male;Outdoor
 WL;;MT12;WEI;6.81;1.3;Sauchuk;Ihar;BLR;2003;MAR;Rabat;2026-04-25;Male;Outdoor
 WL;;MT13;WEI;7.12;0.6;Sverd;Vegard Dragsund;NOR;1999;NOR;Tønsberg;2026-05-15;Male;Outdoor
 WL;;MT20;WEI;7.24;0.3;Vucsics;Noah;CAN;2000;CAN;Calgary;2026-05-09;Male;Outdoor
@@ -141,7 +141,7 @@ WL;;MT46;WEI;7.47;0.0;Sol Cervantes;Robiel Yankiel;CUB;2003;TUN;Tunis;2026-06-17
 WL;;MT47;WEI;7.34;-0.5;;Nishad Kumar;IND;1999;IND;Bangalore;2026-05-26;Male;Outdoor
 WL;;MT61;WEI;6.28;-1.2;Gulec;Hamza;TUR;2001;SUI;Nottwil;2026-05-21;Male;Outdoor
 WL;;MT63;WEI;7.41;0.7;de Jong;Joel;NED;2002;GER;Leverkusen;2026-07-18;Male;Outdoor
-WL;;MT64;WEI;8.09;;Loccident;Derek;USA;1998;USA;Walnut;2026-04-18;Male;Outdoor
+WL;;MT64;WEI;7.81;0.2;Loccident;Derek;USA;1998;USA;San Diego;2026-04-04;Male;Outdoor
 WL;;MT46;DRE;11.27;-1.2;Tran;van Duc;VIE;1991;THA;Nakhon Ratchasima;2026-01-24;Male;Outdoor
 WL;;MF11;KUG;14.12;;del Amo Cano;Alvaro;ESP;1990;ESP;Madrid;2026-06-20;Male;Outdoor
 WL;;MF12;KUG;16.73;;Dzilna;Emils;LAT;2000;SUI;Nottwil;2026-05-23;Male;Outdoor
@@ -152,8 +152,8 @@ WL;;MF33;KUG;11.63;;Mekhalfi;Abdelhai;ALG;2002;TUN;Tunis;2026-06-16;Male;Outdoor
 WL;;MF34;KUG;12.05;;Valencia;Mauricio;COL;1987;UAE;Dubai;2026-02-10;Male;Outdoor
 WL;;MF35;KUG;15.26;;Norbekov;Khusniddin;UZB;1987;MAR;Rabat;2026-04-24;Male;Outdoor
 WL;;MF36;KUG;17.09;;Guenichi;Yassine;TUN;1995;TUN;Tunis;2026-06-16;Male;Outdoor
-WL;;MF37;KUG;15.58;;Marufkhujaev;Kudratillokhon;UZB;1999;TUN;Tunis;2026-06-18;Male;Outdoor
-WL;;MF38;KUG;15.4;;Crombie;Cameron;AUS;1986;AUS;Sydney;2026-04-11;Male;Outdoor
+WL;;MF37;KUG;33.59;;Vimmer;Michal;CZE;2000;CZE;Ostrava;2026-07-10;Male;Outdoor
+WL;;MF38;KUG;40.02;;Vratil;Petr;CZE;1983;CZE;Ostrava;2026-07-10;Male;Outdoor
 WL;;MF40;KUG;11.17;;Monteiro;Miguel;POR;2000;POR;Lisboa;2026-05-30;Male;Outdoor
 WL;;MF41;KUG;876.0;;Jimenez Alonso;Alvaro;ESP;2000;ESP;Fuenlabrada;2026-06-27;Male;Outdoor
 WL;;MF42;KUG;15.86;;Davies;Aled;GBR;1991;AUS;Melbourne;2026-03-21;Male;Outdoor
@@ -164,9 +164,9 @@ WL;;MF52;KUG;9.39;;Johanides;Antonin;CZE;1974;CZE;Bilina;2026-06-13;Male;Outdoor
 WL;;MF53;KUG;8.39;;Verma;Ayush;IND;1991;IND;Bangalore;2026-05-26;Male;Outdoor
 WL;;MF54;KUG;9.6;;Cuchran;Ladislav;SVK;1982;CZE;Pardubice;2026-05-03;Male;Outdoor
 WL;;MF55;KUG;12.66;;Zhou;Feifei;CHN;1993;TUN;Tunis;2026-06-16;Male;Outdoor
-WL;;MF56;KUG;11.95;;Laczko;Dusan;SVK;1983;CZE;Pardubice;2026-05-03;Male;Outdoor
+WL;;MF56;KUG;12.89;;Laczko;Dusan;SVK;1983;CZE;Ostrava;2026-07-11;Male;Outdoor
 WL;;MF57;KUG;15.21;;Hotozhe Sema;Hokato;IND;1983;IND;Bangalore;2026-05-26;Male;Outdoor
-WL;;MF63;KUG;13.6;;Schober;Georg;AUT;1989;CRO;Pula;2026-06-07;Male;Outdoor
+WL;;MF63;KUG;13.91;;Schober;Georg;AUT;1989;CZE;Ostrava;2026-07-10;Male;Outdoor
 WL;;MF64;KUG;11.59;;Tonetto;Atletica;ITA;1974;MAR;Rabat;2026-04-24;Male;Outdoor
 WL;;MF11;DIS;42.15;;Tapia;Oney;ITA;1976;MAR;Rabat;2026-04-24;Male;Outdoor
 WL;;MF12;DIS;38.13;;Prundaru;Petre;ROU;1994;MAR;Rabat;2026-04-24;Male;Outdoor
@@ -207,7 +207,7 @@ WL;;MF42;SPE;59.3;;Gurjar;Mahendra;IND;1998;IND;Bangalore;2026-05-27;Male;Outdoo
 WL;;MF43;SPE;59.83;;Singh;Pushpendra;IND;2000;IND;Bangalore;2026-05-27;Male;Outdoor
 WL;;MF44;SPE;62.88;;Sargar;Sandip Sanjay;IND;1993;IND;Bangalore;2026-05-27;Male;Outdoor
 WL;;MF46;SPE;61.7;;;Rinku;IND;1999;IND;Bangalore;2026-05-27;Male;Outdoor
-WL;;MF52;SPE;12.69;;Johanides;Antonin;CZE;1974;CZE;Pardubice;2026-05-03;Male;Outdoor
+WL;;MF52;SPE;13.89;;Johanides;Antonin;CZE;1974;CZE;Ostrava;2026-07-11;Male;Outdoor
 WL;;MF53;SPE;16.32;;Verma;Ayush;IND;1991;IND;New Delhi;2026-03-11;Male;Outdoor
 WL;;MF54;SPE;28.8;;Cuchran;Ladislav;SVK;1982;CRO;Pula;2026-06-06;Male;Outdoor
 WL;;MF55;SPE;33.19;;;Sukhchain;IND;1993;IND;Bangalore;2026-05-28;Male;Outdoor
