@@ -379,8 +379,8 @@ PAR;5;WT53;4X1;0:57.61;;People's Republic of China;;CHN;;CHN;Beijing;2008-09-16;
 PAR;5;WT54;4X1;0:57.61;;People's Republic of China;;CHN;;CHN;Beijing;2008-09-16;Female;Outdoor
 PAR;5;WT53;4X4;3:32.11;;Liu, Zhou, Li, Zou;;CHN;;BRA;Rio de Janeiro;2016-09-15;Female;Outdoor
 PAR;5;WT54;4X4;3:32.11;;Liu, Zhou, Li, Zou;;CHN;;BRA;Rio de Janeiro;2016-09-15;Female;Outdoor
-PAR;5;WT54;10S;22:45.0;;Tsuchida;Wakako;JPN;1974;JPN;Oita City;2022-11-20;Female;Outdoor
 PAR;5;WT54;10S;22:45.0;;Nakamine;Tsubasa;JPN;1990;JPN;Oita City;2022-11-20;Female;Outdoor
+PAR;5;WT54;10S;22:45.0;;Tsuchida;Wakako;JPN;1974;JPN;Oita City;2022-11-20;Female;Outdoor
 PAR;5;WT11;HAM;1:31:41.0;;Inouchi;Natsumi;JPN;1989;JPN;Tokyo;2022-10-16;Female;Outdoor
 PAR;5;WT12;HAM;1:24:48.0;;Michishita;Misato;JPN;1977;JPN;Tokyo;2023-10-15;Female;Outdoor
 PAR;5;WT54;HAM;47:55.0;;Tsuchida;Wakako;JPN;1974;JPN;Oita City;2022-11-20;Female;Outdoor
@@ -422,7 +422,7 @@ PAR;1;WF40;KUG;8.99;;Mukhtorova;Madina;UZB;2006;IND;New Delhi;2025-10-05;Female;
 PAR;1;WF41;KUG;10.36;;Khakimova;Kubaro;UZB;2002;FRA;Paris;2024-08-30;Female;Outdoor
 PAR;0;WF42;KUG;9.0;;Record Mark;;;;;;2019-01-01;Female;Outdoor
 PAR;5;WF44;KUG;13.14;;Yao;Juan;CHN;1984;QAT;Doha;2015-10-28;Female;Outdoor
-PAR;5;WF45;KUG;8.79;;Tychshenko;Irina;KAZ;1974;CZE;Olomouc;2025-07-04;Female;Outdoor
+PAR;5;WF45;KUG;8.83;;Tychshenko;Irina;KAZ;1974;CZE;Olomouc;2026-07-04;Female;Outdoor
 PAR;1;WF46;KUG;13.07;;Omonova;Karomat;UZB;2005;IND;New Delhi;2025-10-02;Female;Outdoor
 PAR;5;WF53;KUG;5.13;;Nedham;Fatema;BRN;1967;TUN;Tunis;2019-06-30;Female;Outdoor
 PAR;5;WF54;KUG;7.9;;Yang;Liwan;CHN;1978;CHN;Beijing;2016-04-23;Female;Outdoor
@@ -441,12 +441,12 @@ PAR;5;WF35;DIS;31.92;;Wang;Jun;CHN;1990;CHN;Beijing;2017-05-14;Female;Outdoor
 PAR;5;WF36;DIS;28.01;;Wu;Qing;CHN;1988;GBR;London;2012-08-31;Female;Outdoor
 PAR;5;WF37;DIS;38.73;;Mi;Na;CHN;1986;CHN;Hangzhou;2023-10-27;Female;Outdoor
 PAR;0;WF38;DIS;36.1;;Record Mark;;;;;;2026-01-01;Female;Outdoor
-PAR;5;WF40;DIS;22.26;;Alzeyoudi;Maryam;UAE;1995;UAE;Dubai;2024-02-13;Female;Outdoor
+PAR;1;WF40;DIS;25.71;;Mukhtorova;Madina;UZB;2006;CZE;Olomouc;2026-07-02;Female;Outdoor
 PAR;1;WF41;DIS;28.83;;Akhmatova;Navruza;UZB;2005;IND;New Delhi;2025-10-03;Female;Outdoor
 PAR;0;WF42;DIS;26.29;;Record Mark;;;;;;2019-01-01;Female;Outdoor
 PAR;5;WF43;DIS;28.92;;Houshmand;Vajiheh;IRI;1983;CHN;Hangzhou;2023-10-27;Female;Outdoor
 PAR;5;WF44;DIS;44.73;;Yao;Juan;CHN;1984;JPN;Tokyo;2021-08-29;Female;Outdoor
-PAR;5;WF45;DIS;22.9;;Tychshenko;Irina;KAZ;1974;CZE;Olomouc;2025-07-04;Female;Outdoor
+PAR;5;WF45;DIS;25.72;;Tychshenko;Irina;KAZ;1974;CZE;Olomouc;2026-07-02;Female;Outdoor
 PAR;5;WF46;DIS;42.12;;Wu;Hong Ping;CHN;1970;GRE;Athens;2004-09-25;Female;Outdoor
 PAR;5;WF51;DIS;7.1;;Bhyan;Ekta;IND;1985;CHN;Hangzhou;2023-10-23;Female;Outdoor
 PAR;5;WF52;DIS;6.05;;Sran;Jaspreet Kaur;IND;1981;IND;New Delhi;2025-03-13;Female;Outdoor
