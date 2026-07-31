@@ -1,6 +1,6 @@
 Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Geschlecht;Umgebung
 WL;;MT11;100;0:11.16;1.0;Boettger;Marcel;GER;1993;GER;Dresden;2026-06-27;Male;Outdoor
-WL;;MT12;100;0:10.52;1.9;Kashafali;Salum Ageze;NOR;1993;NOR;Lillehammer;2026-06-21;Male;Outdoor
+WL;;MT12;100;0:10.50;1.3;Kashafali;Salum Ageze;NOR;1993;NOR;Trondheim;2026-07-25;Male;Outdoor
 WL;;MT13;100;0:10.69;1.7;Zorzi;Axel;FRA;1997;FRA;Venissieux;2026-06-14;Male;Outdoor
 WL;;MT33;100;0:20.93;1.0;Zani;Nicholas;ITA;1999;SUI;Nottwil;2026-05-23;Male;Outdoor
 WL;;MT34;100;0:14.72;0.9;Othman;Mohamad;UAE;2004;SUI;Arbon;2026-05-17;Male;Outdoor
@@ -295,6 +295,7 @@ WL;;WT34;1K5;4:09.38;;Houston;Eva;USA;2001;SUI;Nottwil;2026-05-23;Female;Outdoor
 WL;;WT36;1K5;6:59.84;;Burbach;Cristina;USA;1974;CZE;Olomouc;2026-07-03;Female;Outdoor
 WL;;WT53;1K5;3:03.65;;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2026-05-23;Female;Outdoor
 WL;;WT54;1K5;3:04.49;;McFadden;Tatyana;USA;1989;SUI;Nottwil;2026-05-23;Female;Outdoor
+WL;;WT71;1K5;13:40.42;;Aasvang;Marte;NOR;1994;NOR;Trondheim;2026-07-24;Female;Outdoor
 WL;;WT72;1K5;4:54.41;;Strong;Maria;AUS;1971;AUS;Canberra;2026-01-21;Female;Outdoor
 WL;;WT11;5K0;19:40.07;;Coetzee;Louzanne;RSA;1993;RSA;Stellenbosch;2026-03-31;Female;Outdoor
 WL;;WT12;5K0;18:19.11;;Guisado Rodriguez;Susana;ESP;1981;ESP;Torrent;2026-05-02;Female;Outdoor
