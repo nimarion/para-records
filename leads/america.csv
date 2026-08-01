@@ -101,7 +101,7 @@ PAL;7;MT45;WEI;5.93;-1.3;Sample;Rayven;USA;2002;USA;New York;2026-07-24;Male;Out
 PAL;7;MT46;WEI;7.47;0.0;Sol Cervantes;Robiel Yankiel;CUB;2003;TUN;Tunis;2026-06-17;Male;Outdoor
 PAL;7;MT47;WEI;5.97;1.3;Lopez Morales;Luis Daniel;VEN;2001;COL;Valledupar;2026-07-14;Male;Outdoor
 PAL;7;MT63;WEI;6.2;1.2;Jackson;Desmond;USA;1999;USA;New York;2026-07-24;Male;Outdoor
-PAL;7;MT64;WEI;7.81;0.2;Loccident;Derek;USA;1998;USA;San Diego;2026-04-04;Male;Outdoor
+PAL;7;MT64;WEI;7.84;1.4;Loccident;Derek;USA;1998;USA;Chula Vista;2026-07-05;Male;Outdoor
 PAL;7;MF11;KUG;12.23;;Bracho;Franklin Rafael;VEN;1983;COL;Valledupar;2026-07-13;Male;Outdoor
 PAL;7;MF12;KUG;15.92;;Parodi;Ignacio;ARG;2000;COL;Valledupar;2026-07-13;Male;Outdoor
 PAL;7;MF20;KUG;14.84;;Santos;Wellington;BRA;1992;BRA;Sao Paulo;2026-04-02;Male;Outdoor
@@ -111,7 +111,7 @@ PAL;7;MF36;KUG;12.19;;Santos Da Silva;Rivander;BRA;1994;BRA;Sao Paulo;2026-04-02
 PAL;7;MF37;KUG;14.68;;Enriquez Gonzalez;Bryan Leonel;MEX;1998;USA;Tempe;2026-05-29;Male;Outdoor
 PAL;7;MF38;KUG;12.85;;Pires Mathias;Andre Luiz;BRA;2006;BRA;Sao Paulo;2026-04-02;Male;Outdoor
 PAL;7;MF40;KUG;7.52;;Hirochi Lobato dos Santos;Sandro;BRA;2004;BRA;Sao Paulo;2026-04-02;Male;Outdoor
-PAL;7;MF41;KUG;7.99;;Castro Martinez;Ever Rene;CUB;1993;TUN;Tunis;2026-06-17;Male;Outdoor
+PAL;7;MF41;KUG;11.9;;Landry;Hagan;USA;1994;USA;Chula Vista;2026-07-05;Male;Outdoor
 PAL;7;MF42;KUG;14.16;;Roberto Floriani;Edenilson;BRA;1990;BRA;Sao Paulo;2026-04-02;Male;Outdoor
 PAL;7;MF46;KUG;15.83;;Stewart;Greg;CAN;1986;CAN;Ottawa;2026-06-19;Male;Outdoor
 PAL;7;MF54;KUG;8.69;;Bohorquez Taborda;Alex Arlen;COL;1983;COL;Valledupar;2026-07-15;Male;Outdoor
@@ -226,7 +226,7 @@ PAL;7;WT46;WEI;6.1;-2.3;Rodriguez;Kiara;ECU;2002;COL;Valledupar;2026-07-15;Femal
 PAL;7;WT47;WEI;5.14;-1.6;Ibanez;Aldana Isabel;ARG;1997;COL;Valledupar;2026-07-15;Female;Outdoor
 PAL;7;WT62;WEI;4.04;0.8;Rosenthal;Lillian;USA;2007;USA;Ann Arbor;2026-06-27;Female;Outdoor
 PAL;7;WT63;WEI;4.07;-2.0;Marcusen;Lindi;USA;1996;USA;New York;2026-07-23;Female;Outdoor
-PAL;7;WT64;WEI;5.34;1.3;Hatz;B;USA;2000;USA;Azusa;2026-05-08;Female;Outdoor
+PAL;7;WT64;WEI;5.47;2.0;Hatz;B;USA;2000;USA;Chula Vista;2026-07-05;Female;Outdoor
 PAL;7;WF11;KUG;10.5;;Campos;Izabela;BRA;1981;COL;Valledupar;2026-07-12;Female;Outdoor
 PAL;7;WF12;KUG;5.94;;Tillner Galeano;Melissa Nair;PAR;2000;COL;Valledupar;2026-07-12;Female;Outdoor
 PAL;7;WF20;KUG;12.19;;Caetano Alves;Vanessa;BRA;2000;BRA;Sao Paulo;2026-06-12;Female;Outdoor
