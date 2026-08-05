@@ -46,7 +46,7 @@ WL;;MT72;200;0:29.32;0.8;Calcagni;Carlo Fabio Marcello;ITA;1968;SUI;Nottwil;2026
 WL;;MT11;400;0:51.70;;Descarrega Puigdevall;Gerard;ESP;1994;ESP;Fuenlabrada;2026-06-27;Male;Outdoor
 WL;;MT12;400;0:50.12;;Tyagi;Chirag;IND;2001;IND;Bangalore;2026-05-27;Male;Outdoor
 WL;;MT13;400;0:49.55;;Fukunaga;Ryota;JPN;1998;JPN;Fukuroi;2026-05-03;Male;Outdoor
-WL;;MT20;400;0:47.83;;Rodriguez Bolivar;Luis Felipe;VEN;1993;COL;Valledupar;2026-07-13;Male;Outdoor
+WL;;MT20;400;0:47.31;;Guarin Zapata;Samuel;COL;2004;COL;Valledupar;2026-07-13;Male;Outdoor
 WL;;MT33;400;1:15.84;;Zani;Nicholas;ITA;1999;ITA;Giussano (MB);2026-06-13;Male;Outdoor
 WL;;MT34;400;0:49.04;;Rattana;Chaiwat;THA;1996;SUI;Nottwil;2026-05-22;Male;Outdoor
 WL;;MT35;400;0:50.17;;Villa;Maximiliano;ARG;2007;COL;Valledupar;2026-07-13;Male;Outdoor
@@ -153,8 +153,8 @@ WL;;MF33;KUG;11.63;;Mekhalfi;Abdelhai;ALG;2002;TUN;Tunis;2026-06-16;Male;Outdoor
 WL;;MF34;KUG;12.07;;Nikoeimajd;Mehran;IRI;1982;IRI;Tehran;2026-07-02;Male;Outdoor
 WL;;MF35;KUG;15.26;;Norbekov;Khusniddin;UZB;1987;MAR;Rabat;2026-04-24;Male;Outdoor
 WL;;MF36;KUG;17.09;;Guenichi;Yassine;TUN;1995;TUN;Tunis;2026-06-16;Male;Outdoor
-WL;;MF37;KUG;33.59;;Vimmer;Michal;CZE;2000;CZE;Ostrava;2026-07-10;Male;Outdoor
-WL;;MF38;KUG;40.02;;Vratil;Petr;CZE;1983;CZE;Ostrava;2026-07-10;Male;Outdoor
+WL;;MF37;KUG;15.58;;Marufkhujaev;Kudratillokhon;UZB;1999;TUN;Tunis;2026-06-18;Male;Outdoor
+WL;;MF38;KUG;15.4;;Crombie;Cameron;AUS;1986;AUS;Sydney;2026-04-11;Male;Outdoor
 WL;;MF40;KUG;11.17;;Monteiro;Miguel;POR;2000;POR;Lisboa;2026-05-30;Male;Outdoor
 WL;;MF41;KUG;15.04;;Kappel;Niko;GER;1995;GER;Biberach;2026-07-13;Male;Outdoor
 WL;;MF42;KUG;15.86;;Davies;Aled;GBR;1991;AUS;Melbourne;2026-03-21;Male;Outdoor
@@ -260,7 +260,7 @@ WL;;WT72;200;0:33.66;0.4;Huizing van Leussen;Gerlinda;NED;1974;DEN;Bagsværd;202
 WL;;WT11;400;0:57.38;;Pabon Mamian;Angie Lizeth;COL;1997;COL;Valledupar;2026-07-13;Female;Outdoor
 WL;;WT12;400;0:56.07;;Gomes de Aguiar;Lorraine;BRA;1997;COL;Valledupar;2026-07-13;Female;Outdoor
 WL;;WT13;400;0:55.80;;Duarte;Carolina;POR;1990;POR;Lisboa;2026-06-10;Female;Outdoor
-WL;;WT20;400;0:47.31;;Murillo Benitez;Maria Alejandra;COL;2004;COL;Valledupar;2026-07-13;Female;Outdoor
+WL;;WT20;400;0:54.79;;Vera Colina;Leonela Coromoto;VEN;2004;COL;Valledupar;2026-07-13;Female;Outdoor
 WL;;WT33;400;1:25.49;;Goens;Cecile;BEL;2003;BEL;Oordegem;2026-05-01;Female;Outdoor
 WL;;WT34;400;0:57.72;;Williamson;Linden;USA;2001;USA;New York;2026-07-23;Female;Outdoor
 WL;;WT36;400;1:13.37;;Colley;Tamsin;AUS;2002;AUS;Sydney;2026-04-09;Female;Outdoor
