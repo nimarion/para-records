@@ -22,6 +22,7 @@ PAR;0;MT61;100;0:13.69;-1.4;Record Mark;;;;;;2019-01-01;Male;Outdoor
 PAR;7;MT62;100;0:10.75;1.6;Woodhall;Hunter;USA;1999;USA;Miramar;2024-07-19;Male;Outdoor
 PAR;7;MT63;100;0:11.95;1.9;Goncalves Rodrigues;Vinicius;BRA;1994;BRA;São Paulo;2019-04-25;Male;Outdoor
 PAR;7;MT64;100;0:10.61;1.4;Browne;Richard;USA;1991;QAT;Doha;2015-10-29;Male;Outdoor
+PAR;7;MT64;100;0:10.61;1.7;Guity Guity;Sherman Isidro;CRC;1996;MEX;Tlaxcala;2026-07-23;Male;Outdoor
 PAR;7;MT71;100;0:21.50;1.6;Cabral;Vinicius Augusto;BRA;2001;BRA;Sao Paulo;2025-05-24;Male;Outdoor
 PAR;7;MT72;100;0:15.22;0.9;Matos Marques Cunha;Joao;BRA;2007;SUI;Nottwil;2026-05-23;Male;Outdoor
 PAR;7;MT11;200;0:22.41;1.6;Brown;David;USA;1992;USA;Walnut, California;2014-04-18;Male;Outdoor
@@ -213,9 +214,9 @@ PAR;7;MF33;KUG;8.74;;Ortega Campos;Gertrudis;PAN;1973;FRA;Paris;2023-07-17;Male;
 PAR;7;MF34;KUG;12.05;;Valencia;Mauricio;COL;1987;UAE;Dubai;2026-02-10;Male;Outdoor
 PAR;7;MF35;KUG;16.77;;Urra;Hernan Emanuel;ARG;1996;IND;New Delhi;2025-10-03;Male;Outdoor
 PAR;7;MF36;KUG;15.82;;Ruiz Castro;Jose Roman;MEX;1988;FRA;Paris;2023-07-13;Male;Outdoor
-PAR;7;MF37;KUG;14.91;;Lopez Valenzuela;Luis Carlos;MEX;1999;IND;New Delhi;2025-09-27;Male;Outdoor
+PAR;7;MF37;KUG;15.11;;Enriquez Gonzalez;Bryan Leonel;MEX;1998;MEX;Tlaxcala;2026-07-22;Male;Outdoor
 PAR;7;MF38;KUG;20.38;;Moreno Denis;Levin;COL;1989;IND;New Delhi;2025-10-04;Male;Outdoor
-PAR;7;MF40;KUG;9.81;;Sanchez Vega;Ruben Nahum;MEX;2001;FRA;Paris;2025-06-03;Male;Outdoor
+PAR;7;MF40;KUG;10.0;;Sanchez Vega;Ruben Nahum;MEX;2001;MEX;Tlaxcala;2026-07-23;Male;Outdoor
 PAR;7;MF41;KUG;13.88;;Landry;Hagan;USA;1994;JPN;Tokyo;2021-08-30;Male;Outdoor
 PAR;7;MF42;KUG;14.96;;Roberto Floriani;Edenilson;BRA;1990;IND;New Delhi;2025-10-05;Male;Outdoor
 PAR;7;MF44;KUG;15.49;;Blair;David;USA;1975;QAT;Doha;2015-10-27;Male;Outdoor
@@ -291,7 +292,7 @@ PAR;7;WT13;100;0:11.66;1.4;Soares Da Silva;Rayane;BRA;1997;BRA;Sao Paulo;2025-07
 PAR;7;WT33;100;0:21.59;-0.4;Messer;Kristen;USA;1987;GBR;London;2012-08-31;Female;Outdoor
 PAR;7;WT34;100;0:18.43;0.0;Halko;Alexa;USA;2000;GBR;London;2017-07-14;Female;Outdoor
 PAR;7;WT34;100;0:18.43;0.2;Houston;Eva;USA;2001;SUI;Nottwil;2024-06-08;Female;Outdoor
-PAR;7;WT35;100;0:14.24;-1.4;Lima de Araujo;Maria Clara;BRA;2011;BRA;Sao Paulo;2026-06-12;Female;Outdoor
+PAR;7;WT35;100;0:13.82;0.3;Lima de Araujo;Maria Clara;BRA;2011;BRA;São Paulo;2026-08-13;Female;Outdoor
 PAR;7;WT36;100;0:14.01;0.7;Oliveira Cruz;Tascitha;BRA;1993;BRA;São Paulo;2019-04-25;Female;Outdoor
 PAR;7;WT37;100;0:12.82;1.0;Palomeque Moreno;Karen Tatiana;COL;1994;FRA;Paris;2023-07-13;Female;Outdoor
 PAR;7;WT38;100;0:12.26;0.8;Palomeque Moreno;Karen Tatiana;COL;1994;FRA;Paris;2024-08-31;Female;Outdoor

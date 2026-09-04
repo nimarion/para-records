@@ -1,7 +1,6 @@
 Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Geschlecht;Umgebung
 PAR;5;MT11;100;0:11.03;1.2;Di;Dongdong;CHN;1993;JPN;Tokyo;2021-09-02;Male;Outdoor
 PAR;5;MT12;100;0:10.91;0.4;Li;Yansong;CHN;1982;GBR;London;2012-09-04;Male;Outdoor
-PAR;5;MT12;100;0:10.91;0.9;Kuno;Ryutaro;JPN;1999;IND;New Delhi;2025-09-27;Male;Outdoor
 PAR;5;MT13;100;0:10.70;0.9;Kawakami;Shuta;JPN;1998;JPN;Kobe;2024-05-20;Male;Outdoor
 PAR;5;MT32;100;0:30.30;-0.4;Hirose;Takayoshi;JPN;;JPN;Tokyo;2002-09-01;Male;Outdoor
 PAR;5;MT33;100;0:16.43;1.2;Almutairi;Ahmad;KUW;1994;UAE;Dubai;2023-02-27;Male;Outdoor
@@ -161,8 +160,8 @@ PAR;5;MT12;MAR;2:21:21;;Horikoshi;Tadashi;JPN;1988;JPN;Tsuchiura City;2022-04-17
 PAR;5;MT13;MAR;2:29:15;;Takai;Toshiharu;JPN;1986;JPN;Hofu;2024-12-01;Male;Outdoor
 PAR;5;MT46;MAR;2:25:23;;Nagata;Tsutomu;JPN;1984;JPN;Otsu;2021-02-28;Male;Outdoor
 PAR;5;MT51;MAR;2:10:00;;Tetuhin;E;KAZ;;KAZ;Taldykorgan;2003-01-01;Male;Outdoor
-PAR;5;MT52;MAR;1:49:29;;Sato;Tomoki;JPN;1989;JPN;Oita City;2020-11-15;Male;Outdoor
 PAR;5;MT52;MAR;1:49:29;;Ueyonabaru;Hirokazu;JPN;1971;JPN;Oita City;2020-11-15;Male;Outdoor
+PAR;5;MT52;MAR;1:49:29;;Sato;Tomoki;JPN;1989;JPN;Oita City;2020-11-15;Male;Outdoor
 PAR;5;MT54;MAR;1:18:31;;Jin;Hua;CHN;1999;JPN;Oita;2024-11-17;Male;Outdoor
 PAR;5;MT11;HOC;1.41;;Uchida;Katsuhisa;JPN;1968;JPN;Osaka;2015-09-20;Male;Outdoor
 PAR;5;MT12;HOC;1.76;;Kamali Sarvestani;Amir;IRI;1985;CAN;Quebec;2003-08-11;Male;Outdoor
@@ -242,7 +241,7 @@ PAR;5;MF53;DIS;26.21;;Oi;Toshie;JPN;1948;CHN;Beijing;2008-09-14;Male;Outdoor
 PAR;5;MF54;DIS;32.14;;Amiri;Hamed;IRI;1982;UAE;Dubai;2023-02-27;Male;Outdoor
 PAR;5;MF55;DIS;38.56;;Yadav;Neeraj;IND;1984;CHN;Hangzhou;2023-10-24;Male;Outdoor
 PAR;5;MF56;DIS;45.49;;Mohammadyari;Ali;IRI;1982;KOR;Incheon;2014-10-23;Male;Outdoor
-PAR;5;MF57;DIS;47.77;;Wu;Guoshan;CHN;1983;INA;Jakarta;2018-10-08;Male;Outdoor
+PAR;5;MF57;DIS;48.68;;Yasa;I Kadek Dwi Purwana;INA;2008;MEX;Tlaxcala;2026-07-22;Male;Outdoor
 PAR;0;MF62;DIS;25.12;;Record Mark;;;;;;2019-01-01;Male;Outdoor
 PAR;5;MF63;DIS;35.12;;Pang;Baolong;CHN;1987;CHN;Beijing;2019-05-11;Male;Outdoor
 PAR;0;MF64;DIS;54.61;;Record Mark;;;;;;2019-01-01;Male;Outdoor
@@ -379,8 +378,8 @@ PAR;5;WT53;4X1;0:57.61;;People's Republic of China;;CHN;;CHN;Beijing;2008-09-16;
 PAR;5;WT54;4X1;0:57.61;;People's Republic of China;;CHN;;CHN;Beijing;2008-09-16;Female;Outdoor
 PAR;5;WT53;4X4;3:32.11;;Liu, Zhou, Li, Zou;;CHN;;BRA;Rio de Janeiro;2016-09-15;Female;Outdoor
 PAR;5;WT54;4X4;3:32.11;;Liu, Zhou, Li, Zou;;CHN;;BRA;Rio de Janeiro;2016-09-15;Female;Outdoor
-PAR;5;WT54;10S;22:45.0;;Nakamine;Tsubasa;JPN;1990;JPN;Oita City;2022-11-20;Female;Outdoor
 PAR;5;WT54;10S;22:45.0;;Tsuchida;Wakako;JPN;1974;JPN;Oita City;2022-11-20;Female;Outdoor
+PAR;5;WT54;10S;22:45.0;;Nakamine;Tsubasa;JPN;1990;JPN;Oita City;2022-11-20;Female;Outdoor
 PAR;5;WT11;HAM;1:31:41.0;;Inouchi;Natsumi;JPN;1989;JPN;Tokyo;2022-10-16;Female;Outdoor
 PAR;5;WT12;HAM;1:24:48.0;;Michishita;Misato;JPN;1977;JPN;Tokyo;2023-10-15;Female;Outdoor
 PAR;5;WT54;HAM;47:55.0;;Nakamine;Tsubasa;JPN;1990;JPN;Oita City;2022-11-20;Female;Outdoor
