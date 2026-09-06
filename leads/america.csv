@@ -1,15 +1,15 @@
 Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Geschlecht;Umgebung
-PAL;7;MT11;100;0:11.24;1.0;Quarcoo;George;CAN;1994;SUI;Nottwil;2026-05-22;Male;Outdoor
+PAL;7;MT11;100;0:11.21;0.0;Aparecido Da Silva Garron;Elton Tadeu;BRA;1982;BRA;São Paulo;2026-08-13;Male;Outdoor
 PAL;7;MT12;100;0:10.54;1.8;Malone;Noah;USA;2001;USA;Walnut;2026-04-18;Male;Outdoor
-PAL;7;MT13;100;0:11.23;-0.3;Barros Ferreira;Fabricio Junior;BRA;1998;MAR;Rabat;2026-04-23;Male;Outdoor
+PAL;7;MT13;100;0:11.14;0.2;Barros Ferreira;Fabricio Junior;BRA;1998;BRA;São Paulo;2026-08-13;Male;Outdoor
 PAL;7;MT34;100;0:15.38;1.0;Cormier;Dante;CAN;2006;SUI;Nottwil;2026-05-23;Male;Outdoor
 PAL;7;MT35;100;0:11.60;-0.8;Caetano Nascimento;Henrique;BRA;1999;BRA;Sao Paulo;2026-04-01;Male;Outdoor
 PAL;7;MT36;100;0:11.92;0.5;Chavez;Alexis Sebastian;ARG;2002;ARG;Neuquen;2026-03-20;Male;Outdoor
-PAL;7;MT37;100;0:11.36;-0.1;Luiz Da Costa;Christian Gabriel;BRA;2002;MAR;Rabat;2026-04-23;Male;Outdoor
+PAL;7;MT37;100;0:11.35;0.1;Gomes de Mendonca;Ricardo;BRA;1990;BRA;São Paulo;2026-08-13;Male;Outdoor
 PAL;7;MT38;100;0:10.67;-0.1;Blackwell;Jaydin;USA;2004;USA;Eugene;2026-07-04;Male;Outdoor
 PAL;7;MT44;100;0:11.05;-0.9;de Lima;Matheus;BRA;2003;MAR;Rabat;2026-04-23;Male;Outdoor
 PAL;7;MT46;100;0:10.80;0.5;Sousa Pereira;Lucas;BRA;1999;COL;Valledupar;2026-07-12;Male;Outdoor
-PAL;7;MT47;100;0:10.62;1.3;Ferreira dos Santos;Petrucio;BRA;1996;MAR;Rabat;2026-04-23;Male;Outdoor
+PAL;7;MT47;100;0:10.60;0.2;Ferreira dos Santos;Petrucio;BRA;1996;BRA;São Paulo;2026-08-13;Male;Outdoor
 PAL;7;MT51;100;0:20.32;0.3;Fournie;Cody;CAN;1989;CAN;Victoria;2026-03-29;Male;Outdoor
 PAL;7;MT52;100;0:16.41;0.9;Bouchard;Anthony;CAN;1992;SUI;Nottwil;2026-05-23;Male;Outdoor
 PAL;7;MT53;100;0:14.98;-1.1;Siemann;Brian;USA;1989;USA;New York;2026-07-25;Male;Outdoor
@@ -34,18 +34,18 @@ PAL;7;MT53;200;0:26.74;0.3;Fernandes Da Silva;Ariosvaldo;BRA;1976;SUI;Nottwil;20
 PAL;7;MT54;200;0:26.68;2.0;Christophe;Isaiah;CAN;1994;CAN;Ottawa;2026-06-20;Male;Outdoor
 PAL;7;MT64;200;0:22.62;-1.3;Fortes;Wallison Andre;BRA;1996;BRA;Sao Paulo;2026-04-02;Male;Outdoor
 PAL;7;MT72;200;0:39.94;0.8;Anwar;Michael;USA;1995;SUI;Nottwil;2026-05-21;Male;Outdoor
-PAL;7;MT11;400;0:53.87;;Santos Gonzalez;Enderson German;VEN;1987;COL;Valledupar;2026-07-13;Male;Outdoor
+PAL;7;MT11;400;0:53.30;;Mendes Da Silva;Daniel;BRA;1979;BRA;São Paulo;2026-08-13;Male;Outdoor
 PAL;7;MT12;400;0:50.17;;Vazquez;Fernando;ARG;1999;COL;Valledupar;2026-07-13;Male;Outdoor
 PAL;7;MT13;400;0:49.84;;Acosta Manjarres;Yamil David;COL;1997;COL;Valledupar;2026-07-13;Male;Outdoor
 PAL;7;MT20;400;0:47.31;;Guarin Zapata;Samuel;COL;2004;COL;Valledupar;2026-07-13;Male;Outdoor
 PAL;7;MT34;400;0:49.34;;Smeenk;Austin;CAN;1997;SUI;Nottwil;2026-05-22;Male;Outdoor
 PAL;7;MT35;400;0:50.17;;Villa;Maximiliano;ARG;2007;COL;Valledupar;2026-07-13;Male;Outdoor
-PAL;7;MT36;400;1:03.65;;Winter;Sam;USA;2005;USA;New York;2026-07-23;Male;Outdoor
+PAL;7;MT36;400;0:58.82;;Dos Santos Rodrigues;Jonas Rairan;BRA;2005;BRA;São Paulo;2026-08-13;Male;Outdoor
 PAL;7;MT37;400;0:50.18;;Da Silva Chaves;Bartolomeu;BRA;2001;BRA;Sao Paulo;2026-04-01;Male;Outdoor
 PAL;7;MT38;400;0:47.23;;Blackwell;Jaydin;USA;2004;USA;New York;2026-07-24;Male;Outdoor
 PAL;7;MT45;400;0:51.34;;Sample;Rayven;USA;2002;USA;New York;2026-07-24;Male;Outdoor
 PAL;7;MT46;400;0:49.21;;Lara Rodallega;Luis Fernando;COL;2000;COL;Valledupar;2026-07-13;Male;Outdoor
-PAL;7;MT47;400;0:48.28;;de Moraes;Thomaz Ruan;BRA;2001;MAR;Rabat;2026-04-25;Male;Outdoor
+PAL;7;MT47;400;0:48.04;;de Moraes;Thomaz Ruan;BRA;2001;BRA;São Paulo;2026-08-13;Male;Outdoor
 PAL;7;MT51;400;1:09.17;;Fonseca;Ernesto;CRC;1981;SUI;Nottwil;2026-05-22;Male;Outdoor
 PAL;7;MT52;400;0:59.69;;Bouchard;Anthony;CAN;1992;SUI;Nottwil;2026-05-22;Male;Outdoor
 PAL;7;MT53;400;0:47.42;;Lakatos;Brent;CAN;1980;SUI;Nottwil;2026-05-22;Male;Outdoor
@@ -61,17 +61,17 @@ PAL;7;MT52;800;;;Rigo;Isaiah;USA;1999;USA;Spokane;2026-06-14;Male;Outdoor
 PAL;7;MT53;800;1:32.27;;Lakatos;Brent;CAN;1980;SUI;Nottwil;2026-05-21;Male;Outdoor
 PAL;7;MT54;800;1:30.91;;Romanchuk;Daniel;USA;1998;USA;New York;2026-07-24;Male;Outdoor
 PAL;7;MT11;1K5;4:11.57;;Caicedo;Jimmy;ECU;1997;COL;Valledupar;2026-07-15;Male;Outdoor
-PAL;7;MT12;1K5;4:09.42;;Oliveira Da Silva;Jean;BRA;1998;BRA;Sao Paulo;2026-06-12;Male;Outdoor
+PAL;7;MT12;1K5;4:01.64;;Oliveira Da Silva;Jean;BRA;1998;BRA;São Paulo;2026-08-13;Male;Outdoor
 PAL;7;MT13;1K5;3:41.65;;Gomez;Joel;USA;2003;USA;Portland;2026-06-20;Male;Outdoor
 PAL;7;MT20;1K5;3:52.73;;Brannigan;Michael;USA;1996;USA;Portland;2026-06-20;Male;Outdoor
 PAL;7;MT34;1K5;3:12.31;;Smeenk;Austin;CAN;1997;SUI;Arbon;2026-05-16;Male;Outdoor
-PAL;7;MT37;1K5;5:57.72;;Coelho Da Silva;Francisco Daniel;BRA;1989;BRA;Sao Paulo;2026-04-01;Male;Outdoor
+PAL;7;MT37;1K5;5:20.78;;Coelho Da Silva;Francisco Daniel;BRA;1989;BRA;São Paulo;2026-08-13;Male;Outdoor
 PAL;7;MT38;1K5;4:02.37;;Stanley;Liam;CAN;1997;CAN;Coquitlam;2026-05-30;Male;Outdoor
 PAL;7;MT46;1K5;3:52.69;;Upshaw;Tahmar;USA;2004;USA;Los Angeles;2026-06-13;Male;Outdoor
 PAL;7;MT52;1K5;3:52.00;;Perez Juarez;Leonardo De Jesus;MEX;1993;SUI;Arbon;2026-05-16;Male;Outdoor
 PAL;7;MT53;1K5;2:46.60;;Lakatos;Brent;CAN;1980;SUI;Nottwil;2026-05-23;Male;Outdoor
 PAL;7;MT54;1K5;2:47.77;;de Melo;Leonardo;BRA;1995;SUI;Nottwil;2026-05-23;Male;Outdoor
-PAL;7;MT11;5K0;15:58.87;;Jacques;Yeltsin;BRA;1991;BRA;Sao Paulo;2026-06-13;Male;Outdoor
+PAL;7;MT11;5K0;15:09.39;;Jacques;Yeltsin;BRA;1991;BRA;São Paulo;2026-08-14;Male;Outdoor
 PAL;7;MT12;5K0;15:05.68;;Moreta Criollo;Sixto Roman;ECU;1992;USA;ORLANDO;2026-03-21;Male;Outdoor
 PAL;7;MT13;5K0;15:23.73;;Gomez;Joel;USA;2003;USA;New York;2026-07-23;Male;Outdoor
 PAL;7;MT20;5K0;14:47.26;;Brannigan;Michael;USA;1996;USA;New York;2026-07-23;Male;Outdoor
@@ -107,27 +107,27 @@ PAL;7;MF12;KUG;15.31;;Huhta;Devin;USA;1984;USA;Chula Vista;2026-07-05;Male;Outdo
 PAL;7;MF20;KUG;14.84;;Santos;Wellington;BRA;1992;BRA;Sao Paulo;2026-04-02;Male;Outdoor
 PAL;7;MF34;KUG;12.05;;Valencia;Mauricio;COL;1987;UAE;Dubai;2026-02-10;Male;Outdoor
 PAL;7;MF35;KUG;14.62;;Urra;Hernan Emanuel;ARG;1996;ARG;Neuquen;2026-03-20;Male;Outdoor
-PAL;7;MF36;KUG;12.19;;Santos Da Silva;Rivander;BRA;1994;BRA;Sao Paulo;2026-04-02;Male;Outdoor
+PAL;7;MF36;KUG;12.54;;Santos Da Silva;Rivander;BRA;1994;BRA;São Paulo;2026-08-14;Male;Outdoor
 PAL;7;MF37;KUG;15.11;;Enriquez Gonzalez;Bryan Leonel;MEX;1998;MEX;Tlaxcala;2026-07-22;Male;Outdoor
-PAL;7;MF38;KUG;12.85;;Pires Mathias;Andre Luiz;BRA;2006;BRA;Sao Paulo;2026-04-02;Male;Outdoor
+PAL;7;MF38;KUG;12.99;;Pires Mathias;Andre Luiz;BRA;2006;BRA;São Paulo;2026-08-14;Male;Outdoor
 PAL;7;MF40;KUG;10.0;;Sanchez Vega;Ruben Nahum;MEX;2001;MEX;Tlaxcala;2026-07-23;Male;Outdoor
 PAL;7;MF41;KUG;11.9;;Landry;Hagan;USA;1994;USA;Chula Vista;2026-07-05;Male;Outdoor
-PAL;7;MF42;KUG;14.16;;Roberto Floriani;Edenilson;BRA;1990;BRA;Sao Paulo;2026-04-02;Male;Outdoor
+PAL;7;MF42;KUG;14.45;;Roberto Floriani;Edenilson;BRA;1990;BRA;São Paulo;2026-08-14;Male;Outdoor
 PAL;7;MF46;KUG;15.83;;Stewart;Greg;CAN;1986;CAN;Ottawa;2026-06-19;Male;Outdoor
 PAL;7;MF54;KUG;8.69;;Bohorquez Taborda;Alex Arlen;COL;1983;COL;Valledupar;2026-07-15;Male;Outdoor
 PAL;7;MF55;KUG;11.39;;Santos;Wallace;BRA;1984;BRA;Sao Paulo;2026-06-12;Male;Outdoor
 PAL;7;MF56;KUG;11.32;;Batista dos Santos;Claudiney;BRA;1978;BRA;Sao Paulo;2026-06-12;Male;Outdoor
-PAL;7;MF57;KUG;14.75;;Paulino dos Santos;Thiago;BRA;1985;BRA;Sao Paulo;2026-06-12;Male;Outdoor
+PAL;7;MF57;KUG;15.07;;Paulino dos Santos;Thiago;BRA;1985;BRA;São Paulo;2026-08-13;Male;Outdoor
 PAL;7;MF63;KUG;11.5;;Leal;Victor Eduardo;COL;1986;COL;Valledupar;2026-07-15;Male;Outdoor
 PAL;7;MF11;DIS;40.84;;Da Silva;Alessandro Rodrigo;BRA;1984;MAR;Rabat;2026-04-24;Male;Outdoor
 PAL;7;MF34;DIS;30.48;;Meneses Medina;Diego Fernando;COL;1998;ESP;Basauri;2026-05-31;Male;Outdoor
 PAL;7;MF37;DIS;52.79;;Varela Meza;Edwars Alexander;VEN;1993;COL;Valledupar;2026-07-14;Male;Outdoor
-PAL;7;MF42;DIS;28.58;;de Sousa;Mauro Evaristo;BRA;1964;BRA;Sao Paulo;2026-04-01;Male;Outdoor
+PAL;7;MF42;DIS;30.56;;de Sousa;Mauro Evaristo;BRA;1964;BRA;São Paulo;2026-08-13;Male;Outdoor
 PAL;4;MF43;DIS;56.25;;Stewart;Akeem;TTO;1992;JAM;Kingston;2026-03-21;Male;Outdoor
 PAL;7;MF44;DIS;58.0;;Mosquera Neira;Andres Felipe;COL;1985;MAR;Rabat;2026-04-23;Male;Outdoor
 PAL;7;MF52;DIS;20.35;;Rocha;Andre;BRA;1977;BRA;Sao Paulo;2026-04-02;Male;Outdoor
 PAL;7;MF55;DIS;34.31;;Pacheco;Kenny;PER;1991;ESP;Basauri;2026-05-31;Male;Outdoor
-PAL;7;MF56;DIS;42.1;;Batista dos Santos;Claudiney;BRA;1978;BRA;Sao Paulo;2026-04-02;Male;Outdoor
+PAL;7;MF56;DIS;43.02;;Batista dos Santos;Claudiney;BRA;1978;BRA;São Paulo;2026-08-14;Male;Outdoor
 PAL;7;MF57;DIS;42.45;;Paulino dos Santos;Thiago;BRA;1985;MAR;Rabat;2026-04-24;Male;Outdoor
 PAL;7;MF63;DIS;30.24;;Felipa;Carlos;PER;1981;COL;Valledupar;2026-07-13;Male;Outdoor
 PAL;7;MF64;DIS;62.43;;Campbell;Jeremy;USA;1987;USA;Ramona;2026-04-12;Male;Outdoor
@@ -141,23 +141,25 @@ PAL;7;MF41;SPE;37.29;;Castro Martinez;Ever Rene;CUB;1993;TUN;Tunis;2026-06-19;Ma
 PAL;7;MF42;SPE;58.58;;Roberto Floriani;Edenilson;BRA;1990;BRA;Sao Paulo;2026-04-01;Male;Outdoor
 PAL;7;MF44;SPE;37.75;;Diaz Reyes;Ian Carlos;MEX;2005;UAE;Dubai;2026-02-10;Male;Outdoor
 PAL;7;MF46;SPE;54.9;;Varona Gonzalez;Guillermo;CUB;1995;TUN;Tunis;2026-06-16;Male;Outdoor
+PAL;7;MF52;SPE;11.82;;Freitas;Cleiton;BRA;1991;BRA;São Paulo;2026-08-13;Male;Outdoor
 PAL;7;MF54;SPE;26.21;;Rodrigues;Jose;BRA;1970;BRA;Sao Paulo;2026-06-12;Male;Outdoor
-PAL;7;MF55;SPE;24.77;;Murillo;Cristofer;PAN;1996;COL;Valledupar;2026-07-13;Male;Outdoor
+PAL;7;MF55;SPE;29.84;;Varelo de Oliveira;Sandro;BRA;1981;BRA;São Paulo;2026-08-13;Male;Outdoor
 PAL;7;MF56;SPE;40.18;;Batista dos Santos;Claudiney;BRA;1978;BRA;Sao Paulo;2026-04-01;Male;Outdoor
-PAL;7;MF57;SPE;47.77;;Lins Nobre;Cicero Valdiran;BRA;1992;BRA;Sao Paulo;2026-04-01;Male;Outdoor
+PAL;7;MF57;SPE;49.08;;Lins Nobre;Cicero Valdiran;BRA;1992;BRA;São Paulo;2026-08-13;Male;Outdoor
 PAL;7;MF64;SPE;49.42;;Soto Mina;Tomas Felipe;COL;2007;MAR;Rabat;2026-04-25;Male;Outdoor
 PAL;7;MF51;KEU;21.78;;Bolivar;Eric;PER;1979;ESP;Basauri;2026-05-31;Male;Outdoor
-PAL;7;WT11;100;0:12.13;0.5;Vargas Ruiz;Franyeli Nataly;VEN;2001;COL;Valledupar;2026-07-12;Female;Outdoor
-PAL;7;WT12;100;0:12.01;0.0;Gomes de Aguiar;Lorraine;BRA;1997;COL;Valledupar;2026-07-12;Female;Outdoor
+PAL;7;WT11;100;0:12.03;0.7;Geber dos Santos;Jerusa;BRA;1982;BRA;São Paulo;2026-08-13;Female;Outdoor
 PAL;7;WT13;100;0:11.90;0.0;Soares Da Silva;Rayane;BRA;1997;BRA;Sao Paulo;2026-04-01;Female;Outdoor
 PAL;7;WT34;100;0:18.46;1.8;Williamson;Linden;USA;2001;CZE;Olomouc;2026-07-04;Female;Outdoor
 PAL;7;WT35;100;0:13.82;0.3;Lima de Araujo;Maria Clara;BRA;2011;BRA;São Paulo;2026-08-13;Female;Outdoor
 PAL;7;WT36;100;0:14.23;0.7;Rotela;Araceli;ARG;2004;COL;Valledupar;2026-07-12;Female;Outdoor
+PAL;7;WT37;100;0:14.09;0.3;Vitoria Pedroso;Marcelly;BRA;2002;BRA;São Paulo;2026-08-13;Female;Outdoor
 PAL;7;WT38;100;0:12.27;0.0;Mejia Morales;Angie Nicoll;COL;2009;COL;Valledupar;2026-07-12;Female;Outdoor
 PAL;7;WT42;100;0:16.70;0.1;Da Silva;Ana Claudia Maria;BRA;1987;BRA;Sao Paulo;2026-04-01;Female;Outdoor
 PAL;7;WT44;100;0:14.05;-1.4;Carey;Annie;USA;2004;USA;New York;2026-07-25;Female;Outdoor
+PAL;7;WT45;100;0:15.28;0.2;dos Santos Silva;Nanilza;BRA;1986;BRA;São Paulo;2026-08-13;Female;Outdoor
 PAL;7;WT46;100;0:12.05;1.0;Mason;Brittni;USA;1998;USA;Eugene;2026-07-04;Female;Outdoor
-PAL;7;WT47;100;0:12.48;0.2;Dunbar;Chloe;CAN;2009;CAN;Ottawa;2026-06-17;Female;Outdoor
+PAL;7;WT47;100;0:12.33;0.7;Augusto Da Silva;Maria Clara;BRA;2004;BRA;São Paulo;2026-08-13;Female;Outdoor
 PAL;7;WT53;100;0:15.22;1.0;Lewis;Jessica Cooper;BER;1993;SUI;Nottwil;2026-05-23;Female;Outdoor
 PAL;7;WT54;100;0:15.37;0.4;McFadden;Tatyana;USA;1989;SUI;Nottwil;2026-05-23;Female;Outdoor
 PAL;7;WT62;100;0:15.66;0.2;Rosenthal;Lillian;USA;2007;USA;Appleton;2026-05-01;Female;Outdoor
@@ -170,16 +172,18 @@ PAL;7;WT13;200;0:25.74;0.2;Crosby;Kym;USA;1993;SUI;Nottwil;2026-05-21;Female;Out
 PAL;7;WT34;200;0:36.33;-0.9;Link;Carolanne;USA;1995;USA;Tempe;2026-05-29;Female;Outdoor
 PAL;7;WT35;200;0:29.13;-0.8;Lima de Araujo;Maria Clara;BRA;2011;BRA;Sao Paulo;2026-06-13;Female;Outdoor
 PAL;7;WT36;200;0:29.95;-1.2;Rotela;Araceli;ARG;2004;COL;Valledupar;2026-07-14;Female;Outdoor
-PAL;7;WT37;200;0:30.74;1.5;Cross;Michelle;USA;2000;USA;San Diego;2026-03-20;Female;Outdoor
+PAL;7;WT37;200;0:29.91;0.6;Vitoria Pedroso;Marcelly;BRA;2002;BRA;São Paulo;2026-08-14;Female;Outdoor
 PAL;7;WT38;200;0:26.69;-1.0;Palomeque Moreno;Karen Tatiana;COL;1994;UAE;Dubai;2026-02-10;Female;Outdoor
 PAL;7;WT44;200;0:28.60;0.7;Carey;Annie;USA;2004;CZE;Olomouc;2026-07-02;Female;Outdoor
+PAL;7;WT45;200;0:33.26;0.6;dos Santos Silva;Nanilza;BRA;1986;BRA;São Paulo;2026-08-14;Female;Outdoor
 PAL;7;WT46;200;0:24.93;-1.5;Rodriguez;Kiara;ECU;2002;COL;Valledupar;2026-07-14;Female;Outdoor
+PAL;7;WT47;200;0:24.95;1.4;Augusto Da Silva;Maria Clara;BRA;2004;BRA;São Paulo;2026-08-14;Female;Outdoor
 PAL;7;WT53;200;0:27.98;0.6;Lewis;Jessica Cooper;BER;1993;SUI;Nottwil;2026-05-21;Female;Outdoor
 PAL;7;WT54;200;0:31.72;0.6;Fought;Autumn;USA;2009;USA;Grand Rapids;2026-07-12;Female;Outdoor
 PAL;7;WT64;200;0:26.37;1.7;Barta;Sydney;USA;2004;USA;Walnut;2026-04-18;Female;Outdoor
 PAL;7;WT11;400;0:57.38;;Pabon Mamian;Angie Lizeth;COL;1997;COL;Valledupar;2026-07-13;Female;Outdoor
 PAL;7;WT12;400;0:56.07;;Gomes de Aguiar;Lorraine;BRA;1997;COL;Valledupar;2026-07-13;Female;Outdoor
-PAL;7;WT13;400;0:56.61;;Soares Da Silva;Rayane;BRA;1997;BRA;Sao Paulo;2026-04-01;Female;Outdoor
+PAL;7;WT13;400;0:56.28;;Soares Da Silva;Rayane;BRA;1997;BRA;São Paulo;2026-08-13;Female;Outdoor
 PAL;7;WT20;400;0:54.79;;Vera Colina;Leonela Coromoto;VEN;2004;COL;Valledupar;2026-07-13;Female;Outdoor
 PAL;7;WT34;400;0:57.72;;Williamson;Linden;USA;2001;USA;New York;2026-07-23;Female;Outdoor
 PAL;7;WT37;400;1:08.97;;Dortone;Riley;USA;2006;USA;New York;2026-07-24;Female;Outdoor
@@ -195,7 +199,8 @@ PAL;7;WT34;800;1:57.07;;Williamson;Linden;USA;2001;USA;New York;2026-07-24;Femal
 PAL;7;WT36;800;3:22.33;;Burbach;Cristina;USA;1974;CZE;Olomouc;2026-07-02;Female;Outdoor
 PAL;7;WT53;800;2:01.69;;Hoang;Yen;USA;1997;USA;New York;2026-07-24;Female;Outdoor
 PAL;7;WT54;800;1:41.14;;McFadden;Tatyana;USA;1989;SUI;Nottwil;2026-05-21;Female;Outdoor
-PAL;7;WT11;1K5;5:02.17;;Venancio de Oliveira;Isadora;BRA;2004;BRA;Sao Paulo;2026-04-01;Female;Outdoor
+PAL;7;WT11;1K5;4:58.73;;Muller;Camila;BRA;1994;BRA;São Paulo;2026-08-13;Female;Outdoor
+PAL;7;WT12;1K5;5:25.46;;de Jesus Santos;Edneusa;BRA;1976;BRA;São Paulo;2026-08-13;Female;Outdoor
 PAL;7;WT13;1K5;4:23.13;;Corso;Liza;USA;2003;USA;Nashville;2026-05-01;Female;Outdoor
 PAL;7;WT20;1K5;4:32.66;;Da Silva Barros;Antonia Keyla;BRA;1994;BRA;Sao Paulo;2026-04-01;Female;Outdoor
 PAL;7;WT34;1K5;4:09.38;;Houston;Eva;USA;2001;SUI;Nottwil;2026-05-23;Female;Outdoor
@@ -216,14 +221,14 @@ PAL;7;WT53;MAR;1:54:38;;Stein;Chelsea;USA;2003;USA;Boston;2026-04-20;Female;Outd
 PAL;7;WT54;MAR;1:36:43;;McFadden;Tatyana;USA;1989;USA;Boston;2026-04-20;Female;Outdoor
 PAL;7;WT11;WEI;4.35;1.0;Casse;Sofia Valentina;ARG;2006;ARG;Buenos Aires;2026-06-13;Female;Outdoor
 PAL;7;WT12;WEI;5.03;0.6;Cerrudo;Candela;ARG;2000;ARG;Buenos Aires;2026-06-13;Female;Outdoor
-PAL;7;WT20;WEI;5.79;-0.5;Cassiano Da Silva;Zileide;BRA;1998;MAR;Rabat;2026-04-23;Female;Outdoor
+PAL;7;WT20;WEI;6.03;0.7;Cassiano Da Silva;Zileide;BRA;1998;BRA;São Paulo;2026-08-14;Female;Outdoor
 PAL;7;WT36;WEI;3.43;-1.8;Hwang;Kate;USA;1980;USA;Cottleville;2026-05-16;Female;Outdoor
 PAL;7;WT37;WEI;3.73;1.7;Beaudoin;Margaret;USA;2000;USA;Willamette;2026-06-07;Female;Outdoor
 PAL;7;WT38;WEI;5.51;0.0;Mejia Morales;Angie Nicoll;COL;2009;ESP;Basauri;2026-05-31;Female;Outdoor
 PAL;7;WT42;WEI;3.81;1.7;Da Silva;Ana Claudia Maria;BRA;1987;BRA;Sao Paulo;2026-04-02;Female;Outdoor
 PAL;7;WT44;WEI;4.89;1.6;Carey;Annie;USA;2004;USA;New York;2026-07-23;Female;Outdoor
 PAL;7;WT46;WEI;6.1;-2.3;Rodriguez;Kiara;ECU;2002;COL;Valledupar;2026-07-15;Female;Outdoor
-PAL;7;WT47;WEI;5.14;-1.6;Ibanez;Aldana Isabel;ARG;1997;COL;Valledupar;2026-07-15;Female;Outdoor
+PAL;7;WT47;WEI;5.15;0.1;Abreu Da Silva;Clariene;BRA;1989;BRA;São Paulo;2026-08-14;Female;Outdoor
 PAL;7;WT62;WEI;4.04;0.8;Rosenthal;Lillian;USA;2007;USA;Ann Arbor;2026-06-27;Female;Outdoor
 PAL;7;WT63;WEI;4.07;-2.0;Marcusen;Lindi;USA;1996;USA;New York;2026-07-23;Female;Outdoor
 PAL;7;WT64;WEI;5.47;2.0;Hatz;B;USA;2000;USA;Chula Vista;2026-07-05;Female;Outdoor
@@ -247,7 +252,7 @@ PAL;7;WF54;KUG;5.65;;Sousa;Poliana;BRA;1986;BRA;Sao Paulo;2026-06-12;Female;Outd
 PAL;7;WF55;KUG;6.81;;Castano Salazar;Erica Maria;COL;1985;COL;Cali;2026-02-26;Female;Outdoor
 PAL;7;WF56;KUG;6.82;;Contreras Roman;Kenia Marlenne;MEX;1997;USA;Tempe;2026-05-29;Female;Outdoor
 PAL;7;WF57;KUG;10.01;;Leal Baptista;Caroline;BRA;1992;COL;Valledupar;2026-07-14;Female;Outdoor
-PAL;7;WF64;KUG;10.0;;Guerrero;Alicia;USA;2003;USA;San Antonio;2026-04-24;Female;Outdoor
+PAL;7;WF64;KUG;10.1;;Silva Araujo;Fabia Mayra;BRA;1993;BRA;São Paulo;2026-08-13;Female;Outdoor
 PAL;7;WF11;DIS;37.17;;Campos;Izabela;BRA;1981;COL;Valledupar;2026-07-14;Female;Outdoor
 PAL;7;WF32;DIS;13.8;;Manigo;Peyton;USA;2006;USA;Ann Arbor;2026-06-26;Female;Outdoor
 PAL;7;WF33;DIS;17.34;;Cota Vera;Gilda Guadalupe;MEX;1989;USA;Tempe;2026-05-29;Female;Outdoor
@@ -274,9 +279,9 @@ PAL;7;WF40;SPE;31.74;;Munoz Nieto;Yesica Paola;COL;2008;COL;Valledupar;2026-07-1
 PAL;7;WF46;SPE;38.92;;Rodriguez;Patricia;VEN;1998;COL;Valledupar;2026-07-15;Female;Outdoor
 PAL;7;WF52;SPE;6.48;;Ens;Nikita;CAN;1988;CAN;Saskatoon;2026-06-13;Female;Outdoor
 PAL;7;WF53;SPE;13.46;;Rodrigues Gomes;Elizabeth;BRA;1965;BRA;Sao Paulo;2026-04-02;Female;Outdoor
-PAL;7;WF54;SPE;13.99;;Sousa;Poliana;BRA;1986;BRA;Sao Paulo;2026-06-13;Female;Outdoor
+PAL;7;WF54;SPE;14.68;;Sousa;Poliana;BRA;1986;BRA;São Paulo;2026-08-14;Female;Outdoor
 PAL;7;WF55;SPE;20.19;;Navarro Hernandez;Maria Guadalupe;MEX;2006;USA;Tempe;2026-05-30;Female;Outdoor
-PAL;7;WF56;SPE;22.82;;Rocha Machado;Raissa;BRA;1996;BRA;Sao Paulo;2026-06-13;Female;Outdoor
+PAL;7;WF56;SPE;23.09;;Rocha Machado;Raissa;BRA;1996;BRA;São Paulo;2026-08-14;Female;Outdoor
 PAL;7;WF57;SPE;16.17;;Gardner;Christy;USA;1982;USA;Tempe;2026-05-30;Female;Outdoor
 PAL;7;WF62;SPE;22.28;;Rosenthal;Lillian;USA;2007;USA;Appleton;2026-05-01;Female;Outdoor
 PAL;7;WF64;SPE;16.69;;Chavez;Chloe;USA;2006;USA;Edmond;2026-06-13;Female;Outdoor

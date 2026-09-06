@@ -1,6 +1,6 @@
 Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Geschlecht;Umgebung
 PAL;5;MT11;100;0:11.25;0.0;Di;Dongdong;CHN;1993;CHN;Beijing;2026-07-06;Male;Outdoor
-PAL;5;MT12;100;0:11.04;0.1;Kuno;Ryutaro;JPN;1999;JPN;Ishikawa;2026-06-13;Male;Outdoor
+PAL;5;MT12;100;0:10.85;1.1;Kuno;Ryutaro;JPN;1999;JPN;Mihama;2026-08-22;Male;Outdoor
 PAL;5;MT13;100;0:10.85;1.0;Kawakami;Shuta;JPN;1998;JPN;Ishikawa;2026-06-13;Male;Outdoor
 PAL;5;MT33;100;0:22.37;-1.8;Aladwani;Mohammad;KUW;2006;UAE;Dubai;2026-02-10;Male;Outdoor
 PAL;5;MT34;100;0:14.72;0.9;Othman;Mohamad;UAE;2004;SUI;Arbon;2026-05-17;Male;Outdoor
@@ -88,7 +88,7 @@ PAL;5;MT53;5S;11:07.0;;Watanabe;Sho;JPN;1991;USA;Boston;2026-04-18;Male;Outdoor
 PAL;5;MT54;5S;11:07.0;;Watanabe;Sho;JPN;1991;USA;Boston;2026-04-18;Male;Outdoor
 PAL;5;MT54;HAM;46:33.0;;Yoshida;Ryota;JPN;1981;JPN;Sendai;2026-05-10;Male;Outdoor
 PAL;5;MT11;MAR;2:24:58;;Wada;Shinya;JPN;1977;JPN;Oita;2026-02-01;Male;Outdoor
-PAL;5;MT12;MAR;2:28:28;;Horikoshi;Tadashi;JPN;1988;JPN;Oita;2026-02-01;Male;Outdoor
+PAL;5;MT12;MAR;2:27:57;;Kumagai;Yutaka;JPN;1987;JPN;Sapporo;2026-08-30;Male;Outdoor
 PAL;5;MT53;MAR;1:41:19;;Matsunaga;Hitoshi;JPN;1972;JPN;Tokyo;2026-03-01;Male;Outdoor
 PAL;5;MT54;MAR;1:25:05;;Luo;Xingchuan;CHN;2002;USA;Boston;2026-04-20;Male;Outdoor
 PAL;5;MT44;HOC;2.0;;;Praveen Kumar;IND;2003;IND;Bangalore;2026-05-27;Male;Outdoor
@@ -186,7 +186,7 @@ PAL;5;WT42;100;0:14.48;0.4;Tiarani;Karisma Evi;INA;2001;THA;Nakhon Ratchasima;20
 PAL;5;WT44;100;0:16.74;-0.2;Munniyandi;Bhavani;IND;1992;IND;Bangalore;2026-05-26;Female;Outdoor
 PAL;5;WT46;100;0:13.26;0.9;Chakkungalparambil Suresh;Nimisha;IND;2001;IND;New Delhi;2026-03-11;Female;Outdoor
 PAL;5;WT47;100;0:12.47;-0.2;Sholihah;Nanda Mei;INA;1999;TUN;Tunis;2026-06-16;Female;Outdoor
-PAL;5;WT52;100;0:23.24;1.1;Tanaka;Teruyo;JPN;1959;JPN;Nagoya;2026-05-16;Female;Outdoor
+PAL;5;WT52;100;0:22.73;1.9;Tanaka;Teruyo;JPN;1959;JPN;Mihama;2026-08-22;Female;Outdoor
 PAL;5;WT53;100;0:16.84;1.0;Zhou;Hongzhuan;CHN;1988;SUI;Nottwil;2026-05-23;Female;Outdoor
 PAL;5;WT54;100;0:16.11;0.4;Zhou;Zhaoqian;CHN;1997;SUI;Nottwil;2026-05-23;Female;Outdoor
 PAL;5;WT63;100;0:15.95;0.5;Tozawa;Tomomi;JPN;1999;JPN;Nagoya;2026-05-16;Female;Outdoor
@@ -202,6 +202,7 @@ PAL;5;WT37;200;0:28.27;-0.8;Jiang;Fenfen;CHN;1997;CHN;Beijing;2026-07-07;Female;
 PAL;5;WT38;200;0:30.11;1.1;Takamatsu;Yuka;JPN;1993;JPN;Ishikawa;2026-06-14;Female;Outdoor
 PAL;5;WT46;200;0:26.96;0.1;Yan;Jing;CHN;2002;MAR;Rabat;2026-04-24;Female;Outdoor
 PAL;5;WT47;200;0:26.17;1.9;Inthachot;Sasirawan;THA;2003;CZE;Olomouc;2026-07-02;Female;Outdoor
+PAL;5;WT52;200;0:43.15;1.0;Tanaka;Teruyo;JPN;1959;JPN;Mihama;2026-08-22;Female;Outdoor
 PAL;5;WT53;200;0:28.98;0.6;Zhou;Hongzhuan;CHN;1988;SUI;Nottwil;2026-05-21;Female;Outdoor
 PAL;5;WT54;200;0:31.53;0.2;Sami Yati;Maria Goretti;INA;1988;THA;Nakhon Ratchasima;2026-01-22;Female;Outdoor
 PAL;5;WT62;200;0:33.23;0.7;Suleimenova;Aisulu;KAZ;1991;CZE;Olomouc;2026-07-02;Female;Outdoor
@@ -224,7 +225,7 @@ PAL;1;WT72;400;2:22.26;;Kaymatdinova;Nabira;UZB;2003;CZE;Olomouc;2026-07-04;Fema
 PAL;5;WT13;800;2:48.97;;Yimin;Wassana;THA;1998;THA;Nakhon Ratchasima;2026-01-22;Female;Outdoor
 PAL;5;WT20;800;2:20.11;;Fujiwara;Yuna;JPN;2002;JPN;Nagoya;2026-05-17;Female;Outdoor
 PAL;5;WT34;800;1:58.22;;Li;Xiaoman;CHN;2009;SUI;Nottwil;2026-05-21;Female;Outdoor
-PAL;5;WT52;800;2:55.97;;Kiyama;Yuka;JPN;1983;AUS;Canberra;2026-01-22;Female;Outdoor
+PAL;5;WT52;800;2:54.79;;Kiyama;Yuka;JPN;1983;JPN;Mihama;2026-08-22;Female;Outdoor
 PAL;5;WT53;800;1:47.22;;Zhou;Hongzhuan;CHN;1988;SUI;Nottwil;2026-05-21;Female;Outdoor
 PAL;5;WT54;800;1:42.34;;Zhou;Zhaoqian;CHN;1997;SUI;Nottwil;2026-05-21;Female;Outdoor
 PAL;5;WT11;1K5;4:49.41;;He;Shanshan;CHN;1999;CHN;Beijing;2026-07-08;Female;Outdoor
