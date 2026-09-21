@@ -1,7 +1,7 @@
 Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Geschlecht;Umgebung
 PAL;5;MT11;100;0:11.25;0.0;Di;Dongdong;CHN;1993;CHN;Beijing;2026-07-06;Male;Outdoor
 PAL;5;MT12;100;0:10.85;1.1;Kuno;Ryutaro;JPN;1999;JPN;Mihama;2026-08-22;Male;Outdoor
-PAL;5;MT13;100;0:10.85;1.0;Kawakami;Shuta;JPN;1998;JPN;Ishikawa;2026-06-13;Male;Outdoor
+PAL;5;MT13;100;0:10.83;1.7;Fukunaga;Ryota;JPN;1998;JPN;Kyoto;2026-09-12;Male;Outdoor
 PAL;5;MT33;100;0:22.37;-1.8;Aladwani;Mohammad;KUW;2006;UAE;Dubai;2026-02-10;Male;Outdoor
 PAL;5;MT34;100;0:14.72;0.9;Othman;Mohamad;UAE;2004;SUI;Arbon;2026-05-17;Male;Outdoor
 PAL;5;MT35;100;0:12.75;-2.6;Zare;Alireza;IRI;1994;IRI;Tehran;2026-07-02;Male;Outdoor
@@ -211,6 +211,7 @@ PAL;5;WT64;200;0:29.11;-0.1;Yamashita;Chie;JPN;1997;JPN;Nagoya;2026-05-17;Female
 PAL;5;WT71;200;2:06.50;0.1;Yao;Yu-Mi;TPE;2008;DEN;Bagsværd;2026-07-11;Female;Outdoor
 PAL;5;WT11;400;1:02.64;;Tanomwong;Suneeporn;THA;1988;CZE;Olomouc;2026-07-03;Female;Outdoor
 PAL;5;WT12;400;0:56.42;;Damor;Tejalben Amraji;IND;2002;IND;Bangalore;2026-05-27;Female;Outdoor
+PAL;5;WT13;400;0:58.77;;Sasaki;Mana;JPN;1997;JPN;Kyoto;2026-09-12;Female;Outdoor
 PAL;5;WT20;400;0:57.84;;Jeevanji;Deepthi;IND;2003;IND;Bangalore;2026-05-27;Female;Outdoor
 PAL;5;WT34;400;0:59.37;;Li;Xiaoman;CHN;2009;SUI;Nottwil;2026-05-22;Female;Outdoor
 PAL;5;WT36;400;1:29.95;;Nurhaida;Insan;INA;1987;THA;Nakhon Ratchasima;2026-01-23;Female;Outdoor
