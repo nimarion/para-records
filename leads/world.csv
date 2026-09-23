@@ -232,7 +232,7 @@ WL;;WT42;100;0:14.48;0.4;Tiarani;Karisma Evi;INA;2001;THA;Nakhon Ratchasima;2026
 WL;;WT44;100;0:13.73;0.9;Jackson;Bebe;GBR;2005;GBR;London;2026-06-09;Female;Outdoor
 WL;;WT45;100;0:15.28;0.2;dos Santos Silva;Nanilza;BRA;1986;BRA;São Paulo;2026-08-13;Female;Outdoor
 WL;;WT46;100;0:12.05;1.0;Mason;Brittni;USA;1998;USA;Eugene;2026-07-04;Female;Outdoor
-WL;;WT47;100;0:12.33;0.7;Augusto Da Silva;Maria Clara;BRA;2004;BRA;São Paulo;2026-08-13;Female;Outdoor
+WL;;WT47;100;0:12.12;0.6;Augusto Da Silva;Maria Clara;BRA;2004;NED;Hengelo;2026-06-21;Female;Outdoor
 WL;;WT52;100;0:22.73;1.9;Tanaka;Teruyo;JPN;1959;JPN;Mihama;2026-08-22;Female;Outdoor
 WL;;WT54;100;0:15.36;0.4;Kotaja;Amanda;FIN;1995;SUI;Nottwil;2026-05-23;Female;Outdoor
 WL;;WT62;100;0:12.08;0.9;Jong;Fleur;NED;1995;GBR;London;2026-08-09;Female;Outdoor
@@ -332,9 +332,9 @@ WL;;WT38;WEI;5.51;0.0;Mejia Morales;Angie Nicoll;COL;2009;ESP;Basauri;2026-05-31
 WL;;WT42;WEI;4.14;-0.1;Tiarani;Karisma Evi;INA;2001;THA;Nakhon Ratchasima;2026-01-23;Female;Outdoor
 WL;;WT44;WEI;4.89;1.6;Carey;Annie;USA;2004;USA;New York;2026-07-23;Female;Outdoor
 WL;;WT46;WEI;6.1;-2.3;Rodriguez;Kiara;ECU;2002;COL;Valledupar;2026-07-15;Female;Outdoor
-WL;;WT47;WEI;5.75;-0.1;Noerremark;Bjoerk;DEN;2002;DEN;Frederiksberg;2026-06-06;Female;Outdoor
+WL;;WT47;WEI;5.86;0.0;Noerremark;Bjoerk;DEN;2002;NED;Hengelo;2026-06-21;Female;Outdoor
 WL;;WT61;WEI;4.36;0.5;Yuguchi;Erina;JPN;2000;GER;Leverkusen;2026-07-18;Female;Outdoor
-WL;;WT62;WEI;6.88;0.0;Jong;Fleur;NED;1995;AUT;Innsbruck;2026-10-13;Female;Outdoor
+WL;;WT62;WEI;7.06;1.6;Jong;Fleur;NED;1995;BEL;Oordegem;2026-08-25;Female;Outdoor
 WL;;WT63;WEI;5.29;0.0;Kratter;Elena;SUI;1996;GER;Essen;2026-06-20;Female;Outdoor
 WL;;WT64;WEI;5.47;2.0;Hatz;B;USA;2000;USA;Chula Vista;2026-07-05;Female;Outdoor
 WL;;WF11;KUG;13.29;;Legnante;Assunta;ITA;1978;ITA;Osimo (AN);2026-05-03;Female;Outdoor
@@ -345,7 +345,7 @@ WL;;WF32;KUG;8.31;;Brito Oliveira;Wanna Helena;BRA;1996;BRA;Sao Paulo;2026-06-12
 WL;;WF33;KUG;8.55;;Cota Vera;Gilda Guadalupe;MEX;1989;USA;Tempe;2026-05-29;Female;Outdoor
 WL;;WF34;KUG;8.34;;Zou;Lijuan;CHN;1994;CHN;Beijing;2026-07-08;Female;Outdoor
 WL;;WF35;KUG;12.4;;Pomazan;Mariia;UKR;1988;TUN;Tunis;2026-06-18;Female;Outdoor
-WL;;WF36;KUG;9.07;;Hwang;Kate;USA;1980;USA;Cottleville;2026-05-16;Female;Outdoor
+WL;;WF36;KUG;9.45;;Bouthoorn;Cheyenne;NED;1997;NED;Assen;2026-06-14;Female;Outdoor
 WL;;WF37;KUG;13.61;;Adams;Lisa;NZL;1990;AUS;Darwin;2026-05-20;Female;Outdoor
 WL;;WF38;KUG;12.38;;Kruger;Simone;RSA;2005;RSA;Stellenbosch;2026-03-28;Female;Outdoor
 WL;;WF40;KUG;9.49;;Baars;Lara;NED;1996;GER;Halle (Saale);2026-05-16;Female;Outdoor
