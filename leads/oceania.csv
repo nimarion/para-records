@@ -41,7 +41,7 @@ PAL;6;MT38;800;1:52.07;;Langdon;Reece;AUS;1996;AUS;Melbourne;2026-03-05;Male;Out
 PAL;6;MT53;800;2:06.25;;Colman;Richard;AUS;1984;AUS;Canberra;2026-01-22;Male;Outdoor
 PAL;6;MT54;800;1:40.56;;Rizzo;Samuel;AUS;2000;AUS;Canberra;2026-01-22;Male;Outdoor
 PAL;6;MT13;1K5;4:05.76;;Short;William;AUS;2007;AUS;Melbourne;2026-03-05;Male;Outdoor
-PAL;6;MT20;1K5;4:07.94;;Hewett;Archer;AUS;2006;AUS;Melbourne;2026-03-05;Male;Outdoor
+PAL;6;MT20;1K5;4:07.71;;Hewett;Archer;AUS;2006;GBR;Glasgow;2026-07-27;Male;Outdoor
 PAL;6;MT37;1K5;4:21.23;;Reeve;Leopold;AUS;2007;AUS;Melbourne;2026-03-05;Male;Outdoor
 PAL;6;MT38;1K5;3:46.71;;Hincksman;Angus;AUS;2005;AUS;Sydney;2026-04-09;Male;Outdoor
 PAL;6;MT46;1K5;3:52.13;;Roeger;Michael;AUS;1988;AUS;Sydney;2026-04-09;Male;Outdoor
@@ -69,7 +69,7 @@ PAL;6;MF38;KUG;15.4;;Crombie;Cameron;AUS;1986;AUS;Sydney;2026-04-11;Male;Outdoor
 PAL;6;MF40;KUG;4.8;;Chisholm;Josh;NZL;2000;NZL;Auckland;2026-03-06;Male;Outdoor
 PAL;6;MF42;KUG;11.16;;Konataci;Sitiveni;FIJ;2003;AUS;Darwin;2026-05-20;Male;Outdoor
 PAL;6;MF46;KUG;14.77;;O'Halloran;Lee;AUS;1997;AUS;Darwin;2026-05-20;Male;Outdoor
-PAL;6;MF56;KUG;10.25;;Sheppard;Matthew;AUS;1988;AUS;Canberra;2026-01-25;Male;Outdoor
+PAL;6;MF56;KUG;10.29;;Sheppard;Matthew;AUS;1988;GBR;Glasgow;2026-08-01;Male;Outdoor
 PAL;6;MF57;KUG;10.02;;Martin;Stephen;AUS;1993;AUS;Brisbane;2026-03-25;Male;Outdoor
 PAL;6;MF13;DIS;37.74;;Hanning;Corran;NZL;2004;NZL;Hastings;2026-01-17;Male;Outdoor
 PAL;6;MF32;DIS;3.67;;Mattinson;Thomas;AUS;2009;AUS;Adelaide;2026-03-08;Male;Outdoor
@@ -96,9 +96,9 @@ PAL;6;WT34;100;0:20.63;1.1;Espie;Coco;AUS;2008;SUI;Arbon;2026-05-17;Female;Outdo
 PAL;6;WT35;100;0:16.24;1.8;Giddings;Summer;AUS;2002;AUS;Sydney;2026-03-08;Female;Outdoor
 PAL;6;WT36;100;0:13.20;1.6;Aitchison;Danielle;NZL;2001;AUS;Darwin;2026-05-18;Female;Outdoor
 PAL;6;WT37;100;0:14.16;1.6;Snowden;Akeesha;AUS;2005;AUS;Adelaide;2026-03-07;Female;Outdoor
-PAL;6;WT38;100;0:13.00;1.1;Clarke;Rhiannon;AUS;2002;AUS;Perth;2026-03-07;Female;Outdoor
+PAL;6;WT38;100;0:12.94;1.4;Clarke;Rhiannon;AUS;2002;GBR;Glasgow;2026-07-27;Female;Outdoor
 PAL;6;WT44;100;0:14.03;1.6;Elcoate;Makayla;AUS;2011;AUS;Darwin;2026-05-18;Female;Outdoor
-PAL;6;WT47;100;0:12.59;0.7;Grimaldi;Anna;NZL;1997;GBR;London;2026-07-18;Female;Outdoor
+PAL;6;WT47;100;0:12.46;1.7;Grimaldi;Anna;NZL;1997;GBR;Glasgow;2026-07-30;Female;Outdoor
 PAL;6;WT53;100;0:18.08;0.4;Ballard;Angela;AUS;1982;AUS;Canberra;2026-01-21;Female;Outdoor
 PAL;6;WT54;100;0:17.85;0.6;Fisher;Aimee;AUS;2001;AUS;Canberra;2026-01-23;Female;Outdoor
 PAL;6;WT62;100;0:15.77;-1.0;O'Sullivan;Jade;AUS;1997;AUS;Darwin;2026-05-18;Female;Outdoor
@@ -109,7 +109,7 @@ PAL;6;WT34;200;0:38.61;-1.9;Espie;Coco;AUS;2008;AUS;Canberra;2026-01-23;Female;O
 PAL;6;WT35;200;0:36.35;-0.7;Giddings;Summer;AUS;2002;AUS;Sydney;2026-03-22;Female;Outdoor
 PAL;6;WT36;200;0:27.35;-0.6;Aitchison;Danielle;NZL;2001;AUS;Sydney;2026-04-12;Female;Outdoor
 PAL;6;WT37;200;0:28.96;0.3;Snowden;Akeesha;AUS;2005;AUS;Adelaide;2026-03-09;Female;Outdoor
-PAL;6;WT38;200;0:27.12;-0.6;Clarke;Rhiannon;AUS;2002;AUS;Sydney;2026-04-12;Female;Outdoor
+PAL;6;WT38;200;0:26.92;1.3;Clarke;Rhiannon;AUS;2002;GBR;Glasgow;2026-08-01;Female;Outdoor
 PAL;6;WT44;200;0:31.16;0.6;Gilmour;Lucy;AUS;2010;AUS;Darwin;2026-05-19;Female;Outdoor
 PAL;6;WT47;200;0:25.63;0.8;Grimaldi;Anna;NZL;1997;NZL;Christchurch;2026-02-21;Female;Outdoor
 PAL;6;WT53;200;0:32.66;0.8;James;Sarah;NZL;2004;AUS;Canberra;2026-01-23;Female;Outdoor
@@ -123,7 +123,7 @@ PAL;6;WT37;400;1:09.20;;Snowden;Akeesha;AUS;2005;AUS;Sydney;2026-04-09;Female;Ou
 PAL;6;WT38;400;1:04.82;;Sharp;Layla;AUS;2007;AUS;Canberra;2026-01-25;Female;Outdoor
 PAL;6;WT44;400;1:10.44;;Gilmour;Lucy;AUS;2010;AUS;Darwin;2026-05-20;Female;Outdoor
 PAL;6;WT53;400;1:00.33;;Ballard;Angela;AUS;1982;AUS;Canberra;2026-01-21;Female;Outdoor
-PAL;6;WT54;400;1:00.93;;Ault-Connell;Eliza;AUS;1981;AUS;Canberra;2026-03-14;Female;Outdoor
+PAL;6;WT54;400;1:00.15;;Ault-Connell;Eliza;AUS;1981;GBR;Glasgow;2026-08-01;Female;Outdoor
 PAL;6;WT72;400;1:09.33;;Strong;Maria;AUS;1971;AUS;Canberra;2026-01-25;Female;Outdoor
 PAL;6;WT20;800;2:20.37;;Colman;Annabelle;AUS;2004;AUS;Melbourne;2026-03-21;Female;Outdoor
 PAL;6;WT33;800;2:39.04;;Clifton-Bligh;Sarah;AUS;2004;SUI;Nottwil;2026-05-21;Female;Outdoor
@@ -136,7 +136,7 @@ PAL;6;WT20;1K5;4:38.53;;Colman;Annabelle;AUS;2004;AUS;Sydney;2026-04-10;Female;O
 PAL;6;WT33;1K5;5:18.39;;Clifton-Bligh;Sarah;AUS;2004;SUI;Arbon;2026-05-16;Female;Outdoor
 PAL;6;WT34;1K5;4:44.96;;Espie;Coco;AUS;2008;AUS;Canberra;2026-01-22;Female;Outdoor
 PAL;6;WT53;1K5;4:05.53;;Ballard;Angela;AUS;1982;AUS;Canberra;2026-01-22;Female;Outdoor
-PAL;6;WT54;1K5;3:53.38;;Ault-Connell;Eliza;AUS;1981;AUS;Canberra;2026-03-14;Female;Outdoor
+PAL;6;WT54;1K5;3:40.84;;Ault-Connell;Eliza;AUS;1981;GBR;Glasgow;2026-07-31;Female;Outdoor
 PAL;6;WT72;1K5;4:54.41;;Strong;Maria;AUS;1971;AUS;Canberra;2026-01-21;Female;Outdoor
 PAL;6;WT20;5K0;17:02.28;;Colman;Annabelle;AUS;2004;AUS;Sydney;2026-04-12;Female;Outdoor
 PAL;6;WT54;5K0;14:47.33;;Dingley;Mikaela;AUS;1994;AUS;Canberra;2026-01-23;Female;Outdoor
@@ -148,7 +148,7 @@ PAL;6;WT54;MAR;1:48:38;;Dawes;Christie;AUS;1980;GBR;London;2026-04-26;Female;Out
 PAL;6;WT20;WEI;5.23;0.5;Blacksmith;Telaya;AUS;2007;AUS;Darwin;2026-05-18;Female;Outdoor
 PAL;6;WT35;WEI;3.45;0.1;Giddings;Summer;AUS;2002;AUS;Canberra;2026-01-25;Female;Outdoor
 PAL;6;WT37;WEI;4.01;1.5;Mac Alasdair;Niamh;AUS;2005;AUS;Canberra;2026-01-25;Female;Outdoor
-PAL;6;WT38;WEI;4.86;0.0;Sharp;Layla;AUS;2007;AUS;Sydney;2026-03-21;Female;Outdoor
+PAL;6;WT38;WEI;5.06;1.7;Sharp;Layla;AUS;2007;GBR;Glasgow;2026-07-31;Female;Outdoor
 PAL;6;WT44;WEI;4.44;0.8;Elcoate;Makayla;AUS;2011;AUS;Sydney;2026-04-10;Female;Outdoor
 PAL;6;WT46;WEI;4.46;-0.4;Longbut;Dorna;PNG;1998;AUS;Brisbane;2026-03-15;Female;Outdoor
 PAL;6;WT64;WEI;5.09;1.0;Walsh;Sarah;AUS;1998;AUS;Canberra;2026-01-25;Female;Outdoor
@@ -161,7 +161,7 @@ PAL;6;WF38;KUG;10.21;;Schmidt;Samantha;AUS;2001;AUS;Sydney;2026-04-12;Female;Out
 PAL;6;WF42;KUG;8.94;;Vatunisolo;Naibili;FIJ;1990;AUS;Darwin;2026-05-20;Female;Outdoor
 PAL;6;WF44;KUG;8.09;;Edward;Regina;PNG;1989;AUS;Darwin;2026-05-20;Female;Outdoor
 PAL;6;WF46;KUG;12.83;;Robinson;Holly;NZL;1994;AUS;Darwin;2026-05-20;Female;Outdoor
-PAL;6;WF57;KUG;6.16;;Charlton;Julie;AUS;1999;AUS;Canberra;2026-01-25;Female;Outdoor
+PAL;6;WF57;KUG;6.19;;Charlton;Julie;AUS;1999;GBR;Glasgow;2026-07-27;Female;Outdoor
 PAL;6;WF37;DIS;28.57;;Gardiner-Hall;Charli;NZL;2007;AUS;Darwin;2026-05-22;Female;Outdoor
 PAL;6;WF38;DIS;32.14;;Schmidt;Samantha;AUS;2001;AUS;Sydney;2026-04-09;Female;Outdoor
 PAL;6;WF42;DIS;25.66;;Vatunisolo;Naibili;FIJ;1990;AUS;Darwin;2026-05-22;Female;Outdoor

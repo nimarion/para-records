@@ -111,8 +111,8 @@ PAL;4;WT34;100;0:34.85;0.0;Saghrouni;Wided;TUN;2006;TUN;Tunis;2026-06-16;Female;
 PAL;4;WT37;100;0:14.00;0.0;James;Sheryl;RSA;1986;RSA;Stellenbosch;2026-03-28;Female;Outdoor
 PAL;4;WT38;100;0:15.98;0.4;Benyettou;Racha Hadil;ALG;2004;TUN;Tunis;2026-06-16;Female;Outdoor
 PAL;4;WT44;100;0:15.26;0.4;Felix;Charne;RSA;1986;RSA;Stellenbosch;2026-03-30;Female;Outdoor
-PAL;4;WT46;100;0:14.03;0.2;Uwiduhaye;Clementine;RWA;1995;MAR;Rabat;2026-04-23;Female;Outdoor
-PAL;4;WT47;100;0:12.76;0.4;Uwak;Unyime;NGR;1996;RSA;Stellenbosch;2026-03-30;Female;Outdoor
+PAL;4;WT46;100;0:13.85;1.7;Uwiduhaye;Clementine;RWA;1995;GBR;Glasgow;2026-07-30;Female;Outdoor
+PAL;4;WT47;100;0:12.63;1.7;Uwak;Unyime;NGR;1996;GBR;Glasgow;2026-07-30;Female;Outdoor
 PAL;4;WT53;100;0:25.30;0.0;Dabi;Amal;TUN;1998;TUN;Tunis;2026-06-16;Female;Outdoor
 PAL;4;WT54;100;0:16.27;0.4;Alphonse;Noemi;MRI;1995;SUI;Nottwil;2026-05-23;Female;Outdoor
 PAL;4;WT11;200;0:27.13;0.2;Moko;Juliana Ngleya;ANG;2000;MAR;Rabat;2026-04-24;Female;Outdoor
@@ -158,7 +158,8 @@ PAL;4;WF57;KUG;10.43;;Saifi;Nassima;ALG;1988;CZE;Olomouc;2026-07-02;Female;Outdo
 PAL;4;WF38;DIS;36.73;;Kruger;Simone;RSA;2005;CZE;Olomouc;2026-07-04;Female;Outdoor
 PAL;4;WF40;DIS;20.36;;Nikuze;Josiane;RWA;1999;TUN;Tunis;2026-06-16;Female;Outdoor
 PAL;4;WF41;DIS;35.61;;Tlili;Raoua;TUN;1989;TUN;Tunis;2026-06-17;Female;Outdoor
-PAL;4;WF44;DIS;32.75;;van der Merwe;Yane;RSA;2000;RSA;Stellenbosch;2026-03-28;Female;Outdoor
+PAL;4;WF42;DIS;39.66;;Nwachukwu;Goodness Chiemerie;NGR;1998;GBR;Glasgow;2026-07-29;Female;Outdoor
+PAL;4;WF44;DIS;33.79;;Agbo;Destiny;NGR;2005;GBR;Glasgow;2026-07-29;Female;Outdoor
 PAL;4;WF53;DIS;9.86;;Rzouga;Bochra;TUN;1979;TUN;Tunis;2026-06-16;Female;Outdoor
 PAL;4;WF55;DIS;22.61;;El Kaoui;Norelhouda;MAR;1983;MAR;Rabat;2026-04-25;Female;Outdoor
 PAL;4;WF56;DIS;17.34;;Saad;Nafissa;ALG;1970;TUN;Tunis;2026-06-17;Female;Outdoor
