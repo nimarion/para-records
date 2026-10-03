@@ -193,8 +193,8 @@ WR;;MT13;10S;36:58.0;;Record Mark;;;;;;2021-01-01;Male;Outdoor
 WR;;MT46;10S;38:39.0;;Record Mark;;;;;;2024-01-01;Male;Outdoor
 WR;;MT51;10S;34:46.0;;Du Preez;Pieter;RSA;1980;JPN;Oita City;2022-11-20;Male;Outdoor
 WR;;MT52;10S;24:34.0;;Sato;Tomoki;JPN;1989;JPN;Oita City;2022-11-20;Male;Outdoor
-WR;;MT54;10S;18:10.0;;Hug;Marcel;SUI;1986;JPN;Oita City;2021-11-21;Male;Outdoor
 WR;;MT54;10S;18:10.0;;Suzuki;Tomoki;JPN;1994;JPN;Oita City;2021-11-21;Male;Outdoor
+WR;;MT54;10S;18:10.0;;Hug;Marcel;SUI;1986;JPN;Oita City;2021-11-21;Male;Outdoor
 WR;;MT62;10S;37:29.0;;Reynolds;Brian;USA;1988;USA;Boston;2026-06-21;Male;Outdoor
 WR;;MT11;HAM;1:08:30.0;;Karasawa;Kenya;JPN;1994;JPN;Tokyo;2022-10-16;Male;Outdoor
 WR;;MT12;HAM;1:09:33.0;;Kumagai;Yutaka;JPN;1987;JPN;Tokyo;2024-10-20;Male;Outdoor
@@ -202,8 +202,8 @@ WR;;MT46;HAM;1:09:33.0;;Olsen;Christian;DEN;1993;DEN;Copenhagen;2022-09-14;Male;
 WR;;MT51;HAM;1:08:21.0;;Mestre;Helder;POR;1967;POR;Lisbon;2017-03-19;Male;Outdoor
 WR;;MT52;HAM;51:44.0;;Sato;Tomoki;JPN;1989;JPN;Oita City;2022-11-20;Male;Outdoor
 WR;;MT52;HAM;51:44.0;;Ueyonabaru;Hirokazu;JPN;1971;JPN;Oita City;2022-12-20;Male;Outdoor
-WR;;MT54;HAM;38:32.0;;Hug;Marcel;SUI;1986;JPN;Oita City;2021-11-21;Male;Outdoor
 WR;;MT54;HAM;38:32.0;;Suzuki;Tomoki;JPN;1994;JPN;Oita City;2021-11-21;Male;Outdoor
+WR;;MT54;HAM;38:32.0;;Hug;Marcel;SUI;1986;JPN;Oita City;2021-11-21;Male;Outdoor
 WR;;MT11;MAR;2:23:27;;Wada;Shinya;JPN;1977;JPN;Oita;2024-02-04;Male;Outdoor
 WR;;MT12;MAR;2:19:08;;Clifford;Jaryd;AUS;1999;AUS;Sydney;2021-04-25;Male;Outdoor
 WR;;MT13;MAR;2:22:55;;Talbot;Carlos;USA;1957;KOR;Seoul;1988-10-24;Male;Outdoor
@@ -353,7 +353,7 @@ WR;;WT34;100;0:16.31;1.1;Cockroft;Hannah;GBR;1992;SUI;Nottwil;2023-05-27;Female;
 WR;;WT35;100;0:13.00;1.2;Zhou;Xia;CHN;1999;JPN;Tokyo;2021-08-27;Female;Outdoor
 WR;;WT36;100;0:13.23;0.1;Aitchison;Danielle;NZL;2001;AUS;Sydney;2026-04-11;Female;Outdoor
 WR;;WT37;100;0:12.27;1.9;Wen;Xiaoyan;CHN;1997;JPN;Kobe;2024-05-21;Female;Outdoor
-WR;;WT38;100;0:12.26;0.8;Palomeque Moreno;Karen Tatiana;COL;1994;FRA;Paris;2024-08-31;Female;Outdoor
+WR;;WT38;100;0:12.04;1.4;Mejia Morales;Angie Nicoll;COL;2009;COL;Cali;2026-09-17;Female;Outdoor
 WR;;WT42;100;0:14.26;0.8;Tiarani;Karisma Evi;INA;2001;FRA;Paris;2024-09-07;Female;Outdoor
 WR;;WT44;100;0:12.72;0.5;Bensusan;Irmgard;GER;1991;SUI;Nottwil;2019-05-24;Female;Outdoor
 WR;;WT44;100;0:12.72;1.8;Bensusan;Irmgard;GER;1991;GER;Leverkusen;2019-06-21;Female;Outdoor
@@ -492,9 +492,9 @@ WR;;WT54;5S;12:08.0;;Record Mark;;;;;;2026-01-01;Female;Outdoor
 WR;;WT54;10S;21:21.0;;Debrunner;Catherine;SUI;1995;JPN;Oita;2024-11-17;Female;Outdoor
 WR;;WT11;HAM;1:31:41.0;;Inouchi;Natsumi;JPN;1989;JPN;Tokyo;2022-10-16;Female;Outdoor
 WR;;WT12;HAM;1:24:48.0;;Michishita;Misato;JPN;1977;JPN;Tokyo;2023-10-15;Female;Outdoor
-WR;;WT54;HAM;46:51.0;;Debrunner;Catherine;SUI;1995;JPN;Oita City;2023-11-19;Female;Outdoor
 WR;;WT54;HAM;46:51.0;;Scaroni;Susannah;USA;1991;JPN;Oita City;2023-11-19;Female;Outdoor
 WR;;WT54;HAM;46:51.0;;Schaer;Manuela;SUI;1984;JPN;Oita City;2023-11-19;Female;Outdoor
+WR;;WT54;HAM;46:51.0;;Debrunner;Catherine;SUI;1995;JPN;Oita City;2023-11-19;Female;Outdoor
 WR;;WT11;MAR;3:11:13;;Coetzee;Louzanne;RSA;1993;JPN;Tokyo;2021-09-05;Female;Outdoor
 WR;;WT12;MAR;2:48:36;;El Idrissi;Fatima Ezzahra;MAR;1995;FRA;Paris;2024-09-08;Female;Outdoor
 WR;;WT13;MAR;3:13:10;;Record Mark;;;;;;2021-01-01;Female;Outdoor
@@ -569,7 +569,7 @@ WR;;WF37;DIS;38.73;;Mi;Na;CHN;1986;CHN;Hangzhou;2023-10-27;Female;Outdoor
 WR;;WF38;DIS;39.54;;Saldarriaga Hernandez;Xiomara;COL;2004;ESP;L´Hospitalet de Llobregat, Barcelona;2026-05-16;Female;Outdoor
 WR;;WF40;DIS;25.71;;Mukhtorova;Madina;UZB;2006;CZE;Olomouc;2026-07-02;Female;Outdoor
 WR;;WF41;DIS;37.91;;Tlili;Raoua;TUN;1989;JPN;Tokyo;2021-09-01;Female;Outdoor
-WR;;WF42;DIS;36.56;;Nwachukwu;Goodness Chiemerie;NGR;1998;GBR;Birmingham;2022-08-04;Female;Outdoor
+WR;;WF42;DIS;39.66;;Nwachukwu;Goodness Chiemerie;NGR;1998;GBR;Glasgow;2026-07-29;Female;Outdoor
 WR;;WF43;DIS;28.92;;Houshmand;Vajiheh;IRI;1983;CHN;Hangzhou;2023-10-27;Female;Outdoor
 WR;;WF44;DIS;44.73;;Yao;Juan;CHN;1984;JPN;Tokyo;2021-08-29;Female;Outdoor
 WR;;WF45;DIS;25.72;;Tychshenko;Irina;KAZ;1974;CZE;Olomouc;2026-07-02;Female;Outdoor
@@ -578,7 +578,7 @@ WR;;WF51;DIS;14.87;;Mitchell;Cassie;USA;1981;USA;Arizona;2021-05-30;Female;Outdo
 WR;;WF52;DIS;18.25;;Rodrigues Gomes;Elizabeth;BRA;1965;BRA;Sao Paulo;2022-07-21;Female;Outdoor
 WR;;WF53;DIS;18.45;;Rodrigues Gomes;Elizabeth;BRA;1965;BRA;Sao Paulo;2024-06-29;Female;Outdoor
 WR;;WF54;DIS;20.4;;Kurbanova;Nurkhon;UZB;1994;JPN;Tokyo;2021-08-27;Female;Outdoor
-WR;;WF55;DIS;27.8;;Buggenhagen;Marianne;GER;1953;CHN;Beijing;2008-09-09;Female;Outdoor
+WR;;WF55;DIS;27.81;;Guerrero Cazares;Rosa Maria;MEX;1984;COL;Cali;2026-09-17;Female;Outdoor
 WR;;WF56;DIS;26.93;;Medjmedj;Nadia;ALG;1974;POR;Vila Real de Santo Anto;2022-11-28;Female;Outdoor
 WR;;WF57;DIS;35.76;;Saifi;Nassima;ALG;1988;UAE;Dubai;2019-11-09;Female;Outdoor
 WR;;WF62;DIS;16.22;;Record Mark;;;;;;2026-01-01;Female;Outdoor

@@ -42,7 +42,7 @@ WL;;MT62;200;0:21.66;0.5;Hendriks;Olivier;NED;2003;NED;Leiden;2026-06-13;Male;Ou
 WL;;MT63;200;0:29.21;-1.4;Inagaki;Katsuaki;JPN;1992;JPN;Mihama;2026-04-18;Male;Outdoor
 WL;;MT64;200;0:22.43;0.1;Loragno;Francesco;ITA;2003;ITA;Grosseto;2026-07-05;Male;Outdoor
 WL;;MT71;200;0:41.99;1.9;Krzyzek;Artur;POL;2000;POL;Zamosc;2026-06-28;Male;Outdoor
-WL;;MT72;200;0:29.32;0.8;Calcagni;Carlo Fabio Marcello;ITA;1968;SUI;Nottwil;2026-05-21;Male;Outdoor
+WL;;MT72;200;0:29.29;;Calcagni;Carlo Fabio Marcello;ITA;1968;ITA;Ancona;2026-02-21;Male;Outdoor
 WL;;MT11;400;0:51.42;;Adolphe;Timothee;FRA;1989;FRA;Paris;2026-07-26;Male;Outdoor
 WL;;MT12;400;0:50.12;;Tyagi;Chirag;IND;2001;IND;Bangalore;2026-05-27;Male;Outdoor
 WL;;MT13;400;0:49.55;;Fukunaga;Ryota;JPN;1998;JPN;Fukuroi;2026-05-03;Male;Outdoor
@@ -80,7 +80,7 @@ WL;;MT51;800;2:38.45;;Navarro Sanchez;Edgar Cesareo;MEX;1971;SUI;Arbon;2026-05-1
 WL;;MT52;800;;;Rigo;Isaiah;USA;1999;USA;Spokane;2026-06-14;Male;Outdoor
 WL;;MT53;800;1:31.96;;Paeyo;Pongsakorn;THA;1996;SUI;Nottwil;2026-05-21;Male;Outdoor
 WL;;MT54;800;1:28.72;;Liu;Yang;CHN;1990;SUI;Nottwil;2026-05-21;Male;Outdoor
-WL;;MT72;800;2:38.16;;Menzies;Finlay Jonathan;GBR;2005;GBR;Glasgow Crownpoint;2026-05-22;Male;Outdoor
+WL;;MT72;800;2:08.49;;Calcagni;Carlo Fabio Marcello;ITA;1968;ITA;Ancona;2026-02-21;Male;Outdoor
 WL;;MT11;1K5;4:08.08;;Karasawa;Kenya;JPN;1994;JPN;Ishikawa;2026-06-13;Male;Outdoor
 WL;;MT12;1K5;3:55.70;;Kostin;Aleksandr;RUS;1995;TUN;Tunis;2026-06-19;Male;Outdoor
 WL;;MT13;1K5;3:41.65;;Gomez;Joel;USA;2003;USA;Portland;2026-06-20;Male;Outdoor
@@ -117,7 +117,7 @@ WL;;MT53;HAM;47:20.0;;Siemann;Brian;USA;1989;USA;Chicago;2026-06-07;Male;Outdoor
 WL;;MT54;HAM;41:54.0;;Romanchuk;Daniel;USA;1998;USA;Chicago;2026-06-07;Male;Outdoor
 WL;;MT11;MAR;2:24:58;;Wada;Shinya;JPN;1977;JPN;Oita;2026-02-01;Male;Outdoor
 WL;;MT12;MAR;2:23:39;;Boukhili;Wajdi;TUN;1998;USA;Boston;2026-04-20;Male;Outdoor
-WL;;MT38;MAR;2:58:04;;Kenzie;Deon;AUS;1996;USA;Boston;2026-04-20;Male;Outdoor
+WL;;MT38;MAR;2:40:37;;Vaders-Kruesemann;Felix;GER;2001;GER;Berlin;2026-09-27;Male;Outdoor
 WL;;MT46;MAR;2:18:36;;Roeger;Michael;AUS;1988;AUS;Sydney;2026-08-30;Male;Outdoor
 WL;;MT52;MAR;2:25:28;;Holowat Jr;Norbert;USA;1997;USA;Boston;2026-04-20;Male;Outdoor
 WL;;MT53;MAR;1:31:02;;Monahan;Patrick;IRL;1986;USA;Boston;2026-04-20;Male;Outdoor
@@ -287,6 +287,7 @@ WL;;WT20;800;2:20.11;;Fujiwara;Yuna;JPN;2002;JPN;Nagoya;2026-05-17;Female;Outdoo
 WL;;WT33;800;2:39.04;;Clifton-Bligh;Sarah;AUS;2004;SUI;Nottwil;2026-05-21;Female;Outdoor
 WL;;WT34;800;1:57.07;;Williamson;Linden;USA;2001;USA;New York;2026-07-24;Female;Outdoor
 WL;;WT36;800;2:52.34;;Colley;Tamsin;AUS;2002;AUS;Darwin;2026-05-21;Female;Outdoor
+WL;;WT38;800;3:40.22;;Schaefer;Pauline Berit;GER;2009;GER;Kiel;2026-09-27;Female;Outdoor
 WL;;WT52;800;2:54.79;;Kiyama;Yuka;JPN;1983;JPN;Mihama;2026-08-22;Female;Outdoor
 WL;;WT53;800;1:38.14;;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2026-05-21;Female;Outdoor
 WL;;WT54;800;1:41.14;;McFadden;Tatyana;USA;1989;SUI;Nottwil;2026-05-21;Female;Outdoor
