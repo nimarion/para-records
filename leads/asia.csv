@@ -1,7 +1,7 @@
 Code;Typ;Klasse;Bewerb;Leistung;Wind;Name;Vorname;Nation;YOB;RNAT;RORT;Datum;Geschlecht;Umgebung
 PAL;5;MT11;100;0:11.25;0.0;Di;Dongdong;CHN;1993;CHN;Beijing;2026-07-06;Male;Outdoor
 PAL;5;MT12;100;0:10.85;1.1;Kuno;Ryutaro;JPN;1999;JPN;Mihama;2026-08-22;Male;Outdoor
-PAL;5;MT13;100;0:10.83;1.7;Fukunaga;Ryota;JPN;1998;JPN;Kyoto;2026-09-12;Male;Outdoor
+PAL;5;MT13;100;0:10.81;-0.2;Fukunaga;Ryota;JPN;1998;JPN;Tokyo;2026-09-22;Male;Outdoor
 PAL;5;MT33;100;0:22.37;-1.8;Aladwani;Mohammad;KUW;2006;UAE;Dubai;2026-02-10;Male;Outdoor
 PAL;5;MT34;100;0:14.72;0.9;Othman;Mohamad;UAE;2004;SUI;Arbon;2026-05-17;Male;Outdoor
 PAL;5;MT35;100;0:12.75;-2.6;Zare;Alireza;IRI;1994;IRI;Tehran;2026-07-02;Male;Outdoor
@@ -43,13 +43,14 @@ PAL;5;MT72;200;0:57.15;0.0;Shen;Chia-Yu;TPE;2002;DEN;Bagsværd;2026-07-11;Male;O
 PAL;5;MT11;400;0:53.89;;Karim;Taufik Abdul;INA;1998;TUN;Tunis;2026-06-18;Male;Outdoor
 PAL;5;MT12;400;0:50.12;;Tyagi;Chirag;IND;2001;IND;Bangalore;2026-05-27;Male;Outdoor
 PAL;5;MT13;400;0:49.55;;Fukunaga;Ryota;JPN;1998;JPN;Fukuroi;2026-05-03;Male;Outdoor
-PAL;5;MT20;400;0:48.53;;Nomleni;Alfin;INA;2002;MEX;Tlaxcala;2026-07-24;Male;Outdoor
+PAL;5;MT20;400;0:48.34;;Usuki;Daigo;JPN;2004;JPN;Tokyo;2026-09-22;Male;Outdoor
 PAL;5;MT34;400;0:49.04;;Rattana;Chaiwat;THA;1996;SUI;Nottwil;2026-05-22;Male;Outdoor
 PAL;5;MT35;400;1:05.68;;Sharma;Arpit;IND;2001;IND;Bangalore;2026-05-27;Male;Outdoor
 PAL;1;MT36;400;0:56.80;;Kahhorov;Doston;UZB;2007;SUI;Nottwil;2026-05-22;Male;Outdoor
 PAL;5;MT37;400;0:54.97;;Rastegarimobin;Hashem;IRI;1985;IRI;Tehran;2026-07-02;Male;Outdoor
 PAL;5;MT38;400;0:51.82;;Hatamishooli;Reza;IRI;1998;IRI;Tehran;2026-07-02;Male;Outdoor
 PAL;5;MT44;400;0:53.34;;;Sandeep;IND;2001;IND;Bangalore;2026-05-27;Male;Outdoor
+PAL;5;MT45;400;0:52.89;;Sambongi;Yuya;JPN;2001;JPN;Tokyo;2026-09-22;Male;Outdoor
 PAL;5;MT46;400;0:47.64;;Gavit;Dilip Mahadu;IND;2003;IND;Bangalore;2026-05-27;Male;Outdoor
 PAL;5;MT47;400;0:48.95;;Bharwad;Bhavikkumar Dineshbhai;IND;2004;IND;Bangalore;2026-05-27;Male;Outdoor
 PAL;5;MT52;400;0:53.41;;Sato;Tomoki;JPN;1989;JPN;Mihama;2026-04-18;Male;Outdoor
@@ -70,6 +71,7 @@ PAL;5;MT11;1K5;4:08.08;;Karasawa;Kenya;JPN;1994;JPN;Ishikawa;2026-06-13;Male;Out
 PAL;5;MT12;1K5;4:11.25;;Makanahalli Shankarappa;Sharath;IND;2000;IND;Bangalore;2026-05-26;Male;Outdoor
 PAL;5;MT13;1K5;4:25.52;;Bhandari;Nagendra Singh;IND;2003;UAE;Dubai;2026-02-12;Male;Outdoor
 PAL;5;MT20;1K5;3:47.70;;Toda;Natsuki;JPN;2004;JPN;Tokyo;2026-05-30;Male;Outdoor
+PAL;5;MT34;1K5;3:49.98;;Baba;Tatsuya;JPN;1989;JPN;Tokyo;2026-09-22;Male;Outdoor
 PAL;5;MT36;1K5;5:11.43;;Tamura;Naoyuki;JPN;2001;JPN;Tokyo;2026-03-21;Male;Outdoor
 PAL;5;MT37;1K5;4:22.53;;Igusa;Takafumi;JPN;1990;JPN;Nagoya;2026-05-16;Male;Outdoor
 PAL;5;MT38;1K5;4:44.89;;Rosdi;Muhammad Faiz Haizat;MAS;1997;TUN;Tunis;2026-06-19;Male;Outdoor
@@ -153,7 +155,7 @@ PAL;5;MF56;DIS;42.22;;Kathuniya;Yogesh;IND;1997;UAE;Dubai;2026-02-11;Male;Outdoo
 PAL;5;MF57;DIS;48.68;;Yasa;I Kadek Dwi Purwana;INA;2008;MEX;Tlaxcala;2026-07-22;Male;Outdoor
 PAL;5;MF64;DIS;50.47;;Kumar;Pardeep;IND;1999;IND;Bangalore;2026-05-26;Male;Outdoor
 PAL;5;MF11;SPE;24.16;;Alkhurayb;Ziyad;KSA;1996;OMA;Muscat;2026-02-03;Male;Outdoor
-PAL;5;MF12;SPE;55.33;;Wakoh;Yuta;JPN;1997;JPN;Nagoya;2026-05-16;Male;Outdoor
+PAL;5;MF12;SPE;55.54;;Wakoh;Yuta;JPN;1997;JPN;Tokyo;2026-09-22;Male;Outdoor
 PAL;5;MF13;SPE;59.08;;;Manjeet;IND;1992;IND;Bangalore;2026-05-27;Male;Outdoor
 PAL;5;MF33;SPE;21.68;;Rawat;Bharat;IND;1997;IND;Bangalore;2026-05-27;Male;Outdoor
 PAL;5;MF34;SPE;39.32;;Afrooz;Saeid;IRI;1990;IRI;Tehran;2026-07-02;Male;Outdoor
@@ -216,7 +218,7 @@ PAL;5;WT20;400;0:57.84;;Jeevanji;Deepthi;IND;2003;IND;Bangalore;2026-05-27;Femal
 PAL;5;WT34;400;0:59.37;;Li;Xiaoman;CHN;2009;SUI;Nottwil;2026-05-22;Female;Outdoor
 PAL;5;WT36;400;1:29.95;;Nurhaida;Insan;INA;1987;THA;Nakhon Ratchasima;2026-01-23;Female;Outdoor
 PAL;5;WT37;400;1:05.49;;Jiang;Fenfen;CHN;1997;CHN;Beijing;2026-07-06;Female;Outdoor
-PAL;5;WT38;400;1:12.30;;Takemura;Ayumi;JPN;1999;JPN;Tokyo;2026-03-21;Female;Outdoor
+PAL;5;WT38;400;1:10.83;;Takamatsu;Yuka;JPN;1993;JPN;Tokyo;2026-09-22;Female;Outdoor
 PAL;5;WT46;400;1:03.04;;Yan;Jing;CHN;2002;MAR;Rabat;2026-04-25;Female;Outdoor
 PAL;5;WT47;400;0:58.13;;Bumbadiya;Anjanaben Rohitbhai;IND;2001;IND;Bangalore;2026-05-27;Female;Outdoor
 PAL;5;WT52;400;1:22.01;;Tanaka;Teruyo;JPN;1959;JPN;Nagoya;2026-05-16;Female;Outdoor
@@ -316,6 +318,7 @@ PAL;5;WF54;SPE;16.63;;Salehi;Elham;IRI;1980;IRI;Tehran;2026-06-30;Female;Outdoor
 PAL;5;WF55;SPE;19.2;;Komatsu;Saki;JPN;1994;JPN;Ishikawa;2026-06-13;Female;Outdoor
 PAL;5;WF56;SPE;24.63;;Lai;Xiaojuan;CHN;1996;TUN;Tunis;2026-06-17;Female;Outdoor
 PAL;1;WF57;SPE;16.25;;Musinova;Rokiyaxon;UZB;2005;CZE;Olomouc;2026-07-04;Female;Outdoor
+PAL;5;WF64;SPE;14.76;;Takado;Fumiko;JPN;1973;JPN;Tokyo;2026-09-22;Female;Outdoor
 PAL;5;WF31;KEU;14.74;;Kulanthaisamy;Anandhi;IND;1997;IND;Bangalore;2026-05-27;Female;Outdoor
 PAL;5;WF32;KEU;26.0;;Habibi;Parastoo;IRI;2002;IRI;Tehran;2026-06-30;Female;Outdoor
 PAL;5;WF51;KEU;22.0;;Sohrabitabar;Farzaneh;IRI;1994;IRI;Tehran;2026-06-30;Female;Outdoor
