@@ -9,6 +9,7 @@ WL;;MT36;100;0:11.89;0.8;Putra;Muhammad Ridho Alfares;INA;2005;TUN;Tunis;2026-06
 WL;;MT37;100;0:11.19;1.9;Alnakhli;Ali;KSA;2000;KSA;Riyadh;2026-07-08;Male;Outdoor
 WL;;MT38;100;0:10.67;-0.1;Blackwell;Jaydin;USA;2004;USA;Eugene;2026-07-04;Male;Outdoor
 WL;;MT42;100;0:12.52;-0.7;;Partin;INA;2002;THA;Nakhon Ratchasima;2026-01-22;Male;Outdoor
+WL;;MT43;100;0:16.48;-1.0;Stamatiadis;Achileas;GRE;1992;CRO;Zagreb;2026-10-02;Male;Outdoor
 WL;;MT44;100;0:11.05;-0.9;de Lima;Matheus;BRA;2003;MAR;Rabat;2026-04-23;Male;Outdoor
 WL;;MT45;100;0:11.28;1.0;Sambongi;Yuya;JPN;2001;JPN;Ishikawa;2026-06-13;Male;Outdoor
 WL;;MT46;100;0:10.64;0.1;Gavit;Dilip Mahadu;IND;2003;IND;Bangalore;2026-05-26;Male;Outdoor
@@ -107,6 +108,7 @@ WL;;MT51;5K0;20:19.92;;Strobel;Stefan;GER;1977;SUI;Arbon;2026-05-17;Male;Outdoor
 WL;;MT53;5K0;9:29.13;;Lakatos;Brent;CAN;1980;SUI;Arbon;2026-05-17;Male;Outdoor
 WL;;MT54;5K0;9:27.02;;Jin;Hua;CHN;1999;SUI;Nottwil;2026-05-22;Male;Outdoor
 WL;;MT62;5K0;16:38.30;;Malakopoulos;Stylianos;GRE;1996;SUI;Nottwil;2026-05-21;Male;Outdoor
+WL;;MT64;5K0;24:44.28;;Tramte;Kristijan;SLO;2002;CRO;Zagreb;2026-10-02;Male;Outdoor
 WL;;MT12;10K;34:42.10;;Suarez Laso;Alberto;ESP;1977;ITA;Grosseto;2026-07-04;Male;Outdoor
 WL;;MT13;10K;28:51.00;;Shimazu;Yudai;JPN;2000;JPN;Abashiri City;2026-07-08;Male;Outdoor
 WL;;MT54;10K;19:24.64;;Hug;Marcel;SUI;1986;SUI;Arbon;2026-05-16;Male;Outdoor
@@ -181,7 +183,7 @@ WL;;MF34;DIS;35.3;;Horacek;Tomas;CZE;1986;CZE;Ostrava;2026-08-15;Male;Outdoor
 WL;;MF36;DIS;38.49;;Al Kaabi;Mohammed;UAE;1996;OMA;Muscat;2026-02-04;Male;Outdoor
 WL;;MF37;DIS;54.71;;Ali;Haider;PAK;1984;UAE;Dubai;2026-02-10;Male;Outdoor
 WL;;MF38;DIS;39.72;;Everett;Mark;AUS;2009;AUS;Darwin;2026-05-22;Male;Outdoor
-WL;;MF40;DIS;27.0;;Sloup;Matija;CRO;1996;CZE;Olomouc;2026-09-19;Male;Outdoor
+WL;;MF40;DIS;27.11;;Sloup;Matija;CRO;1996;CRO;Zagreb;2026-10-02;Male;Outdoor
 WL;;MF41;DIS;24.0;;Abdulraheem;Kovan;IRQ;1988;OMA;Muscat;2026-02-04;Male;Outdoor
 WL;;MF42;DIS;49.1;;Davies;Aled;GBR;1991;AUS;Adelaide;2026-03-14;Male;Outdoor
 WL;;MF43;DIS;56.82;;Stewart;Akeem;TTO;1992;GBR;Glasgow;2026-07-29;Male;Outdoor
@@ -390,6 +392,7 @@ WL;;WF54;DIS;16.86;;Yang;Liwan;CHN;1978;CHN;Beijing;2026-07-07;Female;Outdoor
 WL;;WF55;DIS;27.81;;Guerrero Cazares;Rosa Maria;MEX;1984;COL;Cali;2026-09-17;Female;Outdoor
 WL;;WF56;DIS;22.55;;Lai;Xiaojuan;CHN;1996;TUN;Tunis;2026-06-17;Female;Outdoor
 WL;;WF57;DIS;35.54;;Saifi;Nassima;ALG;1988;CZE;Olomouc;2026-07-03;Female;Outdoor
+WL;;WF62;DIS;21.29;;Hergotic;Karla;CRO;2005;CRO;Zagreb;2026-10-02;Female;Outdoor
 WL;;WF64;DIS;33.73;;Heims;Jessica;USA;1998;USA;Des Moines;2026-04-24;Female;Outdoor
 WL;;WF11;SPE;20.29;;Legnante;Assunta;ITA;1978;ITA;Osimo (AN);2026-05-02;Female;Outdoor
 WL;;WF12;SPE;45.75;;Zhao;Yuping;CHN;1994;CHN;Beijing;2026-07-08;Female;Outdoor
