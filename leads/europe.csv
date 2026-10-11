@@ -4,10 +4,11 @@ PAL;1;MT12;100;0:10.50;1.3;Kashafali;Salum Ageze;NOR;1993;NOR;Trondheim;2026-07-
 PAL;1;MT13;100;0:10.69;1.7;Zorzi;Axel;FRA;1997;FRA;Venissieux;2026-06-14;Male;Outdoor
 PAL;1;MT33;100;0:20.93;1.0;Zani;Nicholas;ITA;1999;SUI;Nottwil;2026-05-23;Male;Outdoor
 PAL;1;MT34;100;0:15.63;0.9;Manni;Henry;FIN;1992;FIN;Joensuu;2026-07-08;Male;Outdoor
-PAL;1;MT35;100;0:11.88;1.0;Tsvietov;Ihor;UKR;1994;TUN;Tunis;2026-06-16;Male;Outdoor
-PAL;1;MT36;100;0:12.22;1.0;Khachaturian;David;ARM;2002;SUI;Nottwil;2026-05-22;Male;Outdoor
+PAL;1;MT35;100;0:11.70;2.0;Dzhatiev;David;RUS;2002;RUS;Krasnodar;2026-09-30;Male;Outdoor
+PAL;1;MT36;100;0:11.66;2.0;Glazyrin;Kirill;RUS;2004;RUS;Krasnodar;2026-09-30;Male;Outdoor
 PAL;1;MT37;100;0:11.54;1.1;Kotkowski;Michal;POL;1998;POL;Zamosc;2026-06-26;Male;Outdoor
 PAL;1;MT38;100;0:10.91;1.9;Young;Thomas;GBR;2000;GBR;London;2026-07-12;Male;Outdoor
+PAL;1;MT42;100;0:13.44;2.0;Prokhorov;Anton;RUS;1992;RUS;Krasnodar;2026-09-30;Male;Outdoor
 PAL;1;MT43;100;0:16.48;-1.0;Stamatiadis;Achileas;GRE;1992;CRO;Zagreb;2026-10-02;Male;Outdoor
 PAL;1;MT44;100;0:11.38;0.2;Cicchetti;Marco;ITA;1999;SUI;Nottwil;2026-05-22;Male;Outdoor
 PAL;1;MT46;100;0:11.30;1.6;Hoehne;Julian Noah;GER;2007;GER;Dresden;2026-06-27;Male;Outdoor
@@ -54,10 +55,10 @@ PAL;1;MT38;400;0:50.04;;Poggiani;Ange Bertin;ITA;2003;ITA;Grosseto;2026-07-04;Ma
 PAL;1;MT46;400;0:50.15;;Pedro;Ivan;POR;2004;POR;Lisboa;2026-07-25;Male;Outdoor
 PAL;1;MT47;400;0:49.95;;Bagaini;Riccardo;ITA;2000;FRA;PARIS;2026-05-27;Male;Outdoor
 PAL;1;MT52;400;0:53.18;;Carabin;Maxime;BEL;2000;SUI;Arbon;2026-05-14;Male;Outdoor
-PAL;1;MT53;400;0:50.69;;Fairbank;Pierre;FRA;1971;SUI;Nottwil;2026-05-22;Male;Outdoor
+PAL;1;MT53;400;0:50.49;;Gritsenko;Vitalii;RUS;1985;RUS;Krasnodar;2026-10-01;Male;Outdoor
 PAL;1;MT54;400;0:45.67;;Balde;Mamudo;POR;2005;SUI;Nottwil;2026-05-22;Male;Outdoor
 PAL;1;MT62;400;0:48.33;;Hendriks;Olivier;NED;2003;GER;Leverkusen;2026-07-18;Male;Outdoor
-PAL;1;MT71;400;1:56.56;;Hayer;Muninder;GBR;1995;GBR;Bedford;2026-08-22;Male;Outdoor
+PAL;1;MT71;400;1:42.26;;Krzyzek;Artur;POL;2000;POL;Gorzow Wlkp;2026-09-19;Male;Outdoor
 PAL;1;MT72;400;0:59.75;;Calcagni;Carlo Fabio Marcello;ITA;1968;ESP;Fuenlabrada;2026-06-27;Male;Outdoor
 PAL;1;MT11;800;2:05.11;;Kossakowski;Aleksander;POL;1994;POL;Zamosc;2026-06-28;Male;Outdoor
 PAL;1;MT12;800;2:22.88;;Perales Vilanova;Rafael;ESP;2010;ESP;Segovia;2026-06-14;Male;Outdoor
@@ -87,8 +88,8 @@ PAL;1;MT52;1K5;4:18.71;;Skucas;Kestutis;LTU;1967;SUI;Nottwil;2026-05-23;Male;Out
 PAL;1;MT53;1K5;3:06.55;;Fairbank;Pierre;FRA;1971;SUI;Nottwil;2026-05-23;Male;Outdoor
 PAL;1;MT54;1K5;2:46.79;;Hug;Marcel;SUI;1986;SUI;Nottwil;2026-05-23;Male;Outdoor
 PAL;1;MT72;1K5;6:35.10;;Hanssen;Viktor;SWE;1999;SWE;Uppsala;2026-09-06;Male;Outdoor
-PAL;1;MT11;5K0;16:01.22;;Rudakov;Fedor;RUS;1994;TUN;Tunis;2026-06-17;Male;Outdoor
-PAL;1;MT12;5K0;14:59.46;;Gomes;Isaias;POR;1994;POR;Lisboa;2026-06-14;Male;Outdoor
+PAL;1;MT11;5K0;15:16.50;;Rudakov;Fedor;RUS;1994;RUS;Krasnodar;2026-09-30;Male;Outdoor
+PAL;1;MT12;5K0;14:59.19;;Kostin;Aleksandr;RUS;1995;RUS;Krasnodar;2026-09-30;Male;Outdoor
 PAL;1;MT13;5K0;16:51.42;;Lerch;Noam;ISR;2009;SUI;Nottwil;2026-05-21;Male;Outdoor
 PAL;1;MT51;5K0;20:19.92;;Strobel;Stefan;GER;1977;SUI;Arbon;2026-05-17;Male;Outdoor
 PAL;1;MT53;5K0;10:56.53;;Fairbank;Pierre;FRA;1971;SUI;Nottwil;2026-05-22;Male;Outdoor
@@ -113,14 +114,14 @@ PAL;1;MT47;HOC;1.95;;Ilgaz;Abdullah;TUR;1998;MAR;Rabat;2026-04-23;Male;Outdoor
 PAL;1;MT63;HOC;1.76;;Mbuyamba;Noah;NED;1998;NED;Sittard;2026-08-23;Male;Outdoor
 PAL;1;MT11;WEI;5.85;0.4;Pallier;Ronan;FRA;1970;FRA;Maison Alfort;2026-06-27;Male;Outdoor
 PAL;1;MT13;WEI;7.12;0.6;Sverd;Vegard Dragsund;NOR;1999;NOR;Tønsberg;2026-05-15;Male;Outdoor
-PAL;1;MT20;WEI;7.06;-0.3;Iakushev;Matvei;RUS;2003;COL;Cali;2026-09-19;Male;Outdoor
+PAL;1;MT20;WEI;7.15;0.9;Iakushev;Matvei;RUS;2003;RUS;Krasnodar;2026-09-30;Male;Outdoor
 PAL;1;MT35;WEI;4.8;-0.6;Maubourguet;Yannis;FRA;2004;FRA;Poitiers;2026-04-26;Male;Outdoor
-PAL;1;MT36;WEI;5.49;1.9;Lytvynenko;Oleksandr;UKR;1990;TUN;Tunis;2026-06-17;Male;Outdoor
-PAL;1;MT37;WEI;6.06;1.2;Pentaras;Viktoras;CYP;2000;GRE;Serres;2026-06-27;Male;Outdoor
+PAL;1;MT36;WEI;5.75;0.7;Torsunov;Evgenii;RUS;1990;RUS;Krasnodar;2026-10-01;Male;Outdoor
+PAL;1;MT37;WEI;6.37;0.0;Biriukov;Sergei;RUS;1998;RUS;Krasnodar;2026-10-01;Male;Outdoor
 PAL;1;MT38;WEI;6.91;0.2;Sienkiewicz;Bartosz;POL;2001;POL;Gorzow Wlkp;2026-05-23;Male;Outdoor
 PAL;1;MT44;WEI;7.03;-1.6;Cicchetti;Marco;ITA;1999;SUI;Nottwil;2026-05-21;Male;Outdoor
 PAL;1;MT46;WEI;5.96;-0.6;Hoehne;Julian Noah;GER;2007;GER;Dresden;2026-06-27;Male;Outdoor
-PAL;1;MT47;WEI;6.52;-3.0;Matijasevic;Nemanja;SRB;1998;CRO;Zagreb;2026-10-02;Male;Outdoor
+PAL;1;MT47;WEI;6.82;1.1;Kotukov;Nikita;RUS;1999;RUS;Krasnodar;2026-10-01;Male;Outdoor
 PAL;1;MT61;WEI;6.28;-1.2;Gulec;Hamza;TUR;2001;SUI;Nottwil;2026-05-21;Male;Outdoor
 PAL;1;MT63;WEI;7.41;0.7;de Jong;Joel;NED;2002;GER;Leverkusen;2026-07-18;Male;Outdoor
 PAL;1;MT64;WEI;8.19;1.0;Rehm;Markus;GER;1988;GER;Leverkusen;2026-07-18;Male;Outdoor
@@ -130,19 +131,19 @@ PAL;1;MF13;KUG;15.14;;Romero Paredes;Ismael;ESP;2005;ESP;Madrid;2026-06-20;Male;
 PAL;1;MF20;KUG;17.01;;Koval;Maksym;UKR;1996;TUN;Tunis;2026-06-19;Male;Outdoor
 PAL;1;MF32;KUG;9.39;;Correia;Olavio;POR;1992;POR;Lisboa;2026-07-26;Male;Outdoor
 PAL;1;MF33;KUG;11.53;;Cerni;Deni;CRO;1993;SUI;Nottwil;2026-05-21;Male;Outdoor
-PAL;1;MF34;KUG;11.0;;Dubenchuk;Nikita;RUS;1998;TUN;Tunis;2026-06-17;Male;Outdoor
-PAL;1;MF35;KUG;12.8;;Khabalov;Taimuraz;RUS;1985;IND;New Delhi;2026-03-13;Male;Outdoor
-PAL;1;MF36;KUG;13.78;;Rafiyev;Rufat;AZE;1989;TUN;Tunis;2026-06-16;Male;Outdoor
-PAL;1;MF37;KUG;14.65;;Dundzys;Donatas;LTU;1991;LTU;Palanga;2026-07-26;Male;Outdoor
+PAL;1;MF34;KUG;11.8;;Gazzaev;Aslan;RUS;1995;RUS;Krasnodar;2026-10-02;Male;Outdoor
+PAL;1;MF35;KUG;14.19;;Khabalov;Taimuraz;RUS;1985;RUS;Krasnodar;2026-09-30;Male;Outdoor
+PAL;1;MF36;KUG;14.99;;Kokoity;Alan;RUS;1988;RUS;Krasnodar;2026-09-30;Male;Outdoor
+PAL;1;MF37;KUG;15.19;;Belobokov;Aleksandr;RUS;1986;RUS;Krasnodar;2026-09-30;Male;Outdoor
 PAL;1;MF38;KUG;13.61;;Bilyi;Vladyslav;UKR;1997;TUN;Tunis;2026-06-18;Male;Outdoor
-PAL;1;MF40;KUG;11.17;;Monteiro;Miguel;POR;2000;POR;Lisboa;2026-05-30;Male;Outdoor
+PAL;1;MF40;KUG;11.78;;Gnezdilov;Denis;RUS;1986;RUS;Krasnodar;2026-10-01;Male;Outdoor
 PAL;1;MF41;KUG;15.04;;Kappel;Niko;GER;1995;GER;Biberach;2026-07-13;Male;Outdoor
 PAL;1;MF42;KUG;15.86;;Davies;Aled;GBR;1991;AUS;Melbourne;2026-03-21;Male;Outdoor
 PAL;1;MF44;KUG;52.64;;Greaves;Dan;GBR;1982;GBR;Loughborough;2026-06-17;Male;Outdoor
 PAL;1;MF46;KUG;16.23;;Bakovic;Luka;CRO;1997;MAR;Rabat;2026-04-23;Male;Outdoor
 PAL;1;MF52;KUG;9.39;;Johanides;Antonin;CZE;1974;CZE;Bilina;2026-06-13;Male;Outdoor
 PAL;1;MF53;KUG;8.28;;Gorczak;Bartosz;POL;1988;POL;Gorzow Wlkp;2026-05-23;Male;Outdoor
-PAL;1;MF54;KUG;9.6;;Cuchran;Ladislav;SVK;1982;CZE;Pardubice;2026-05-03;Male;Outdoor
+PAL;1;MF54;KUG;11.45;;Sokulskii;Sergei;RUS;1985;RUS;Krasnodar;2026-10-01;Male;Outdoor
 PAL;1;MF55;KUG;12.4;;Ruzhdi;Ruzhdi;BUL;1991;SUI;Nottwil;2026-05-21;Male;Outdoor
 PAL;1;MF56;KUG;12.89;;Laczko;Dusan;SVK;1983;CZE;Ostrava;2026-07-11;Male;Outdoor
 PAL;1;MF57;KUG;14.87;;Koopikka;Teijo;FIN;1980;FIN;Espoo;2026-08-01;Male;Outdoor
@@ -173,7 +174,7 @@ PAL;1;MF64;DIS;54.06;;Katanusic;Ivan;CRO;1991;MAR;Rabat;2026-04-23;Male;Outdoor
 PAL;1;MF11;SPE;27.68;;Mitrovic;Perica;ITA;1974;ITA;Jesolo (VE);2026-10-04;Male;Outdoor
 PAL;1;MF12;SPE;56.29;;Kucavicius;Osvaldas;LTU;1998;TUN;Tunis;2026-06-17;Male;Outdoor
 PAL;1;MF13;SPE;47.02;;Dimitrijevic;Nemanja;SRB;1992;SRB;Krusevac;2026-05-09;Male;Outdoor
-PAL;1;MF33;SPE;21.08;;Hirka;Lukas;CZE;1986;CZE;Olomouc;2026-09-19;Male;Outdoor
+PAL;1;MF33;SPE;22.43;;Khrupin;Aleksandr;RUS;1994;RUS;Krasnodar;2026-09-30;Male;Outdoor
 PAL;1;MF34;SPE;31.13;;Horacek;Tomas;CZE;1986;CZE;Ostrava;2026-08-15;Male;Outdoor
 PAL;1;MF37;SPE;45.21;;Czarnecki;Lukasz;POL;2000;POL;Zamosc;2026-06-27;Male;Outdoor
 PAL;1;MF38;SPE;44.9;;Bilyi;Vladyslav;UKR;1997;TUN;Tunis;2026-06-16;Male;Outdoor
@@ -190,7 +191,7 @@ PAL;1;MF56;SPE;24.69;;Laczko;Dusan;SVK;1983;CZE;Pardubice;2026-05-03;Male;Outdoo
 PAL;1;MF57;SPE;49.18;;Khalvandi;Muhammet;TUR;1990;SUI;Nottwil;2026-05-23;Male;Outdoor
 PAL;1;MF62;SPE;31.11;;Malakopoulos;Stylianos;GRE;1996;SUI;Nottwil;2026-05-22;Male;Outdoor
 PAL;1;MF64;SPE;35.36;;Kourdis;Anastasios;GRE;1979;GRE;Serres;2026-06-27;Male;Outdoor
-PAL;1;MF31;KEU;26.93;;Demin;Evgenii;RUS;1989;TUN;Tunis;2026-06-18;Male;Outdoor
+PAL;1;MF31;KEU;29.07;;Demin;Evgenii;RUS;1989;RUS;Krasnodar;2026-09-30;Male;Outdoor
 PAL;1;MF32;KEU;34.96;;Serbus;Frantisek;CZE;1985;MAR;Rabat;2026-04-25;Male;Outdoor
 PAL;1;MF51;KEU;31.82;;Shabliy;Pavlo;UKR;1989;TUN;Tunis;2026-06-18;Male;Outdoor
 PAL;1;WT11;100;0:12.51;0.1;Garcia Falagan;Alba;ESP;2002;ESP;Basauri;2026-05-31;Female;Outdoor
@@ -205,7 +206,7 @@ PAL;1;WT38;100;0:12.79;1.4;Hahn;Sophie;GBR;1997;GBR;Glasgow;2026-07-27;Female;Ou
 PAL;1;WT42;100;0:15.07;0.1;Okoh;Ndidikama;GBR;2002;IRL;Dublin;2026-07-10;Female;Outdoor
 PAL;1;WT44;100;0:13.73;0.9;Jackson;Bebe;GBR;2005;GBR;London;2026-06-09;Female;Outdoor
 PAL;1;WT46;100;0:12.47;0.6;Ross;Jule;GER;2006;NED;Hengelo;2026-06-21;Female;Outdoor
-PAL;1;WT47;100;0:12.69;0.7;Overland;Ida-Louise;NOR;2003;NOR;Trondheim;2026-07-23;Female;Outdoor
+PAL;1;WT47;100;0:12.64;1.8;Soloveva;Anastasiia;RUS;1997;RUS;Krasnodar;2026-09-30;Female;Outdoor
 PAL;1;WT53;100;0:15.22;1.0;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2026-05-23;Female;Outdoor
 PAL;1;WT54;100;0:15.36;0.4;Kotaja;Amanda;FIN;1995;SUI;Nottwil;2026-05-23;Female;Outdoor
 PAL;1;WT62;100;0:12.08;0.9;Jong;Fleur;NED;1995;GBR;London;2026-08-09;Female;Outdoor
@@ -228,7 +229,7 @@ PAL;1;WT47;200;0:25.33;1.9;Noerremark;Bjoerk;DEN;2002;DEN;Copenhagen;2026-07-26;
 PAL;1;WT53;200;0:26.44;0.6;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2026-05-21;Female;Outdoor
 PAL;1;WT54;200;0:26.96;0.3;Bayekula;Lea;BEL;1995;BEL;Oordegem;2026-05-01;Female;Outdoor
 PAL;1;WT64;200;0:27.08;-1.0;van Gansewinkel;Marlene;NED;1995;GER;Rhede;2026-06-28;Female;Outdoor
-PAL;1;WT71;200;0:46.91;1.6;Dominikowska;Miriam;POL;2001;POL;Zamosc;2026-06-28;Female;Outdoor
+PAL;1;WT71;200;0:46.67;-2.2;Dominikowska;Miriam;POL;2001;POL;Gorzow Wlkp;2026-09-20;Female;Outdoor
 PAL;1;WT72;200;0:33.66;0.4;Huizing van Leussen;Gerlinda;NED;1974;DEN;Bagsværd;2026-07-11;Female;Outdoor
 PAL;1;WT11;400;1:03.55;;Boulaghlem;Delya;FRA;1989;FRA;Venissieux;2026-05-24;Female;Outdoor
 PAL;1;WT12;400;0:59.45;;Petrillo;Valentina;ITA;1973;ITA;Bologna;2026-07-08;Female;Outdoor
@@ -239,7 +240,7 @@ PAL;1;WT34;400;1:01.89;;Adenegan;Kare;GBR;2000;SUI;Nottwil;2026-05-22;Female;Out
 PAL;1;WT37;400;1:02.20;;Kobzar;Nataliia;UKR;2000;TUN;Tunis;2026-06-18;Female;Outdoor
 PAL;1;WT38;400;1:00.38;;Sutton;Lana;IRL;1998;GBR;London;2026-08-09;Female;Outdoor
 PAL;1;WT46;400;0:58.94;;Ross;Jule;GER;2006;GER;Dresden;2026-06-28;Female;Outdoor
-PAL;1;WT47;400;1:00.73;;Mihaylova;Yoanna;BUL;2003;SUI;Nottwil;2026-05-22;Female;Outdoor
+PAL;1;WT47;400;0:58.68;;Soloveva;Anastasiia;RUS;1997;RUS;Krasnodar;2026-10-01;Female;Outdoor
 PAL;1;WT53;400;0:49.77;;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2026-05-22;Female;Outdoor
 PAL;1;WT54;400;0:50.93;;Bayekula;Lea;BEL;1995;BEL;Oordegem;2026-08-25;Female;Outdoor
 PAL;1;WT71;400;1:43.89;;Liagkou;Anthi;GRE;1985;GRE;Serres;2026-06-27;Female;Outdoor
@@ -257,7 +258,7 @@ PAL;1;WT71;800;6:02.60;;Vaihinger;Marika;SWE;1988;SWE;Uppsala;2026-09-06;Female;
 PAL;1;WT72;800;3:40.06;;Miazga;Natalia;POL;2000;POL;Zamosc;2026-06-27;Female;Outdoor
 PAL;1;WT11;1K5;5:04.80;;Mazur-Dziedzic;Joanna;POL;1990;POL;Zamosc;2026-06-26;Female;Outdoor
 PAL;1;WT12;1K5;4:42.88;;Oses Ayucar;Izaskun;ESP;1984;ESP;Ordizia;2026-07-04;Female;Outdoor
-PAL;1;WT13;1K5;4:46.73;;Guclu;Hatice;TUR;2005;MAR;Rabat;2026-04-25;Female;Outdoor
+PAL;1;WT13;1K5;4:45.66;;Kubarko;Veronika;RUS;1995;RUS;Krasnodar;2026-09-30;Female;Outdoor
 PAL;1;WT20;1K5;4:32.16;;Bieganowska-Zajac;Barbara;POL;1981;POL;Bydgoszcz;2026-07-09;Female;Outdoor
 PAL;1;WT34;1K5;4:11.86;;Andre;Fabienne;GBR;1996;SUI;Nottwil;2026-05-23;Female;Outdoor
 PAL;1;WT53;1K5;3:03.65;;Debrunner;Catherine;SUI;1995;SUI;Nottwil;2026-05-23;Female;Outdoor
@@ -282,23 +283,25 @@ PAL;1;WT12;WEI;5.28;0.6;Lounela;Iida;FIN;2003;CZE;Olomouc;2026-07-03;Female;Outd
 PAL;1;WT13;WEI;4.38;-1.2;Pungin Esteve;Xiana;ESP;2008;ITA;Grosseto;2026-07-04;Female;Outdoor
 PAL;1;WT20;WEI;5.52;1.5;Bayrak;Esra;TUR;1998;POR;Lisboa;2026-07-24;Female;Outdoor
 PAL;1;WT35;WEI;3.45;0.4;Westling;Ellen;SWE;2007;SWE;Uppsala;2026-09-06;Female;Outdoor
-PAL;1;WT37;WEI;4.15;-1.2;Mataeva;Margarita;RUS;2009;IND;New Delhi;2026-03-13;Female;Outdoor
+PAL;1;WT36;WEI;3.95;0.0;Ivanova;Elena;RUS;1988;RUS;Krasnodar;2026-10-01;Female;Outdoor
+PAL;1;WT37;WEI;4.47;0.0;Davydova;Elena;RUS;1992;RUS;Krasnodar;2026-10-01;Female;Outdoor
 PAL;1;WT38;WEI;5.19;1.0;Moos;Nele;GER;2001;GER;Leverkusen;2026-07-18;Female;Outdoor
+PAL;1;WT44;WEI;4.15;0.6;Belianinova;Ekaterina;RUS;2008;RUS;Krasnodar;2026-10-01;Female;Outdoor
 PAL;1;WT46;WEI;5.25;-0.8;Ngoussou Ngouyi;Marie;FRA;2008;FRA;Maison Alfort;2026-06-27;Female;Outdoor
 PAL;1;WT47;WEI;5.86;0.0;Noerremark;Bjoerk;DEN;2002;NED;Hengelo;2026-06-21;Female;Outdoor
 PAL;1;WT62;WEI;7.06;1.6;Jong;Fleur;NED;1995;BEL;Oordegem;2026-08-25;Female;Outdoor
 PAL;1;WT63;WEI;5.29;0.0;Kratter;Elena;SUI;1996;GER;Essen;2026-06-20;Female;Outdoor
 PAL;1;WT64;WEI;5.14;-0.5;Filippi;Giuliana Chiara;ITA;2005;ITA;Lignano Sabbiadoro (UD);2026-07-08;Female;Outdoor
 PAL;1;WF11;KUG;13.44;;Legnante;Assunta;ITA;1978;ITA;Osimo, Ancona;2026-09-13;Female;Outdoor
-PAL;1;WF12;KUG;12.54;;Church;Lydia;GBR;1999;GBR;Loughborough;2026-06-17;Female;Outdoor
+PAL;1;WF12;KUG;13.36;;Prokofyeva;Marta;RUS;1987;RUS;Krasnodar;2026-09-30;Female;Outdoor
 PAL;1;WF13;KUG;9.95;;Zamora Arnau;Maria;ESP;2006;ESP;Tarragona;2026-05-23;Female;Outdoor
 PAL;1;WF20;KUG;15.42;;Fortune;Sabrina;GBR;1997;GBR;Loughborough;2026-05-17;Female;Outdoor
-PAL;1;WF32;KUG;7.03;;Moskalenko;Anastasiia;UKR;2000;TUN;Tunis;2026-06-19;Female;Outdoor
-PAL;1;WF33;KUG;6.04;;Kaiser;Heidi Aunjanue;GER;2010;GER;Kiel;2026-09-27;Female;Outdoor
+PAL;1;WF32;KUG;7.15;;Galaktionova;Evgeniia;RUS;2000;RUS;Krasnodar;2026-10-01;Female;Outdoor
+PAL;1;WF33;KUG;7.55;;Krivenok;Svetlana;RUS;1998;RUS;Krasnodar;2026-10-01;Female;Outdoor
 PAL;1;WF34;KUG;8.27;;Kornobys;Lucyna;POL;1978;POL;Zamosc;2026-06-26;Female;Outdoor
 PAL;1;WF35;KUG;12.4;;Pomazan;Mariia;UKR;1988;TUN;Tunis;2026-06-18;Female;Outdoor
 PAL;1;WF36;KUG;9.45;;Bouthoorn;Cheyenne;NED;1997;NED;Assen;2026-06-14;Female;Outdoor
-PAL;1;WF37;KUG;10.56;;Berna;Eva;CZE;1986;CZE;Olomouc;2026-07-02;Female;Outdoor
+PAL;1;WF37;KUG;12.21;;Vertinskaia;Irina;RUS;1984;RUS;Krasnodar;2026-09-30;Female;Outdoor
 PAL;1;WF38;KUG;10.22;;Leck;Rachel Jane Caroline;GBR;1996;CZE;Olomouc;2026-07-03;Female;Outdoor
 PAL;1;WF40;KUG;9.49;;Baars;Lara;NED;1996;GER;Halle (Saale);2026-05-16;Female;Outdoor
 PAL;1;WF41;KUG;8.36;;Thompson;Amy;GBR;2006;GBR;Cardiff;2026-05-04;Female;Outdoor
@@ -307,20 +310,20 @@ PAL;1;WF44;KUG;12.08;;Oduwaiye;Funmi;GBR;2003;GBR;Bedford;2026-05-25;Female;Outd
 PAL;1;WF45;KUG;5.27;;Stanescu;Marioara;ROU;1973;CZE;Ostrava;2026-07-10;Female;Outdoor
 PAL;1;WF46;KUG;11.76;;Hernandez Corbalan;Jimena;ESP;2009;ESP;Torrevieja;2026-04-18;Female;Outdoor
 PAL;1;WF54;KUG;6.58;;Nezhura;Yuliya;BLR;1975;UAE;Dubai;2026-02-11;Female;Outdoor
-PAL;1;WF55;KUG;8.36;;Baigulova;Svetlana;RUS;1994;UAE;Dubai;2026-02-11;Female;Outdoor
+PAL;1;WF55;KUG;8.62;;Baigulova;Svetlana;RUS;1994;RUS;Krasnodar;2026-10-01;Female;Outdoor
 PAL;1;WF56;KUG;7.7;;Willing;Martina;GER;1959;GER;Dresden;2026-06-28;Female;Outdoor
-PAL;1;WF57;KUG;9.58;;Navarro Rodriguez;Gabriela Michell;ESP;1992;ESP;Fuenlabrada;2026-06-27;Female;Outdoor
+PAL;1;WF57;KUG;9.66;;Aimasheva;Avrora;RUS;2003;RUS;Krasnodar;2026-10-01;Female;Outdoor
 PAL;1;WF62;KUG;8.73;;Hergotic;Karla;CRO;2005;CZE;Olomouc;2026-07-02;Female;Outdoor
 PAL;1;WF63;KUG;10.33;;Nouchet;Alexandra;FRA;1998;FRA;Paris;2026-07-26;Female;Outdoor
 PAL;1;WF64;KUG;10.87;;Kotlowska;Faustyna;POL;2001;POL;Warsaw;2026-05-16;Female;Outdoor
 PAL;1;WF11;DIS;35.65;;Dobrovolskaja;Oksana;LTU;1996;EST;Kohila;2026-07-10;Female;Outdoor
-PAL;1;WF12;DIS;29.6;;Prokofyeva;Marta;RUS;1987;IND;New Delhi;2026-03-11;Female;Outdoor
+PAL;1;WF12;DIS;29.96;;Prokofyeva;Marta;RUS;1987;RUS;Krasnodar;2026-09-30;Female;Outdoor
 PAL;1;WF13;DIS;24.92;;Zamora Arnau;Maria;ESP;2006;ESP;L´Hospitalet de Llobregat, Barcelona;2026-05-16;Female;Outdoor
 PAL;1;WF32;DIS;8.4;;Marcanikova;Anna;CZE;1995;CZE;Ostrava;2026-07-11;Female;Outdoor
 PAL;1;WF33;DIS;7.7;;Pecenkova;Miroslava;CZE;1997;CZE;Ostrava;2026-07-11;Female;Outdoor
 PAL;1;WF34;DIS;20.84;;Kornobys;Lucyna;POL;1978;POL;Zamosc;2026-06-28;Female;Outdoor
 PAL;1;WF35;DIS;24.79;;Nicholson;Anna;GBR;1995;GBR;Bedford;2026-08-22;Female;Outdoor
-PAL;1;WF37;DIS;25.79;;Berna;Eva;CZE;1986;CZE;Pardubice;2026-05-03;Female;Outdoor
+PAL;1;WF37;DIS;26.38;;Vertinskaia;Irina;RUS;1984;RUS;Krasnodar;2026-10-02;Female;Outdoor
 PAL;1;WF38;DIS;32.0;;Leck;Rachel Jane Caroline;GBR;1996;CZE;Olomouc;2026-07-04;Female;Outdoor
 PAL;1;WF40;DIS;24.8;;Sliwinska;Renata;POL;1996;POL;Warsaw;2026-05-16;Female;Outdoor
 PAL;1;WF42;DIS;25.51;;Okoh;Ndidikama;GBR;2002;GBR;Glasgow;2026-07-29;Female;Outdoor
@@ -328,12 +331,13 @@ PAL;1;WF44;DIS;38.52;;Oduwaiye;Funmi;GBR;2003;GBR;Glasgow;2026-07-29;Female;Outd
 PAL;1;WF45;DIS;12.4;;Stanescu;Marioara;ROU;1973;CZE;Olomouc;2026-07-02;Female;Outdoor
 PAL;1;WF46;DIS;26.06;;Ploszkiewicz;Weronika;POL;2006;CZE;Olomouc;2026-07-02;Female;Outdoor
 PAL;1;WF51;DIS;13.6;;Ovsii;Zoia;UKR;1994;TUN;Tunis;2026-06-16;Female;Outdoor
-PAL;1;WF52;DIS;8.12;;Zhelvetro;Anzhalika;BLR;1974;TUN;Tunis;2026-06-16;Female;Outdoor
+PAL;1;WF52;DIS;12.53;;Gorlova;Elena;RUS;1981;RUS;Krasnodar;2026-10-02;Female;Outdoor
 PAL;1;WF54;DIS;11.25;;Nezhura;Yuliya;BLR;1975;TUN;Tunis;2026-06-16;Female;Outdoor
 PAL;1;WF55;DIS;26.86;;Krumina;Diana;LAT;1986;CZE;Olomouc;2026-07-03;Female;Outdoor
 PAL;1;WF56;DIS;19.2;;Adamkova;Miroslava;CZE;1975;CZE;Olomouc;2026-07-04;Female;Outdoor
-PAL;1;WF57;DIS;30.19;;Aimasheva;Avrora;RUS;2003;UAE;Dubai;2026-02-10;Female;Outdoor
+PAL;1;WF57;DIS;32.24;;Aimasheva;Avrora;RUS;2003;RUS;Krasnodar;2026-10-02;Female;Outdoor
 PAL;1;WF62;DIS;21.29;;Hergotic;Karla;CRO;2005;CRO;Zagreb;2026-10-02;Female;Outdoor
+PAL;1;WF64;DIS;35.43;;Kotlowska;Faustyna;POL;2001;POL;Gorzow Wlkp;2026-09-19;Female;Outdoor
 PAL;1;WF11;SPE;20.29;;Legnante;Assunta;ITA;1978;ITA;Osimo (AN);2026-05-02;Female;Outdoor
 PAL;1;WF12;SPE;37.95;;Demirkapu;Serap;TUR;2000;MAR;Rabat;2026-04-24;Female;Outdoor
 PAL;1;WF13;SPE;38.42;;Dabravolskaya;Lizaveta;BLR;2002;TUN;Tunis;2026-06-17;Female;Outdoor
@@ -347,6 +351,7 @@ PAL;1;WF46;SPE;41.16;;Roorda;Noelle;NED;2000;GER;Rhede;2026-06-28;Female;Outdoor
 PAL;1;WF54;SPE;15.35;;Cekerevac;Tijana;SRB;2004;CRO;Pula;2026-06-06;Female;Outdoor
 PAL;1;WF55;SPE;25.19;;Krumina;Diana;LAT;1986;CZE;Olomouc;2026-07-02;Female;Outdoor
 PAL;1;WF56;SPE;17.26;;Willing;Martina;GER;1959;GER;Dresden;2026-06-27;Female;Outdoor
+PAL;1;WF57;SPE;15.58;;Sergienko;Olga;RUS;1971;RUS;Krasnodar;2026-09-30;Female;Outdoor
 PAL;1;WF64;SPE;27.0;;Kotlowska;Faustyna;POL;2001;POL;Zamosc;2026-06-28;Female;Outdoor
 PAL;1;WF32;KEU;30.0;;Kozakowska;Roza;POL;1989;POL;Zamosc;2026-06-26;Female;Outdoor
 PAL;1;WF51;KEU;22.96;;Ovsii;Zoia;UKR;1994;TUN;Tunis;2026-06-16;Female;Outdoor
