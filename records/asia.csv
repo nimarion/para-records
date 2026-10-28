@@ -378,8 +378,8 @@ PAR;5;WT53;4X1;0:57.61;;People's Republic of China;;CHN;;CHN;Beijing;2008-09-16;
 PAR;5;WT54;4X1;0:57.61;;People's Republic of China;;CHN;;CHN;Beijing;2008-09-16;Female;Outdoor
 PAR;5;WT53;4X4;3:32.11;;Liu, Zhou, Li, Zou;;CHN;;BRA;Rio de Janeiro;2016-09-15;Female;Outdoor
 PAR;5;WT54;4X4;3:32.11;;Liu, Zhou, Li, Zou;;CHN;;BRA;Rio de Janeiro;2016-09-15;Female;Outdoor
-PAR;5;WT54;10S;22:45.0;;Nakamine;Tsubasa;JPN;1990;JPN;Oita City;2022-11-20;Female;Outdoor
 PAR;5;WT54;10S;22:45.0;;Tsuchida;Wakako;JPN;1974;JPN;Oita City;2022-11-20;Female;Outdoor
+PAR;5;WT54;10S;22:45.0;;Nakamine;Tsubasa;JPN;1990;JPN;Oita City;2022-11-20;Female;Outdoor
 PAR;5;WT11;HAM;1:31:41.0;;Inouchi;Natsumi;JPN;1989;JPN;Tokyo;2022-10-16;Female;Outdoor
 PAR;5;WT12;HAM;1:24:48.0;;Michishita;Misato;JPN;1977;JPN;Tokyo;2023-10-15;Female;Outdoor
 PAR;5;WT54;HAM;47:55.0;;Nakamine;Tsubasa;JPN;1990;JPN;Oita City;2022-11-20;Female;Outdoor
@@ -476,7 +476,7 @@ PAR;1;WF54;SPE;21.12;;Kurbanova;Nurkhon;UZB;1994;FRA;Paris;2024-09-07;Female;Out
 PAR;5;WF55;SPE;22.68;;Lin;Sitong;CHN;2000;JPN;Kobe;2024-05-21;Female;Outdoor
 PAR;5;WF56;SPE;24.63;;Lai;Xiaojuan;CHN;1996;TUN;Tunis;2026-06-17;Female;Outdoor
 PAR;5;WF57;SPE;25.68;;Amini Nogourani;Mahnaz;IRI;1972;INA;Jakarta;2018-10-10;Female;Outdoor
-PAR;0;WF64;SPE;13.12;;Record Mark;;;;;;2026-01-01;Female;Outdoor
+PAR;5;WF64;SPE;14.76;;Takado;Fumiko;JPN;1973;JPN;Tokyo;2026-09-22;Female;Outdoor
 PAR;0;WF31;KEU;22.74;;Record Mark;;;;;;2026-01-01;Female;Outdoor
 PAR;5;WF32;KEU;26.29;;Habibi;Parastoo;IRI;2002;FRA;Paris;2024-08-31;Female;Outdoor
 PAR;5;WF51;KEU;21.66;;Bhyan;Ekta;IND;1985;CHN;Hangzhou;2023-10-24;Female;Outdoor

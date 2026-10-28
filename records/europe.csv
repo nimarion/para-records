@@ -10,7 +10,7 @@ PAR;1;MT36;100;0:11.73;0.0;Glazyrin;Kirill;RUS;2004;IND;New Delhi;2025-10-03;Mal
 PAR;0;MT37;100;0:11.18;0.3;Vdovin;Andrei;RPC;1994;JPN;Tokyo;2021-08-27;Male;Outdoor
 PAR;1;MT38;100;0:10.87;0.8;Sienkiewicz;Bartosz;POL;2001;IND;New Delhi;2025-09-27;Male;Outdoor
 PAR;0;MT42;100;0:12.04;-0.5;Prokhorov;Anton;RPC;1992;JPN;Tokyo;2021-08-30;Male;Outdoor
-PAR;0;MT43;100;0:17.00;-0.9;Record Mark;;;;;;2026-01-01;Male;Outdoor
+PAR;1;MT43;100;0:16.48;-1.0;Stamatiadis;Achileas;GRE;1992;CRO;Zagreb;2026-10-02;Male;Outdoor
 PAR;1;MT44;100;0:11.38;0.2;Cicchetti;Marco;ITA;1999;SUI;Nottwil;2026-05-22;Male;Outdoor
 PAR;1;MT45;100;0:11.46;0.7;Powell;Kyle;GBR;1996;GBR;Aylesbury;2014-08-07;Male;Outdoor
 PAR;1;MT47;100;0:10.61;0.3;Derus;Michal;POL;1990;JPN;Tokyo;2021-08-27;Male;Outdoor
@@ -96,7 +96,7 @@ PAR;1;MT54;800;1:27.76;;Hug;Marcel;SUI;1986;SUI;Arbon;2023-05-21;Male;Outdoor
 PAR;0;MT62;800;2:18.21;;Record Mark;;;;;;2019-01-01;Male;Outdoor
 PAR;1;MT64;800;2:14.09;;Stoll;Patrick;SUI;1972;AUS;Sydney;2000-10-26;Male;Outdoor
 PAR;1;MT71;800;3:50.05;;Krause;Patryk;POL;1993;DEN;Bagsværd;2024-07-11;Male;Outdoor
-PAR;1;MT72;800;2:56.52;;Podobajevas;Deividas;LTU;1984;DEN;Bagsværd;2024-07-11;Male;Outdoor
+PAR;1;MT72;800;2:09.64;;Calcagni;Carlo Fabio Marcello;ITA;1968;ITA;Jesolo (VE);2026-10-04;Male;Outdoor
 PAR;1;MT11;1K5;4:05.11;;Matthews;Rob;GBR;1961;GER;Unknown;1989-01-01;Male;Outdoor
 PAR;0;MT12;1K5;3:44.43;;Kostin;Aleksandr;NPA;1995;FRA;Paris;2024-09-03;Male;Outdoor
 PAR;0;MT13;1K5;3:49.72;;Sharov;Egor;RPC;1988;POL;Bydgoszcz;2021-06-04;Male;Outdoor
@@ -233,7 +233,7 @@ PAR;1;MF13;KUG;15.87;;Iasynovyi;Oleksandr;UKR;1966;GRE;Athens;2004-09-21;Male;Ou
 PAR;1;MF20;KUG;17.73;;Yarovyi;Oleksandr;UKR;1999;IND;New Delhi;2025-10-01;Male;Outdoor
 PAR;1;MF32;KUG;11.93;;Konstantinidis;Athanasios;GRE;1970;FRA;Paris;2024-09-04;Male;Outdoor
 PAR;1;MF33;KUG;12.36;;Malykh;Evgenii;RUS;1988;QAT;Doha;2015-10-25;Male;Outdoor
-PAR;1;MF34;KUG;11.41;;Dubenchuk;Nikita;RUS;1998;IND;New Delhi;2025-10-05;Male;Outdoor
+PAR;1;MF34;KUG;11.8;;Gazzaev;Aslan;RUS;1995;RUS;Krasnodar;2026-10-02;Male;Outdoor
 PAR;0;MF35;KUG;15.19;;Khabalov;Taimuraz;NPA;1985;FRA;Paris;2024-09-05;Male;Outdoor
 PAR;0;MF36;KUG;17.18;;Sviridov;Vladimir;NPA;1990;FRA;Paris;2024-09-04;Male;Outdoor
 PAR;1;MF37;KUG;16.8;;Bilius;Mindaugas;LTU;1982;BRA;Rio de Janeiro;2016-09-14;Male;Outdoor
@@ -527,8 +527,8 @@ PAR;1;WF53;DIS;16.26;;Lebiedieva;Iana;UKR;1984;UAE;Dubai;2019-11-14;Female;Outdo
 PAR;1;WF54;DIS;19.96;;Fesslova;Jana;CZE;1976;CZE;Frydek-Mistek;2004-08-29;Female;Outdoor
 PAR;1;WF55;DIS;27.8;;Buggenhagen;Marianne;GER;1953;CHN;Beijing;2008-09-09;Female;Outdoor
 PAR;1;WF56;DIS;24.89;;Keramyda;Soultana;GRE;1989;GRE;Thessaloniki;2024-06-03;Female;Outdoor
-PAR;0;WF57;DIS;31.88;;Record Mark;;;;;;2015-01-01;Female;Outdoor
-PAR;1;WF62;DIS;11.65;;Bochti;Iliana;GRE;2001;GRE;Serres;2026-06-27;Female;Outdoor
+PAR;1;WF57;DIS;32.24;;Aimasheva;Avrora;RUS;2003;RUS;Krasnodar;2026-10-02;Female;Outdoor
+PAR;1;WF62;DIS;21.29;;Hergotic;Karla;CRO;2005;CRO;Zagreb;2026-10-02;Female;Outdoor
 PAR;1;WF63;DIS;20.57;;Rogers;Julie;GBR;1998;GBR;Birmingham;2022-08-04;Female;Outdoor
 PAR;1;WF64;DIS;41.17;;Kotlowska;Faustyna;POL;2001;POL;Warsaw;2024-08-17;Female;Outdoor
 PAR;1;WF11;SPE;38.62;;Willing;Martina;GER;1959;ESP;Barcelona;1992-09-06;Female;Outdoor
