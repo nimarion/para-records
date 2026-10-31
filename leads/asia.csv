@@ -31,6 +31,7 @@ PAL;5;MT37;200;0:23.44;1.6;Bhatt;Rakeshbhai;IND;2001;IND;Bangalore;2026-05-28;Ma
 PAL;5;MT38;200;0:24.75;0.5;Al-Darraji;Abbas;IRQ;1991;MAR;Rabat;2026-04-24;Male;Outdoor
 PAL;5;MT42;200;0:25.55;0.0;;Partin;INA;2002;THA;Nakhon Ratchasima;2026-01-21;Male;Outdoor
 PAL;5;MT44;200;0:24.90;0.5;Alsana;Nour;KSA;1984;OMA;Muscat;2026-02-04;Male;Outdoor
+PAL;5;MT45;200;0:23.49;-1.2;Sambongi;Yuya;JPN;2001;JPN;Hyogo;2026-10-11;Male;Outdoor
 PAL;5;MT46;200;0:21.92;-0.6;Ishida;Kakeru;JPN;1999;JPN;Nagoya;2026-05-17;Male;Outdoor
 PAL;5;MT47;200;0:22.65;0.5;Suzuki;Yudai;JPN;1998;JPN;Fukuroi;2026-05-03;Male;Outdoor
 PAL;5;MT51;200;0:44.46;0.0;Alshook;Mohamed;BRN;1991;BRN;Manama;2026-07-15;Male;Outdoor
@@ -88,7 +89,10 @@ PAL;5;MT54;5K0;9:27.02;;Jin;Hua;CHN;1999;SUI;Nottwil;2026-05-22;Male;Outdoor
 PAL;5;MT13;10K;28:51.00;;Shimazu;Yudai;JPN;2000;JPN;Abashiri City;2026-07-08;Male;Outdoor
 PAL;5;MT53;5S;11:07.0;;Watanabe;Sho;JPN;1991;USA;Boston;2026-04-18;Male;Outdoor
 PAL;5;MT54;5S;11:07.0;;Watanabe;Sho;JPN;1991;USA;Boston;2026-04-18;Male;Outdoor
-PAL;5;MT54;HAM;46:33.0;;Yoshida;Ryota;JPN;1981;JPN;Sendai;2026-05-10;Male;Outdoor
+PAL;5;MT11;HAM;1:42:31.0;;Takahashi;Yuichi;JPN;1965;JPN;Tokyo;2026-10-18;Male;Outdoor
+PAL;5;MT12;HAM;1:12:53.0;;Oishi;Kosuke;JPN;2000;JPN;Tokyo;2026-10-18;Male;Outdoor
+PAL;5;MT53;HAM;52:36.0;;Matsunaga;Hitoshi;JPN;1972;JPN;Tokyo;2026-10-18;Male;Outdoor
+PAL;5;MT54;HAM;42:28.0;;Suzuki;Tomoki;JPN;1994;JPN;Tokyo;2026-10-18;Male;Outdoor
 PAL;5;MT11;MAR;2:24:58;;Wada;Shinya;JPN;1977;JPN;Oita;2026-02-01;Male;Outdoor
 PAL;5;MT12;MAR;2:27:57;;Kumagai;Yutaka;JPN;1987;JPN;Sapporo;2026-08-30;Male;Outdoor
 PAL;5;MT53;MAR;1:41:19;;Matsunaga;Hitoshi;JPN;1972;JPN;Tokyo;2026-03-01;Male;Outdoor
@@ -243,7 +247,11 @@ PAL;5;WT11;5K0;23:09.22;;Konno;Yumiko;JPN;1961;JPN;Kitami City;2026-07-11;Female
 PAL;5;WT12;5K0;19:53.80;;Michishita;Misato;JPN;1977;JPN;Abashiri City;2026-07-08;Female;Outdoor
 PAL;5;WT20;5K0;18:38.04;;Ari;Misaki;JPN;1994;JPN;Nagoya;2026-05-17;Female;Outdoor
 PAL;5;WT54;5K0;11:00.22;;Zhou;Zhaoqian;CHN;1997;SUI;Nottwil;2026-05-22;Female;Outdoor
-PAL;5;WT54;HAM;58:31.0;;Nakamine;Tsubasa;JPN;1990;JPN;Sendai;2026-05-10;Female;Outdoor
+PAL;5;WT11;HAM;1:39:43.0;;Inouchi;Natsumi;JPN;1989;JPN;Tokyo;2026-10-18;Female;Outdoor
+PAL;5;WT12;HAM;1:28:27.0;;Michishita;Misato;JPN;1977;JPN;Tokyo;2026-10-18;Female;Outdoor
+PAL;5;WT20;HAM;1:29:05.0;;Yamamoto;Moeko;JPN;1998;JPN;Tokyo;2026-10-18;Female;Outdoor
+PAL;5;WT53;HAM;1:03:16.0;;Takimura;Kazumi;JPN;1983;JPN;Tokyo;2026-10-18;Female;Outdoor
+PAL;5;WT54;HAM;52:59.0;;Tsuchida;Wakako;JPN;1974;JPN;Tokyo;2026-10-18;Female;Outdoor
 PAL;5;WT11;MAR;3:25:09;;Kondo;Hiroko;JPN;1966;JPN;Oita;2026-02-01;Female;Outdoor
 PAL;5;WT12;MAR;3:11:55;;Fujii;Yumiko;JPN;1964;JPN;Oita;2026-02-01;Female;Outdoor
 PAL;5;WT53;MAR;1:41:13;;Zhou;Hongzhuan;CHN;1988;JPN;Tokyo;2026-03-01;Female;Outdoor
